@@ -1,0 +1,64 @@
+@import "~bulma/bulma";
+
+// @import "~bulmaswatch/litera/bulmaswatch.scss";
+
+.navbar-logo {
+  @extend .navbar-item;
+  padding: 0.5rem 0.2rem 0.5rem 0.5rem; 
+}
+
+.navbar-title {
+  @extend .navbar-item;
+  padding: 0.5rem 0.15rem;
+}
+
+.input:active, .input:focus, .textarea:active, .textarea:focus, .select:active, .select:focus {
+  box-shadow: 0 0 0 0.125em rgba(80, 230, 130, 0.45);
+  border-color: #459d69;
+}
+
+.control.has-icons-left .input:focus ~ .icon, 
+.control.has-icons-left .select:focus ~ .icon, 
+.control.has-icons-right .input:focus ~ .icon, 
+.control.has-icons-right .select:focus  ~ .icon {
+  color: #459d69;
+}
+
+.main {
+  padding: var(--docs-outer);
+}
+
+.is-card {
+  background-color: #effaf5;
+  color: #257953;
+  border-radius: 4px;
+  position: relative;
+  padding: 1.25rem 2.5rem 1.25rem 1.5rem;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+// .graf .tabs > ul {
+//   border-bottom-width:0;
+// }
+
+// html,
+// body {
+//   padding: 0;
+//   margin: 0;
+//   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+//     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+// }
+
+// a {
+//   color: inherit;
+//   text-decoration: none;
+// }
+
+// * {
+//   box-sizing: border-box;
+// }
+
+
+// @import "~bulmaswatch/darkly/bulmaswatch.scss";

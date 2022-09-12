@@ -1,0 +1,25 @@
+.im_center_in_page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+
+.im_data {
+  --docs-outer: 1.5rem;
+  --docs-inner: 1.5rem;
+  --docs-side-padding: 1rem;
+  border-top: 2px solid #f5f5f5;
+  position: relative;
+  margin: 0 0.2rem 0 0.2rem;
+}
+
+.im_search { 
+  min-width: 30vw;
+}
+
+.im_search_right { 
+  position: absolute;
+  right: 0.5rem;
+  margin-top: -0.15rem;
+}

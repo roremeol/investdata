@@ -1,0 +1,52 @@
+{
+  "fii": {    
+    "snowflake": {
+      "indicator":[
+        { "text": "Dividendos", "max": 100, "color":"#3850b7", "tag":"dividends" },
+        { "text": "Mercado", "max": 100, "color":"#fffaeb", "tag":"market" },
+        { "text": "Operacional", "max": 100, "color":"#feecf0", "tag":"op" },
+        { "text": "Crescimento", "max": 100, "color":"#ff9970", "tag":"growth" },
+        { "text": "Valuation", "max": 100, "color":"#bf4080", "tag":"valuation" }
+      ],
+      "data":[
+        { "title":"Dividend Yield", "key":"dividends.dy", "op":">", "objective":0.08, "tag":"dividends" },
+        { "title":"Dividend Yield médio do Segmento", "key":false, "op":">", "objective":0.08, "tag":"dividends" },
+        { "title":"CAGR Dividend Yield 1 ano", "key":"dividends.cagr_dy_1", "op":">", "objective":0.01, "tag":"dividends" },
+        { "title":"CAGR Dividend Yield 3 anos", "key":"dividends.cagr_dy_3", "op":">", "objective":0.01, "tag":"dividends" },
+        { "title":"CAGR Dividend Yield 5 anos", "key":"dividends.cagr_dy_5", "op":">", "objective":0.01, "tag":"dividends" },
+        { "title":"CAGR Dividend Yield médio do segmento 3 anos", "key":false },
+        { "title":"CAGR Dividendos 1 ano", "key":"dividends.cagr_dividens_1", "op":">", "objective":0.01, "tag":"dividends" },
+        { "title":"CAGR Dividendos 3 anos", "key":"dividends.cagr_dividens_3", "op":">", "objective":0.01, "tag":"dividends" },
+        { "title":"Quantidade de Imóveis", "key":"operacao.imoveis", "op":">", "objective":3, "tag":"op" },
+        { "title":"Quantidade de Estados", "key":"operacao.estados", "op":">", "objective":2, "tag":"op" },
+        { "title":"A maioria dos contratos vence em (meses)", "key":"operacao.contratos_vencimento", "op":">", "objective":35, "tag":"op" },
+        { "title":"Taxa de Vacância Física hoje", "key":"operacao.vacancia", "op":"<", "objective":0.08, "tag":"op" },
+        { "title":"Taxa de Vacância Física 3 meses", "key":"operacao.vacancia_3m", "op":"<", "objective":"operacao.vacancia", "tag":"op" },
+        { "title":"Taxa de Vacância Física 1 ano", "key":"operacao.vacancia_1", "op":"<", "objective":"operacao.vacancia", "tag":"op" },
+        { "title":"Taxa de Vacância Física média do segmento", "key":false, "op":"<", "objective":35, "tag":"op" },
+        { "title":"Patrimônio Líquido", "key":"operacao.patrimonio_liquido", "op":">", "objective":200000000, "tag":"op" },
+        { "title":"Patrimônio Líquido médio do segmento", "key":false, "op":">", "objective":2, "tag":"op" },
+        { "title":"Percentual do PL em Caixa", "key":"operacao.pl_cx", "op":">", "objective":0.05, "tag":"op" },
+        { "title":"Percentual em Caixa médio do segmento", "key":false, "op":">", "objective":2, "tag":"op" },
+        { "title":"CAGR Patrimônio Líquido 1 ano", "key":"crescimento.cagr_patrimonio_liquido", "op":">", "objective":0.01, "tag":"growth" },
+        { "title":"CAGR VPA 1 ano", "key":"crescimento.cagr_vpa_1", "op":">", "objective":0.01, "tag":"growth" },
+        { "title":"CAGR VPA 3 anos", "key":"crescimento.cagr_vpa_3", "op":">", "objective":0.01, "tag":"growth" },
+        { "title":"CAGR Ativos 1 ano", "key":"crescimento.cagr_ativo_1", "op":">", "objective":0.01, "tag":"growth" },
+        { "title":"CMGR Receita com aluguel 6 meses", "key":"crescimento.cmgr_alugeis_6m", "op":">", "objective":0.01, "tag":"growth" },
+        { "title":"CAGR Receita com aluguel 1 ano", "key":"crescimento.cagr_alugeis_1", "op":">", "objective":0.01, "tag":"growth" },
+        { "title":"P/VPA hoje", "key":"valuation.p_vpa", "op":">", "objective":1, "tag":"valuation" },
+        { "title":"P/VPA médio", "key":"valuation.p_vpa_med", "op":"<", "objective":"valuation.p_vpa", "tag":"valuation" },
+        { "title":"P/VPA médio do segmento", "key":false, "op":">", "objective":2, "tag":"valuation" },
+        { "title":"Valuation objetivo atual", "key":false, "op":">", "objective":2, "tag":"valuation" },
+        { "title":"Valuation preço de aluguel médio do segmento", "key":false, "op":">", "objective":2, "tag":"valuation" },
+        { "title":"Valuation taxa de vacância média 12 meses", "key":false, "op":">", "objective":2, "tag":"valuation" },
+        { "title":"Liquidez diária média", "key":"mercado.liquidez_med", "op":">", "objective":1000000, "tag":"market" },
+        { "title":"Liquidez diária média do segmento", "key":false, "op":">", "objective":2, "tag":"market" },
+        { "title":"Taxa de Administração (a.a.)", "key":false, "op":">", "objective":2, "tag":"market" },
+        { "title":"Média Mensal de Custos da ADM do Fundo", "key":"mercado.custo_adm_med", "op":"<", "objective":800000, "tag":"market" },
+        { "title":"Média Mensal de Custos da ADM do Segmento", "key":false, "op":">", "objective":2, "tag":"market" },
+        { "title":"Participação no IFIX", "key":false, "op":">", "objective":2, "tag":"market" }
+      ]
+    }
+  }
+}

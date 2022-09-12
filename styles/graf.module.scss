@@ -1,0 +1,25 @@
+.tabs {
+    display: inline;
+    position: absolute;
+    right: 1rem;
+    top: 2.5rem;
+}
+
+.graf {
+    margin: 5rem 0.5rem 0.5rem 0.5rem;
+    width: -webkit-fill-available;
+}
+
+.graf_radar {
+    margin: auto;
+    width: -webkit-fill-available;
+}
+
+.graf_no_tab {
+    margin: 2.5rem 0.5rem 0.5rem 0.5rem;
+}
+
+.table {
+    @extend .table;
+    background-color: inherit;
+}
