@@ -1,33 +1,17 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import ReactECharts from 'echarts-for-react';
 
-import { format } from '../lib/utils';
 import grafStyle from '../../styles/graf.module.scss'
 
 export default function Snowflake({ config={} }) {
-  const { data=[], indicator=[{ text: 'Dividendos', max: 100 }] } = config;
-  
-  const dataset = () => {
-    const result = (tag_) => {
-      const filtered_Data = data.filter(({tag}) => tag===tag_);
-      return (filtered_Data.reduce((sum,{value,op,objective}) => eval(`(${value}${op}${objective} ? 1 : 0) + ${sum}`),0)/filtered_Data.length)*100
-    }
-    return indicator.map(({tag}) => result(tag))
-  }
-
-  const pontuacaoTotal = () => {
-    return format( (data.reduce((sum,{value,op,objective}) => eval(`(${value}${op}${objective} ? 1 : 0) + ${sum}`),0)/data.length)*100).percent()
-  }
+  const { dataset=[], indicator=[{ text: 'Dividendos', max: 100 }], pontuacao='0.00%' } = config;
 
   const options = {
     color: ['hsl(0deg, 0%, 21%)'],
     legend: {},
     radar: [
       {
-        indicator:indicator.map((val={}) => {
-          const {text='',max=0} = val;
-          return {name:text,max}
-        }),
+        indicator,
         center: ['50%', '55%'],
         radius: 120,
         axisName: {
@@ -50,7 +34,7 @@ export default function Snowflake({ config={} }) {
         type: 'radar',
         data: [
           {
-            value: dataset(),
+            value: dataset,
             areaStyle: {
               color: 'hsl(0deg, 0%, 21%)',
               offset: 1
@@ -66,16 +50,16 @@ export default function Snowflake({ config={} }) {
         <div className="columns is-multiline">
 
           <div className="column is-6">
-            <div className='level-item' style={{height: "100%;"}}>
+            <div className='level-item' style={{height: '100%'}}>
               <div className="content">   
                 <h4 className="title is-6 has-text-centered">Pontuação Total:</h4>  
-                <p className="title is-1 has-text-centered">{pontuacaoTotal()}</p>           
+                <p className="title is-1 has-text-centered">{pontuacao}</p>           
               </div>
             </div>
           </div>
 
           <div className="column is-6">
-            <div className='level-item' style={{height: "100%;"}}>
+            <div className='level-item' style={{height: '100%'}}>
               <ReactECharts className={grafStyle.graf_radar} option={options} />
             </div>
           </div>

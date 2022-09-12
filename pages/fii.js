@@ -11,6 +11,7 @@ import { getDate, getDataSafe, format } from "./lib/utils";
 import StockPriceChart from './components/StockPriceChart'
 import DividendsChart from './components/DividendsChart'
 import Snowflake from './components/Snowflake'
+import RealstateChart from './components/RealstateChart'
 
 import utilStyles from '../styles/utils.module.scss';
 
@@ -127,6 +128,7 @@ export default function Home({ fiis=[], config={} }) {
     const p_vp = prices.slice(0,1).reduce((sum,{close}) => close+sum,0)/imr.slice(-1).reduce((sum,{valor_patrimonio_cotas}) => valor_patrimonio_cotas+sum,1)
     const vacancia = getDataSafe({key:'vacancia', data, default_response:[]});
     const snowflake_ = getDataSafe({key:'snowflake', data, default_response:{}});
+    const ativos = getDataSafe({key:'propriedades', data, default_response:[]});
     const days = {
       last_1: getDate({months:-1})['businessDaysUntilNow'],
       last_3: getDate({months:-3})['businessDaysUntilNow'],
@@ -236,23 +238,52 @@ export default function Home({ fiis=[], config={} }) {
         return objective;
       }
 
-      return {
-        indicator,
-        data:data.filter(({key}) => key!=false)
-                  .map(({title,key,op,objective,tag}) => {
-                    const value = getFiiData({key, data:snowflake_, default_response:0});
-                    const objective_ = getObjective(objective);
+      const parseData= () => data.filter(({key}) => key!=false)
+                                  .map(({title,key,op,objective,tag}) => {
+                                    const value = getFiiData({key, data:snowflake_, default_response:0});
+                                    const objective_ = getObjective(objective);
 
-                    return {
-                      title,
-                      value: /[\d.-]/.test(value) ? value : 0,
-                      op: /[><=!]/.test(op) ? op : '>',
-                      objective: /[\d.-]/.test(objective_) ? objective_ : 0,
-                      color: getColor(tag),
-                      tag
-                    }
-                  })
+                                    return {
+                                      title,
+                                      value: /[\d.-]/.test(value) ? value : 0,
+                                      op: /[><=!]/.test(op) ? op : '>',
+                                      objective: /[\d.-]/.test(objective_) ? objective_ : 0,
+                                      color: getColor(tag),
+                                      tag
+                                    }
+                                  })
+      
+      const dataset = () => {
+        const result = (tag_) => {
+          const filtered_Data = parseData().filter(({tag}) => tag===tag_);
+          return (filtered_Data.reduce((sum,{value,op,objective}) => eval(`(${value}${op}${objective} ? 1 : 0) + ${sum}`),0)/filtered_Data.length)*100
+        }
+        return indicator.map(({tag}) => result(tag))
       }
+    
+      const pontuacaoTotal = () => {
+        const data = parseData();
+        return format( (data.reduce((sum,{value,op,objective}) => eval(`(${value}${op}${objective} ? 1 : 0) + ${sum}`),0)/data.length)*100).percent()
+      }
+
+      return {
+        indicator:indicator.map((val={}) => {
+          const {text='',max=0} = val;
+          return {name:text,max}
+        }),
+        dataset:dataset(),
+        pontuacao: pontuacaoTotal(),
+      }
+    }
+
+    const parseRealstate = () => {
+      const estados = [...new Set(ativos.map( ({estado}) => estado ))];
+      
+      console.log(estados)
+      return {
+        ativos: estados.map( e => ({value:ativos.filter(({estado}) => estado==e).length, name:e}) ),
+        area: estados.map( e => ({value:ativos.filter(({estado}) => estado==e).reduce((sum,{area}) => sum+area,0), name:e}) ),
+      } 
     }
     
     return {
@@ -265,7 +296,8 @@ export default function Home({ fiis=[], config={} }) {
           headers: vacancia.map(({competencia}) => competencia),
           data: vacancia.map(({total}) => total),
           formatter: (v) => format(v).percent(),
-        }
+        },
+        realstate:parseRealstate(),
       },
       preco: {
         close:format( getDataSafe({key:'close', data:prices.slice(-1), default_response:0}) ).moeda(),
@@ -496,6 +528,23 @@ export default function Home({ fiis=[], config={} }) {
                 </div>
                 <div className="graf">
                   <DividendsChart dataset={getFiiData({key:`datasets.vacancia`})}/>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          }
+          
+          {getFiiData({key:`datasets.realstate.ativos`}).length > 0 &&
+          <div className="columns is-multiline">
+
+            <div className="column is-12">
+              <div className="box is-card">
+                <div className="heading nowrap">
+                  Imóveis
+                </div>
+                <div className="graf">
+                  <RealstateChart config={getFiiData({key:`datasets.realstate`})} />
                 </div>
               </div>
             </div>
