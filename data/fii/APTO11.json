@@ -1,0 +1,427 @@
+{
+    "cnpj": "NAVI RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "contratos": [
+        {
+            "prazo": "At\u00e9 3 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 3 meses e 1 dia a 6 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 6 meses e 1 dia a 9 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 9 meses e 1 dia a 12 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 12 meses e 1 dia a 15 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 15 meses e 1 dia a 18 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 18 meses e 1 dia a 21 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 21 meses e 1 dia a 24 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 24 meses e 1 dia a 27 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 27 meses e 1 dia a 30 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 30 meses e 1 dia a 33 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 33 meses e 1 dia a 36 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "Acima de 36 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "Prazo indeterminado",
+            "precentual": 0.0
+        }
+    ],
+    "cri": [],
+    "dividends": [
+        {
+            "data_com": "2021-12-30T00:00:00",
+            "data_pagamento": "2022-01-20T00:00:00",
+            "provento": 0.0315
+        },
+        {
+            "data_com": "2022-01-31T00:00:00",
+            "data_pagamento": "2022-02-18T00:00:00",
+            "provento": 0.09
+        },
+        {
+            "data_com": "2022-02-25T00:00:00",
+            "data_pagamento": "2022-03-21T00:00:00",
+            "provento": 0.1
+        },
+        {
+            "data_com": "2022-03-31T00:00:00",
+            "data_pagamento": "2022-04-22T00:00:00",
+            "provento": 0.11
+        },
+        {
+            "data_com": "2022-04-29T00:00:00",
+            "data_pagamento": "2022-05-19T00:00:00",
+            "provento": 0.12
+        },
+        {
+            "data_com": "2022-05-31T00:00:00",
+            "data_pagamento": "2022-06-21T00:00:00",
+            "provento": 0.12
+        },
+        {
+            "data_com": "2022-06-30T00:00:00",
+            "data_pagamento": "2022-07-20T00:00:00",
+            "provento": 0.13
+        },
+        {
+            "data_com": "2022-07-29T00:00:00",
+            "data_pagamento": "2022-08-18T00:00:00",
+            "provento": 0.12
+        },
+        {
+            "data_com": "2022-08-31T00:00:00",
+            "data_pagamento": "2022-09-21T00:00:00",
+            "provento": 0.11
+        }
+    ],
+    "fii": [
+        {
+            "nome": "FII GLPG CRI - GCRI13",
+            "quantidade": 15.0,
+            "valor": 1469.1
+        },
+        {
+            "nome": "FII UBSOFFIC - RECT13",
+            "quantidade": 3.0,
+            "valor": 172.2
+        },
+        {
+            "nome": "FII RIZA AKN - RZAK13",
+            "quantidade": 10.0,
+            "valor": 966.1
+        },
+        {
+            "nome": "FII SUNO CRI - SNCI13",
+            "quantidade": 7.0,
+            "valor": 718.76
+        },
+        {
+            "nome": "FII URCA REN - URPR13",
+            "quantidade": 20.0,
+            "valor": 2240.0
+        }
+    ],
+    "gestao": "Ativa",
+    "ifix_participacao": 0,
+    "imr": [
+        {
+            "ativo": 17919641.19,
+            "caixa": 2318602.28,
+            "competencia": "10/2021",
+            "cotas_emitidas": 990000.0,
+            "cotistas": 12,
+            "despesa_administracao": 7502.05,
+            "dy": 0.0,
+            "numero_cotas": 990000.0,
+            "patrimonio_liquido": 9655150.86,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.752678
+        },
+        {
+            "ativo": 49437135.83,
+            "caixa": 13042808.9,
+            "competencia": "11/2021",
+            "cotas_emitidas": 990000.0,
+            "cotistas": 12,
+            "despesa_administracao": 11251.39,
+            "dy": 0.0,
+            "numero_cotas": 990000.0,
+            "patrimonio_liquido": 9494846.65,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.590754
+        },
+        {
+            "ativo": 48213730.82,
+            "caixa": 11259579.6,
+            "competencia": "12/2021",
+            "cotas_emitidas": 4012857.0,
+            "cotistas": 64,
+            "despesa_administracao": 18751.24,
+            "dy": 0.0,
+            "numero_cotas": 4012857.0,
+            "patrimonio_liquido": 39476292.41,
+            "receita_aluguel": 89062.39,
+            "valor_patrimonio_cotas": 9.837453
+        },
+        {
+            "ativo": 48403087.89,
+            "caixa": 9606573.15,
+            "competencia": "01/2022",
+            "cotas_emitidas": 4012857.0,
+            "cotistas": 179,
+            "despesa_administracao": 11215.41,
+            "dy": 0.0,
+            "numero_cotas": 4012857.0,
+            "patrimonio_liquido": 39352317.56,
+            "receita_aluguel": 89497.89,
+            "valor_patrimonio_cotas": 9.806559
+        },
+        {
+            "ativo": 48341464.15,
+            "caixa": 7278633.52,
+            "competencia": "02/2022",
+            "cotas_emitidas": 4012857.0,
+            "cotistas": 305,
+            "despesa_administracao": 11239.67,
+            "dy": 1.0197,
+            "numero_cotas": 4012857.0,
+            "patrimonio_liquido": 39162601.54,
+            "receita_aluguel": 88626.89,
+            "valor_patrimonio_cotas": 9.759282
+        },
+        {
+            "ativo": 48680274.72,
+            "caixa": 8151731.76,
+            "competencia": "03/2022",
+            "cotas_emitidas": 4012857.0,
+            "cotistas": 566,
+            "despesa_administracao": 24982.89,
+            "dy": 1.1271,
+            "numero_cotas": 4012857.0,
+            "patrimonio_liquido": 39281267.36,
+            "receita_aluguel": 177253.78,
+            "valor_patrimonio_cotas": 9.788853
+        },
+        {
+            "ativo": 48543768.25,
+            "caixa": 7169186.19,
+            "competencia": "04/2022",
+            "cotas_emitidas": 4012857.0,
+            "cotistas": 837,
+            "despesa_administracao": 17982.6,
+            "dy": 1.2259,
+            "numero_cotas": 4012857.0,
+            "patrimonio_liquido": 39007816.38,
+            "receita_aluguel": 88626.89,
+            "valor_patrimonio_cotas": 9.720709
+        },
+        {
+            "ativo": 48533011.68,
+            "caixa": 9068975.08,
+            "competencia": "05/2022",
+            "cotas_emitidas": 4012857.0,
+            "cotistas": 1181,
+            "despesa_administracao": 18007.26,
+            "dy": 1.2345,
+            "numero_cotas": 4012857.0,
+            "patrimonio_liquido": 38808751.87,
+            "receita_aluguel": 88626.89,
+            "valor_patrimonio_cotas": 9.671103
+        },
+        {
+            "ativo": 50473483.16,
+            "caixa": 4747714.55,
+            "competencia": "06/2022",
+            "cotas_emitidas": 4012857.0,
+            "cotistas": 1466,
+            "despesa_administracao": 17983.42,
+            "dy": 0.6771,
+            "numero_cotas": 4012857.0,
+            "patrimonio_liquido": 40594621.0,
+            "receita_aluguel": 88626.89,
+            "valor_patrimonio_cotas": 10.116139
+        },
+        {
+            "ativo": 50487514.66,
+            "caixa": 5760149.03,
+            "competencia": "07/2022",
+            "cotas_emitidas": 4012857.0,
+            "cotistas": 2085,
+            "despesa_administracao": 22019.09,
+            "dy": 1.1862,
+            "numero_cotas": 4012857.0,
+            "patrimonio_liquido": 40476276.61,
+            "receita_aluguel": 88626.89,
+            "valor_patrimonio_cotas": 10.086648
+        }
+    ],
+    "indexador_reajuste_contrato": [
+        {
+            "indexador": "IGP-M",
+            "precentual": 0.0
+        },
+        {
+            "indexador": "INPC",
+            "precentual": 0.0
+        },
+        {
+            "indexador": "IPCA",
+            "precentual": 0.0
+        },
+        {
+            "indexador": "INCC",
+            "precentual": 0.0
+        },
+        {
+            "indexador": "AAA",
+            "precentual": 0.0
+        }
+    ],
+    "ipca_prize": 5.895,
+    "isin": "BRAPTOCTF007",
+    "lci": [],
+    "mandato": "H\u00edbrido",
+    "nome": "NAVI RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "prices": [],
+    "propriedades": [
+        {
+            "area": 821.61,
+            "cidade": "Jardim Paulista",
+            "endereco": "Alameda Fern\u00e3o Cardim, 70",
+            "estado": "Imovel Dialogo Alameda Fern\u00e3o Cardim, 70 \u2013 Jardim Paulista \u2013 Estado\nde S\u00e3o Paulo \n                \u00c1rea (m2):\n                821,61 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "inadimplencia": 0.0,
+            "nome": "Imovel Dialogo",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 77.42,
+            "cidade": "Im\u00f3vel Clarion Rua Jer\u00f4nimo da Veiga n\u00ba 248, no 28\u00ba Subdistrito Jardim Paulista, S\u00e3o PauloSP \n                \u00c1rea (m2):\n                77,42 \n                N\u00ba de unidades ou lojas:\n                1 Apartamento n\u00ba 105, tipo \"C\", localizado no 1\u00ba pavimento do Edif\u00edcio La Concorde Jardim Europa. Matr\u00edcula 168148",
+            "endereco": "Rua Jer\u00f4nimo da Veiga n\u00ba 248, no 28\u00ba Subdistrito Jardim Paulista, S\u00e3o Paulo",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Im\u00f3vel Clarion",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 120.56,
+            "cidade": "Jardim Paulista, S\u00e3o Paulo",
+            "endereco": "Rua Leopoldo Couto de Magalh\u00e3es J\u00fanior n\u00ba1098 e Rua Lopes Neto n\u00ba390, 28\u00ba Subdistrito",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Im\u00f3vel IT Home Leopoldo Couto de Magalh\u00e3es J\u00fanior n\u00ba1098 e",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 73.2,
+            "cidade": "Jaridm Paulista, S\u00e3o Paulo",
+            "endereco": "Rua do R\u00f3cio n\u00ba 423 e Rua Fid\u00eancio Ramos n\u00ba 420, no 28\u00ba Subdistrito",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Im\u00f3vel Radisson do R\u00f3cio n\u00ba 423 e",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 66.51,
+            "cidade": "Jardim Paulista, S\u00e3o Paulo",
+            "endereco": "Rua Pedroso Alvarenga n\u00bas 1256 e 1274, no 28\u00ba Subdistrito",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Im\u00f3vel Transnam\u00e9rica",
+            "unidades": 1,
+            "vacancia": 0.0
+        }
+    ],
+    "segmento": "H\u00edbrido",
+    "snowflake": {
+        "crescimento": {
+            "cagr_alugeis_1": 0,
+            "cagr_ativo_1": 1.82,
+            "cagr_patrimonio_liquido": 3.19,
+            "cagr_vpa_1": 3.19,
+            "cagr_vpa_3": 0.61,
+            "cmgr_alugeis_6m": 0.0
+        },
+        "dividends": {
+            "cagr_dividens_1": -0.89,
+            "cagr_dividens_3": -0.52,
+            "cagr_dy_1": 0,
+            "cagr_dy_3": 0,
+            "cagr_dy_5": 0,
+            "dy": 6.47
+        },
+        "medias_segmento": {
+            "dividends": {
+                "cagr_dy_3": -0.06875,
+                "dy": 6.7375
+            },
+            "mercado": {
+                "custo_adm_med": 225298.48537499987,
+                "liquidez_med": 11916.6375
+            },
+            "operacao": {
+                "patrimonio_liquido": 660324917.6847501,
+                "pl_cx": 7.695000000000002,
+                "vacancia": 11.533
+            },
+            "valuation": {
+                "p_vpa_med": 1.15925
+            }
+        },
+        "mercado": {
+            "custo_adm_med": 17983.01,
+            "ifix": 0,
+            "liquidez_med": 0
+        },
+        "operacao": {
+            "contratos_vencimento": 3,
+            "estados": 2,
+            "imoveis": 5,
+            "patrimonio_liquido": 40476276.61,
+            "pl_cx": 14.23,
+            "vacancia": 0.0,
+            "vacancia_1": 0,
+            "vacancia_3m": 0.0
+        },
+        "valuation": {
+            "p_vpa": 0.0,
+            "p_vpa_med": 0.0,
+            "price": [],
+            "valuation": 10.47
+        }
+    },
+    "ticker": "APTO11",
+    "vacancia": [
+        {
+            "competencia": "3/2021",
+            "total": 0.0
+        },
+        {
+            "competencia": "04/2021",
+            "total": 0.0
+        },
+        {
+            "competencia": "01/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "02/2022",
+            "total": 0.0
+        }
+    ]
+}

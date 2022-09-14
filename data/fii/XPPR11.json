@@ -1,0 +1,845 @@
+{
+    "cnpj": "XP PROPERTIES FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "contratos": [
+        {
+            "prazo": "At\u00e9 3 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 3 meses e 1 dia a 6 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 6 meses e 1 dia a 9 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 9 meses e 1 dia a 12 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 12 meses e 1 dia a 15 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 15 meses e 1 dia a 18 meses",
+            "precentual": 8.0
+        },
+        {
+            "prazo": "De 18 meses e 1 dia a 21 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "De 21 meses e 1 dia a 24 meses",
+            "precentual": 10.0
+        },
+        {
+            "prazo": "De 24 meses e 1 dia a 27 meses",
+            "precentual": 8.0
+        },
+        {
+            "prazo": "De 27 meses e 1 dia a 30 meses",
+            "precentual": 3.0
+        },
+        {
+            "prazo": "De 30 meses e 1 dia a 33 meses",
+            "precentual": 2.0
+        },
+        {
+            "prazo": "De 33 meses e 1 dia a 36 meses",
+            "precentual": 0.0
+        },
+        {
+            "prazo": "Acima de 36 meses",
+            "precentual": 69.0
+        },
+        {
+            "prazo": "Prazo indeterminado",
+            "precentual": 0.0
+        }
+    ],
+    "cri": [],
+    "dividends": [
+        {
+            "data_com": "2019-12-30T00:00:00",
+            "data_pagamento": "2020-01-15T00:00:00",
+            "provento": 0.55
+        },
+        {
+            "data_com": "2020-01-31T00:00:00",
+            "data_pagamento": "2020-02-14T00:00:00",
+            "provento": 0.52
+        },
+        {
+            "data_com": "2020-02-28T00:00:00",
+            "data_pagamento": "2020-03-13T00:00:00",
+            "provento": 0.52
+        },
+        {
+            "data_com": "2020-03-31T00:00:00",
+            "data_pagamento": "2020-04-14T00:00:00",
+            "provento": 0.5
+        },
+        {
+            "data_com": "2020-04-30T00:00:00",
+            "data_pagamento": "2020-05-15T00:00:00",
+            "provento": 0.5
+        },
+        {
+            "data_com": "2020-05-29T00:00:00",
+            "data_pagamento": "2020-06-15T00:00:00",
+            "provento": 0.8
+        },
+        {
+            "data_com": "2020-06-30T00:00:00",
+            "data_pagamento": "2020-07-15T00:00:00",
+            "provento": 0.93
+        },
+        {
+            "data_com": "2020-07-31T00:00:00",
+            "data_pagamento": "2020-08-14T00:00:00",
+            "provento": 0.7
+        },
+        {
+            "data_com": "2020-08-31T00:00:00",
+            "data_pagamento": "2020-09-15T00:00:00",
+            "provento": 0.72
+        },
+        {
+            "data_com": "2020-09-30T00:00:00",
+            "data_pagamento": "2020-10-15T00:00:00",
+            "provento": 0.74
+        },
+        {
+            "data_com": "2020-10-30T00:00:00",
+            "data_pagamento": "2020-11-13T00:00:00",
+            "provento": 0.74
+        },
+        {
+            "data_com": "2020-11-30T00:00:00",
+            "data_pagamento": "2020-12-14T00:00:00",
+            "provento": 0.01
+        },
+        {
+            "data_com": "2020-11-30T00:00:00",
+            "data_pagamento": "2020-12-14T00:00:00",
+            "provento": 0.04
+        },
+        {
+            "data_com": "2020-11-30T00:00:00",
+            "data_pagamento": "2020-12-14T00:00:00",
+            "provento": 0.6
+        },
+        {
+            "data_com": "2020-12-30T00:00:00",
+            "data_pagamento": "2021-01-15T00:00:00",
+            "provento": 0.57
+        },
+        {
+            "data_com": "2021-01-29T00:00:00",
+            "data_pagamento": "2021-02-12T00:00:00",
+            "provento": 0.48
+        },
+        {
+            "data_com": "2021-02-26T00:00:00",
+            "data_pagamento": "2021-03-12T00:00:00",
+            "provento": 0.48
+        },
+        {
+            "data_com": "2021-03-31T00:00:00",
+            "data_pagamento": "2021-04-15T00:00:00",
+            "provento": 0.48
+        },
+        {
+            "data_com": "2021-04-30T00:00:00",
+            "data_pagamento": "2021-05-14T00:00:00",
+            "provento": 0.48
+        },
+        {
+            "data_com": "2021-05-31T00:00:00",
+            "data_pagamento": "2021-06-15T00:00:00",
+            "provento": 0.48
+        },
+        {
+            "data_com": "2021-06-30T00:00:00",
+            "data_pagamento": "2021-07-14T00:00:00",
+            "provento": 0.48
+        },
+        {
+            "data_com": "2021-07-30T00:00:00",
+            "data_pagamento": "2021-08-13T00:00:00",
+            "provento": 0.55
+        },
+        {
+            "data_com": "2021-08-31T00:00:00",
+            "data_pagamento": "2021-09-15T00:00:00",
+            "provento": 0.55
+        },
+        {
+            "data_com": "2021-09-30T00:00:00",
+            "data_pagamento": "2021-10-15T00:00:00",
+            "provento": 0.55
+        },
+        {
+            "data_com": "2021-10-29T00:00:00",
+            "data_pagamento": "2021-11-16T00:00:00",
+            "provento": 0.55
+        },
+        {
+            "data_com": "2021-11-30T00:00:00",
+            "data_pagamento": "2021-12-14T00:00:00",
+            "provento": 0.55
+        },
+        {
+            "data_com": "2021-12-30T00:00:00",
+            "data_pagamento": "2022-01-14T00:00:00",
+            "provento": 0.55
+        },
+        {
+            "data_com": "2022-01-31T00:00:00",
+            "data_pagamento": "2022-02-14T00:00:00",
+            "provento": 0.45
+        },
+        {
+            "data_com": "2022-02-25T00:00:00",
+            "data_pagamento": "2022-03-15T00:00:00",
+            "provento": 0.45
+        },
+        {
+            "data_com": "2022-03-31T00:00:00",
+            "data_pagamento": "2022-04-14T00:00:00",
+            "provento": 0.45
+        },
+        {
+            "data_com": "2022-04-29T00:00:00",
+            "data_pagamento": "2022-05-13T00:00:00",
+            "provento": 0.45
+        },
+        {
+            "data_com": "2022-05-31T00:00:00",
+            "data_pagamento": "2022-06-14T00:00:00",
+            "provento": 0.45
+        },
+        {
+            "data_com": "2022-06-30T00:00:00",
+            "data_pagamento": "2022-07-14T00:00:00",
+            "provento": 0.35
+        },
+        {
+            "data_com": "2022-07-29T00:00:00",
+            "data_pagamento": "2022-08-12T00:00:00",
+            "provento": 0.35
+        },
+        {
+            "data_com": "2022-08-31T00:00:00",
+            "data_pagamento": "2022-09-15T00:00:00",
+            "provento": 0.3
+        }
+    ],
+    "fii": [],
+    "gestao": "Ativa",
+    "ifix_participacao": 0.317,
+    "imr": [
+        {
+            "ativo": 718511295.9,
+            "caixa": 376687102.56,
+            "competencia": "12/2019",
+            "cotas_emitidas": 4320000.0,
+            "cotistas": 14741,
+            "despesa_administracao": 332834.72,
+            "dy": 2.7595,
+            "numero_cotas": 4320000.0,
+            "patrimonio_liquido": 416043404.45,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 96.306344
+        },
+        {
+            "ativo": 418543495.69,
+            "caixa": 74138125.39,
+            "competencia": "01/2020",
+            "cotas_emitidas": 4320000.0,
+            "cotistas": 18626,
+            "despesa_administracao": 41486.98,
+            "dy": 0.0,
+            "numero_cotas": 4320000.0,
+            "patrimonio_liquido": 414869793.1,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 96.034674
+        },
+        {
+            "ativo": 418572203.12,
+            "caixa": 53720458.38,
+            "competencia": "02/2020",
+            "cotas_emitidas": 4320000.0,
+            "cotistas": 19696,
+            "despesa_administracao": 281979.57,
+            "dy": 0.5415,
+            "numero_cotas": 4320000.0,
+            "patrimonio_liquido": 414675836.2,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 95.989777
+        },
+        {
+            "ativo": 418554611.38,
+            "caixa": 52188391.24,
+            "competencia": "03/2020",
+            "cotas_emitidas": 4320000.0,
+            "cotistas": 19857,
+            "despesa_administracao": 344823.88,
+            "dy": 0.5209,
+            "numero_cotas": 4320000.0,
+            "patrimonio_liquido": 414451783.33,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 95.937913
+        },
+        {
+            "ativo": 418305778.94,
+            "caixa": 39251213.2,
+            "competencia": "04/2020",
+            "cotas_emitidas": 4320000.0,
+            "cotistas": 20454,
+            "despesa_administracao": 606316.21,
+            "dy": 0.5212,
+            "numero_cotas": 4320000.0,
+            "patrimonio_liquido": 414150416.9,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 95.868152
+        },
+        {
+            "ativo": 437951818.92,
+            "caixa": 53593873.38,
+            "competencia": "05/2020",
+            "cotas_emitidas": 4320000.0,
+            "cotistas": 20732,
+            "despesa_administracao": 252273.46,
+            "dy": 0.8345,
+            "numero_cotas": 4320000.0,
+            "patrimonio_liquido": 425418987.86,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 98.476618
+        },
+        {
+            "ativo": 437013313.48,
+            "caixa": 51596373.62,
+            "competencia": "06/2020",
+            "cotas_emitidas": 4320000.0,
+            "cotistas": 24008,
+            "despesa_administracao": 502415.16,
+            "dy": 0.9444,
+            "numero_cotas": 4320000.0,
+            "patrimonio_liquido": 423621547.62,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 98.060543
+        },
+        {
+            "ativo": 427144776.31,
+            "caixa": 50693542.74,
+            "competencia": "07/2020",
+            "cotas_emitidas": 4320000.0,
+            "cotistas": 27003,
+            "despesa_administracao": 515903.12,
+            "dy": 0.7138,
+            "numero_cotas": 4320000.0,
+            "patrimonio_liquido": 423218310.44,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 97.967201
+        },
+        {
+            "ativo": 426484630.51,
+            "caixa": 49668647.52,
+            "competencia": "08/2020",
+            "cotas_emitidas": 4320000.0,
+            "cotistas": 28986,
+            "despesa_administracao": 468505.29,
+            "dy": 0.7349,
+            "numero_cotas": 4320000.0,
+            "patrimonio_liquido": 422076835.81,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 97.702971
+        },
+        {
+            "ativo": 425342946.06,
+            "caixa": 47756034.53,
+            "competencia": "09/2020",
+            "cotas_emitidas": 4320000.0,
+            "cotistas": 27334,
+            "despesa_administracao": 461254.41,
+            "dy": 0.7574,
+            "numero_cotas": 4320000.0,
+            "patrimonio_liquido": 420852561.33,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 97.419574
+        },
+        {
+            "ativo": 423393215.45,
+            "caixa": 45957740.99,
+            "competencia": "10/2020",
+            "cotas_emitidas": 4320000.0,
+            "cotistas": 28356,
+            "despesa_administracao": 459953.19,
+            "dy": 0.7596,
+            "numero_cotas": 4320000.0,
+            "patrimonio_liquido": 418900898.01,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 96.9678
+        },
+        {
+            "ativo": 658699316.28,
+            "caixa": 110606890.38,
+            "competencia": "11/2020",
+            "cotas_emitidas": 4320000.0,
+            "cotistas": 29758,
+            "despesa_administracao": 439102.39,
+            "dy": 0.6313,
+            "numero_cotas": 4320000.0,
+            "patrimonio_liquido": 419391008.97,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 97.081252
+        },
+        {
+            "ativo": 801518151.54,
+            "caixa": 33223783.52,
+            "competencia": "12/2020",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 33619,
+            "despesa_administracao": 628825.23,
+            "dy": 0.5871,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 640351556.82,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 87.525504
+        },
+        {
+            "ativo": 818705905.95,
+            "caixa": 32347117.76,
+            "competencia": "01/2021",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 33619,
+            "despesa_administracao": 600918.91,
+            "dy": 0.5388,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 651049735.54,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 88.987769
+        },
+        {
+            "ativo": 806600954.11,
+            "caixa": 32622280.2,
+            "competencia": "02/2021",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 36400,
+            "despesa_administracao": 604681.4,
+            "dy": 0.5394,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 640552333.97,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 87.552947
+        },
+        {
+            "ativo": 805826109.75,
+            "caixa": 31689082.57,
+            "competencia": "03/2021",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 37663,
+            "despesa_administracao": 448599.22,
+            "dy": 0.5482,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 638121228.42,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 87.220655
+        },
+        {
+            "ativo": 805635884.28,
+            "caixa": 29228861.81,
+            "competencia": "04/2021",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 39537,
+            "despesa_administracao": 373233.19,
+            "dy": 0.5503,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 638005453.29,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 87.204831
+        },
+        {
+            "ativo": 802920544.06,
+            "caixa": 26985614.44,
+            "competencia": "05/2021",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 40876,
+            "despesa_administracao": 372003.3,
+            "dy": 0.5504,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 627324285.79,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 85.744891
+        },
+        {
+            "ativo": 963563348.22,
+            "caixa": 21497501.36,
+            "competencia": "06/2021",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 42758,
+            "despesa_administracao": 382817.01,
+            "dy": 0.5598,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 627568865.87,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 85.778321
+        },
+        {
+            "ativo": 964528103.09,
+            "caixa": 22240459.94,
+            "competencia": "07/2021",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 43763,
+            "despesa_administracao": 413431.46,
+            "dy": 0.6412,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 626411295.78,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 85.6201
+        },
+        {
+            "ativo": 963069979.59,
+            "caixa": 20970190.01,
+            "competencia": "08/2021",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 46580,
+            "despesa_administracao": 415494.24,
+            "dy": 0.6424,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 618295002.65,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 84.510737
+        },
+        {
+            "ativo": 963749152.49,
+            "caixa": 21899531.8,
+            "competencia": "09/2021",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 47968,
+            "despesa_administracao": 388341.9,
+            "dy": 0.6508,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 614465035.45,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 83.987244
+        },
+        {
+            "ativo": 964421982.02,
+            "caixa": 21206421.04,
+            "competencia": "10/2021",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 49333,
+            "despesa_administracao": 368886.59,
+            "dy": 0.6549,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 610739386.36,
+            "receita_aluguel": 1776359.64,
+            "valor_patrimonio_cotas": 83.478009
+        },
+        {
+            "ativo": 965082511.02,
+            "caixa": 20678152.99,
+            "competencia": "11/2021",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 49784,
+            "despesa_administracao": 335131.42,
+            "dy": 0.6589,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 606024273.34,
+            "receita_aluguel": 3119043.84,
+            "valor_patrimonio_cotas": 82.83353
+        },
+        {
+            "ativo": 947932804.05,
+            "caixa": 22073521.34,
+            "competencia": "12/2021",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 50786,
+            "despesa_administracao": 411035.34,
+            "dy": 0.664,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 583857018.19,
+            "receita_aluguel": 2772987.31,
+            "valor_patrimonio_cotas": 79.803632
+        },
+        {
+            "ativo": 941175025.88,
+            "caixa": 14658698.1,
+            "competencia": "01/2022",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 52268,
+            "despesa_administracao": 382697.95,
+            "dy": 0.5639,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 598901337.23,
+            "receita_aluguel": 3521837.2,
+            "valor_patrimonio_cotas": 81.859942
+        },
+        {
+            "ativo": 941345346.56,
+            "caixa": 13962575.67,
+            "competencia": "02/2022",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 53193,
+            "despesa_administracao": 316504.23,
+            "dy": 0.5497,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 577562461.09,
+            "receita_aluguel": 4361856.88,
+            "valor_patrimonio_cotas": 78.94327
+        },
+        {
+            "ativo": 942721590.9,
+            "caixa": 14589844.16,
+            "competencia": "03/2022",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 56208,
+            "despesa_administracao": 343670.96,
+            "dy": 0.57,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 574700608.58,
+            "receita_aluguel": 5085332.73,
+            "valor_patrimonio_cotas": 78.552102
+        },
+        {
+            "ativo": 944546710.03,
+            "caixa": 15708636.23,
+            "competencia": "04/2022",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 58910,
+            "despesa_administracao": 306644.73,
+            "dy": 0.5729,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 574241070.77,
+            "receita_aluguel": 5766052.56,
+            "valor_patrimonio_cotas": 78.48929
+        },
+        {
+            "ativo": 942372581.75,
+            "caixa": 13398035.23,
+            "competencia": "05/2022",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 60606,
+            "despesa_administracao": 331895.89,
+            "dy": 0.5733,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 565410376.25,
+            "receita_aluguel": 5847578.67,
+            "valor_patrimonio_cotas": 77.28228
+        },
+        {
+            "ativo": 942608920.64,
+            "caixa": 10661774.71,
+            "competencia": "06/2022",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 63367,
+            "despesa_administracao": 312452.52,
+            "dy": 0.4529,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 560956044.75,
+            "receita_aluguel": 6486318.86,
+            "valor_patrimonio_cotas": 76.673446
+        },
+        {
+            "ativo": 943345357.73,
+            "caixa": 10705451.5,
+            "competencia": "07/2022",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 66001,
+            "despesa_administracao": 268937.64,
+            "dy": 0.4565,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 559121903.64,
+            "receita_aluguel": 7181221.01,
+            "valor_patrimonio_cotas": 76.422749
+        }
+    ],
+    "indexador_reajuste_contrato": [
+        {
+            "indexador": "IGP-M",
+            "precentual": 69.0
+        },
+        {
+            "indexador": "INPC",
+            "precentual": 0.0
+        },
+        {
+            "indexador": "IPCA",
+            "precentual": 31.0
+        },
+        {
+            "indexador": "INCC",
+            "precentual": 0.0
+        },
+        {
+            "indexador": "Vago",
+            "precentual": 0.0
+        }
+    ],
+    "ipca_prize": 5.895,
+    "isin": "BRXPPRCTF000",
+    "lci": [],
+    "mandato": "Renda",
+    "nome": "XP PROPERTIES FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "prices": [],
+    "propriedades": [
+        {
+            "area": 1053.0,
+            "cidade": "Edif\u00edcio M\u00f3dulo Rebou\u00e7as Rua Capote Valente, n\u00ba 39S\u00e3o Paulo (SP) \n                \u00c1rea (m2):\n                1.053,00 \n                N\u00ba de unidades ou lojas:\n                4 Matr\u00edcula n\u00ba 98.323. Pr\u00e9dio locado ao Nubank.",
+            "endereco": "Rua Capote Valente, n\u00ba 39",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio M\u00f3dulo Rebou\u00e7as Capote",
+            "unidades": 4,
+            "vacancia": 0.0
+        },
+        {
+            "area": 886.0,
+            "cidade": "Condom\u00ednio Edif\u00edcio Fidalga Rua Wisard, n\u00ba 298S\u00e3o Paulo (SP) \n                \u00c1rea (m2):\n                886,00 \n                N\u00ba de unidades ou lojas:\n                4 Matr\u00edcula n\u00ba 136.118.",
+            "endereco": "Rua Wisard, n\u00ba 298",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Condom\u00ednio Edif\u00edcio Fidalga",
+            "unidades": 4,
+            "vacancia": 100.0
+        },
+        {
+            "area": 33610.0,
+            "cidade": "Edif\u00edcio Corporate Evolution Alameda Xingu, n\u00ba 512Barueri (SP) \n                \u00c1rea (m2):\n                33.610,00 \n                N\u00ba de unidades ou lojas:\n                25 Matr\u00edcula n\u00ba 174.709 . Complexo empresarial com loca\u00e7\u00e3o para CIELO, ELOPAR, DHL, STEFANINI, QUALICORP e SGS.",
+            "endereco": "Alameda Xingu, n\u00ba 512",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Corporate Evolution",
+            "unidades": 25,
+            "vacancia": 54.0
+        },
+        {
+            "area": 1032.0,
+            "cidade": "Edif\u00edcio Santa Catarina Avenida Paulista, 287S\u00e3o Paulo (SP) \n                \u00c1rea (m2):\n                1.032,00 \n                N\u00ba de unidades ou lojas:\n                2 Matr\u00edcula n\u00ba 103.685. Complexo empresarial com loca\u00e7\u00e3o para Ocean",
+            "endereco": "Avenida Paulista, 287",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Santa Catarina",
+            "unidades": 2,
+            "vacancia": 0.0
+        },
+        {
+            "area": 23548.0,
+            "cidade": "Edif\u00edcio Itower Alameda Xingu, n\u00ba 350Barueri (SP) \n                \u00c1rea (m2):\n                23.548,00 \n                N\u00ba de unidades ou lojas:\n                26 Matr\u00edcula n\u00ba 161.223. Complexo empresarial com loca\u00e7\u00e3o para B3, DIASE, HP, KANTAR, LOS GATOS, MERCK e NETFLIX.",
+            "endereco": "Alameda Xingu, n\u00ba 350",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Itower",
+            "unidades": 26,
+            "vacancia": 32.3
+        }
+    ],
+    "segmento": "Outros",
+    "snowflake": {
+        "crescimento": {
+            "cagr_alugeis_1": 3.04,
+            "cagr_ativo_1": -0.02,
+            "cagr_patrimonio_liquido": -0.08,
+            "cagr_vpa_1": -0.08,
+            "cagr_vpa_3": 0.1,
+            "cmgr_alugeis_6m": 0.04
+        },
+        "dividends": {
+            "cagr_dividens_1": -0.7,
+            "cagr_dividens_3": -0.33,
+            "cagr_dy_1": -0.54,
+            "cagr_dy_3": -0.45,
+            "cagr_dy_5": -0.3,
+            "dy": 5.72
+        },
+        "medias_segmento": {
+            "dividends": {
+                "cagr_dy_3": -0.054761904761904755,
+                "dy": 7.255714285714287
+            },
+            "mercado": {
+                "custo_adm_med": 174258.85928571428,
+                "liquidez_med": 5089.166666666667
+            },
+            "operacao": {
+                "patrimonio_liquido": 402867389.5485714,
+                "pl_cx": 3.632857142857143,
+                "vacancia": 3.192380952380952
+            },
+            "valuation": {
+                "p_vpa_med": 0.6447619047619048
+            }
+        },
+        "mercado": {
+            "custo_adm_med": 382757.48,
+            "ifix": 0.317,
+            "liquidez_med": 0
+        },
+        "operacao": {
+            "contratos_vencimento": 37,
+            "estados": 1,
+            "imoveis": 5,
+            "patrimonio_liquido": 559121903.64,
+            "pl_cx": 1.91,
+            "vacancia": 44.31,
+            "vacancia_1": 0,
+            "vacancia_3m": 44.31
+        },
+        "valuation": {
+            "p_vpa": 0.0,
+            "p_vpa_med": 0.0,
+            "price": [],
+            "valuation": 61.27
+        }
+    },
+    "ticker": "XPPR11",
+    "vacancia": [
+        {
+            "competencia": "4/2019",
+            "total": 0.0
+        },
+        {
+            "competencia": "01/2020",
+            "total": 0.0
+        },
+        {
+            "competencia": "02/2020",
+            "total": 0.0
+        },
+        {
+            "competencia": "03/2020",
+            "total": 0.0
+        },
+        {
+            "competencia": "04/2020",
+            "total": 17.39
+        },
+        {
+            "competencia": "01/2021",
+            "total": 46.51
+        },
+        {
+            "competencia": "02/2021",
+            "total": 46.83
+        },
+        {
+            "competencia": "03/2021",
+            "total": 0.0
+        },
+        {
+            "competencia": "04/2021",
+            "total": 0.0
+        },
+        {
+            "competencia": "1/2022",
+            "total": 44.31
+        },
+        {
+            "competencia": "2/2022",
+            "total": 44.31
+        }
+    ]
+}

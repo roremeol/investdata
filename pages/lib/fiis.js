@@ -6,7 +6,9 @@ const dataDirectory = path.join(process.cwd(), 'data');
 export function getData(type='fii') {
     // Get file names under /data
     const fileNames = fs.readdirSync(getDataPath(type));
-    const allData = fileNames.map((fileName) => {
+    const allData = fileNames
+                        .filter((fileName) => fileName.includes('.json'))
+                        .map((fileName) => {
         // Remove ".md" from file name to get id
         // const ticker = fileName.replace(/\.md$/, '');
 

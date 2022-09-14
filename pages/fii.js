@@ -266,6 +266,9 @@ export default function Home({ fiis=[], config={} }) {
         return format( (data.reduce((sum,{value,op,objective}) => eval(`(${value}${op}${objective} ? 1 : 0) + ${sum}`),0)/data.length)*100).percent()
       }
 
+      const last_price =  getDataSafe({key:'close', data:prices.slice(-1), default_response:0});
+      const valuation = getFiiData({key:'valuation.valuation', data:snowflake_, default_response:0});
+
       return {
         indicator:indicator.map((val={}) => {
           const {text='',max=0} = val;
@@ -273,6 +276,8 @@ export default function Home({ fiis=[], config={} }) {
         }),
         dataset:dataset(),
         pontuacao: pontuacaoTotal(),
+        valuation: format( valuation ).moeda(),
+        upside: format( valuation/last_price ).percent(),
       }
     }
 

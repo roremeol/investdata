@@ -4,7 +4,7 @@ import ReactECharts from 'echarts-for-react';
 import grafStyle from '../../styles/graf.module.scss'
 
 export default function Snowflake({ config={} }) {
-  const { dataset=[], indicator=[{ text: 'Dividendos', max: 100 }], pontuacao='0.00%' } = config;
+  const { data=[], dataset=[], indicator=[{ text: 'Dividendos', max: 100 }], pontuacao='0.00%', valuation='R$ 0,00', upside='0.00%' } = config;
 
   const options = {
     color: ['hsl(0deg, 0%, 21%)'],
@@ -45,6 +45,8 @@ export default function Snowflake({ config={} }) {
     ]
   };
 
+  console.log(dataset)
+
   return (
       <>
         <div className="columns is-multiline">
@@ -53,7 +55,13 @@ export default function Snowflake({ config={} }) {
             <div className='level-item' style={{height: '100%'}}>
               <div className="content">   
                 <h4 className="title is-6 has-text-centered">Pontuação Total:</h4>  
-                <p className="title is-1 has-text-centered">{pontuacao}</p>           
+                <p className="title is-1 has-text-centered">{pontuacao}</p> 
+                <p></p>
+                <h4 className="title is-6 has-text-centered">Preço Teto:</h4>  
+                <p className="title is-1 has-text-centered">{valuation}</p>     
+                <p></p>
+                <h4 className="title is-6 has-text-centered">Potencial de valorização:</h4>  
+                <p className="title is-1 has-text-centered">{upside}</p>          
               </div>
             </div>
           </div>
@@ -69,7 +77,7 @@ export default function Snowflake({ config={} }) {
         {/* <div className="columns is-multiline">
 
           <div className="column is-12">
-            <div className='level-item' style={{height: "100%;"}}>
+            <div className='level-item' style={{height: '100%'}}>
               
               <table className={['table',grafStyle.table].join(' ')}>
                   <thead>
