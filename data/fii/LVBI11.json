@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILIARIO - VBI LOGISTICO",
+    "cnpj": "30.629.603/0001-18",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -298,7 +298,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 1.154,
+    "ifix_participacao": 1.172,
     "imr": [
         {
             "ativo": 296918484.66,
@@ -908,7 +908,7 @@
             "precentual": 9.691
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRLVBICTF002",
     "lci": [],
     "mandato": "Renda",
@@ -9211,6 +9211,15 @@
             "min": 110.7,
             "open": 111.97,
             "volume": 10235
+        },
+        {
+            "change": 0.6,
+            "close": 112.13,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 113.45,
+            "min": 112.02,
+            "open": 112.06,
+            "volume": 18519
         }
     ],
     "propriedades": [
@@ -9315,26 +9324,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": 0.09928571428571424,
-                "dy": 4.979285714285715
+                "cagr_dy_3": 0.10285714285714284,
+                "dy": 5.2457142857142856
             },
             "mercado": {
-                "custo_adm_med": 426055.9367857143,
-                "liquidez_med": 10810.714285714286
+                "custo_adm_med": 335564.6496428572,
+                "liquidez_med": 7999.821428571428
             },
             "operacao": {
-                "patrimonio_liquido": 1009142351.2764285,
-                "pl_cx": 180.67428571428576,
-                "vacancia": 6.429285714285713
+                "patrimonio_liquido": 837136474.1849998,
+                "pl_cx": 180.6285714285714,
+                "vacancia": 5.937857142857142
             },
             "valuation": {
-                "p_vpa_med": 0.8464285714285714
+                "p_vpa_med": 0.7671428571428571
             }
         },
         "mercado": {
             "custo_adm_med": 926676.48,
-            "ifix": 1.154,
-            "liquidez_med": 18428.0
+            "ifix": 1.172,
+            "liquidez_med": 18437
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -9347,10 +9356,10 @@
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.96,
+            "p_vpa": 0.97,
             "p_vpa_med": 1.0,
-            "price": 111.46,
-            "valuation": 96.51
+            "price": 112.13,
+            "valuation": 96.24
         }
     },
     "ticker": "LVBI11",

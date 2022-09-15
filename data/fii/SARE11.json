@@ -1,5 +1,5 @@
 {
-    "cnpj": "SANTANDER RENDA DE ALUGU\u00c9IS FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO- FII",
+    "cnpj": "32.903.702/0001-71",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -299,7 +299,7 @@
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 0.64,
+    "ifix_participacao": 0.654,
     "imr": [
         {
             "ativo": 379538418.8,
@@ -716,6 +716,19 @@
             "patrimonio_liquido": 906170466.07,
             "receita_aluguel": 1394035.43,
             "valor_patrimonio_cotas": 98.130624
+        },
+        {
+            "ativo": 956172421.93,
+            "caixa": 79897453.1,
+            "competencia": "08/2022",
+            "cotas_emitidas": 9234329.0,
+            "cotistas": 26466,
+            "despesa_administracao": 777594.03,
+            "dy": 0.6638,
+            "numero_cotas": 9234329.0,
+            "patrimonio_liquido": 904179109.81,
+            "receita_aluguel": 1441666.44,
+            "valor_patrimonio_cotas": 97.914977
         }
     ],
     "indexador_reajuste_contrato": [
@@ -736,7 +749,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRSARECTF006",
     "lci": [],
     "mandato": "Renda",
@@ -6717,6 +6730,24 @@
             "min": 77.93,
             "open": 78.33,
             "volume": 19450
+        },
+        {
+            "change": -0.06,
+            "close": 79.7,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 80.0,
+            "min": 78.66,
+            "open": 79.75,
+            "volume": 12890
+        },
+        {
+            "change": -0.38,
+            "close": 79.4,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 79.7,
+            "min": 79.0,
+            "open": 79.32,
+            "volume": 552
         }
     ],
     "propriedades": [
@@ -6754,12 +6785,12 @@
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.74,
+            "cagr_alugeis_1": 0.8,
             "cagr_ativo_1": 0.03,
-            "cagr_patrimonio_liquido": -0.01,
-            "cagr_vpa_1": -0.01,
+            "cagr_patrimonio_liquido": -0.02,
+            "cagr_vpa_1": -0.02,
             "cagr_vpa_3": 0.36,
-            "cmgr_alugeis_6m": 0.0
+            "cmgr_alugeis_6m": 0.01
         },
         "dividends": {
             "cagr_dividens_1": -0.35,
@@ -6767,37 +6798,37 @@
             "cagr_dy_1": -0.34,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 6.43
+            "dy": 7.09
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06875,
-                "dy": 6.7375
+                "cagr_dy_3": -0.07285714285714286,
+                "dy": 7.439714285714287
             },
             "mercado": {
-                "custo_adm_med": 225298.48537499987,
-                "liquidez_med": 11916.6375
+                "custo_adm_med": 128096.58114285712,
+                "liquidez_med": 13854.828571428572
             },
             "operacao": {
-                "patrimonio_liquido": 660324917.6847501,
-                "pl_cx": 7.695000000000002,
-                "vacancia": 11.533
+                "patrimonio_liquido": 518372177.386,
+                "pl_cx": 6.270857142857143,
+                "vacancia": 10.583999999999998
             },
             "valuation": {
-                "p_vpa_med": 1.15925
+                "p_vpa_med": 1.2125714285714284
             }
         },
         "mercado": {
-            "custo_adm_med": 117208.185,
-            "ifix": 0.64,
+            "custo_adm_med": 120828.87,
+            "ifix": 0.654,
             "liquidez_med": 8127.0
         },
         "operacao": {
             "contratos_vencimento": 33,
             "estados": 1,
             "imoveis": 3,
-            "patrimonio_liquido": 906170466.07,
-            "pl_cx": 8.31,
+            "patrimonio_liquido": 904179109.81,
+            "pl_cx": 8.84,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
@@ -6805,8 +6836,8 @@
         "valuation": {
             "p_vpa": 0.81,
             "p_vpa_med": 0.88,
-            "price": 79.75,
-            "valuation": 85.22
+            "price": 79.4,
+            "valuation": 84.98
         }
     },
     "ticker": "SARE11",

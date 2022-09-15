@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO GRAND PLAZA SHOPPING",
+    "cnpj": "01.201.140/0001-90",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1326,7 +1326,7 @@
             "precentual": 1.2908
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRABCPCTF000",
     "lci": [],
     "mandato": "Renda",
@@ -22139,6 +22139,15 @@
             "min": 74.93,
             "open": 75.37,
             "volume": 1491
+        },
+        {
+            "change": -0.91,
+            "close": 74.97,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 76.0,
+            "min": 74.84,
+            "open": 75.65,
+            "volume": 1231
         }
     ],
     "propriedades": [
@@ -22173,26 +22182,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.14521739130434783,
-                "dy": 4.769130434782609
+                "cagr_dy_3": -0.16761904761904764,
+                "dy": 4.177142857142858
             },
             "mercado": {
-                "custo_adm_med": 220658.7373913044,
-                "liquidez_med": 4924.847826086957
+                "custo_adm_med": 236323.5,
+                "liquidez_med": 5393.761904761905
             },
             "operacao": {
-                "patrimonio_liquido": 780439608.9426086,
-                "pl_cx": 1.8121739130434786,
-                "vacancia": 7.693043478260869
+                "patrimonio_liquido": 733665848.9719048,
+                "pl_cx": 1.9071428571428577,
+                "vacancia": 7.924761904761904
             },
             "valuation": {
-                "p_vpa_med": 0.7047826086956522
+                "p_vpa_med": 0.7542857142857143
             }
         },
         "mercado": {
             "custo_adm_med": 86323.89,
             "ifix": 0,
-            "liquidez_med": 894.0
+            "liquidez_med": 896
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -22207,8 +22216,8 @@
         "valuation": {
             "p_vpa": 0.82,
             "p_vpa_med": 0.89,
-            "price": 75.66,
-            "valuation": 74.2
+            "price": 74.97,
+            "valuation": 73.99
         }
     },
     "ticker": "ABCP11",

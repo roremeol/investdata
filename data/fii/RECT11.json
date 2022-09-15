@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII REC RENDA IMOBILI\u00c1RIA",
+    "cnpj": "32.274.163/0001-59",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -363,7 +363,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.469,
+    "ifix_participacao": 0,
     "imr": [
         {
             "ativo": 116264320.97,
@@ -897,6 +897,19 @@
             "patrimonio_liquido": 806023791.96,
             "receita_aluguel": 5384078.31,
             "valor_patrimonio_cotas": 94.343589
+        },
+        {
+            "ativo": 1021718777.52,
+            "caixa": 16168409.04,
+            "competencia": "08/2022",
+            "cotas_emitidas": 8543493.0,
+            "cotistas": 79259,
+            "despesa_administracao": 81506.64,
+            "dy": 0.5319,
+            "numero_cotas": 8543493.0,
+            "patrimonio_liquido": 815066407.27,
+            "receita_aluguel": 14613614.28,
+            "valor_patrimonio_cotas": 95.40201
         }
     ],
     "indexador_reajuste_contrato": [
@@ -925,7 +938,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRRECTCTF000",
     "lci": [],
     "mandato": "H\u00edbrido",
@@ -8472,6 +8485,24 @@
             "min": 61.62,
             "open": 61.9,
             "volume": 9401
+        },
+        {
+            "change": -0.03,
+            "close": 61.65,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 61.9,
+            "min": 61.5,
+            "open": 61.68,
+            "volume": 16475
+        },
+        {
+            "change": 1.52,
+            "close": 62.59,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 62.65,
+            "min": 62.4,
+            "open": 62.65,
+            "volume": 1427
         }
     ],
     "propriedades": [
@@ -8569,59 +8600,59 @@
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.24,
+            "cagr_alugeis_1": 2.36,
             "cagr_ativo_1": 0.01,
-            "cagr_patrimonio_liquido": 0.07,
-            "cagr_vpa_1": 0.07,
+            "cagr_patrimonio_liquido": 0.08,
+            "cagr_vpa_1": 0.08,
             "cagr_vpa_3": 0.92,
-            "cmgr_alugeis_6m": 0.0
+            "cmgr_alugeis_6m": 0.18
         },
         "dividends": {
             "cagr_dividens_1": -0.5,
             "cagr_dividens_3": -0.21,
-            "cagr_dy_1": -0.48,
-            "cagr_dy_3": -0.32,
+            "cagr_dy_1": -0.47,
+            "cagr_dy_3": -0.31,
             "cagr_dy_5": 0,
-            "dy": 5.96
+            "dy": 6.49
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06875,
-                "dy": 6.7375
+                "cagr_dy_3": -0.07285714285714286,
+                "dy": 7.439714285714287
             },
             "mercado": {
-                "custo_adm_med": 225298.48537499987,
-                "liquidez_med": 11916.6375
+                "custo_adm_med": 128096.58114285712,
+                "liquidez_med": 13854.828571428572
             },
             "operacao": {
-                "patrimonio_liquido": 660324917.6847501,
-                "pl_cx": 7.695000000000002,
-                "vacancia": 11.533
+                "patrimonio_liquido": 518372177.386,
+                "pl_cx": 6.270857142857143,
+                "vacancia": 10.583999999999998
             },
             "valuation": {
-                "p_vpa_med": 1.15925
+                "p_vpa_med": 1.2125714285714284
             }
         },
         "mercado": {
-            "custo_adm_med": 72612.76,
-            "ifix": 0.469,
+            "custo_adm_med": 73000.66500000001,
+            "ifix": 0,
             "liquidez_med": 14753.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 4,
             "imoveis": 9,
-            "patrimonio_liquido": 806023791.96,
-            "pl_cx": 2.08,
+            "patrimonio_liquido": 815066407.27,
+            "pl_cx": 1.98,
             "vacancia": 11.05,
             "vacancia_1": 0.0,
             "vacancia_3m": 14.61
         },
         "valuation": {
-            "p_vpa": 0.65,
+            "p_vpa": 0.66,
             "p_vpa_med": 0.93,
-            "price": 61.67,
-            "valuation": 63.43
+            "price": 62.59,
+            "valuation": 63.25
         }
     },
     "ticker": "RECT11",

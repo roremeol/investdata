@@ -1,5 +1,5 @@
 {
-    "cnpj": "FII HOTEL MAXINVEST",
+    "cnpj": "08.706.065/0001-69",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1170,7 +1170,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRHTMXCTF000",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -14648,6 +14648,15 @@
             "min": 115.35,
             "open": 115.91,
             "volume": 2750
+        },
+        {
+            "change": -0.01,
+            "close": 115.83,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 116.93,
+            "min": 115.1,
+            "open": 116.93,
+            "volume": 1055
         }
     ],
     "propriedades": [
@@ -14917,7 +14926,7 @@
             },
             "mercado": {
                 "custo_adm_med": 148916.83,
-                "liquidez_med": 2127.0
+                "liquidez_med": 2124.0
             },
             "operacao": {
                 "patrimonio_liquido": 164813963.72,
@@ -14931,7 +14940,7 @@
         "mercado": {
             "custo_adm_med": 148916.83,
             "ifix": 0,
-            "liquidez_med": 2127
+            "liquidez_med": 2124.0
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -14946,8 +14955,8 @@
         "valuation": {
             "p_vpa": 0.88,
             "p_vpa_med": 0.88,
-            "price": 115.84,
-            "valuation": 92.02
+            "price": 115.83,
+            "valuation": 91.76
         }
     },
     "ticker": "HTMX11",

@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO SHOPPING P\u00c1TIO HIGIENOPOLIS",
+    "cnpj": "03.507.519/0001-59",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1315,7 +1315,7 @@
             "precentual": 0.657
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRSHPHCTF008",
     "lci": [],
     "mandato": "Renda",
@@ -22191,6 +22191,24 @@
             "min": 793.01,
             "open": 809.04,
             "volume": 35
+        },
+        {
+            "change": -1.23,
+            "close": 800.01,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 818.88,
+            "min": 791.08,
+            "open": 791.08,
+            "volume": 349
+        },
+        {
+            "change": 0.0,
+            "close": 800.03,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 800.03,
+            "min": 800.03,
+            "open": 800.03,
+            "volume": 0
         }
     ],
     "propriedades": [
@@ -22216,7 +22234,7 @@
             "cmgr_alugeis_6m": -0.0
         },
         "dividends": {
-            "cagr_dividens_1": 0.57,
+            "cagr_dividens_1": 0.4,
             "cagr_dividens_3": 0.06,
             "cagr_dy_1": -0.5,
             "cagr_dy_3": -0.2,
@@ -22225,20 +22243,20 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.14521739130434783,
-                "dy": 4.769130434782609
+                "cagr_dy_3": -0.16761904761904764,
+                "dy": 4.177142857142858
             },
             "mercado": {
-                "custo_adm_med": 220658.7373913044,
-                "liquidez_med": 4924.847826086957
+                "custo_adm_med": 236323.5,
+                "liquidez_med": 5393.761904761905
             },
             "operacao": {
-                "patrimonio_liquido": 780439608.9426086,
-                "pl_cx": 1.8121739130434786,
-                "vacancia": 7.693043478260869
+                "patrimonio_liquido": 733665848.9719048,
+                "pl_cx": 1.9071428571428577,
+                "vacancia": 7.924761904761904
             },
             "valuation": {
-                "p_vpa_med": 0.7047826086956522
+                "p_vpa_med": 0.7542857142857143
             }
         },
         "mercado": {
@@ -22257,10 +22275,10 @@
             "vacancia_3m": 11.05
         },
         "valuation": {
-            "p_vpa": 0.91,
+            "p_vpa": 0.9,
             "p_vpa_med": 1.09,
-            "price": 810.0,
-            "valuation": 503.88
+            "price": 800.03,
+            "valuation": 502.47
         }
     },
     "ticker": "SHPH11",

@@ -1,5 +1,5 @@
 {
-    "cnpj": "TELLUS PROPERTIES  FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "26.681.370/0001-25",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -780,6 +780,19 @@
             "patrimonio_liquido": 380138260.88,
             "receita_aluguel": 3116610.65,
             "valor_patrimonio_cotas": 90.038189
+        },
+        {
+            "ativo": 442802761.93,
+            "caixa": 1207952.69,
+            "competencia": "08/2022",
+            "cotas_emitidas": 4221967.0,
+            "cotistas": 7224,
+            "despesa_administracao": 374114.24,
+            "dy": 0.0,
+            "numero_cotas": 4221967.0,
+            "patrimonio_liquido": 380197399.54,
+            "receita_aluguel": 3172244.85,
+            "valor_patrimonio_cotas": 90.052196
         }
     ],
     "indexador_reajuste_contrato": [
@@ -808,7 +821,7 @@
             "precentual": 1.201
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRTEPPCTF006",
     "lci": [],
     "mandato": "Renda",
@@ -7428,6 +7441,24 @@
             "min": 82.12,
             "open": 82.99,
             "volume": 4767
+        },
+        {
+            "change": 0.97,
+            "close": 83.99,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 83.99,
+            "min": 81.25,
+            "open": 83.21,
+            "volume": 10680
+        },
+        {
+            "change": 0.06,
+            "close": 84.04,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 84.1,
+            "min": 82.7,
+            "open": 83.97,
+            "volume": 3078
         }
     ],
     "propriedades": [
@@ -7485,7 +7516,7 @@
     "segmento": "Lajes",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.27,
+            "cagr_alugeis_1": 0.29,
             "cagr_ativo_1": -0.02,
             "cagr_patrimonio_liquido": -0.04,
             "cagr_vpa_1": -0.04,
@@ -7502,24 +7533,24 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.00540540540540542,
-                "dy": 28.414594594594597
+                "cagr_dy_3": 0.030937500000000014,
+                "dy": 32.5340625
             },
             "mercado": {
-                "custo_adm_med": 119206.02594594592,
-                "liquidez_med": 3029.972972972973
+                "custo_adm_med": 136820.42515624998,
+                "liquidez_med": 3993.140625
             },
             "operacao": {
-                "patrimonio_liquido": 331827655.631081,
-                "pl_cx": 24.609189189189188,
-                "vacancia": 29.048648648648648
+                "patrimonio_liquido": 385829574.90374994,
+                "pl_cx": 28.327499999999997,
+                "vacancia": 31.209687499999998
             },
             "valuation": {
-                "p_vpa_med": 0.6908108108108107
+                "p_vpa_med": 0.705625
             }
         },
         "mercado": {
-            "custo_adm_med": 133885.08,
+            "custo_adm_med": 134163.55,
             "ifix": 0,
             "liquidez_med": 4379
         },
@@ -7527,17 +7558,17 @@
             "contratos_vencimento": 37,
             "estados": 1,
             "imoveis": 5,
-            "patrimonio_liquido": 380138260.88,
-            "pl_cx": 0.34,
+            "patrimonio_liquido": 380197399.54,
+            "pl_cx": 0.32,
             "vacancia": 8.35,
             "vacancia_1": 0.0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.92,
-            "p_vpa_med": 0.87,
-            "price": 83.18,
-            "valuation": 65.77
+            "p_vpa": 0.93,
+            "p_vpa_med": 0.88,
+            "price": 84.04,
+            "valuation": 65.58
         }
     },
     "ticker": "TEPP11",

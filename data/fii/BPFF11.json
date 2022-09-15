@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII BRASIL PLURAL ABSOLUTO FUNDO DE FUNDOS",
+    "cnpj": "17.324.357/0001-28",
     "contratos": [],
     "cri": [
         {
@@ -382,7 +382,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.272,
+    "ifix_participacao": 0.271,
     "imr": [
         {
             "ativo": 178294965.18,
@@ -1257,7 +1257,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRBPFFCTF002",
     "lci": [],
     "mandato": "Renda",
@@ -22250,6 +22250,15 @@
             "min": 68.0,
             "open": 68.35,
             "volume": 5501
+        },
+        {
+            "change": -1.32,
+            "close": 67.99,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 68.9,
+            "min": 67.53,
+            "open": 68.9,
+            "volume": 5356
         }
     ],
     "propriedades": [],
@@ -22273,26 +22282,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.054761904761904755,
-                "dy": 7.255714285714287
+                "cagr_dy_3": -0.0635,
+                "dy": 7.5920000000000005
             },
             "mercado": {
-                "custo_adm_med": 174258.85928571428,
-                "liquidez_med": 5089.166666666667
+                "custo_adm_med": 166969.745,
+                "liquidez_med": 5711.8
             },
             "operacao": {
-                "patrimonio_liquido": 402867389.5485714,
-                "pl_cx": 3.632857142857143,
-                "vacancia": 3.192380952380952
+                "patrimonio_liquido": 383727968.3325,
+                "pl_cx": 3.2525,
+                "vacancia": 3.3519999999999994
             },
             "valuation": {
-                "p_vpa_med": 0.6447619047619048
+                "p_vpa_med": 0.6289999999999999
             }
         },
         "mercado": {
             "custo_adm_med": 79767.02,
-            "ifix": 0.272,
-            "liquidez_med": 3119.0
+            "ifix": 0.271,
+            "liquidez_med": 3120
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -22305,10 +22314,10 @@
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.91,
+            "p_vpa": 0.9,
             "p_vpa_med": 0.84,
-            "price": 68.9,
-            "valuation": 87.35
+            "price": 67.99,
+            "valuation": 87.11
         }
     },
     "ticker": "BPFF11",

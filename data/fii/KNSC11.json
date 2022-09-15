@@ -1,5 +1,5 @@
 {
-    "cnpj": "KINEA SECURITIES FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "cnpj": "35.864.448/0001-38",
     "contratos": [],
     "cri": [
         {
@@ -457,7 +457,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 1.004,
+    "ifix_participacao": 1.005,
     "imr": [
         {
             "ativo": 252606658.68,
@@ -744,10 +744,23 @@
             "patrimonio_liquido": 1171973199.0,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 88.278953
+        },
+        {
+            "ativo": 1299627141.45,
+            "caixa": 35265024.98,
+            "competencia": "08/2022",
+            "cotas_emitidas": 13275794.0,
+            "cotistas": 71108,
+            "despesa_administracao": 1271339.69,
+            "dy": 0.7929,
+            "numero_cotas": 13275794.0,
+            "patrimonio_liquido": 1178257357.98,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 88.752308
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRKNSCCTF008",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -4843,10 +4856,19 @@
             "change": 0.22,
             "close": 85.55,
             "date": "2022-09-13T00:00:00Z",
-            "max": 85.73,
+            "max": 85.74,
             "min": 85.02,
-            "open": 85.35,
+            "open": 85.36,
             "volume": 29718
+        },
+        {
+            "change": -0.4,
+            "close": 85.21,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 86.2,
+            "min": 85.21,
+            "open": 85.54,
+            "volume": 38410
         }
     ],
     "propriedades": [],
@@ -4854,58 +4876,58 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": 0.64,
-            "cagr_patrimonio_liquido": 0.67,
-            "cagr_vpa_1": 0.67,
+            "cagr_ativo_1": 0.65,
+            "cagr_patrimonio_liquido": 0.68,
+            "cagr_vpa_1": 0.68,
             "cagr_vpa_3": 0.67,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
             "cagr_dividens_1": -0.44,
             "cagr_dividens_3": -0.11,
-            "cagr_dy_1": -0.28,
+            "cagr_dy_1": -0.44,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 13.1
+            "dy": 13.9
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
-            "custo_adm_med": 688265.3899999999,
-            "ifix": 1.004,
-            "liquidez_med": 33429
+            "custo_adm_med": 690601.96,
+            "ifix": 1.005,
+            "liquidez_med": 33515.0
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 1171973199.0,
-            "pl_cx": 2.02,
+            "patrimonio_liquido": 1178257357.98,
+            "pl_cx": 2.99,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.97,
-            "p_vpa_med": 0.94,
-            "price": 85.55,
-            "valuation": 131.42
+            "p_vpa": 0.96,
+            "p_vpa_med": 0.95,
+            "price": 85.21,
+            "valuation": 131.05
         }
     },
     "ticker": "KNSC11",

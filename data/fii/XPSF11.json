@@ -1,5 +1,5 @@
 {
-    "cnpj": "XP SELECTION FUNDO DE FUNDOS DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "cnpj": "30.983.020/0001-90",
     "contratos": [],
     "cri": [
         {
@@ -207,7 +207,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.297,
+    "ifix_participacao": 0.294,
     "imr": [
         {
             "ativo": 34259628.07,
@@ -679,7 +679,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRXPSFCTF009",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -6435,6 +6435,24 @@
             "min": 7.7,
             "open": 7.75,
             "volume": 57217
+        },
+        {
+            "change": -1.16,
+            "close": 7.65,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 7.74,
+            "min": 7.53,
+            "open": 7.73,
+            "volume": 177875
+        },
+        {
+            "change": 0.39,
+            "close": 7.68,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 7.72,
+            "min": 7.65,
+            "open": 7.65,
+            "volume": 6134
         }
     ],
     "propriedades": [],
@@ -6458,25 +6476,25 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
             "custo_adm_med": 290762.43,
-            "ifix": 0.297,
+            "ifix": 0.294,
             "liquidez_med": 121990
         },
         "operacao": {
@@ -6490,10 +6508,10 @@
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.91,
+            "p_vpa": 0.9,
             "p_vpa_med": 0.08,
-            "price": 7.74,
-            "valuation": 64.59
+            "price": 7.68,
+            "valuation": 64.41
         }
     },
     "ticker": "XPSF11",

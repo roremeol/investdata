@@ -1,5 +1,5 @@
 {
-    "cnpj": "BB RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "cnpj": "12.681.340/0001-04",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1338,7 +1338,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRBBRCCTF004",
     "lci": [],
     "mandato": "Desenvolvimento",
@@ -23591,6 +23591,15 @@
             "min": 103.8,
             "open": 104.07,
             "volume": 1205
+        },
+        {
+            "change": 0.35,
+            "close": 104.7,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 104.7,
+            "min": 104.31,
+            "open": 104.31,
+            "volume": 760
         }
     ],
     "propriedades": [
@@ -23815,26 +23824,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.054761904761904755,
-                "dy": 7.255714285714287
+                "cagr_dy_3": -0.0635,
+                "dy": 7.5920000000000005
             },
             "mercado": {
-                "custo_adm_med": 174258.85928571428,
-                "liquidez_med": 5089.166666666667
+                "custo_adm_med": 166969.745,
+                "liquidez_med": 5711.8
             },
             "operacao": {
-                "patrimonio_liquido": 402867389.5485714,
-                "pl_cx": 3.632857142857143,
-                "vacancia": 3.192380952380952
+                "patrimonio_liquido": 383727968.3325,
+                "pl_cx": 3.2525,
+                "vacancia": 3.3519999999999994
             },
             "valuation": {
-                "p_vpa_med": 0.6447619047619048
+                "p_vpa_med": 0.6289999999999999
             }
         },
         "mercado": {
             "custo_adm_med": 77475.295,
             "ifix": 0,
-            "liquidez_med": 902.5
+            "liquidez_med": 902
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -23849,8 +23858,8 @@
         "valuation": {
             "p_vpa": 0.98,
             "p_vpa_med": 1.02,
-            "price": 104.33,
-            "valuation": 126.7
+            "price": 104.7,
+            "valuation": 126.35
         }
     },
     "ticker": "BBRC11",

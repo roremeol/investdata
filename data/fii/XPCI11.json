@@ -1,5 +1,5 @@
 {
-    "cnpj": "XP CR\u00c9DITO IMOBILI\u00c1RIO - FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "28.516.301/0001-91",
     "contratos": [],
     "cri": [
         {
@@ -402,7 +402,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0,
+    "ifix_participacao": 0.713,
     "imr": [
         {
             "ativo": 96933179.78,
@@ -858,10 +858,23 @@
             "patrimonio_liquido": 844665897.07,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 97.070718
+        },
+        {
+            "ativo": 863436519.33,
+            "caixa": 27249996.66,
+            "competencia": "08/2022",
+            "cotas_emitidas": 8701552.0,
+            "cotistas": 68087,
+            "despesa_administracao": 734895.87,
+            "dy": 0.989,
+            "numero_cotas": 8701552.0,
+            "patrimonio_liquido": 853537598.37,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 98.090272
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRXPCICTF007",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -6977,6 +6990,24 @@
             "min": 92.04,
             "open": 92.4,
             "volume": 14235
+        },
+        {
+            "change": -0.09,
+            "close": 92.3,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 92.94,
+            "min": 92.03,
+            "open": 92.4,
+            "volume": 19327
+        },
+        {
+            "change": 0.05,
+            "close": 92.35,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 92.49,
+            "min": 92.0,
+            "open": 92.32,
+            "volume": 1899
         }
     ],
     "propriedades": [],
@@ -6984,58 +7015,58 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": 0.29,
-            "cagr_patrimonio_liquido": 0.36,
-            "cagr_vpa_1": 0.36,
+            "cagr_ativo_1": 0.3,
+            "cagr_patrimonio_liquido": 0.37,
+            "cagr_vpa_1": 0.37,
             "cagr_vpa_3": 1.06,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
             "cagr_dividens_1": -0.04,
             "cagr_dividens_3": -0.01,
-            "cagr_dy_1": -0.05,
+            "cagr_dy_1": -0.1,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 11.2
+            "dy": 12.19
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
-            "custo_adm_med": 502623.71,
-            "ifix": 0,
-            "liquidez_med": 23021
+            "custo_adm_med": 503404.685,
+            "ifix": 0.713,
+            "liquidez_med": 23017
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 844665897.07,
-            "pl_cx": 0.31,
+            "patrimonio_liquido": 853537598.37,
+            "pl_cx": 3.19,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.95,
+            "p_vpa": 0.94,
             "p_vpa_med": 0.98,
-            "price": 92.38,
-            "valuation": 129.29
+            "price": 92.35,
+            "valuation": 128.92
         }
     },
     "ticker": "XPCI11",

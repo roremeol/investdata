@@ -1,5 +1,5 @@
 {
-    "cnpj": "XP CORPORATE MACA\u00c9 FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "cnpj": "16.802.320/0001-03",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1319,6 +1319,19 @@
             "patrimonio_liquido": 127310569.38,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 52.72598
+        },
+        {
+            "ativo": 127189706.2,
+            "caixa": 7012419.37,
+            "competencia": "08/2022",
+            "cotas_emitidas": 2414570.0,
+            "cotistas": 28393,
+            "despesa_administracao": 241090.66,
+            "dy": 0.2276,
+            "numero_cotas": 2414570.0,
+            "patrimonio_liquido": 126689782.91,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 52.46888
         }
     ],
     "indexador_reajuste_contrato": [
@@ -1339,7 +1352,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRXPCMCTF009",
     "lci": [],
     "mandato": "Renda",
@@ -22557,6 +22570,24 @@
             "min": 15.31,
             "open": 15.31,
             "volume": 28826
+        },
+        {
+            "change": 12.68,
+            "close": 18.57,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 18.99,
+            "min": 16.65,
+            "open": 16.65,
+            "volume": 31083
+        },
+        {
+            "change": 17.23,
+            "close": 21.77,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 21.98,
+            "min": 18.57,
+            "open": 18.57,
+            "volume": 17384
         }
     ],
     "propriedades": [
@@ -22576,8 +22607,8 @@
         "crescimento": {
             "cagr_alugeis_1": 0,
             "cagr_ativo_1": -0.25,
-            "cagr_patrimonio_liquido": -0.24,
-            "cagr_vpa_1": -0.24,
+            "cagr_patrimonio_liquido": -0.25,
+            "cagr_vpa_1": -0.25,
             "cagr_vpa_3": -0.14,
             "cmgr_alugeis_6m": 0
         },
@@ -22587,46 +22618,46 @@
             "cagr_dy_1": -0.77,
             "cagr_dy_3": -0.39,
             "cagr_dy_5": -0.26,
-            "dy": 2.86
+            "dy": 3.09
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.00540540540540542,
-                "dy": 28.414594594594597
+                "cagr_dy_3": 0.030937500000000014,
+                "dy": 32.5340625
             },
             "mercado": {
-                "custo_adm_med": 119206.02594594592,
-                "liquidez_med": 3029.972972972973
+                "custo_adm_med": 136820.42515624998,
+                "liquidez_med": 3993.140625
             },
             "operacao": {
-                "patrimonio_liquido": 331827655.631081,
-                "pl_cx": 24.609189189189188,
-                "vacancia": 29.048648648648648
+                "patrimonio_liquido": 385829574.90374994,
+                "pl_cx": 28.327499999999997,
+                "vacancia": 31.209687499999998
             },
             "valuation": {
-                "p_vpa_med": 0.6908108108108107
+                "p_vpa_med": 0.705625
             }
         },
         "mercado": {
-            "custo_adm_med": 147520.05,
+            "custo_adm_med": 148114.58,
             "ifix": 0,
-            "liquidez_med": 4755
+            "liquidez_med": 4757
         },
         "operacao": {
             "contratos_vencimento": 3,
             "estados": 1,
             "imoveis": 1,
-            "patrimonio_liquido": 127310569.38,
-            "pl_cx": 2.11,
+            "patrimonio_liquido": 126689782.91,
+            "pl_cx": 5.54,
             "vacancia": 100.0,
             "vacancia_1": 0.0,
             "vacancia_3m": 100.0
         },
         "valuation": {
-            "p_vpa": 0.31,
+            "p_vpa": 0.41,
             "p_vpa_med": 0.89,
-            "price": 16.48,
-            "valuation": 22.15
+            "price": 21.77,
+            "valuation": 22.09
         }
     },
     "ticker": "XPCM11",

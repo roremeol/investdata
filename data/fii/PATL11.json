@@ -1,5 +1,5 @@
 {
-    "cnpj": "P\u00c1TRIA LOG\u00cdSTICA FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "35.754.164/0001-99",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -194,7 +194,7 @@
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 0.353,
+    "ifix_participacao": 0.354,
     "imr": [
         {
             "ativo": 481476066.6,
@@ -507,6 +507,19 @@
             "patrimonio_liquido": 488059611.03,
             "receita_aluguel": 3310057.53,
             "valor_patrimonio_cotas": 97.777459
+        },
+        {
+            "ativo": 492816756.93,
+            "caixa": 3786495.93,
+            "competencia": "08/2022",
+            "cotas_emitidas": 4991535.0,
+            "cotistas": 22240,
+            "despesa_administracao": 51385.9,
+            "dy": 0.5932,
+            "numero_cotas": 4991535.0,
+            "patrimonio_liquido": 489389528.88,
+            "receita_aluguel": 3320716.86,
+            "valor_patrimonio_cotas": 98.043894
         }
     ],
     "indexador_reajuste_contrato": [
@@ -531,7 +544,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRPATLCTF003",
     "lci": [],
     "mandato": "Desenvolvimento",
@@ -5180,6 +5193,15 @@
             "min": 79.39,
             "open": 79.71,
             "volume": 4734
+        },
+        {
+            "change": 0.11,
+            "close": 79.94,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 80.15,
+            "min": 79.27,
+            "open": 79.86,
+            "volume": 7829
         }
     ],
     "propriedades": [
@@ -5207,7 +5229,7 @@
             "area": 9956.0,
             "cidade": "SP, CEP: 13214",
             "endereco": "Av. Nossa Senhora Auxiliadora, 831, Jundia\u00ed",
-            "estado": "AL",
+            "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "POSTALL",
             "unidades": 1,
@@ -5229,8 +5251,8 @@
         "crescimento": {
             "cagr_alugeis_1": 0.29,
             "cagr_ativo_1": 0.03,
-            "cagr_patrimonio_liquido": 0.02,
-            "cagr_vpa_1": 0.02,
+            "cagr_patrimonio_liquido": 0.03,
+            "cagr_vpa_1": 0.03,
             "cagr_vpa_3": 0.01,
             "cmgr_alugeis_6m": -0.02
         },
@@ -5240,37 +5262,37 @@
             "cagr_dy_1": -0.41,
             "cagr_dy_3": -0.16,
             "cagr_dy_5": -0.1,
-            "dy": 5.94
+            "dy": 6.53
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": 0.09928571428571424,
-                "dy": 4.979285714285715
+                "cagr_dy_3": 0.10285714285714284,
+                "dy": 5.2457142857142856
             },
             "mercado": {
-                "custo_adm_med": 426055.9367857143,
-                "liquidez_med": 10810.714285714286
+                "custo_adm_med": 335564.6496428572,
+                "liquidez_med": 7999.821428571428
             },
             "operacao": {
-                "patrimonio_liquido": 1009142351.2764285,
-                "pl_cx": 180.67428571428576,
-                "vacancia": 6.429285714285713
+                "patrimonio_liquido": 837136474.1849998,
+                "pl_cx": 180.6285714285714,
+                "vacancia": 5.937857142857142
             },
             "valuation": {
-                "p_vpa_med": 0.8464285714285714
+                "p_vpa_med": 0.7671428571428571
             }
         },
         "mercado": {
-            "custo_adm_med": 43258.53,
-            "ifix": 0.353,
-            "liquidez_med": 13330.0
+            "custo_adm_med": 43388.72,
+            "ifix": 0.354,
+            "liquidez_med": 13320
         },
         "operacao": {
             "contratos_vencimento": 37,
-            "estados": 4,
+            "estados": 3,
             "imoveis": 4,
-            "patrimonio_liquido": 488059611.03,
-            "pl_cx": 0.81,
+            "patrimonio_liquido": 489389528.88,
+            "pl_cx": 0.77,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
@@ -5278,8 +5300,8 @@
         "valuation": {
             "p_vpa": 0.82,
             "p_vpa_med": 0.82,
-            "price": 79.85,
-            "valuation": 77.8
+            "price": 79.94,
+            "valuation": 77.58
         }
     },
     "ticker": "PATL11",

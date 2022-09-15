@@ -1,5 +1,5 @@
 {
-    "cnpj": "FII PARQUE DOM PEDRO SHOPPING CENTER",
+    "cnpj": "10.869.155/0001-12",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1300,7 +1300,7 @@
             "precentual": 0.8226
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRPQDPCTF004",
     "lci": [],
     "mandato": "Renda",
@@ -23310,6 +23310,24 @@
             "min": 2290.0,
             "open": 2300.0,
             "volume": 63
+        },
+        {
+            "change": 0.44,
+            "close": 2300.0,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 2300.0,
+            "min": 2290.0,
+            "open": 2299.99,
+            "volume": 45
+        },
+        {
+            "change": 0.0,
+            "close": 2299.99,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 2299.99,
+            "min": 2299.99,
+            "open": 2299.99,
+            "volume": 0
         }
     ],
     "propriedades": [
@@ -23317,7 +23335,7 @@
             "area": 3392.33,
             "cidade": "SHOPPING PARQUE DOM PEDRO II Avenida Guilherme Campos 500, 500, Jardim Santa Genebra, CampinasSP, Brasil, 13087901 \n                \u00c1rea (m2):\n                3.392,33 \n                N\u00ba de unidades ou lojas:\n                473 Direito de propriedade",
             "endereco": "Avenida Guilherme Campos 500, 500, Jardim Santa Genebra, Campinas/SP, Brasil, 13087",
-            "estado": "PI",
+            "estado": "RO",
             "inadimplencia": 0.0,
             "nome": "SHOPPING PARQUE DOM PEDRO II",
             "unidades": 473,
@@ -23344,20 +23362,20 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.14521739130434783,
-                "dy": 4.769130434782609
+                "cagr_dy_3": -0.16761904761904764,
+                "dy": 4.177142857142858
             },
             "mercado": {
-                "custo_adm_med": 220658.7373913044,
-                "liquidez_med": 4924.847826086957
+                "custo_adm_med": 236323.5,
+                "liquidez_med": 5393.761904761905
             },
             "operacao": {
-                "patrimonio_liquido": 780439608.9426086,
-                "pl_cx": 1.8121739130434786,
-                "vacancia": 7.693043478260869
+                "patrimonio_liquido": 733665848.9719048,
+                "pl_cx": 1.9071428571428577,
+                "vacancia": 7.924761904761904
             },
             "valuation": {
-                "p_vpa_med": 0.7047826086956522
+                "p_vpa_med": 0.7542857142857143
             }
         },
         "mercado": {
@@ -23378,8 +23396,8 @@
         "valuation": {
             "p_vpa": 0.69,
             "p_vpa_med": 0.59,
-            "price": 2290.0,
-            "valuation": 1882.48
+            "price": 2299.99,
+            "valuation": 1877.21
         }
     },
     "ticker": "PQDP11",

@@ -1,5 +1,5 @@
 {
-    "cnpj": "MAXI RENDA FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+    "cnpj": "97.521.225/0001-25",
     "contratos": [],
     "cri": [],
     "dividends": [
@@ -416,7 +416,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 2.036,
+    "ifix_participacao": 2.047,
     "imr": [
         {
             "ativo": 256435697.32,
@@ -1291,7 +1291,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRMXRFCTF008",
     "lci": [],
     "mandato": "Renda",
@@ -23616,6 +23616,15 @@
             "min": 10.13,
             "open": 10.18,
             "volume": 609665
+        },
+        {
+            "change": 0.1,
+            "close": 10.2,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 10.21,
+            "min": 10.16,
+            "open": 10.19,
+            "volume": 489758
         }
     ],
     "propriedades": [],
@@ -23639,26 +23648,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06875,
-                "dy": 6.7375
+                "cagr_dy_3": -0.07285714285714286,
+                "dy": 7.439714285714287
             },
             "mercado": {
-                "custo_adm_med": 225298.48537499987,
-                "liquidez_med": 11916.6375
+                "custo_adm_med": 128096.58114285712,
+                "liquidez_med": 13854.828571428572
             },
             "operacao": {
-                "patrimonio_liquido": 660324917.6847501,
-                "pl_cx": 7.695000000000002,
-                "vacancia": 11.533
+                "patrimonio_liquido": 518372177.386,
+                "pl_cx": 6.270857142857143,
+                "vacancia": 10.583999999999998
             },
             "valuation": {
-                "p_vpa_med": 1.15925
+                "p_vpa_med": 1.2125714285714284
             }
         },
         "mercado": {
             "custo_adm_med": 337336.02,
-            "ifix": 2.036,
-            "liquidez_med": 76327.0
+            "ifix": 2.047,
+            "liquidez_med": 76341
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -23673,8 +23682,8 @@
         "valuation": {
             "p_vpa": 1.01,
             "p_vpa_med": 0.61,
-            "price": 10.19,
-            "valuation": 13.15
+            "price": 10.2,
+            "valuation": 13.12
         }
     },
     "ticker": "MXRF11",

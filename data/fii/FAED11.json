@@ -1,5 +1,5 @@
 {
-    "cnpj": "FII ANHANGUERA EDUCACIONAL",
+    "cnpj": "11.179.118/0001-45",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1295,7 +1295,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRFAEDCTF003",
     "lci": [],
     "mandato": "Renda",
@@ -19435,6 +19435,15 @@
             "min": 150.2,
             "open": 152.06,
             "volume": 159
+        },
+        {
+            "change": 0.73,
+            "close": 152.1,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 153.95,
+            "min": 151.0,
+            "open": 151.0,
+            "volume": 327
         }
     ],
     "propriedades": [
@@ -19489,26 +19498,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.054761904761904755,
-                "dy": 7.255714285714287
+                "cagr_dy_3": -0.0635,
+                "dy": 7.5920000000000005
             },
             "mercado": {
-                "custo_adm_med": 174258.85928571428,
-                "liquidez_med": 5089.166666666667
+                "custo_adm_med": 166969.745,
+                "liquidez_med": 5711.8
             },
             "operacao": {
-                "patrimonio_liquido": 402867389.5485714,
-                "pl_cx": 3.632857142857143,
-                "vacancia": 3.192380952380952
+                "patrimonio_liquido": 383727968.3325,
+                "pl_cx": 3.2525,
+                "vacancia": 3.3519999999999994
             },
             "valuation": {
-                "p_vpa_med": 0.6447619047619048
+                "p_vpa_med": 0.6289999999999999
             }
         },
         "mercado": {
             "custo_adm_med": 44104.48,
             "ifix": 0,
-            "liquidez_med": 441
+            "liquidez_med": 440.0
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -19523,8 +19532,8 @@
         "valuation": {
             "p_vpa": 0.7,
             "p_vpa_med": 0.88,
-            "price": 151.0,
-            "valuation": 183.53
+            "price": 152.1,
+            "valuation": 183.02
         }
     },
     "ticker": "FAED11",

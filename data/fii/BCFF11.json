@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII BTG PACTUAL FUNDO DE FUNDOS",
+    "cnpj": "11.026.627/0001-38",
     "contratos": [],
     "cri": [
         {
@@ -497,7 +497,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 1.597,
+    "ifix_participacao": 1.593,
     "imr": [
         {
             "ativo": 378901259.85,
@@ -1385,7 +1385,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRBCFFCTF000",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -19498,6 +19498,15 @@
             "min": 71.2,
             "open": 71.54,
             "volume": 33828
+        },
+        {
+            "change": -0.06,
+            "close": 71.21,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 71.64,
+            "min": 71.2,
+            "open": 71.3,
+            "volume": 30228
         }
     ],
     "propriedades": [],
@@ -19521,26 +19530,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
             "custo_adm_med": 253201.53,
-            "ifix": 1.597,
-            "liquidez_med": 18941.5
+            "ifix": 1.593,
+            "liquidez_med": 18964
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -19553,10 +19562,10 @@
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.93,
+            "p_vpa": 0.92,
             "p_vpa_med": 0.81,
-            "price": 71.25,
-            "valuation": 72.66
+            "price": 71.21,
+            "valuation": 72.45
         }
     },
     "ticker": "BCFF11",

@@ -1,5 +1,5 @@
 {
-    "cnpj": "BB RENDA DE PAP\u00c9IS IMOBILI\u00c1RIOS FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "cnpj": "15.394.563/0001-89",
     "contratos": [],
     "cri": [
         {
@@ -1301,7 +1301,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRRNDPCTF007",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -18406,6 +18406,15 @@
             "min": 280.8,
             "open": 280.8,
             "volume": 9
+        },
+        {
+            "change": 3.07,
+            "close": 298.9,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 299.5,
+            "min": 298.9,
+            "open": 299.5,
+            "volume": 27
         }
     ],
     "propriedades": [],
@@ -18420,7 +18429,7 @@
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
-            "cagr_dividens_1": -0.5,
+            "cagr_dividens_1": 0.2,
             "cagr_dividens_3": -0.2,
             "cagr_dy_1": -0.2,
             "cagr_dy_3": -0.07,
@@ -18429,26 +18438,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
             "custo_adm_med": 44321.03,
             "ifix": 0,
-            "liquidez_med": 22.0
+            "liquidez_med": 22
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -18461,10 +18470,10 @@
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.75,
-            "p_vpa_med": 0.82,
-            "price": 290.0,
-            "valuation": 497.7
+            "p_vpa": 0.77,
+            "p_vpa_med": 0.81,
+            "price": 298.9,
+            "valuation": 496.3
         }
     },
     "ticker": "RNDP11",

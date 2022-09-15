@@ -277,7 +277,7 @@ export default function Home({ fiis=[], config={} }) {
         dataset:dataset(),
         pontuacao: pontuacaoTotal(),
         valuation: format( valuation ).moeda(),
-        upside: format( valuation/last_price ).percent(),
+        upside: format( (valuation-last_price)*100/Math.max(last_price,1) ).percent(),
       }
     }
 
@@ -290,6 +290,9 @@ export default function Home({ fiis=[], config={} }) {
         area: estados.map( e => ({value:ativos.filter(({estado}) => estado==e).reduce((sum,{area}) => sum+area,0), name:e}) ),
       } 
     }
+
+    const last_price = getDataSafe({key:'close', data:prices.slice(-1), default_response:0});
+    const price_1 = getDataSafe({key:'close', data:prices.slice(-12), default_response:0});
     
     return {
       ticker: getDataSafe({key:'ticker', data}),
@@ -318,7 +321,7 @@ export default function Home({ fiis=[], config={} }) {
         last_6: format( imr.slice(-6).reduce((sum,{dy}) => dy+sum,0) ).percent(),
         last_12: format( imr.slice(-12).reduce((sum,{dy}) => dy+sum,0) ).percent(),
       },
-      rentabilidade: format( getDataSafe({key:'close', data:prices.slice(0,1), default_response:0})/getDataSafe({key:'close', data:prices.slice(days.last_1-1,days.last_1), default_response:0}) ).percent(),
+      rentabilidade: format( (last_price-price_1)*100/Math.max(price_1,1) ).percent(),
       provento: {
         last: format( dividends.slice(-1).reduce((sum,{provento}) => provento+sum,0) ).moeda(),
         last_3: format( dividends.slice(-3).reduce((sum,{provento}) => provento+sum,0) ) .moeda(),

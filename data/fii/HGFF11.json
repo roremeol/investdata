@@ -1,5 +1,5 @@
 {
-    "cnpj": "CSHG IMOBILI\u00c1RIO FOF - FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "cnpj": "32.784.898/0001-22",
     "contratos": [],
     "cri": [],
     "dividends": [
@@ -201,7 +201,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.204,
+    "ifix_participacao": 0.201,
     "imr": [
         {
             "ativo": 181434786.84,
@@ -670,10 +670,23 @@
             "patrimonio_liquido": 249656530.68,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 87.182844
+        },
+        {
+            "ativo": 268599369.1,
+            "caixa": 25939955.36,
+            "competencia": "08/2022",
+            "cotas_emitidas": 2863597.0,
+            "cotistas": 8628,
+            "despesa_administracao": 159438.99,
+            "dy": 0.7456,
+            "numero_cotas": 2863597.0,
+            "patrimonio_liquido": 265289507.45,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 92.642054
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRHGFFCTF008",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -7491,6 +7504,15 @@
             "min": 79.01,
             "open": 80.49,
             "volume": 32313
+        },
+        {
+            "change": 0.18,
+            "close": 79.18,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 79.7,
+            "min": 78.69,
+            "open": 79.7,
+            "volume": 5698
         }
     ],
     "propriedades": [],
@@ -7498,58 +7520,58 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": 0.0,
-            "cagr_patrimonio_liquido": -0.01,
-            "cagr_vpa_1": -0.01,
-            "cagr_vpa_3": 0.11,
+            "cagr_ativo_1": 0.06,
+            "cagr_patrimonio_liquido": 0.05,
+            "cagr_vpa_1": 0.05,
+            "cagr_vpa_3": 0.13,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
             "cagr_dividens_1": -0.35,
             "cagr_dividens_3": -0.13,
-            "cagr_dy_1": -0.26,
-            "cagr_dy_3": -0.1,
+            "cagr_dy_1": -0.25,
+            "cagr_dy_3": -0.09,
             "cagr_dy_5": 0,
-            "dy": 6.72
+            "dy": 7.47
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
-            "custo_adm_med": 138448.375,
-            "ifix": 0.204,
-            "liquidez_med": 5486
+            "custo_adm_med": 140520.76,
+            "ifix": 0.201,
+            "liquidez_med": 5493.0
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 249656530.68,
-            "pl_cx": 10.07,
+            "patrimonio_liquido": 265289507.45,
+            "pl_cx": 9.78,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.91,
+            "p_vpa": 0.85,
             "p_vpa_med": 0.94,
-            "price": 79.04,
-            "valuation": 80.04
+            "price": 79.18,
+            "valuation": 79.82
         }
     },
     "ticker": "HGFF11",

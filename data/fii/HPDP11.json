@@ -1,5 +1,5 @@
 {
-    "cnpj": "HEDGE SHOPPING PARQUE DOM PEDRO FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "35.586.415/0001-73",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -650,7 +650,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRHPDPCTF003",
     "lci": [],
     "mandato": "Renda",
@@ -5983,6 +5983,15 @@
             "min": 84.0,
             "open": 84.0,
             "volume": 0
+        },
+        {
+            "change": -3.58,
+            "close": 80.99,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 81.79,
+            "min": 78.0,
+            "open": 80.0,
+            "volume": 223
         }
     ],
     "propriedades": [
@@ -6017,26 +6026,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.14521739130434783,
-                "dy": 4.769130434782609
+                "cagr_dy_3": -0.16761904761904764,
+                "dy": 4.177142857142858
             },
             "mercado": {
-                "custo_adm_med": 220658.7373913044,
-                "liquidez_med": 4924.847826086957
+                "custo_adm_med": 236323.5,
+                "liquidez_med": 5393.761904761905
             },
             "operacao": {
-                "patrimonio_liquido": 780439608.9426086,
-                "pl_cx": 1.8121739130434786,
-                "vacancia": 7.693043478260869
+                "patrimonio_liquido": 733665848.9719048,
+                "pl_cx": 1.9071428571428577,
+                "vacancia": 7.924761904761904
             },
             "valuation": {
-                "p_vpa_med": 0.7047826086956522
+                "p_vpa_med": 0.7542857142857143
             }
         },
         "mercado": {
             "custo_adm_med": 107584.63500000001,
             "ifix": 0,
-            "liquidez_med": 42.0
+            "liquidez_med": 42
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -6049,10 +6058,10 @@
             "vacancia_3m": 2.8
         },
         "valuation": {
-            "p_vpa": 0.89,
+            "p_vpa": 0.85,
             "p_vpa_med": 0.86,
-            "price": 84.0,
-            "valuation": 59.02
+            "price": 80.99,
+            "valuation": 58.86
         }
     },
     "ticker": "HPDP11",

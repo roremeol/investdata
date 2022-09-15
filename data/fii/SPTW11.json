@@ -1,5 +1,5 @@
 {
-    "cnpj": "SP DOWNTOWN FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "cnpj": "15.538.445/0001-05",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -393,7 +393,7 @@
     ],
     "fii": [],
     "gestao": "Passiva",
-    "ifix_participacao": 0,
+    "ifix_participacao": 0.069,
     "imr": [
         {
             "ativo": 139307011.18,
@@ -1289,7 +1289,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRSPTWCTF002",
     "lci": [],
     "mandato": "Renda",
@@ -22489,6 +22489,24 @@
             "min": 42.96,
             "open": 43.17,
             "volume": 3036
+        },
+        {
+            "change": 0.51,
+            "close": 43.47,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 43.5,
+            "min": 43.2,
+            "open": 43.25,
+            "volume": 2419
+        },
+        {
+            "change": -0.18,
+            "close": 43.39,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 43.46,
+            "min": 43.3,
+            "open": 43.46,
+            "volume": 347
         }
     ],
     "propriedades": [
@@ -22523,26 +22541,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.00540540540540542,
-                "dy": 28.414594594594597
+                "cagr_dy_3": 0.030937500000000014,
+                "dy": 32.5340625
             },
             "mercado": {
-                "custo_adm_med": 119206.02594594592,
-                "liquidez_med": 3029.972972972973
+                "custo_adm_med": 136820.42515624998,
+                "liquidez_med": 3993.140625
             },
             "operacao": {
-                "patrimonio_liquido": 331827655.631081,
-                "pl_cx": 24.609189189189188,
-                "vacancia": 29.048648648648648
+                "patrimonio_liquido": 385829574.90374994,
+                "pl_cx": 28.327499999999997,
+                "vacancia": 31.209687499999998
             },
             "valuation": {
-                "p_vpa_med": 0.6908108108108107
+                "p_vpa_med": 0.705625
             }
         },
         "mercado": {
             "custo_adm_med": 29456.14,
-            "ifix": 0,
-            "liquidez_med": 2715
+            "ifix": 0.069,
+            "liquidez_med": 2714
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -22557,8 +22575,8 @@
         "valuation": {
             "p_vpa": 0.82,
             "p_vpa_med": 0.92,
-            "price": 43.25,
-            "valuation": 61.72
+            "price": 43.39,
+            "valuation": 61.55
         }
     },
     "ticker": "SPTW11",

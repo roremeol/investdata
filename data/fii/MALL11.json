@@ -1,5 +1,5 @@
 {
-    "cnpj": "MALLS BRASIL PLURAL FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "26.499.833/0001-32",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -389,7 +389,7 @@
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 0.726,
+    "ifix_participacao": 0.727,
     "imr": [
         {
             "ativo": 177323217.35,
@@ -1142,7 +1142,7 @@
             "precentual": 3.241
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRMALLCTF007",
     "lci": [],
     "mandato": "Renda",
@@ -11695,6 +11695,15 @@
             "min": 108.05,
             "open": 108.4,
             "volume": 9901
+        },
+        {
+            "change": -0.07,
+            "close": 108.25,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 108.79,
+            "min": 108.05,
+            "open": 108.34,
+            "volume": 8245
         }
     ],
     "propriedades": [
@@ -11799,26 +11808,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.14521739130434783,
-                "dy": 4.769130434782609
+                "cagr_dy_3": -0.16761904761904764,
+                "dy": 4.177142857142858
             },
             "mercado": {
-                "custo_adm_med": 220658.7373913044,
-                "liquidez_med": 4924.847826086957
+                "custo_adm_med": 236323.5,
+                "liquidez_med": 5393.761904761905
             },
             "operacao": {
-                "patrimonio_liquido": 780439608.9426086,
-                "pl_cx": 1.8121739130434786,
-                "vacancia": 7.693043478260869
+                "patrimonio_liquido": 733665848.9719048,
+                "pl_cx": 1.9071428571428577,
+                "vacancia": 7.924761904761904
             },
             "valuation": {
-                "p_vpa_med": 0.7047826086956522
+                "p_vpa_med": 0.7542857142857143
             }
         },
         "mercado": {
             "custo_adm_med": 281120.435,
-            "ifix": 0.726,
-            "liquidez_med": 12871.0
+            "ifix": 0.727,
+            "liquidez_med": 12866
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -11833,8 +11842,8 @@
         "valuation": {
             "p_vpa": 1.01,
             "p_vpa_med": 0.93,
-            "price": 108.33,
-            "valuation": 93.09
+            "price": 108.25,
+            "valuation": 92.83
         }
     },
     "ticker": "MALL11",

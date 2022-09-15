@@ -1,5 +1,5 @@
 {
-    "cnpj": "ALIANZA TRUST RENDA IMOBILIARIA - FUNDO DE INVESTIMENTO IMOBILIARIO",
+    "cnpj": "28.737.771/0001-85",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -424,7 +424,7 @@
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 0.857,
+    "ifix_participacao": 0.868,
     "imr": [
         {
             "ativo": 95672677.83,
@@ -1173,7 +1173,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRALZRCTF006",
     "lci": [],
     "mandato": "Renda",
@@ -11636,6 +11636,15 @@
             "min": 116.3,
             "open": 116.6,
             "volume": 17194
+        },
+        {
+            "change": 1.09,
+            "close": 117.6,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 117.65,
+            "min": 116.61,
+            "open": 117.15,
+            "volume": 6493
         }
     ],
     "propriedades": [
@@ -11683,7 +11692,7 @@
             "area": 18591.0,
             "cidade": "APTIV Espirito Santo do Pinhal Rua Jos\u00e9 Monfardini 3845, Lote A, Esp\u00edrito Santo do Pinhal, SP, 13990000 \n                \u00c1rea (m2):\n                18.591,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "endereco": "Rua Jos\u00e9 Monfardini 3845, Lote A, Esp\u00edrito Santo do Pinhal, SP, 13990",
-            "estado": "AP",
+            "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "APTIV Espirito Santo do Pinhal",
             "unidades": 1,
@@ -11790,30 +11799,30 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06875,
-                "dy": 6.7375
+                "cagr_dy_3": -0.07285714285714286,
+                "dy": 7.439714285714287
             },
             "mercado": {
-                "custo_adm_med": 225298.48537499987,
-                "liquidez_med": 11916.6375
+                "custo_adm_med": 128096.58114285712,
+                "liquidez_med": 13854.828571428572
             },
             "operacao": {
-                "patrimonio_liquido": 660324917.6847501,
-                "pl_cx": 7.695000000000002,
-                "vacancia": 11.533
+                "patrimonio_liquido": 518372177.386,
+                "pl_cx": 6.270857142857143,
+                "vacancia": 10.583999999999998
             },
             "valuation": {
-                "p_vpa_med": 1.15925
+                "p_vpa_med": 1.2125714285714284
             }
         },
         "mercado": {
             "custo_adm_med": 146025.475,
-            "ifix": 0.857,
-            "liquidez_med": 8671.0
+            "ifix": 0.868,
+            "liquidez_med": 8669
         },
         "operacao": {
             "contratos_vencimento": 37,
-            "estados": 3,
+            "estados": 2,
             "imoveis": 13,
             "patrimonio_liquido": 663016738.46,
             "pl_cx": 9.2,
@@ -11822,10 +11831,10 @@
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 1.11,
+            "p_vpa": 1.12,
             "p_vpa_med": 1.16,
-            "price": 116.33,
-            "valuation": 97.38
+            "price": 117.6,
+            "valuation": 97.1
         }
     },
     "ticker": "ALZR11",

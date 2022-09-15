@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO RIO BRAVO RENDA EDUCACIONAL- FII",
+    "cnpj": "13.873.457/0001-52",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1423,7 +1423,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRRBEDCTF006",
     "lci": [],
     "mandato": "Desenvolvimento",
@@ -23739,6 +23739,24 @@
             "min": 133.91,
             "open": 134.2,
             "volume": 568
+        },
+        {
+            "change": 0.14,
+            "close": 134.19,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 134.19,
+            "min": 134.0,
+            "open": 134.18,
+            "volume": 923
+        },
+        {
+            "change": 0.6,
+            "close": 134.99,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 135.0,
+            "min": 134.2,
+            "open": 134.2,
+            "volume": 91
         }
     ],
     "propriedades": [
@@ -23824,7 +23842,7 @@
             "cmgr_alugeis_6m": 0.01
         },
         "dividends": {
-            "cagr_dividens_1": 0.19,
+            "cagr_dividens_1": 0.16,
             "cagr_dividens_3": 0.07,
             "cagr_dy_1": -0.17,
             "cagr_dy_3": -0.06,
@@ -23833,20 +23851,20 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.054761904761904755,
-                "dy": 7.255714285714287
+                "cagr_dy_3": -0.0635,
+                "dy": 7.5920000000000005
             },
             "mercado": {
-                "custo_adm_med": 174258.85928571428,
-                "liquidez_med": 5089.166666666667
+                "custo_adm_med": 166969.745,
+                "liquidez_med": 5711.8
             },
             "operacao": {
-                "patrimonio_liquido": 402867389.5485714,
-                "pl_cx": 3.632857142857143,
-                "vacancia": 3.192380952380952
+                "patrimonio_liquido": 383727968.3325,
+                "pl_cx": 3.2525,
+                "vacancia": 3.3519999999999994
             },
             "valuation": {
-                "p_vpa_med": 0.6447619047619048
+                "p_vpa_med": 0.6289999999999999
             }
         },
         "mercado": {
@@ -23865,10 +23883,10 @@
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.95,
+            "p_vpa": 0.96,
             "p_vpa_med": 0.82,
-            "price": 134.0,
-            "valuation": 151.66
+            "price": 134.99,
+            "valuation": 151.23
         }
     },
     "ticker": "RBED11",

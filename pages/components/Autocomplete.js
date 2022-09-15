@@ -28,20 +28,30 @@ class Autocomplete extends Component {
   }
 
   onChange = e => {
-    const { suggestions } = this.props;
+    const { suggestions, inputLetterToShow=2, maxSuggestions=10 } = this.props;
     const userInput = e.currentTarget.value;
+
+    if(userInput.length<inputLetterToShow)
+    {
+      this.setState({    
+        ...this.state,  
+        showSuggestions: false,
+        userInput
+      });
+      return;
+    }
 
     // Filter our suggestions that don't contain the user's input
     const filteredSuggestions = suggestions.filter(
       suggestion =>
         suggestion.toLowerCase().indexOf(userInput.toLowerCase()) > -1
-    );
+    ).slice(0, maxSuggestions-1);
 
     this.setState({      
       activeSuggestion: 0,
       filteredSuggestions,
       showSuggestions: true,
-      userInput: e.currentTarget.value
+      userInput
     });
   };
 

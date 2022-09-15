@@ -1,5 +1,5 @@
 {
-    "cnpj": "CASTELLO BRANCO OFFICE PARK FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "cnpj": "17.144.039/0001-85",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1265,6 +1265,19 @@
             "patrimonio_liquido": 108207198.31,
             "receita_aluguel": 342885.89,
             "valor_patrimonio_cotas": 76.471518
+        },
+        {
+            "ativo": 108438096.4,
+            "caixa": 5464398.62,
+            "competencia": "08/2022",
+            "cotas_emitidas": 1415000.0,
+            "cotistas": 3782,
+            "despesa_administracao": 64689.8,
+            "dy": 0.6408,
+            "numero_cotas": 1415000.0,
+            "patrimonio_liquido": 107636944.4,
+            "receita_aluguel": 351045.89,
+            "valor_patrimonio_cotas": 76.068512
         }
     ],
     "indexador_reajuste_contrato": [
@@ -1289,7 +1302,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRCBOPCTF001",
     "lci": [],
     "mandato": "Renda",
@@ -18304,6 +18317,15 @@
             "min": 61.84,
             "open": 61.85,
             "volume": 134
+        },
+        {
+            "change": -0.92,
+            "close": 61.29,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 62.0,
+            "min": 61.26,
+            "open": 61.82,
+            "volume": 195
         }
     ],
     "propriedades": [
@@ -18321,7 +18343,7 @@
     "segmento": "Lajes",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.53,
+            "cagr_alugeis_1": -0.52,
             "cagr_ativo_1": -0.18,
             "cagr_patrimonio_liquido": -0.18,
             "cagr_vpa_1": -0.18,
@@ -18334,37 +18356,37 @@
             "cagr_dy_1": -0.36,
             "cagr_dy_3": -0.14,
             "cagr_dy_5": -0.09,
-            "dy": 8.72
+            "dy": 9.36
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.00540540540540542,
-                "dy": 28.414594594594597
+                "cagr_dy_3": 0.030937500000000014,
+                "dy": 32.5340625
             },
             "mercado": {
-                "custo_adm_med": 119206.02594594592,
-                "liquidez_med": 3029.972972972973
+                "custo_adm_med": 136820.42515624998,
+                "liquidez_med": 3993.140625
             },
             "operacao": {
-                "patrimonio_liquido": 331827655.631081,
-                "pl_cx": 24.609189189189188,
-                "vacancia": 29.048648648648648
+                "patrimonio_liquido": 385829574.90374994,
+                "pl_cx": 28.327499999999997,
+                "vacancia": 31.209687499999998
             },
             "valuation": {
-                "p_vpa_med": 0.6908108108108107
+                "p_vpa_med": 0.705625
             }
         },
         "mercado": {
-            "custo_adm_med": 42366.12,
+            "custo_adm_med": 42380.155,
             "ifix": 0,
-            "liquidez_med": 590.0
+            "liquidez_med": 590
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 1,
             "imoveis": 1,
-            "patrimonio_liquido": 108207198.31,
-            "pl_cx": 5.59,
+            "patrimonio_liquido": 107636944.4,
+            "pl_cx": 5.08,
             "vacancia": 47.32,
             "vacancia_1": 6.96,
             "vacancia_3m": 47.32
@@ -18372,8 +18394,8 @@
         "valuation": {
             "p_vpa": 0.81,
             "p_vpa_med": 0.84,
-            "price": 61.86,
-            "valuation": 95.9
+            "price": 61.29,
+            "valuation": 95.63
         }
     },
     "ticker": "CBOP11",

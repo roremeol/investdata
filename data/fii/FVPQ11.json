@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO VIA PARQUE SHOPPING - FII",
+    "cnpj": "00.332.266/0001-31",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1308,7 +1308,7 @@
             "precentual": 1.2791
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRFVPQCTF015",
     "lci": [],
     "mandato": "Renda",
@@ -11159,6 +11159,15 @@
             "min": 117.61,
             "open": 118.25,
             "volume": 735
+        },
+        {
+            "change": 1.21,
+            "close": 119.08,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 119.19,
+            "min": 119.08,
+            "open": 119.19,
+            "volume": 6
         }
     ],
     "propriedades": [
@@ -11193,26 +11202,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.14521739130434783,
-                "dy": 4.769130434782609
+                "cagr_dy_3": -0.16761904761904764,
+                "dy": 4.177142857142858
             },
             "mercado": {
-                "custo_adm_med": 220658.7373913044,
-                "liquidez_med": 4924.847826086957
+                "custo_adm_med": 236323.5,
+                "liquidez_med": 5393.761904761905
             },
             "operacao": {
-                "patrimonio_liquido": 780439608.9426086,
-                "pl_cx": 1.8121739130434786,
-                "vacancia": 7.693043478260869
+                "patrimonio_liquido": 733665848.9719048,
+                "pl_cx": 1.9071428571428577,
+                "vacancia": 7.924761904761904
             },
             "valuation": {
-                "p_vpa_med": 0.7047826086956522
+                "p_vpa_med": 0.7542857142857143
             }
         },
         "mercado": {
             "custo_adm_med": 65463.07,
             "ifix": 0,
-            "liquidez_med": 658.0
+            "liquidez_med": 658
         },
         "operacao": {
             "contratos_vencimento": 33,
@@ -11225,10 +11234,10 @@
             "vacancia_3m": 6.86
         },
         "valuation": {
-            "p_vpa": 0.59,
+            "p_vpa": 0.6,
             "p_vpa_med": 0.82,
-            "price": 117.66,
-            "valuation": 92.3
+            "price": 119.08,
+            "valuation": 92.04
         }
     },
     "ticker": "FVPQ11",

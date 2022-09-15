@@ -1,5 +1,5 @@
 {
-    "cnpj": "RB CAPITAL RENDA II FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "cnpj": "09.006.914/0001-34",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1329,7 +1329,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRRBRDCTF008",
     "lci": [],
     "mandato": "Renda",
@@ -23258,6 +23258,24 @@
             "min": 39.15,
             "open": 39.21,
             "volume": 694
+        },
+        {
+            "change": 0.03,
+            "close": 39.85,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 39.87,
+            "min": 39.4,
+            "open": 39.4,
+            "volume": 983
+        },
+        {
+            "change": -0.08,
+            "close": 39.82,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 39.88,
+            "min": 39.56,
+            "open": 39.88,
+            "volume": 18
         }
     ],
     "propriedades": [
@@ -23265,7 +23283,7 @@
             "area": 6884.0,
             "cidade": "UBERL\u00c2NDIA",
             "endereco": "Ambev RODOVIA AYRTON SENNA - UBERL\u00c2NDIA - MG \n                \u00c1rea (m2):\n                6.884,00 \n                N\u00ba de unidades ou lojas:\n                1 O fundo \u00e9 propriet\u00e1rio de 100% do im\u00f3vel, sem \u00f4nus ou garantias",
-            "estado": "RO",
+            "estado": "MG",
             "inadimplencia": 0.0,
             "nome": "Ambev RODOVIA AYRTON SENNA - UBERL\u00c2NDIA - MG \n                \u00c1rea (m2):\n                6.884,00 \n                N\u00ba de unidades ou lojas:\n                1 O fundo \u00e9 propriet\u00e1rio de 100% do im\u00f3vel, sem \u00f4nus ou garantias",
             "unidades": 1,
@@ -23275,7 +23293,7 @@
             "area": 12510.75,
             "cidade": "S\u00c3O GON\u00c7ALO",
             "endereco": "Ampla RUA DR. NILO PE\u00c7ANHA N\u00ba 564, BAIRRO S\u00c3O MIGUEL - S\u00c3O GON\u00c7ALO \u2013 RJ \n                \u00c1rea (m2):\n                12.510,75 \n                N\u00ba de unidades ou lojas:\n                1 O fundo \u00e9 propriet\u00e1rio de 100% do im\u00f3vel, sem \u00f4nus ou garantias",
-            "estado": "PE",
+            "estado": "RO",
             "inadimplencia": 0.0,
             "nome": "Ampla RUA DR. NILO PE\u00c7ANHA N\u00ba 564, BAIRRO S\u00c3O MIGUEL - S\u00c3O GON\u00c7ALO \u2013 RJ \n                \u00c1rea (m2):\n                12.510,75 \n                N\u00ba de unidades ou lojas:\n                1 O fundo \u00e9 propriet\u00e1rio de 100% do im\u00f3vel, sem \u00f4nus ou garantias",
             "unidades": 1,
@@ -23285,7 +23303,7 @@
             "area": 3844.99,
             "cidade": "RIO DE JANEIRO",
             "endereco": "Leader Catete  RUA DO CATETE N\u00b0 194 E 196, ESQUINA COM RUA CORREA DUTRA - RIO DE JANEIRO \u2013 RJ \n                \u00c1rea (m2):\n                3.844,99 \n                N\u00ba de unidades ou lojas:\n                1 O fundo \u00e9 propriet\u00e1rio de 100% do im\u00f3vel, sem \u00f4nus ou garantias",
-            "estado": "ES",
+            "estado": "RO",
             "inadimplencia": 0.0,
             "nome": "Leader Catete  RUA DO CATETE N\u00b0 194 E 196, ESQUINA COM RUA CORREA DUTRA - RIO DE JANEIRO \u2013 RJ \n                \u00c1rea (m2):\n                3.844,99 \n                N\u00ba de unidades ou lojas:\n                1 O fundo \u00e9 propriet\u00e1rio de 100% do im\u00f3vel, sem \u00f4nus ou garantias",
             "unidades": 1,
@@ -23295,7 +23313,7 @@
             "area": 3682.78,
             "cidade": "NATAL",
             "endereco": "Leader Natal RUA JO\u00c3O PESSOA, 86 - NATAL \u2013 RN \n                \u00c1rea (m2):\n                3.682,78 \n                N\u00ba de unidades ou lojas:\n                1 O fundo \u00e9 propriet\u00e1rio de 100% do im\u00f3vel, sem \u00f4nus ou garantias",
-            "estado": "PE",
+            "estado": "AL",
             "inadimplencia": 0.0,
             "nome": "Leader Natal RUA JO\u00c3O PESSOA, 86 - NATAL \u2013 RN \n                \u00c1rea (m2):\n                3.682,78 \n                N\u00ba de unidades ou lojas:\n                1 O fundo \u00e9 propriet\u00e1rio de 100% do im\u00f3vel, sem \u00f4nus ou garantias",
             "unidades": 1,
@@ -23322,20 +23340,20 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06875,
-                "dy": 6.7375
+                "cagr_dy_3": -0.07285714285714286,
+                "dy": 7.439714285714287
             },
             "mercado": {
-                "custo_adm_med": 225298.48537499987,
-                "liquidez_med": 11916.6375
+                "custo_adm_med": 128096.58114285712,
+                "liquidez_med": 13854.828571428572
             },
             "operacao": {
-                "patrimonio_liquido": 660324917.6847501,
-                "pl_cx": 7.695000000000002,
-                "vacancia": 11.533
+                "patrimonio_liquido": 518372177.386,
+                "pl_cx": 6.270857142857143,
+                "vacancia": 10.583999999999998
             },
             "valuation": {
-                "p_vpa_med": 1.15925
+                "p_vpa_med": 1.2125714285714284
             }
         },
         "mercado": {
@@ -23356,8 +23374,8 @@
         "valuation": {
             "p_vpa": 0.57,
             "p_vpa_med": 0.86,
-            "price": 39.84,
-            "valuation": 45.76
+            "price": 39.82,
+            "valuation": 45.63
         }
     },
     "ticker": "RBRD11",

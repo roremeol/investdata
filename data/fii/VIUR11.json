@@ -1,5 +1,5 @@
 {
-    "cnpj": "VINCI IMOVEIS URBANOS FUNDO DE INVESTIMENTO IMOBILIARIO",
+    "cnpj": "36.445.587/0001-90",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -144,7 +144,7 @@
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 0.196,
+    "ifix_participacao": 0.195,
     "imr": [
         {
             "ativo": 269469103.55,
@@ -340,6 +340,19 @@
             "patrimonio_liquido": 254972381.8,
             "receita_aluguel": 2004369.0,
             "valor_patrimonio_cotas": 9.462269
+        },
+        {
+            "ativo": 383075386.13,
+            "caixa": 28824950.58,
+            "competencia": "08/2022",
+            "cotas_emitidas": 26946220.0,
+            "cotistas": 7513,
+            "despesa_administracao": 220872.67,
+            "dy": 0.7609,
+            "numero_cotas": 26946220.0,
+            "patrimonio_liquido": 255344132.45,
+            "receita_aluguel": 2147304.0,
+            "valor_patrimonio_cotas": 9.476065
         }
     ],
     "indexador_reajuste_contrato": [
@@ -360,7 +373,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRVIURCTF009",
     "lci": [],
     "mandato": "Renda",
@@ -3227,6 +3240,24 @@
             "min": 8.05,
             "open": 8.21,
             "volume": 42953
+        },
+        {
+            "change": 0.25,
+            "close": 8.13,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 8.15,
+            "min": 8.07,
+            "open": 8.11,
+            "volume": 23161
+        },
+        {
+            "change": 0.62,
+            "close": 8.18,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 8.22,
+            "min": 8.16,
+            "open": 8.22,
+            "volume": 3018
         }
     ],
     "propriedades": [
@@ -3264,7 +3295,7 @@
             "area": 12088.0,
             "cidade": "Telebr\u00e1s km 1, Cidade Universit\u00e1ria, Campinas",
             "endereco": "Estrada Municipal UNICAMP",
-            "estado": "AM",
+            "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Facamp",
             "unidades": 1,
@@ -3294,12 +3325,12 @@
     "segmento": "Outros",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.24,
+            "cagr_alugeis_1": 0.33,
             "cagr_ativo_1": -0.01,
             "cagr_patrimonio_liquido": -0.01,
             "cagr_vpa_1": -0.01,
-            "cagr_vpa_3": -0.01,
-            "cmgr_alugeis_6m": 0.0
+            "cagr_vpa_3": -0.0,
+            "cmgr_alugeis_6m": 0.01
         },
         "dividends": {
             "cagr_dividens_1": -0.93,
@@ -3307,37 +3338,37 @@
             "cagr_dy_1": -0.24,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 5.86
+            "dy": 6.62
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.054761904761904755,
-                "dy": 7.255714285714287
+                "cagr_dy_3": -0.0635,
+                "dy": 7.5920000000000005
             },
             "mercado": {
-                "custo_adm_med": 174258.85928571428,
-                "liquidez_med": 5089.166666666667
+                "custo_adm_med": 166969.745,
+                "liquidez_med": 5711.8
             },
             "operacao": {
-                "patrimonio_liquido": 402867389.5485714,
-                "pl_cx": 3.632857142857143,
-                "vacancia": 3.192380952380952
+                "patrimonio_liquido": 383727968.3325,
+                "pl_cx": 3.2525,
+                "vacancia": 3.3519999999999994
             },
             "valuation": {
-                "p_vpa_med": 0.6447619047619048
+                "p_vpa_med": 0.6289999999999999
             }
         },
         "mercado": {
-            "custo_adm_med": 205327.4,
-            "ifix": 0.196,
-            "liquidez_med": 32160.0
+            "custo_adm_med": 205743.41499999998,
+            "ifix": 0.195,
+            "liquidez_med": 32105.0
         },
         "operacao": {
             "contratos_vencimento": 37,
-            "estados": 4,
+            "estados": 3,
             "imoveis": 6,
-            "patrimonio_liquido": 254972381.8,
-            "pl_cx": 11.51,
+            "patrimonio_liquido": 255344132.45,
+            "pl_cx": 11.29,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
@@ -3345,8 +3376,8 @@
         "valuation": {
             "p_vpa": 0.86,
             "p_vpa_med": 0.08,
-            "price": 8.11,
-            "valuation": 66.08
+            "price": 8.18,
+            "valuation": 65.9
         }
     },
     "ticker": "VIUR11",

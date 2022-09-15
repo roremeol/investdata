@@ -1,5 +1,5 @@
 {
-    "cnpj": "RIO BRAVO CR\u00c9DITO IMOBILI\u00c1RIO II FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "cnpj": "15.769.670/0001-44",
     "contratos": [],
     "cri": [
         {
@@ -1242,7 +1242,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRRBVOCTF007",
     "lci": [],
     "mandato": "Segmento",
@@ -21236,6 +21236,24 @@
             "min": 10.65,
             "open": 10.99,
             "volume": 632
+        },
+        {
+            "change": 0.09,
+            "close": 10.66,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 10.84,
+            "min": 10.55,
+            "open": 10.65,
+            "volume": 271
+        },
+        {
+            "change": -0.84,
+            "close": 10.57,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 10.68,
+            "min": 10.55,
+            "open": 10.68,
+            "volume": 42
         }
     ],
     "propriedades": [],
@@ -21264,7 +21282,7 @@
             },
             "mercado": {
                 "custo_adm_med": 6894.85,
-                "liquidez_med": 314.0
+                "liquidez_med": 313.0
             },
             "operacao": {
                 "patrimonio_liquido": 8932917.24,
@@ -21278,7 +21296,7 @@
         "mercado": {
             "custo_adm_med": 6894.85,
             "ifix": 0,
-            "liquidez_med": 314
+            "liquidez_med": 313
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -21293,8 +21311,8 @@
         "valuation": {
             "p_vpa": 0.61,
             "p_vpa_med": 1.1,
-            "price": 10.65,
-            "valuation": 5.43
+            "price": 10.57,
+            "valuation": 5.41
         }
     },
     "ticker": "RBVO11",

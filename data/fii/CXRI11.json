@@ -1,5 +1,5 @@
 {
-    "cnpj": "CAIXA RIO BRAVO FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIARIO - FII",
+    "cnpj": "17.098.794/0001-70",
     "contratos": [],
     "cri": [],
     "dividends": [
@@ -1224,7 +1224,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRCXRICTF003",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -15944,6 +15944,15 @@
             "min": 69.2,
             "open": 69.4,
             "volume": 215
+        },
+        {
+            "change": 0.0,
+            "close": 69.21,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 69.86,
+            "min": 69.21,
+            "open": 69.22,
+            "volume": 438
         }
     ],
     "propriedades": [],
@@ -15967,26 +15976,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
             "custo_adm_med": 157410.12,
             "ifix": 0,
-            "liquidez_med": 61
+            "liquidez_med": 61.0
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -16000,9 +16009,9 @@
         },
         "valuation": {
             "p_vpa": 0.77,
-            "p_vpa_med": 0.9,
+            "p_vpa_med": 0.89,
             "price": 69.21,
-            "valuation": 70.26
+            "valuation": 70.07
         }
     },
     "ticker": "CXRI11",

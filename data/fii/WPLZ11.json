@@ -1,5 +1,5 @@
 {
-    "cnpj": "SHOPPING WEST PLAZA FUNDO DE INVESTIMENTO IMOBILIARIO",
+    "cnpj": "09.326.861/0001-39",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1238,7 +1238,7 @@
             "precentual": 11.6917
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRWPLZCTF004",
     "lci": [],
     "mandato": "Renda",
@@ -21070,6 +21070,24 @@
             "min": 80.61,
             "open": 80.61,
             "volume": 34
+        },
+        {
+            "change": 1.18,
+            "close": 82.97,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 83.02,
+            "min": 82.0,
+            "open": 82.0,
+            "volume": 289
+        },
+        {
+            "change": -0.02,
+            "close": 82.95,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 82.97,
+            "min": 82.95,
+            "open": 82.97,
+            "volume": 7
         }
     ],
     "propriedades": [
@@ -21104,20 +21122,20 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.14521739130434783,
-                "dy": 4.769130434782609
+                "cagr_dy_3": -0.16761904761904764,
+                "dy": 4.177142857142858
             },
             "mercado": {
-                "custo_adm_med": 220658.7373913044,
-                "liquidez_med": 4924.847826086957
+                "custo_adm_med": 236323.5,
+                "liquidez_med": 5393.761904761905
             },
             "operacao": {
-                "patrimonio_liquido": 780439608.9426086,
-                "pl_cx": 1.8121739130434786,
-                "vacancia": 7.693043478260869
+                "patrimonio_liquido": 733665848.9719048,
+                "pl_cx": 1.9071428571428577,
+                "vacancia": 7.924761904761904
             },
             "valuation": {
-                "p_vpa_med": 0.7047826086956522
+                "p_vpa_med": 0.7542857142857143
             }
         },
         "mercado": {
@@ -21136,10 +21154,10 @@
             "vacancia_3m": 11.8
         },
         "valuation": {
-            "p_vpa": 0.8,
+            "p_vpa": 0.81,
             "p_vpa_med": 0.8,
-            "price": 82.0,
-            "valuation": 44.07
+            "price": 82.95,
+            "valuation": 43.95
         }
     },
     "ticker": "WPLZ11",

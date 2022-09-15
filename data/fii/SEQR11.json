@@ -1,5 +1,5 @@
 {
-    "cnpj": "SEQU\u00d3IA III RENDA IMOBILI\u00c1RIA FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "09.517.273/0001-82",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -583,6 +583,19 @@
             "patrimonio_liquido": 154662909.56,
             "receita_aluguel": 1020808.46,
             "valor_patrimonio_cotas": 96.150378
+        },
+        {
+            "ativo": 155009465.85,
+            "caixa": 1320089.66,
+            "competencia": "08/2022",
+            "cotas_emitidas": 1608552.272,
+            "cotistas": 4002,
+            "despesa_administracao": 33827.96,
+            "dy": 0.6918,
+            "numero_cotas": 1608552.272,
+            "patrimonio_liquido": 154465555.44,
+            "receita_aluguel": 1032114.63,
+            "valor_patrimonio_cotas": 96.027688
         }
     ],
     "indexador_reajuste_contrato": [
@@ -607,7 +620,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRSEQRCTF002",
     "lci": [],
     "mandato": "Renda",
@@ -4086,6 +4099,24 @@
             "min": 66.09,
             "open": 66.35,
             "volume": 6092
+        },
+        {
+            "change": -0.89,
+            "close": 65.61,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 66.75,
+            "min": 64.21,
+            "open": 66.23,
+            "volume": 4589
+        },
+        {
+            "change": 2.1,
+            "close": 66.99,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 67.08,
+            "min": 65.91,
+            "open": 66.15,
+            "volume": 421
         }
     ],
     "propriedades": [
@@ -4123,7 +4154,7 @@
             "area": 11817.63,
             "cidade": "SANT ANTONIO Rua Gelba, 500, Santo Ant\u00f4nio da PatrulaRS. \n                \u00c1rea (m2):\n                11.817,63 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 20.788",
             "endereco": "Rua Gelba, 500, Santo Ant\u00f4nio da Patrula",
-            "estado": "TO",
+            "estado": "RS",
             "inadimplencia": 0.0,
             "nome": "SANT ANTONIO",
             "unidades": 1,
@@ -4133,7 +4164,7 @@
     "segmento": "Outros",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 6.27,
+            "cagr_alugeis_1": 6.35,
             "cagr_ativo_1": -0.08,
             "cagr_patrimonio_liquido": -0.08,
             "cagr_vpa_1": -0.08,
@@ -4146,28 +4177,28 @@
             "cagr_dy_1": -0.31,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 6.45
+            "dy": 7.14
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.054761904761904755,
-                "dy": 7.255714285714287
+                "cagr_dy_3": -0.0635,
+                "dy": 7.5920000000000005
             },
             "mercado": {
-                "custo_adm_med": 174258.85928571428,
-                "liquidez_med": 5089.166666666667
+                "custo_adm_med": 166969.745,
+                "liquidez_med": 5711.8
             },
             "operacao": {
-                "patrimonio_liquido": 402867389.5485714,
-                "pl_cx": 3.632857142857143,
-                "vacancia": 3.192380952380952
+                "patrimonio_liquido": 383727968.3325,
+                "pl_cx": 3.2525,
+                "vacancia": 3.3519999999999994
             },
             "valuation": {
-                "p_vpa_med": 0.6447619047619048
+                "p_vpa_med": 0.6289999999999999
             }
         },
         "mercado": {
-            "custo_adm_med": 30175.35,
+            "custo_adm_med": 30814.03,
             "ifix": 0,
             "liquidez_med": 1933.0
         },
@@ -4175,17 +4206,17 @@
             "contratos_vencimento": 37,
             "estados": 2,
             "imoveis": 4,
-            "patrimonio_liquido": 154662909.56,
-            "pl_cx": 0.96,
+            "patrimonio_liquido": 154465555.44,
+            "pl_cx": 0.85,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.69,
+            "p_vpa": 0.7,
             "p_vpa_med": 0.72,
-            "price": 66.2,
-            "valuation": 86.8
+            "price": 66.99,
+            "valuation": 86.56
         }
     },
     "ticker": "SEQR11",

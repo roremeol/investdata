@@ -1,5 +1,5 @@
 {
-    "cnpj": "VBI REITS FOF - FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "35.507.457/0001-71",
     "contratos": [],
     "cri": [
         {
@@ -172,7 +172,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.103,
+    "ifix_participacao": 0.104,
     "imr": [
         {
             "ativo": 161519433.17,
@@ -566,7 +566,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRRVBICTF009",
     "lci": [],
     "mandato": "Renda",
@@ -6358,6 +6358,24 @@
             "min": 80.16,
             "open": 80.87,
             "volume": 2834
+        },
+        {
+            "change": 0.43,
+            "close": 81.25,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 81.25,
+            "min": 80.44,
+            "open": 80.9,
+            "volume": 1305
+        },
+        {
+            "change": 0.31,
+            "close": 81.5,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 81.59,
+            "min": 81.25,
+            "open": 81.25,
+            "volume": 67
         }
     ],
     "propriedades": [],
@@ -6381,26 +6399,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
             "custo_adm_med": 101748.005,
-            "ifix": 0.103,
-            "liquidez_med": 4233
+            "ifix": 0.104,
+            "liquidez_med": 4230
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -6413,10 +6431,10 @@
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.94,
+            "p_vpa": 0.95,
             "p_vpa_med": 0.92,
-            "price": 80.9,
-            "valuation": 101.18
+            "price": 81.5,
+            "valuation": 100.9
         }
     },
     "ticker": "RVBI11",

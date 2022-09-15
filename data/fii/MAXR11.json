@@ -1,5 +1,5 @@
 {
-    "cnpj": "FII MAX RETAIL",
+    "cnpj": "11.274.415/0001-70",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1325,7 +1325,7 @@
             "precentual": 2.0823
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRMAXRCTF009",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -17638,6 +17638,15 @@
             "min": 84.0,
             "open": 86.05,
             "volume": 538
+        },
+        {
+            "change": -0.79,
+            "close": 84.5,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 85.79,
+            "min": 84.5,
+            "open": 85.79,
+            "volume": 620
         }
     ],
     "propriedades": [
@@ -17705,7 +17714,7 @@
             "area": 3420.0,
             "cidade": "Brasilia SCS Quadra 04, Bloco A , , Brasilia, DF, 70297",
             "endereco": "Americanas S.A - Brasilia SCS Quadra 04, Bloco A , , Brasilia, DF, 70297-400 \n                \u00c1rea (m2):\n                3.420,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
-            "estado": "SC",
+            "estado": "DF",
             "inadimplencia": 0.0,
             "nome": "Americanas S.A - Brasilia SCS Quadra 04, Bloco A , , Brasilia, DF, 70297-400 \n                \u00c1rea (m2):\n                3.420,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
             "unidades": 1,
@@ -17762,30 +17771,30 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06875,
-                "dy": 6.7375
+                "cagr_dy_3": -0.07285714285714286,
+                "dy": 7.439714285714287
             },
             "mercado": {
-                "custo_adm_med": 225298.48537499987,
-                "liquidez_med": 11916.6375
+                "custo_adm_med": 128096.58114285712,
+                "liquidez_med": 13854.828571428572
             },
             "operacao": {
-                "patrimonio_liquido": 660324917.6847501,
-                "pl_cx": 7.695000000000002,
-                "vacancia": 11.533
+                "patrimonio_liquido": 518372177.386,
+                "pl_cx": 6.270857142857143,
+                "vacancia": 10.583999999999998
             },
             "valuation": {
-                "p_vpa_med": 1.15925
+                "p_vpa_med": 1.2125714285714284
             }
         },
         "mercado": {
             "custo_adm_med": 25770.71,
             "ifix": 0,
-            "liquidez_med": 51.0
+            "liquidez_med": 51
         },
         "operacao": {
             "contratos_vencimento": 37,
-            "estados": 8,
+            "estados": 7,
             "imoveis": 10,
             "patrimonio_liquido": 135232437.07,
             "pl_cx": 1.24,
@@ -17794,10 +17803,10 @@
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.71,
+            "p_vpa": 0.7,
             "p_vpa_med": 0.88,
-            "price": 85.17,
-            "valuation": 87.29
+            "price": 84.5,
+            "valuation": 87.05
         }
     },
     "ticker": "MAXR11",

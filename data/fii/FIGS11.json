@@ -1,5 +1,5 @@
 {
-    "cnpj": "GENERAL SHOPPING ATIVO E RENDA FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "17.590.518/0001-25",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1327,7 +1327,7 @@
             "precentual": 84.1766
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRFIGSCTF009",
     "lci": [],
     "mandato": "Renda",
@@ -21690,6 +21690,15 @@
             "min": 55.16,
             "open": 56.5,
             "volume": 3334
+        },
+        {
+            "change": -0.05,
+            "close": 56.37,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 56.5,
+            "min": 55.96,
+            "open": 56.49,
+            "volume": 1223
         }
     ],
     "propriedades": [
@@ -21734,26 +21743,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.14521739130434783,
-                "dy": 4.769130434782609
+                "cagr_dy_3": -0.16761904761904764,
+                "dy": 4.177142857142858
             },
             "mercado": {
-                "custo_adm_med": 220658.7373913044,
-                "liquidez_med": 4924.847826086957
+                "custo_adm_med": 236323.5,
+                "liquidez_med": 5393.761904761905
             },
             "operacao": {
-                "patrimonio_liquido": 780439608.9426086,
-                "pl_cx": 1.8121739130434786,
-                "vacancia": 7.693043478260869
+                "patrimonio_liquido": 733665848.9719048,
+                "pl_cx": 1.9071428571428577,
+                "vacancia": 7.924761904761904
             },
             "valuation": {
-                "p_vpa_med": 0.7047826086956522
+                "p_vpa_med": 0.7542857142857143
             }
         },
         "mercado": {
             "custo_adm_med": 56842.325,
             "ifix": 0,
-            "liquidez_med": 3967.0
+            "liquidez_med": 3961
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -21768,8 +21777,8 @@
         "valuation": {
             "p_vpa": 0.57,
             "p_vpa_med": 0.66,
-            "price": 56.4,
-            "valuation": 48.12
+            "price": 56.37,
+            "valuation": 47.98
         }
     },
     "ticker": "FIGS11",

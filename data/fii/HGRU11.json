@@ -1,5 +1,5 @@
 {
-    "cnpj": "CSHG RENDA URBANA - FUNDO DE INVESTIMENTO IMOBILIARIO - FII",
+    "cnpj": "29.641.226/0001-53",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1086,6 +1086,19 @@
             "patrimonio_liquido": 2176483482.74,
             "receita_aluguel": 12725109.52,
             "valor_patrimonio_cotas": 118.245644
+        },
+        {
+            "ativo": 2367837980.63,
+            "caixa": 77077882.27,
+            "competencia": "08/2022",
+            "cotas_emitidas": 18406458.0,
+            "cotistas": 183374,
+            "despesa_administracao": 1435604.83,
+            "dy": 0.6935,
+            "numero_cotas": 18406458.0,
+            "patrimonio_liquido": 2188422001.09,
+            "receita_aluguel": 13245207.18,
+            "valor_patrimonio_cotas": 118.894249
         }
     ],
     "indexador_reajuste_contrato": [
@@ -1106,7 +1119,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRHGRUCTF002",
     "lci": [],
     "mandato": "Renda",
@@ -10237,6 +10250,15 @@
             "min": 125.78,
             "open": 128.25,
             "volume": 33669
+        },
+        {
+            "change": 0.02,
+            "close": 128.13,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 128.3,
+            "min": 127.03,
+            "open": 128.1,
+            "volume": 24093
         }
     ],
     "propriedades": [
@@ -11084,7 +11106,7 @@
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.1,
+            "cagr_alugeis_1": 0.15,
             "cagr_ativo_1": 0.08,
             "cagr_patrimonio_liquido": 0.01,
             "cagr_vpa_1": 0.01,
@@ -11097,37 +11119,37 @@
             "cagr_dy_1": -0.31,
             "cagr_dy_3": -0.11,
             "cagr_dy_5": 0,
-            "dy": 6.92
+            "dy": 7.61
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06875,
-                "dy": 6.7375
+                "cagr_dy_3": -0.07285714285714286,
+                "dy": 7.439714285714287
             },
             "mercado": {
-                "custo_adm_med": 225298.48537499987,
-                "liquidez_med": 11916.6375
+                "custo_adm_med": 128096.58114285712,
+                "liquidez_med": 13854.828571428572
             },
             "operacao": {
-                "patrimonio_liquido": 660324917.6847501,
-                "pl_cx": 7.695000000000002,
-                "vacancia": 11.533
+                "patrimonio_liquido": 518372177.386,
+                "pl_cx": 6.270857142857143,
+                "vacancia": 10.583999999999998
             },
             "valuation": {
-                "p_vpa_med": 1.15925
+                "p_vpa_med": 1.2125714285714284
             }
         },
         "mercado": {
-            "custo_adm_med": 822719.3049999999,
+            "custo_adm_med": 840502.59,
             "ifix": 2.094,
-            "liquidez_med": 32047.0
+            "liquidez_med": 32045
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 8,
             "imoveis": 84,
-            "patrimonio_liquido": 2176483482.74,
-            "pl_cx": 3.39,
+            "patrimonio_liquido": 2188422001.09,
+            "pl_cx": 3.52,
             "vacancia": 0.0,
             "vacancia_1": 0.0,
             "vacancia_3m": 0.0
@@ -11135,8 +11157,8 @@
         "valuation": {
             "p_vpa": 1.08,
             "p_vpa_med": 1.07,
-            "price": 128.11,
-            "valuation": 109.5
+            "price": 128.13,
+            "valuation": 109.19
         }
     },
     "ticker": "HGRU11",

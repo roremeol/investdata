@@ -1,5 +1,5 @@
 {
-    "cnpj": "FII FLORIPA SHOPPING",
+    "cnpj": "10.375.382/0001-91",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1279,7 +1279,7 @@
             "precentual": 85.5741
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRFLRPCTF006",
     "lci": [],
     "mandato": "Renda",
@@ -16494,6 +16494,15 @@
             "min": 1579.99,
             "open": 1580.0,
             "volume": 2
+        },
+        {
+            "change": 0.0,
+            "close": 1580.0,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 1580.0,
+            "min": 1561.03,
+            "open": 1561.03,
+            "volume": 7
         }
     ],
     "propriedades": [
@@ -16528,26 +16537,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.14521739130434783,
-                "dy": 4.769130434782609
+                "cagr_dy_3": -0.16761904761904764,
+                "dy": 4.177142857142858
             },
             "mercado": {
-                "custo_adm_med": 220658.7373913044,
-                "liquidez_med": 4924.847826086957
+                "custo_adm_med": 236323.5,
+                "liquidez_med": 5393.761904761905
             },
             "operacao": {
-                "patrimonio_liquido": 780439608.9426086,
-                "pl_cx": 1.8121739130434786,
-                "vacancia": 7.693043478260869
+                "patrimonio_liquido": 733665848.9719048,
+                "pl_cx": 1.9071428571428577,
+                "vacancia": 7.924761904761904
             },
             "valuation": {
-                "p_vpa_med": 0.7047826086956522
+                "p_vpa_med": 0.7542857142857143
             }
         },
         "mercado": {
             "custo_adm_med": 36932.1,
             "ifix": 0,
-            "liquidez_med": 15.0
+            "liquidez_med": 15
         },
         "operacao": {
             "contratos_vencimento": 30,
@@ -16562,8 +16571,8 @@
         "valuation": {
             "p_vpa": 0.91,
             "p_vpa_med": 0.84,
-            "price": 1579.99,
-            "valuation": 1180.48
+            "price": 1580.0,
+            "valuation": 1177.17
         }
     },
     "ticker": "FLRP11",

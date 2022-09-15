@@ -1,5 +1,5 @@
 {
-    "cnpj": "Fundo de Investimento Imobili\u00e1rio - V2 Properties",
+    "cnpj": "33.045.581/0001-37",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -789,7 +789,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRVVPRCTF002",
     "lci": [],
     "mandato": "Renda",
@@ -6779,6 +6779,24 @@
             "min": 99.87,
             "open": 99.89,
             "volume": 258
+        },
+        {
+            "change": -0.08,
+            "close": 100.6,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 100.67,
+            "min": 98.02,
+            "open": 100.67,
+            "volume": 282
+        },
+        {
+            "change": -0.01,
+            "close": 100.59,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 100.59,
+            "min": 100.59,
+            "open": 100.59,
+            "volume": 0
         }
     ],
     "propriedades": [
@@ -6836,7 +6854,7 @@
             "area": 11185.6,
             "cidade": "CDD AMBEV Estrada De Sao Goncalo, SN\u00ba, Altura Aproximada Do Km 530, Humildes , Feira De SantanaBA, Brasil, 44135",
             "endereco": "Estrada De Sao Goncalo, S/ N\u00ba, Altura Aproximada Do Km 530, Humildes , Feira De Santana/BA, Brasil, 44135",
-            "estado": "AM",
+            "estado": "BA",
             "inadimplencia": 0.0,
             "nome": "Feira de Santana - CDD AMBEV De Sao Goncalo, S/ N\u00ba, Altura Aproximada Do Km 530, Humildes , Feira De Santana/BA, Brasil, 44135-000 \n                \u00c1rea (m2):\n                11.185,60 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
@@ -6863,30 +6881,30 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06875,
-                "dy": 6.7375
+                "cagr_dy_3": -0.07285714285714286,
+                "dy": 7.439714285714287
             },
             "mercado": {
-                "custo_adm_med": 225298.48537499987,
-                "liquidez_med": 11916.6375
+                "custo_adm_med": 128096.58114285712,
+                "liquidez_med": 13854.828571428572
             },
             "operacao": {
-                "patrimonio_liquido": 660324917.6847501,
-                "pl_cx": 7.695000000000002,
-                "vacancia": 11.533
+                "patrimonio_liquido": 518372177.386,
+                "pl_cx": 6.270857142857143,
+                "vacancia": 10.583999999999998
             },
             "valuation": {
-                "p_vpa_med": 1.15925
+                "p_vpa_med": 1.2125714285714284
             }
         },
         "mercado": {
             "custo_adm_med": 171234.125,
             "ifix": 0,
-            "liquidez_med": 450
+            "liquidez_med": 445
         },
         "operacao": {
             "contratos_vencimento": 37,
-            "estados": 4,
+            "estados": 3,
             "imoveis": 6,
             "patrimonio_liquido": 226256616.41,
             "pl_cx": 1.01,
@@ -6897,8 +6915,8 @@
         "valuation": {
             "p_vpa": 1.03,
             "p_vpa_med": 0.98,
-            "price": 100.68,
-            "valuation": 103.02
+            "price": 100.59,
+            "valuation": 102.73
         }
     },
     "ticker": "VVPR11",

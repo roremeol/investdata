@@ -1,5 +1,5 @@
 {
-    "cnpj": "PLURAL LOG\u00cdSTICA FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "36.501.198/0001-34",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -415,7 +415,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRPLOGCTF001",
     "lci": [],
     "mandato": "Renda",
@@ -3786,6 +3786,15 @@
             "min": 75.11,
             "open": 75.5,
             "volume": 580
+        },
+        {
+            "change": 0.0,
+            "close": 75.66,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 76.18,
+            "min": 75.0,
+            "open": 75.65,
+            "volume": 1582
         }
     ],
     "propriedades": [
@@ -3820,26 +3829,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": 0.09928571428571424,
-                "dy": 4.979285714285715
+                "cagr_dy_3": 0.10285714285714284,
+                "dy": 5.2457142857142856
             },
             "mercado": {
-                "custo_adm_med": 426055.9367857143,
-                "liquidez_med": 10810.714285714286
+                "custo_adm_med": 335564.6496428572,
+                "liquidez_med": 7999.821428571428
             },
             "operacao": {
-                "patrimonio_liquido": 1009142351.2764285,
-                "pl_cx": 180.67428571428576,
-                "vacancia": 6.429285714285713
+                "patrimonio_liquido": 837136474.1849998,
+                "pl_cx": 180.6285714285714,
+                "vacancia": 5.937857142857142
             },
             "valuation": {
-                "p_vpa_med": 0.8464285714285714
+                "p_vpa_med": 0.7671428571428571
             }
         },
         "mercado": {
             "custo_adm_med": 8874.23,
             "ifix": 0,
-            "liquidez_med": 889.0
+            "liquidez_med": 894
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -3855,7 +3864,7 @@
             "p_vpa": 0.75,
             "p_vpa_med": 0.79,
             "price": 75.66,
-            "valuation": 101.29
+            "valuation": 101.01
         }
     },
     "ticker": "PLOG11",

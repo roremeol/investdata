@@ -1,5 +1,5 @@
 {
-    "cnpj": "BRAZILIAN GRAVEYARD AND DEATH CARE SERVICES FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "cnpj": "13.584.584/0001-31",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -213,7 +213,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.126,
+    "ifix_participacao": 0.124,
     "imr": [
         {
             "ativo": 49596994.8,
@@ -1148,7 +1148,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRCARECTF000",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -13168,6 +13168,15 @@
             "min": 3.9,
             "open": 3.97,
             "volume": 8858
+        },
+        {
+            "change": -2.01,
+            "close": 3.9,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 4.03,
+            "min": 3.9,
+            "open": 3.97,
+            "volume": 6577
         }
     ],
     "propriedades": [
@@ -13193,7 +13202,7 @@
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
-            "cagr_dividens_1": -1.0,
+            "cagr_dividens_1": 0,
             "cagr_dividens_3": -0.88,
             "cagr_dy_1": 0,
             "cagr_dy_3": 0,
@@ -13202,26 +13211,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06875,
-                "dy": 6.7375
+                "cagr_dy_3": -0.07285714285714286,
+                "dy": 7.439714285714287
             },
             "mercado": {
-                "custo_adm_med": 225298.48537499987,
-                "liquidez_med": 11916.6375
+                "custo_adm_med": 128096.58114285712,
+                "liquidez_med": 13854.828571428572
             },
             "operacao": {
-                "patrimonio_liquido": 660324917.6847501,
-                "pl_cx": 7.695000000000002,
-                "vacancia": 11.533
+                "patrimonio_liquido": 518372177.386,
+                "pl_cx": 6.270857142857143,
+                "vacancia": 10.583999999999998
             },
             "valuation": {
-                "p_vpa_med": 1.15925
+                "p_vpa_med": 1.2125714285714284
             }
         },
         "mercado": {
             "custo_adm_med": 318182.82499999995,
-            "ifix": 0.126,
-            "liquidez_med": 12991
+            "ifix": 0.124,
+            "liquidez_med": 12980.0
         },
         "operacao": {
             "contratos_vencimento": 3,
@@ -13234,10 +13243,10 @@
             "vacancia_3m": 100.0
         },
         "valuation": {
-            "p_vpa": 0.49,
-            "p_vpa_med": 4.2,
-            "price": 3.98,
-            "valuation": 0.44
+            "p_vpa": 0.48,
+            "p_vpa_med": 4.18,
+            "price": 3.9,
+            "valuation": 0.43
         }
     },
     "ticker": "CARE11",

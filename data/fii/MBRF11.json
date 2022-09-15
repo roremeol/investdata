@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO MERCANTIL DO BRASIL - FII",
+    "cnpj": "13.500.306/0001-59",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1286,6 +1286,19 @@
             "patrimonio_liquido": 113821070.31,
             "receita_aluguel": 1074680.45,
             "valor_patrimonio_cotas": 1119.580877
+        },
+        {
+            "ativo": 116660422.34,
+            "caixa": 5236550.32,
+            "competencia": "08/2022",
+            "cotas_emitidas": 101664.0,
+            "cotistas": 3405,
+            "despesa_administracao": 45813.3,
+            "dy": 0.8932,
+            "numero_cotas": 101664.0,
+            "patrimonio_liquido": 115690142.53,
+            "receita_aluguel": 1059734.65,
+            "valor_patrimonio_cotas": 1137.965676
         }
     ],
     "indexador_reajuste_contrato": [
@@ -1310,7 +1323,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRMBRFCTF004",
     "lci": [],
     "mandato": "Renda",
@@ -22861,6 +22874,15 @@
             "min": 670.2,
             "open": 683.2,
             "volume": 264
+        },
+        {
+            "change": -1.71,
+            "close": 670.32,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 680.0,
+            "min": 670.1,
+            "open": 680.0,
+            "volume": 334
         }
     ],
     "propriedades": [
@@ -22888,12 +22910,12 @@
     "segmento": "Outros",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.03,
-            "cagr_ativo_1": 0.01,
-            "cagr_patrimonio_liquido": 0.0,
-            "cagr_vpa_1": 0.0,
-            "cagr_vpa_3": -0.02,
-            "cmgr_alugeis_6m": 0.0
+            "cagr_alugeis_1": 0.02,
+            "cagr_ativo_1": 0.02,
+            "cagr_patrimonio_liquido": 0.02,
+            "cagr_vpa_1": 0.02,
+            "cagr_vpa_3": -0.01,
+            "cmgr_alugeis_6m": -0.0
         },
         "dividends": {
             "cagr_dividens_1": 0.33,
@@ -22901,46 +22923,46 @@
             "cagr_dy_1": -0.11,
             "cagr_dy_3": -0.04,
             "cagr_dy_5": -0.02,
-            "dy": 8.36
+            "dy": 9.25
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.054761904761904755,
-                "dy": 7.255714285714287
+                "cagr_dy_3": -0.0635,
+                "dy": 7.5920000000000005
             },
             "mercado": {
-                "custo_adm_med": 174258.85928571428,
-                "liquidez_med": 5089.166666666667
+                "custo_adm_med": 166969.745,
+                "liquidez_med": 5711.8
             },
             "operacao": {
-                "patrimonio_liquido": 402867389.5485714,
-                "pl_cx": 3.632857142857143,
-                "vacancia": 3.192380952380952
+                "patrimonio_liquido": 383727968.3325,
+                "pl_cx": 3.2525,
+                "vacancia": 3.3519999999999994
             },
             "valuation": {
-                "p_vpa_med": 0.6447619047619048
+                "p_vpa_med": 0.6289999999999999
             }
         },
         "mercado": {
-            "custo_adm_med": 30125.63,
+            "custo_adm_med": 30196.995000000003,
             "ifix": 0,
-            "liquidez_med": 59.0
+            "liquidez_med": 59
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 2,
             "imoveis": 2,
-            "patrimonio_liquido": 113821070.31,
-            "pl_cx": 4.54,
+            "patrimonio_liquido": 115690142.53,
+            "pl_cx": 4.53,
             "vacancia": 0.0,
             "vacancia_1": 0.0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.61,
+            "p_vpa": 0.59,
             "p_vpa_med": 0.82,
-            "price": 682.0,
-            "valuation": 1276.0
+            "price": 670.32,
+            "valuation": 1272.42
         }
     },
     "ticker": "MBRF11",

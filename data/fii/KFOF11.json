@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE FUNDOS DE INVESTIMENTO IMOBILI\u00c1RIO KINEA FII",
+    "cnpj": "30.091.444/0001-40",
     "contratos": [],
     "cri": [],
     "dividends": [
@@ -276,7 +276,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.351,
+    "ifix_participacao": 0.352,
     "imr": [
         {
             "ativo": 51526378.86,
@@ -888,10 +888,23 @@
             "patrimonio_liquido": 418012098.98,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 92.208924
+        },
+        {
+            "ativo": 455556186.6,
+            "caixa": 13082489.0,
+            "competencia": "08/2022",
+            "cotas_emitidas": 4533315.0,
+            "cotistas": 8806,
+            "despesa_administracao": 308261.26,
+            "dy": 0.7591,
+            "numero_cotas": 4533315.0,
+            "patrimonio_liquido": 451995985.21,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 99.7054
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRKFOFCTF006",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -8825,6 +8838,15 @@
             "min": 86.62,
             "open": 87.48,
             "volume": 45098
+        },
+        {
+            "change": 0.08,
+            "close": 87.5,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 87.5,
+            "min": 86.95,
+            "open": 87.0,
+            "volume": 2496
         }
     ],
     "propriedades": [],
@@ -8832,58 +8854,58 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": -0.0,
-            "cagr_patrimonio_liquido": -0.0,
-            "cagr_vpa_1": -0.0,
-            "cagr_vpa_3": 0.22,
+            "cagr_ativo_1": 0.08,
+            "cagr_patrimonio_liquido": 0.08,
+            "cagr_vpa_1": 0.08,
+            "cagr_vpa_3": 0.25,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
             "cagr_dividens_1": -0.3,
             "cagr_dividens_3": -0.11,
-            "cagr_dy_1": -0.25,
+            "cagr_dy_1": -0.24,
             "cagr_dy_3": -0.09,
             "cagr_dy_5": 0,
-            "dy": 6.82
+            "dy": 7.58
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
-            "custo_adm_med": 271182.79,
-            "ifix": 0.351,
-            "liquidez_med": 4325
+            "custo_adm_med": 271907.925,
+            "ifix": 0.352,
+            "liquidez_med": 4325.0
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 418012098.98,
-            "pl_cx": 1.44,
+            "patrimonio_liquido": 451995985.21,
+            "pl_cx": 2.89,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.95,
+            "p_vpa": 0.88,
             "p_vpa_med": 0.96,
-            "price": 87.43,
-            "valuation": 86.23
+            "price": 87.5,
+            "valuation": 85.99
         }
     },
     "ticker": "KFOF11",

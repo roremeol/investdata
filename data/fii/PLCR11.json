@@ -1,5 +1,5 @@
 {
-    "cnpj": "PLURAL RECEB\u00cdVEIS IMOBILI\u00c1RIOS FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "32.527.683/0001-26",
     "contratos": [],
     "cri": [
         {
@@ -467,7 +467,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.162,
+    "ifix_participacao": 0.161,
     "imr": [
         {
             "ativo": 204096779.79,
@@ -900,7 +900,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRPLCRCTF003",
     "lci": [],
     "mandato": "H\u00edbrido",
@@ -7223,6 +7223,15 @@
             "min": 85.96,
             "open": 86.44,
             "volume": 4608
+        },
+        {
+            "change": -0.15,
+            "close": 85.9,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 86.47,
+            "min": 85.82,
+            "open": 85.95,
+            "volume": 2551
         }
     ],
     "propriedades": [],
@@ -7246,26 +7255,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06875,
-                "dy": 6.7375
+                "cagr_dy_3": -0.07285714285714286,
+                "dy": 7.439714285714287
             },
             "mercado": {
-                "custo_adm_med": 225298.48537499987,
-                "liquidez_med": 11916.6375
+                "custo_adm_med": 128096.58114285712,
+                "liquidez_med": 13854.828571428572
             },
             "operacao": {
-                "patrimonio_liquido": 660324917.6847501,
-                "pl_cx": 7.695000000000002,
-                "vacancia": 11.533
+                "patrimonio_liquido": 518372177.386,
+                "pl_cx": 6.270857142857143,
+                "vacancia": 10.583999999999998
             },
             "valuation": {
-                "p_vpa_med": 1.15925
+                "p_vpa_med": 1.2125714285714284
             }
         },
         "mercado": {
             "custo_adm_med": 192965.11,
-            "ifix": 0.162,
-            "liquidez_med": 4437.5
+            "ifix": 0.161,
+            "liquidez_med": 4424
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -7280,8 +7289,8 @@
         "valuation": {
             "p_vpa": 0.93,
             "p_vpa_med": 0.91,
-            "price": 86.03,
-            "valuation": 144.46
+            "price": 85.9,
+            "valuation": 144.06
         }
     },
     "ticker": "PLCR11",

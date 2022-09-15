@@ -1,5 +1,5 @@
 {
-    "cnpj": "RIO BRAVO FUNDO DE FUNDOS DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "17.329.029/0001-14",
     "contratos": [],
     "cri": [],
     "dividends": [
@@ -341,7 +341,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.192,
+    "ifix_participacao": 0.188,
     "imr": [
         {
             "ativo": 31178133.39,
@@ -1213,10 +1213,23 @@
             "patrimonio_liquido": 238008867.55,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 63.48232
+        },
+        {
+            "ativo": 258824548.03,
+            "caixa": 11040016.2,
+            "competencia": "08/2022",
+            "cotas_emitidas": 3749215.0,
+            "cotistas": 20521,
+            "despesa_administracao": 157971.24,
+            "dy": 0.7876,
+            "numero_cotas": 3749215.0,
+            "patrimonio_liquido": 253159041.91,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 67.523213
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRRBFFCTF008",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -8034,6 +8047,24 @@
             "min": 57.04,
             "open": 57.88,
             "volume": 2097
+        },
+        {
+            "change": -0.95,
+            "close": 56.54,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 57.7,
+            "min": 56.51,
+            "open": 57.7,
+            "volume": 3211
+        },
+        {
+            "change": 0.37,
+            "close": 56.75,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 56.79,
+            "min": 56.54,
+            "open": 56.54,
+            "volume": 246
         }
     ],
     "propriedades": [],
@@ -8041,10 +8072,10 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": -0.04,
-            "cagr_patrimonio_liquido": -0.04,
-            "cagr_vpa_1": -0.04,
-            "cagr_vpa_3": 0.87,
+            "cagr_ativo_1": 0.03,
+            "cagr_patrimonio_liquido": 0.02,
+            "cagr_vpa_1": 0.02,
+            "cagr_vpa_3": 0.91,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
@@ -8053,46 +8084,46 @@
             "cagr_dy_1": -0.21,
             "cagr_dy_3": -0.08,
             "cagr_dy_5": -0.05,
-            "dy": 5.93
+            "dy": 6.72
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
-            "custo_adm_med": 34855.43,
-            "ifix": 0.192,
-            "liquidez_med": 6756
+            "custo_adm_med": 34856.29,
+            "ifix": 0.188,
+            "liquidez_med": 6749
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 238008867.55,
-            "pl_cx": 3.18,
+            "patrimonio_liquido": 253159041.91,
+            "pl_cx": 4.36,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.9,
+            "p_vpa": 0.84,
             "p_vpa_med": 0.8,
-            "price": 57.08,
-            "valuation": 65.09
+            "price": 56.75,
+            "valuation": 64.91
         }
     },
     "ticker": "RBFF11",

@@ -1,5 +1,5 @@
 {
-    "cnpj": "FII HOSPITAL DA CRIAN\u00c7A",
+    "cnpj": "04.066.582/0001-60",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1265,7 +1265,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRHCRICTF006",
     "lci": [],
     "mandato": "Renda",
@@ -18199,6 +18199,15 @@
             "min": 243.01,
             "open": 246.0,
             "volume": 64
+        },
+        {
+            "change": 0.25,
+            "close": 243.62,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 245.95,
+            "min": 243.11,
+            "open": 243.11,
+            "volume": 47
         }
     ],
     "propriedades": [
@@ -18238,7 +18247,7 @@
             },
             "mercado": {
                 "custo_adm_med": 37006.21666666667,
-                "liquidez_med": 319.0
+                "liquidez_med": 319.1666666666667
             },
             "operacao": {
                 "patrimonio_liquido": 279742631.91,
@@ -18252,7 +18261,7 @@
         "mercado": {
             "custo_adm_med": 17705.32,
             "ifix": 0,
-            "liquidez_med": 96
+            "liquidez_med": 96.0
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -18267,8 +18276,8 @@
         "valuation": {
             "p_vpa": 0.81,
             "p_vpa_med": 1.03,
-            "price": 243.01,
-            "valuation": 415.31
+            "price": 243.62,
+            "valuation": 414.14
         }
     },
     "ticker": "HCRI11",

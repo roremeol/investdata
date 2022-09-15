@@ -1,5 +1,5 @@
 {
-    "cnpj": "QUASAR CR\u00c9DITO IMOBILI\u00c1RIO FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "32.400.264/0001-29",
     "contratos": [],
     "cri": [
         {
@@ -354,7 +354,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRQAMICTF002",
     "lci": [],
     "mandato": "H\u00edbrido",
@@ -3482,6 +3482,24 @@
             "min": 86.29,
             "open": 86.3,
             "volume": 148
+        },
+        {
+            "change": -0.07,
+            "close": 86.84,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 86.89,
+            "min": 86.7,
+            "open": 86.89,
+            "volume": 98
+        },
+        {
+            "change": 0.0,
+            "close": 86.84,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 86.84,
+            "min": 86.84,
+            "open": 86.84,
+            "volume": 0
         }
     ],
     "propriedades": [],
@@ -3496,7 +3514,7 @@
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
-            "cagr_dividens_1": -0.07,
+            "cagr_dividens_1": -0.19,
             "cagr_dividens_3": 0.0,
             "cagr_dy_1": -0.29,
             "cagr_dy_3": 0.02,
@@ -3505,26 +3523,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06875,
-                "dy": 6.7375
+                "cagr_dy_3": -0.07285714285714286,
+                "dy": 7.439714285714287
             },
             "mercado": {
-                "custo_adm_med": 225298.48537499987,
-                "liquidez_med": 11916.6375
+                "custo_adm_med": 128096.58114285712,
+                "liquidez_med": 13854.828571428572
             },
             "operacao": {
-                "patrimonio_liquido": 660324917.6847501,
-                "pl_cx": 7.695000000000002,
-                "vacancia": 11.533
+                "patrimonio_liquido": 518372177.386,
+                "pl_cx": 6.270857142857143,
+                "vacancia": 10.583999999999998
             },
             "valuation": {
-                "p_vpa_med": 1.15925
+                "p_vpa_med": 1.2125714285714284
             }
         },
         "mercado": {
             "custo_adm_med": 56709.025,
             "ifix": 0,
-            "liquidez_med": 360
+            "liquidez_med": 357
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -3539,8 +3557,8 @@
         "valuation": {
             "p_vpa": 0.94,
             "p_vpa_med": 1.03,
-            "price": 86.9,
-            "valuation": 171.84
+            "price": 86.84,
+            "valuation": 171.36
         }
     },
     "ticker": "QAMI11",

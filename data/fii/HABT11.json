@@ -1,5 +1,5 @@
 {
-    "cnpj": "HABITAT RECEB\u00cdVEIS PULVERIZADOS FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "30.578.417/0001-05",
     "contratos": [],
     "cri": [
         {
@@ -782,7 +782,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.681,
+    "ifix_participacao": 0.683,
     "imr": [
         {
             "ativo": 233357430.95,
@@ -1264,10 +1264,23 @@
             "patrimonio_liquido": 809759890.09,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 99.64089
+        },
+        {
+            "ativo": 832664282.5,
+            "caixa": 70073459.96,
+            "competencia": "08/2022",
+            "cotas_emitidas": 8126783.0,
+            "cotistas": 59593,
+            "despesa_administracao": 113280.69,
+            "dy": 1.0337,
+            "numero_cotas": 8126783.0,
+            "patrimonio_liquido": 820874555.41,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 101.008549
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRHABTCTF001",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -8220,6 +8233,15 @@
             "min": 94.08,
             "open": 94.79,
             "volume": 15100
+        },
+        {
+            "change": -0.44,
+            "close": 94.58,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 95.14,
+            "min": 94.4,
+            "open": 95.1,
+            "volume": 13658
         }
     ],
     "propriedades": [],
@@ -8227,58 +8249,58 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": 0.12,
-            "cagr_patrimonio_liquido": 0.56,
-            "cagr_vpa_1": 0.56,
-            "cagr_vpa_3": 0.5,
+            "cagr_ativo_1": 0.13,
+            "cagr_patrimonio_liquido": 0.58,
+            "cagr_vpa_1": 0.58,
+            "cagr_vpa_3": 0.51,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
             "cagr_dividens_1": -0.31,
             "cagr_dividens_3": -0.02,
-            "cagr_dy_1": -0.15,
-            "cagr_dy_3": 0.06,
+            "cagr_dy_1": -0.33,
+            "cagr_dy_3": -0.02,
             "cagr_dy_5": 0,
-            "dy": 12.99
+            "dy": 14.03
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
-            "custo_adm_med": 91617.45,
-            "ifix": 0.681,
-            "liquidez_med": 17589.0
+            "custo_adm_med": 92066.76999999999,
+            "ifix": 0.683,
+            "liquidez_med": 17589
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 809759890.09,
-            "pl_cx": 10.18,
+            "patrimonio_liquido": 820874555.41,
+            "pl_cx": 8.54,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.95,
+            "p_vpa": 0.94,
             "p_vpa_med": 1.1,
-            "price": 95.0,
-            "valuation": 147.61
+            "price": 94.58,
+            "valuation": 147.2
         }
     },
     "ticker": "HABT11",

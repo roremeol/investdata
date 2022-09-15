@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO BTG PACTUAL AGRO LOG\u00cdSTICA",
+    "cnpj": "36.642.244/0001-15",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -153,7 +153,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.536,
+    "ifix_participacao": 0.538,
     "imr": [
         {
             "ativo": 599114180.61,
@@ -421,7 +421,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRBTALCTF003",
     "lci": [],
     "mandato": "Renda",
@@ -4023,9 +4023,18 @@
             "close": 101.65,
             "date": "2022-09-13T00:00:00Z",
             "max": 102.41,
-            "min": 101.02,
+            "min": 101.0,
             "open": 101.2,
             "volume": 8327
+        },
+        {
+            "change": -0.34,
+            "close": 101.3,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 101.95,
+            "min": 100.0,
+            "open": 101.66,
+            "volume": 8108
         }
     ],
     "propriedades": [
@@ -4140,26 +4149,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.054761904761904755,
-                "dy": 7.255714285714287
+                "cagr_dy_3": -0.0635,
+                "dy": 7.5920000000000005
             },
             "mercado": {
-                "custo_adm_med": 174258.85928571428,
-                "liquidez_med": 5089.166666666667
+                "custo_adm_med": 166969.745,
+                "liquidez_med": 5711.8
             },
             "operacao": {
-                "patrimonio_liquido": 402867389.5485714,
-                "pl_cx": 3.632857142857143,
-                "vacancia": 3.192380952380952
+                "patrimonio_liquido": 383727968.3325,
+                "pl_cx": 3.2525,
+                "vacancia": 3.3519999999999994
             },
             "valuation": {
-                "p_vpa_med": 0.6447619047619048
+                "p_vpa_med": 0.6289999999999999
             }
         },
         "mercado": {
             "custo_adm_med": 530540.76,
-            "ifix": 0.536,
-            "liquidez_med": 8188.0
+            "ifix": 0.538,
+            "liquidez_med": 8181
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -4174,8 +4183,8 @@
         "valuation": {
             "p_vpa": 0.95,
             "p_vpa_med": 0.95,
-            "price": 101.65,
-            "valuation": 109.84
+            "price": 101.3,
+            "valuation": 109.53
         }
     },
     "ticker": "BTAL11",

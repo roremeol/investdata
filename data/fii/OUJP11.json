@@ -1,5 +1,5 @@
 {
-    "cnpj": "OURINVEST JPP FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO- FII",
+    "cnpj": "26.091.656/0001-50",
     "contratos": [],
     "cri": [
         {
@@ -567,7 +567,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.272,
+    "ifix_participacao": 0.274,
     "imr": [
         {
             "ativo": 7209490.55,
@@ -1439,10 +1439,23 @@
             "patrimonio_liquido": 327636851.52,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 100.737444
+        },
+        {
+            "ativo": 332894795.89,
+            "caixa": 22970082.08,
+            "competencia": "08/2022",
+            "cotas_emitidas": 3252384.0,
+            "cotistas": 23446,
+            "despesa_administracao": 293018.4,
+            "dy": 1.2449,
+            "numero_cotas": 3252384.0,
+            "patrimonio_liquido": 328495960.72,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 101.001592
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BROUJPCTF006",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -12967,6 +12980,15 @@
             "min": 94.05,
             "open": 94.68,
             "volume": 5660
+        },
+        {
+            "change": -0.03,
+            "close": 94.95,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 96.5,
+            "min": 94.51,
+            "open": 94.96,
+            "volume": 7563
         }
     ],
     "propriedades": [],
@@ -12975,48 +12997,48 @@
         "crescimento": {
             "cagr_alugeis_1": 0,
             "cagr_ativo_1": 0.02,
-            "cagr_patrimonio_liquido": 0.01,
-            "cagr_vpa_1": 0.01,
+            "cagr_patrimonio_liquido": 0.02,
+            "cagr_vpa_1": 0.02,
             "cagr_vpa_3": 0.19,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
             "cagr_dividens_1": 0.25,
             "cagr_dividens_3": 0.08,
-            "cagr_dy_1": 0.33,
-            "cagr_dy_3": 0.1,
-            "cagr_dy_5": 0.06,
-            "dy": 11.85
+            "cagr_dy_1": 0.24,
+            "cagr_dy_3": 0.08,
+            "cagr_dy_5": 0.04,
+            "dy": 13.1
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06875,
-                "dy": 6.7375
+                "cagr_dy_3": -0.07285714285714286,
+                "dy": 7.439714285714287
             },
             "mercado": {
-                "custo_adm_med": 225298.48537499987,
-                "liquidez_med": 11916.6375
+                "custo_adm_med": 128096.58114285712,
+                "liquidez_med": 13854.828571428572
             },
             "operacao": {
-                "patrimonio_liquido": 660324917.6847501,
-                "pl_cx": 7.695000000000002,
-                "vacancia": 11.533
+                "patrimonio_liquido": 518372177.386,
+                "pl_cx": 6.270857142857143,
+                "vacancia": 10.583999999999998
             },
             "valuation": {
-                "p_vpa_med": 1.15925
+                "p_vpa_med": 1.2125714285714284
             }
         },
         "mercado": {
-            "custo_adm_med": 17355.28,
-            "ifix": 0.272,
-            "liquidez_med": 4897.0
+            "custo_adm_med": 17702.69,
+            "ifix": 0.274,
+            "liquidez_med": 4897
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 327636851.52,
-            "pl_cx": 7.17,
+            "patrimonio_liquido": 328495960.72,
+            "pl_cx": 6.99,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
@@ -13024,8 +13046,8 @@
         "valuation": {
             "p_vpa": 0.94,
             "p_vpa_med": 0.94,
-            "price": 94.98,
-            "valuation": 159.42
+            "price": 94.95,
+            "valuation": 158.97
         }
     },
     "ticker": "OUJP11",

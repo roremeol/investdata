@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILIARIO CAIXA SEQ LOGISTICA RENDA",
+    "cnpj": "12.887.506/0001-43",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1239,7 +1239,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRCXTLCTF003",
     "lci": [],
     "mandato": "Renda",
@@ -15023,6 +15023,15 @@
             "min": 375.0,
             "open": 375.0,
             "volume": 0
+        },
+        {
+            "change": 0.0,
+            "close": 375.0,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 375.0,
+            "min": 375.0,
+            "open": 375.0,
+            "volume": 0
         }
     ],
     "propriedades": [
@@ -15077,26 +15086,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": 0.09928571428571424,
-                "dy": 4.979285714285715
+                "cagr_dy_3": 0.10285714285714284,
+                "dy": 5.2457142857142856
             },
             "mercado": {
-                "custo_adm_med": 426055.9367857143,
-                "liquidez_med": 10810.714285714286
+                "custo_adm_med": 335564.6496428572,
+                "liquidez_med": 7999.821428571428
             },
             "operacao": {
-                "patrimonio_liquido": 1009142351.2764285,
-                "pl_cx": 180.67428571428576,
-                "vacancia": 6.429285714285713
+                "patrimonio_liquido": 837136474.1849998,
+                "pl_cx": 180.6285714285714,
+                "vacancia": 5.937857142857142
             },
             "valuation": {
-                "p_vpa_med": 0.8464285714285714
+                "p_vpa_med": 0.7671428571428571
             }
         },
         "mercado": {
             "custo_adm_med": 23471.59,
             "ifix": 0,
-            "liquidez_med": 16
+            "liquidez_med": 16.0
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -15112,7 +15121,7 @@
             "p_vpa": 0.53,
             "p_vpa_med": 0.62,
             "price": 375.0,
-            "valuation": 180.45
+            "valuation": 179.94
         }
     },
     "ticker": "CXTL11",

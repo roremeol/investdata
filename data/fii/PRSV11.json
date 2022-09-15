@@ -1,5 +1,5 @@
 {
-    "cnpj": "PRESIDENTE VARGAS FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "11.281.322/0001-72",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1193,7 +1193,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRPRSVCTF008",
     "lci": [],
     "mandato": "Renda",
@@ -22123,6 +22123,15 @@
             "min": 113.0,
             "open": 113.5,
             "volume": 50
+        },
+        {
+            "change": 1.32,
+            "close": 114.49,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 114.49,
+            "min": 113.5,
+            "open": 113.5,
+            "volume": 11
         }
     ],
     "propriedades": [
@@ -22157,26 +22166,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.00540540540540542,
-                "dy": 28.414594594594597
+                "cagr_dy_3": 0.030937500000000014,
+                "dy": 32.5340625
             },
             "mercado": {
-                "custo_adm_med": 119206.02594594592,
-                "liquidez_med": 3029.972972972973
+                "custo_adm_med": 136820.42515624998,
+                "liquidez_med": 3993.140625
             },
             "operacao": {
-                "patrimonio_liquido": 331827655.631081,
-                "pl_cx": 24.609189189189188,
-                "vacancia": 29.048648648648648
+                "patrimonio_liquido": 385829574.90374994,
+                "pl_cx": 28.327499999999997,
+                "vacancia": 31.209687499999998
             },
             "valuation": {
-                "p_vpa_med": 0.6908108108108107
+                "p_vpa_med": 0.705625
             }
         },
         "mercado": {
             "custo_adm_med": 40010.825,
             "ifix": 0,
-            "liquidez_med": 53
+            "liquidez_med": 53.0
         },
         "operacao": {
             "contratos_vencimento": 3,
@@ -22189,10 +22198,10 @@
             "vacancia_3m": 40.9
         },
         "valuation": {
-            "p_vpa": 0.46,
+            "p_vpa": 0.47,
             "p_vpa_med": 1.11,
-            "price": 113.0,
-            "valuation": 274.87
+            "price": 114.49,
+            "valuation": 274.1
         }
     },
     "ticker": "PRSV11",

@@ -1,5 +1,5 @@
 {
-    "cnpj": "CSHG RECEB\u00cdVEIS IMOBILI\u00c1RIOS - FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - FII",
+    "cnpj": "11.160.521/0001-22",
     "contratos": [],
     "cri": [
         {
@@ -707,7 +707,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 1.804,
+    "ifix_participacao": 1.803,
     "imr": [
         {
             "ativo": 107944386.73,
@@ -1579,10 +1579,23 @@
             "patrimonio_liquido": 1491890744.95,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 101.7179
+        },
+        {
+            "ativo": 1515851365.15,
+            "caixa": 50497943.87,
+            "competencia": "08/2022",
+            "cotas_emitidas": 14666944.0,
+            "cotistas": 68849,
+            "despesa_administracao": 1106873.01,
+            "dy": 1.1797,
+            "numero_cotas": 14666944.0,
+            "patrimonio_liquido": 1495774340.9,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 101.982686
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRHGCRCTF000",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -23205,6 +23218,15 @@
             "min": 104.0,
             "open": 104.3,
             "volume": 32041
+        },
+        {
+            "change": -0.7,
+            "close": 103.67,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 104.4,
+            "min": 103.59,
+            "open": 104.31,
+            "volume": 48046
         }
     ],
     "propriedades": [],
@@ -23221,49 +23243,49 @@
         "dividends": {
             "cagr_dividens_1": 0.2,
             "cagr_dividens_3": 0.06,
-            "cagr_dy_1": 0.17,
-            "cagr_dy_3": 0.05,
+            "cagr_dy_1": 0.18,
+            "cagr_dy_3": 0.06,
             "cagr_dy_5": 0.03,
-            "dy": 10.64
+            "dy": 11.82
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
-            "custo_adm_med": 685300.19,
-            "ifix": 1.804,
-            "liquidez_med": 739.0
+            "custo_adm_med": 702892.51,
+            "ifix": 1.803,
+            "liquidez_med": 741
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 1491890744.95,
-            "pl_cx": 5.42,
+            "patrimonio_liquido": 1495774340.9,
+            "pl_cx": 3.38,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 1.03,
+            "p_vpa": 1.02,
             "p_vpa_med": 1.09,
-            "price": 104.4,
-            "valuation": 101.74
+            "price": 103.67,
+            "valuation": 101.46
         }
     },
     "ticker": "HGCR11",

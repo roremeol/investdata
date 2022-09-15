@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO BARIGUI RENDIMENTOS IMOBILI\u00c1RIOS I FII",
+    "cnpj": "29.267.567/0001-00",
     "contratos": [],
     "cri": [
         {
@@ -878,7 +878,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRBARICTF003",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -7795,6 +7795,15 @@
             "min": 97.2,
             "open": 97.39,
             "volume": 6632
+        },
+        {
+            "change": -0.23,
+            "close": 97.19,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 97.53,
+            "min": 97.19,
+            "open": 97.41,
+            "volume": 6320
         }
     ],
     "propriedades": [],
@@ -7818,26 +7827,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
             "custo_adm_med": 50819.09,
             "ifix": 0.4,
-            "liquidez_med": 8893.0
+            "liquidez_med": 8879
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -7852,8 +7861,8 @@
         "valuation": {
             "p_vpa": 0.95,
             "p_vpa_med": 1.02,
-            "price": 97.41,
-            "valuation": 166.95
+            "price": 97.19,
+            "valuation": 166.48
         }
     },
     "ticker": "BARI11",

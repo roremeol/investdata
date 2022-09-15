@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILIARIO - FII EDIFICIO GALERIA",
+    "cnpj": "15.333.306/0001-37",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -1313,7 +1313,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BREDGACTF001",
     "lci": [],
     "mandato": "Renda",
@@ -19372,6 +19372,15 @@
             "min": 20.54,
             "open": 20.99,
             "volume": 127
+        },
+        {
+            "change": -3.93,
+            "close": 20.02,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 20.89,
+            "min": 20.02,
+            "open": 20.89,
+            "volume": 1785
         }
     ],
     "propriedades": [
@@ -19406,26 +19415,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.00540540540540542,
-                "dy": 28.414594594594597
+                "cagr_dy_3": 0.030937500000000014,
+                "dy": 32.5340625
             },
             "mercado": {
-                "custo_adm_med": 119206.02594594592,
-                "liquidez_med": 3029.972972972973
+                "custo_adm_med": 136820.42515624998,
+                "liquidez_med": 3993.140625
             },
             "operacao": {
-                "patrimonio_liquido": 331827655.631081,
-                "pl_cx": 24.609189189189188,
-                "vacancia": 29.048648648648648
+                "patrimonio_liquido": 385829574.90374994,
+                "pl_cx": 28.327499999999997,
+                "vacancia": 31.209687499999998
             },
             "valuation": {
-                "p_vpa_med": 0.6908108108108107
+                "p_vpa_med": 0.705625
             }
         },
         "mercado": {
             "custo_adm_med": 46693.520000000004,
             "ifix": 0,
-            "liquidez_med": 2780.5
+            "liquidez_med": 2779
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -19438,10 +19447,10 @@
             "vacancia_3m": 49.59
         },
         "valuation": {
-            "p_vpa": 0.31,
+            "p_vpa": 0.3,
             "p_vpa_med": 0.55,
-            "price": 20.84,
-            "valuation": 16.76
+            "price": 20.02,
+            "valuation": 16.71
         }
     },
     "ticker": "EDGA11",

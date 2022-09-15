@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO CAIXA IM\u00d3VEIS CORPORATIVOS",
+    "cnpj": "38.658.984/0001-75",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -409,6 +409,19 @@
             "patrimonio_liquido": 378686921.75,
             "receita_aluguel": 3109701.94,
             "valor_patrimonio_cotas": 96.493037
+        },
+        {
+            "ativo": 381824529.46,
+            "caixa": 5258334.03,
+            "competencia": "08/2022",
+            "cotas_emitidas": 3924500.0,
+            "cotistas": 13150,
+            "despesa_administracao": 86760.25,
+            "dy": 0.7426,
+            "numero_cotas": 3924500.0,
+            "patrimonio_liquido": 378865717.01,
+            "receita_aluguel": 3109701.97,
+            "valor_patrimonio_cotas": 96.538595
         }
     ],
     "indexador_reajuste_contrato": [
@@ -433,7 +446,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRCXCOCTF003",
     "lci": [],
     "mandato": "Renda",
@@ -3660,6 +3673,15 @@
             "min": 78.0,
             "open": 78.01,
             "volume": 741
+        },
+        {
+            "change": 0.35,
+            "close": 78.5,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 79.96,
+            "min": 78.22,
+            "open": 78.22,
+            "volume": 1143
         }
     ],
     "propriedades": [
@@ -3667,7 +3689,7 @@
             "area": 5792.51,
             "cidade": "ED BLUMENAU  Rua 7 de setembro, n\u00ba1314, CEP 89010204, BLUMENAU, SC \n                \u00c1rea (m2):\n                5.792,51 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula n\u00ba 14.652",
             "endereco": "Rua 7 de setembro, n\u00ba1314, CEP 89010",
-            "estado": "CE",
+            "estado": "SC",
             "inadimplencia": 0.0,
             "nome": "ED BLUMENAU",
             "unidades": 1,
@@ -3677,7 +3699,7 @@
             "area": 16703.1,
             "cidade": "ED CAIXA Setor Bancario Sul, Quadra 1 Bloco L, PJ, n\u00ba28, CEP 70070927, Bras\u00edlia, DF \n                \u00c1rea (m2):\n                16.703,10 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula n\u00ba132.735",
             "endereco": "ED CAIXA Setor Bancario Sul, Quadra 1 Bloco L, PJ, n\u00ba28, CEP 70070-927, Bras\u00edlia, DF \n                \u00c1rea (m2):\n                16.703,10 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula n\u00ba132.735",
-            "estado": "CE",
+            "estado": "DF",
             "inadimplencia": 0.0,
             "nome": "ED CAIXA Setor Bancario Sul, Quadra 1 Bloco L, PJ, n\u00ba28, CEP 70070-927, Bras\u00edlia, DF \n                \u00c1rea (m2):\n                16.703,10 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula n\u00ba132.735",
             "unidades": 1,
@@ -3697,7 +3719,7 @@
             "area": 5106.0,
             "cidade": "ED CASCAVEL Av Brasil, n\u00ba6.266, CEP 85810000, Cascavel, PR \n                \u00c1rea (m2):\n                5.106,00 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula n\u00ba37.714",
             "endereco": "Av Brasil, n\u00ba6",
-            "estado": "SC",
+            "estado": "PR",
             "inadimplencia": 0.0,
             "nome": "ED CASCAVEL",
             "unidades": 1,
@@ -3707,7 +3729,7 @@
             "area": 4136.17,
             "cidade": "ED CICOB Av Julio de Castilhos, n\u00ba1358, CEP 95010000, Caxias do Sul, RS \n                \u00c1rea (m2):\n                4.136,17 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula n\u00ba18.976",
             "endereco": "Av Julio de Castilhos, n\u00ba1358, CEP 95010",
-            "estado": "CE",
+            "estado": "RS",
             "inadimplencia": 0.0,
             "nome": "ED CICOB",
             "unidades": 1,
@@ -3727,7 +3749,7 @@
             "area": 4782.02,
             "cidade": "ED NOVO HAMBURGO Rua Bento Gon\u00e7alves, n\u00ba2463, CEP 93510365, Novo Hamburgo, RS \n                \u00c1rea (m2):\n                4.782,02 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula n\u00ba19.061",
             "endereco": "Rua Bento Gon\u00e7alves, n\u00ba2463, CEP 93510",
-            "estado": "AM",
+            "estado": "GO",
             "inadimplencia": 0.0,
             "nome": "ED NOVO HAMBURGO",
             "unidades": 1,
@@ -3737,7 +3759,7 @@
             "area": 22544.0,
             "cidade": "ED QUERENCIA Rua dos Andradas, n\u00ba1000, CEP 90020007, Porto Alegre, RS \n                \u00c1rea (m2):\n                22.544,00 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula n\u00ba 69.509",
             "endereco": "Rua dos Andradas, n\u00ba1000, CEP 90020",
-            "estado": "CE",
+            "estado": "RS",
             "inadimplencia": 0.0,
             "nome": "ED QUERENCIA",
             "unidades": 1,
@@ -3747,7 +3769,7 @@
             "area": 7572.0,
             "cidade": "ED SEDE CONTORNO Av do contorno, n\u00ba8256, CEP 30170050, Belo Horizonte, MG \n                \u00c1rea (m2):\n                7.572,00 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula n\u00ba 40.991",
             "endereco": "Av do contorno, n\u00ba8256, CEP 30170",
-            "estado": "SE",
+            "estado": "MG",
             "inadimplencia": 0.0,
             "nome": "ED SEDE CONTORNO",
             "unidades": 1,
@@ -3757,7 +3779,7 @@
             "area": 5570.0,
             "cidade": "ED SEDE MATO GROSSO Rua Bar\u00e3o de Melga\u00e7o, n\u00ba 3465, CEP 78005300, Cuiab\u00e1, MT \n                \u00c1rea (m2):\n                5.570,00 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula n\u00ba3.216",
             "endereco": "Rua Bar\u00e3o de Melga\u00e7o, n\u00ba 3465, CEP 78005",
-            "estado": "SE",
+            "estado": "TO",
             "inadimplencia": 0.0,
             "nome": "ED SEDE MATO GROSSO",
             "unidades": 1,
@@ -3780,37 +3802,37 @@
             "cagr_dy_1": -0.26,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 7.02
+            "dy": 7.77
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.00540540540540542,
-                "dy": 28.414594594594597
+                "cagr_dy_3": 0.030937500000000014,
+                "dy": 32.5340625
             },
             "mercado": {
-                "custo_adm_med": 119206.02594594592,
-                "liquidez_med": 3029.972972972973
+                "custo_adm_med": 136820.42515624998,
+                "liquidez_med": 3993.140625
             },
             "operacao": {
-                "patrimonio_liquido": 331827655.631081,
-                "pl_cx": 24.609189189189188,
-                "vacancia": 29.048648648648648
+                "patrimonio_liquido": 385829574.90374994,
+                "pl_cx": 28.327499999999997,
+                "vacancia": 31.209687499999998
             },
             "valuation": {
-                "p_vpa_med": 0.6908108108108107
+                "p_vpa_med": 0.705625
             }
         },
         "mercado": {
-            "custo_adm_med": 79170.395,
+            "custo_adm_med": 79195.22,
             "ifix": 0,
-            "liquidez_med": 2724.5
+            "liquidez_med": 2712
         },
         "operacao": {
             "contratos_vencimento": 3,
-            "estados": 6,
+            "estados": 7,
             "imoveis": 10,
-            "patrimonio_liquido": 378686921.75,
-            "pl_cx": 1.32,
+            "patrimonio_liquido": 378865717.01,
+            "pl_cx": 1.39,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
@@ -3818,8 +3840,8 @@
         "valuation": {
             "p_vpa": 0.81,
             "p_vpa_med": 0.8,
-            "price": 78.23,
-            "valuation": 92.3
+            "price": 78.5,
+            "valuation": 92.04
         }
     },
     "ticker": "CXCO11",

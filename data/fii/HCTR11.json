@@ -1,5 +1,5 @@
 {
-    "cnpj": "HECTARE CE - FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "cnpj": "30.248.180/0001-96",
     "contratos": [],
     "cri": [
         {
@@ -1082,7 +1082,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 2.066,
+    "ifix_participacao": 2.081,
     "imr": [
         {
             "ativo": 10230448.69,
@@ -1603,10 +1603,23 @@
             "patrimonio_liquido": 2678908802.75,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 121.304301
+        },
+        {
+            "ativo": 2682397372.23,
+            "caixa": 26659176.24,
+            "competencia": "08/2022",
+            "cotas_emitidas": 22084202.904,
+            "cotistas": 20353,
+            "despesa_administracao": 131331.47,
+            "dy": 1.0305,
+            "numero_cotas": 22084202.904,
+            "patrimonio_liquido": 2680234010.8,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 121.364308
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRHCTRCTF003",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -8703,6 +8716,15 @@
             "min": 105.55,
             "open": 105.75,
             "volume": 61306
+        },
+        {
+            "change": 0.43,
+            "close": 106.11,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 106.35,
+            "min": 105.79,
+            "open": 105.79,
+            "volume": 49602
         }
     ],
     "propriedades": [],
@@ -8717,42 +8739,42 @@
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
-            "cagr_dividens_1": -0.27,
+            "cagr_dividens_1": -0.31,
             "cagr_dividens_3": -0.03,
-            "cagr_dy_1": -0.08,
-            "cagr_dy_3": 0.07,
-            "cagr_dy_5": -0.06,
-            "dy": 13.3
+            "cagr_dy_1": -0.23,
+            "cagr_dy_3": 0.01,
+            "cagr_dy_5": -0.09,
+            "dy": 14.33
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
-            "custo_adm_med": 39510.354999999996,
-            "ifix": 2.066,
-            "liquidez_med": 51667.5
+            "custo_adm_med": 45563.28,
+            "ifix": 2.081,
+            "liquidez_med": 51522
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 2678908802.75,
-            "pl_cx": 1.24,
+            "patrimonio_liquido": 2680234010.8,
+            "pl_cx": 0.99,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
@@ -8760,8 +8782,8 @@
         "valuation": {
             "p_vpa": 0.87,
             "p_vpa_med": 0.96,
-            "price": 105.66,
-            "valuation": 171.11
+            "price": 106.11,
+            "valuation": 170.63
         }
     },
     "ticker": "HCTR11",

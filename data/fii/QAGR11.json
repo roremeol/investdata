@@ -1,5 +1,5 @@
 {
-    "cnpj": "QUASAR AGRO - FUNDO DE INVESTIMENTO IMOBILIARIO",
+    "cnpj": "32.754.734/0001-52",
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
@@ -728,7 +728,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRQAGRCTF005",
     "lci": [],
     "mandato": "Renda",
@@ -7051,6 +7051,24 @@
             "min": 46.54,
             "open": 46.97,
             "volume": 8707
+        },
+        {
+            "change": 0.02,
+            "close": 46.74,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 47.2,
+            "min": 46.52,
+            "open": 46.79,
+            "volume": 5656
+        },
+        {
+            "change": 0.3,
+            "close": 46.88,
+            "date": "2022-09-15T00:00:00Z",
+            "max": 46.98,
+            "min": 46.78,
+            "open": 46.98,
+            "volume": 722
         }
     ],
     "propriedades": [
@@ -7195,26 +7213,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.054761904761904755,
-                "dy": 7.255714285714287
+                "cagr_dy_3": -0.0635,
+                "dy": 7.5920000000000005
             },
             "mercado": {
-                "custo_adm_med": 174258.85928571428,
-                "liquidez_med": 5089.166666666667
+                "custo_adm_med": 166969.745,
+                "liquidez_med": 5711.8
             },
             "operacao": {
-                "patrimonio_liquido": 402867389.5485714,
-                "pl_cx": 3.632857142857143,
-                "vacancia": 3.192380952380952
+                "patrimonio_liquido": 383727968.3325,
+                "pl_cx": 3.2525,
+                "vacancia": 3.3519999999999994
             },
             "valuation": {
-                "p_vpa_med": 0.6447619047619048
+                "p_vpa_med": 0.6289999999999999
             }
         },
         "mercado": {
             "custo_adm_med": 200310.72499999998,
             "ifix": 0.209,
-            "liquidez_med": 11683.0
+            "liquidez_med": 11649.0
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -7229,8 +7247,8 @@
         "valuation": {
             "p_vpa": 0.84,
             "p_vpa_med": 0.68,
-            "price": 46.73,
-            "valuation": 52.61
+            "price": 46.88,
+            "valuation": 52.47
         }
     },
     "ticker": "QAGR11",

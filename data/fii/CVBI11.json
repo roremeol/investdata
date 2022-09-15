@@ -1,5 +1,5 @@
 {
-    "cnpj": "FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO - VBI CRI",
+    "cnpj": "28.729.197/0001-13",
     "contratos": [],
     "cri": [
         {
@@ -567,7 +567,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.877,
+    "ifix_participacao": 0.886,
     "imr": [
         {
             "ativo": 83889863.66,
@@ -1052,7 +1052,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.895,
+    "ipca_prize": 5.92,
     "isin": "BRCVBICTF001",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -7573,6 +7573,15 @@
             "min": 89.92,
             "open": 89.92,
             "volume": 48713
+        },
+        {
+            "change": 0.14,
+            "close": 90.69,
+            "date": "2022-09-14T00:00:00Z",
+            "max": 91.25,
+            "min": 90.6,
+            "open": 90.6,
+            "volume": 51705
         }
     ],
     "propriedades": [],
@@ -7596,26 +7605,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.003859649122807015,
-                "dy": 10.490877192982452
+                "cagr_dy_3": 0.004509803921568627,
+                "dy": 10.564705882352941
             },
             "mercado": {
-                "custo_adm_med": 341831.8757017544,
-                "liquidez_med": 30497.912280701756
+                "custo_adm_med": 363868.83294117654,
+                "liquidez_med": 29622.21568627451
             },
             "operacao": {
-                "patrimonio_liquido": 877276644.8164915,
-                "pl_cx": 6.061578947368421,
+                "patrimonio_liquido": 952779342.9207846,
+                "pl_cx": 5.684509803921569,
                 "vacancia": 0.0
             },
             "valuation": {
-                "p_vpa_med": 0.7356140350877194
+                "p_vpa_med": 0.7047058823529413
             }
         },
         "mercado": {
             "custo_adm_med": 359781.23,
-            "ifix": 0.877,
-            "liquidez_med": 24302.0
+            "ifix": 0.886,
+            "liquidez_med": 24321
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -7630,8 +7639,8 @@
         "valuation": {
             "p_vpa": 0.91,
             "p_vpa_med": 1.01,
-            "price": 90.56,
-            "valuation": 138.54
+            "price": 90.69,
+            "valuation": 138.16
         }
     },
     "ticker": "CVBI11",
