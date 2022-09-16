@@ -275,6 +275,7 @@ export default function FiisPage({ fiis=[], config={} }) {
           return {name:text,max}
         }),
         dataset:dataset(),
+        data:parseData(),
         pontuacao: pontuacaoTotal(),
         valuation: format( valuation ).moeda(),
         upside: format( (valuation-last_price)*100/Math.max(last_price,1) ).percent(),
@@ -349,8 +350,8 @@ export default function FiisPage({ fiis=[], config={} }) {
     <>
       <Navbar title={<span className="title is-4"><span style={{color:'green'}}>{state.ticker}</span></span>}>
         <div className={["navbar-item",utilStyles.im_search_right].join(' ')}>
-          {/* <FiiSearch fiis={fiis} onSelect={onTickerSelect} /> */}
-          <FiiSearch fiis={fiis} />
+          <FiiSearch fiis={fiis} onSelect={onTickerSelect} />
+          {/* <FiiSearch fiis={fiis} /> */}
         </div>
       </Navbar>
 
