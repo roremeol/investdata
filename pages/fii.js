@@ -282,9 +282,8 @@ export default function Home({ fiis=[], config={} }) {
     }
 
     const parseRealstate = () => {
-      const estados = [...new Set(ativos.map( ({estado}) => estado ))];
+      const estados = [...new Set(ativos.map( ({estado}) => estado ))].sort();
       
-      console.log(estados)
       return {
         ativos: estados.map( e => ({value:ativos.filter(({estado}) => estado==e).length, name:e}) ),
         area: estados.map( e => ({value:ativos.filter(({estado}) => estado==e).reduce((sum,{area}) => sum+area,0), name:e}) ),
