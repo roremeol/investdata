@@ -2,7 +2,7 @@ import React from 'react';
 import ReactECharts from 'echarts-for-react';
 
 import { format } from '../lib/utils'
-import grafStyle from '../../styles/graf.module.scss'
+import grafStyle from '../styles/graf.module.scss'
 
 export default function RealstateChart({ config={} }) {
   const { ativos=[], area=[] } = config;

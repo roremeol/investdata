@@ -1,4 +1,4 @@
-import styles from '../../styles/layout.module.scss';
+import styles from '../styles/layout.module.scss';
 import Page from './Page';
 
 export default function Navbar({ children, title=null}) {

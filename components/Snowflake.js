@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactECharts from 'echarts-for-react';
 
-import grafStyle from '../../styles/graf.module.scss'
+import grafStyle from '../styles/graf.module.scss'
 
 export default function Snowflake({ config={} }) {
   const { data=[], dataset=[], indicator=[{ text: 'Dividendos', max: 100 }], pontuacao='0.00%', valuation='R$ 0,00', upside='0.00%' } = config;

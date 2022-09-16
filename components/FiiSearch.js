@@ -4,7 +4,7 @@ import { faMagnifyingGlass, faWarning } from '@fortawesome/free-solid-svg-icons'
 
 import Autocomplete from './Autocomplete';
 
-import utilStyles from '../../styles/utils.module.scss';
+import utilStyles from '../styles/utils.module.scss';
 
 export default function FiiSearch({ fiis=[], onSelect=false }) {
 

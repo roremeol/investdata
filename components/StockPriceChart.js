@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import ReactECharts from 'echarts-for-react';
 
-import grafStyle from '../../styles/graf.module.scss'
+import grafStyle from '../styles/graf.module.scss'
 
-export default function DividendsChart({ tabs=[], dataset={} }) {
+export default function StockPriceChart({ tabs=[], dataset={} }) {
 
   const { headers=[], data=[], formatter=(v) => v } = dataset;
 
@@ -11,17 +11,25 @@ export default function DividendsChart({ tabs=[], dataset={} }) {
       grid: { top: 8, right: 8, bottom: 24, left: 68 },
       tooltip: {
         trigger: 'axis',
-        formatter: (params) => formatter(params[0].value)
+        formatter: (params) => formatter(params[0].value),
+        axisPointer: {
+          animation: false,
+          type: 'cross',
+          lineStyle: {
+            color: '#8392A5'
+          }
+        }
       },
       xAxis: {
         type: 'category',
         data: headers,
-        scale: false,
       },
       yAxis: {
         type: 'value',
         data: data,
-        scale: false,
+        scale: true,
+        axisLine: { lineStyle: { color: '#8392A5' } },
+        splitLine: { show: true },
         axisLabel: {
           formatter
         }
@@ -29,12 +37,12 @@ export default function DividendsChart({ tabs=[], dataset={} }) {
       series: [
         {
           data: data,
-          type: 'bar',
+          type: 'line',
           smooth: true,
           itemStyle: {
             color: 'hsl(0deg, 0%, 21%)',
           }
-        }
+        },
       ]
   };
 
@@ -43,6 +51,19 @@ export default function DividendsChart({ tabs=[], dataset={} }) {
 
     if(typeof cb=='function')
       cb(tabs[index]);
+  }
+
+  const onChartClick=(params) => {
+    console.log('onChartClick:',params)
+  }
+
+  const onChartLegendselectchanged=(params) => {
+    console.log('onChartLegendselectchanged:',params)
+  }
+
+  const onEvents = {
+    'click': onChartClick,
+    'legendselectchanged': onChartLegendselectchanged
   }
 
   const [state, setState] = useState({tabVersion:0,tabIndex:-1})
@@ -60,14 +81,14 @@ export default function DividendsChart({ tabs=[], dataset={} }) {
         <div className={["tabs",grafStyle.tabs].join(' ')}>
             <ul key={state.tabVersion} data-verstion={state.tabVersion}>
               {tabs.map( ({title='',onClick=null},index) =>
-                <li key={index} data-selected={state.tabVersion} className={((state.tabIndex===index) && "is-active") || 'is-no_oactive'}>
+                <li key={index} data-selected={state.tabVersion} className={((state.tabIndex===index) && "is-active")  || 'is-no_oactive'}>
                     <a onClick={() => onTabClick(index,onClick)}>{title}</a>
                 </li>
               )}
             </ul>
         </div>
         }
-        <ReactECharts  data-verstion={state.tabVersion} className={(tabs.length > 0 && grafStyle.graf) || grafStyle.graf_no_tab} option={options} />
+        <ReactECharts onEvents={onEvents} data-verstion={state.tabVersion} className={grafStyle.graf} option={options} />
       </>
   );
 }

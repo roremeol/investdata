@@ -1,7 +1,7 @@
-import Navbar from './components/Navbar'
+import Navbar from '../components/Navbar'
 
-import { getData } from './lib/fiis';
-import FiiSearch from './components/FiiSearch'
+import { getData } from '../lib/fiis';
+import FiiSearch from '../components/FiiSearch'
 
 import utilStyles from '../styles/utils.module.scss'
 

@@ -4,14 +4,14 @@ import moment from 'moment'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowUp, faArrowDown } from '@fortawesome/free-solid-svg-icons'
 
-import Navbar from './components/Navbar'
-import FiiSearch from './components/FiiSearch'
-import { getData, getConfig } from "./lib/fiis";
-import { getDate, getDataSafe, format } from "./lib/utils";
-import StockPriceChart from './components/StockPriceChart'
-import DividendsChart from './components/DividendsChart'
-import Snowflake from './components/Snowflake'
-import RealstateChart from './components/RealstateChart'
+import Navbar from '../components/Navbar'
+import FiiSearch from '../components/FiiSearch'
+import { getData, getConfig } from "../lib/fiis";
+import { getDate, getDataSafe, format } from "../lib/utils";
+import StockPriceChart from '../components/StockPriceChart'
+import DividendsChart from '../components/DividendsChart'
+import Snowflake from '../components/Snowflake'
+import RealstateChart from '../components/RealstateChart'
 
 import utilStyles from '../styles/utils.module.scss';
 

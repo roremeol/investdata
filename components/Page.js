@@ -1,4 +1,4 @@
-import styles from '../../styles/layout.module.scss';
+import styles from '../styles/layout.module.scss';
 import Link from 'next/link';
 
 export default function Page({ children, path='/', back=false, data=false, className='' }) {
