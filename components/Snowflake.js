@@ -45,8 +45,6 @@ export default function Snowflake({ config={} }) {
     ]
   };
 
-  console.log(dataset)
-
   return (
       <>
         <div className="columns is-multiline">
