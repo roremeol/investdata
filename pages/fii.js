@@ -26,7 +26,7 @@ export async function getStaticProps() {
     };
 }
 
-export default function Home({ fiis=[], config={} }) {
+export default function FiisPage({ fiis=[], config={} }) {
   const { snowflake={} } = config;
   const router = useRouter();
   
@@ -349,7 +349,8 @@ export default function Home({ fiis=[], config={} }) {
     <>
       <Navbar title={<span className="title is-4"><span style={{color:'green'}}>{state.ticker}</span></span>}>
         <div className={["navbar-item",utilStyles.im_search_right].join(' ')}>
-          <FiiSearch fiis={fiis} onSelect={onTickerSelect} />
+          {/* <FiiSearch fiis={fiis} onSelect={onTickerSelect} /> */}
+          <FiiSearch fiis={fiis} />
         </div>
       </Navbar>
 

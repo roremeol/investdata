@@ -9,9 +9,9 @@ export default function RealstateChart({ config={} }) {
 
   const ativosTotais = ativos.reduce((sum,{value}) => sum+value,0);
   const areaTotal = area.reduce((sum,{value}) => sum+value,0);
-
+  
   const options1 = {
-    color:['#363636','#A2A1A6','#CBC9CF','#293136','#3A444A','#445058','#888888','#CCCCCC','#3C3B3D','#6D6C70',],
+    color:['#363636','#888888','#747474','#616161','#818181','#9b9b9b','#b4b4b4',"#cdcdcd",'#e6e6e6',"#4e4e4e","#3a3a3a",'#4f4f4f','#686868',"#272727","#131313","#a8a8a8","#b4b4b4","#c1c1c1","#dadada","#f3f3f3"],
     tooltip: {
       trigger: 'item',
       formatter: ({seriesName,marker,name,value}) => `<div style="margin: 0px 0 0;line-height:1;">
