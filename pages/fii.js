@@ -5,8 +5,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowUp, faArrowDown } from '@fortawesome/free-solid-svg-icons'
 
 import Navbar from '../components/Navbar'
-import FiiSearch from '../components/FiiSearch'
-import { getData, getConfig } from "../lib/fiis";
+import DataSearch from '../components/DataSearch'
+import { getData, getConfig } from "../lib/data_utils";
 import { getDate, getDataSafe, format } from "../lib/utils";
 import StockPriceChart from '../components/StockPriceChart'
 import DividendsChart from '../components/DividendsChart'
@@ -17,16 +17,18 @@ import utilStyles from '../styles/utils.module.scss';
 
 export async function getStaticProps() {
     const fiis = getData('fii');
+    const data = [...fiis,...getData('acao')]
     const config = getConfig('fii');
     return {
       props: {
+        search_list:data.map( ({ticker,data_type,nome}) => ({ticker,data_type,nome}) ),
         fiis,
         config
       },
     };
 }
 
-export default function FiisPage({ fiis=[], config={} }) {
+export default function FiisPage({ search_list=[], fiis=[], config={} }) {
   const { snowflake={} } = config;
   const router = useRouter();
   
@@ -73,16 +75,6 @@ export default function FiisPage({ fiis=[], config={} }) {
       return default_response;
     
     return data[key]
-  }
-
-  const onTickerSelect = ({index}) =>{
-    const { ticker } = fiis[index];
-    
-    setState({
-      ...state,
-      ...parseData(fiis.filter( (f) => f.ticker==ticker )),
-      ticker
-    })
   }
 
   const onStockTabClick = ({title}) => {
@@ -137,16 +129,12 @@ export default function FiisPage({ fiis=[], config={} }) {
     }
 
     const mkCotacoesGraf = () => {
-      const dateStr=(dte) => {
-        return moment(`${dte.day}/${dte.month}/${dte.year}`,'DD/MM/YYYY')
-      }
-
       const now = getDate();
       const dta = {
-        '1M': prices.filter(({date}) => moment(date).isAfter( dateStr( getDate({months:-1}) ) ) ),
-        '6M': prices.filter(({date}) => moment(date).isAfter( dateStr( getDate({months:-6}) ) ) ),
-        '1A': prices.filter(({date}) => moment(date).isAfter( dateStr( getDate({months:-12}) ) ) ),
-        'YTD': prices.filter(({date}) => moment(date).isAfter( dateStr( getDate({days:-(now.day-1), months:-(now.month-1)}) ) ) ),
+        '1M': prices.filter(({date}) => moment(date).isAfter( getDate({months:-1}).moment() ) ),
+        '6M': prices.filter(({date}) => moment(date).isAfter( getDate({months:-6}).moment() ) ),
+        '1A': prices.filter(({date}) => moment(date).isAfter( getDate({months:-12}).moment() ) ),
+        'YTD': prices.filter(({date}) => moment(date).isAfter( getDate({days:-(now.day-1), months:-(now.month-1)}).moment() ) ),
         'Máx': prices,
       }
 
@@ -350,8 +338,8 @@ export default function FiisPage({ fiis=[], config={} }) {
     <>
       <Navbar title={<span className="title is-4"><span style={{color:'green'}}>{state.ticker}</span></span>}>
         <div className={["navbar-item",utilStyles.im_search_right].join(' ')}>
-          <FiiSearch fiis={fiis} onSelect={onTickerSelect} />
-          {/* <FiiSearch fiis={fiis} /> */}
+          <DataSearch list={search_list} />
+          {/* <DataSearch fiis={fiis} /> */}
         </div>
       </Navbar>
 

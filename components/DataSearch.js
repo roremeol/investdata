@@ -6,14 +6,14 @@ import Autocomplete from './Autocomplete';
 
 import utilStyles from '../styles/utils.module.scss';
 
-export default function FiiSearch({ fiis=[], onSelect=false }) {
+export default function DataSearch({ list=[], onSelect=false }) {
 
   const onTickerSelect = ({index}) =>{
-    const { ticker } = fiis[index];
+    const { ticker, data_type='fii' } = list[index];
     
     Router.push({
-        pathname: '/fii',
-        query: { ticker },
+      pathname: `/${data_type}`,
+      query: { ticker },
     })
   }
 
@@ -21,8 +21,8 @@ export default function FiiSearch({ fiis=[], onSelect=false }) {
     <div className={"control has-icons-left has-icons-right " + utilStyles.im_search}>
         <Autocomplete 
             class="input is-rounded" 
-            placeholder="Busque um FII" 
-            suggestions={fiis.map( ({ ticker, nome }) => `${ticker}<br/><small>${nome}</small>` )} 
+            placeholder="Busque um Ativo" 
+            suggestions={list.map( ({ ticker, nome }) => `${ticker}<br/><small>${nome}</small>` )} 
             onSelect={onSelect ? onSelect : onTickerSelect}
             />
         
