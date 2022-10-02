@@ -7,7 +7,7 @@ import { faArrowUp, faArrowDown } from '@fortawesome/free-solid-svg-icons'
 import Navbar from '../components/Navbar'
 import DataSearch from '../components/DataSearch'
 import { getData, getConfig } from "../lib/data_utils";
-import { getDate, getDataSafe, format } from "../lib/utils";
+import { getDate, getDataSafe, format, arrMax, arrMin } from "../lib/utils";
 import StockPriceChart from '../components/StockPriceChart'
 import DividendsChart from '../components/DividendsChart'
 import Snowflake from '../components/Snowflake'
@@ -124,7 +124,7 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
         last_6: getDate({months:-6})['businessDaysUntilNow'],
         last_12: getDate({months:-12})['businessDaysUntilNow'],
       }
-  
+      
       const mkCotacoesGraf = () => {  
         const now = getDate();
         const dta = {
@@ -213,9 +213,8 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
         const { data=[], indicator=[] } = snowflake;
         
         const getColor = (tag_) => {
-        //   const {color='hsl(0deg, 0%, 21%)'} = indicator.find(({tag}) => tag===tag_)
-        //   return color
-            return 'hsl(0deg, 0%, 21%)'
+          const {color='hsl(0deg, 0%, 21%)'} = indicator.find(({tag}) => tag===tag_) | {}
+          return color
         }
         const getObjective=(objective) => {
           if(typeof objective == 'string')
@@ -282,8 +281,8 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
           close: format( getDataSafe({key:'close', data:prices.slice(-1), default_response:0}) ).moeda(),
           date: format( getDataSafe({key:'date', data:prices.slice(-1)}) ).date(),
           change: format( getDataSafe({key:'change', data:prices.slice(-1), default_response:0}) ).percent(),
-          max: format( Math.max(prices.filter(({date}) => moment(date).isAfter( getDate({months:-2}).moment() ) ).map( ({close}) => close )) ).moeda(),
-          min: format( Math.min(prices.filter(({date}) => moment(date).isAfter( getDate({months:-2}).moment() ) ).map( ({close}) => close )) ).moeda(),
+          max: format( arrMax(prices.filter(({date}) => moment(date).isAfter( getDate({months:-2}).moment() ) ).map( ({close}) => close )) ).moeda(),
+          min: format( arrMin(prices.filter(({date}) => moment(date).isAfter( getDate({months:-2}).moment() ) ).map( ({close}) => close )) ).moeda(),
           arrow: 1, // falta ver
         },
         // dy: {
@@ -333,13 +332,13 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                   <div className="level">
                       <div className="level-item">
                         <div className="">
-                          <div className="heading nowrap">Máximo</div>
+                          <div className="heading nowrap">Máx. 52 semanas</div>
                           <div className="title nowrap is-5">{getAcaoData({key:'preco.max'})}</div>
                         </div>
                       </div>
                     <div className="level-item">
                       <div className="">
-                        <div className="heading nowrap">Mínimo</div>
+                        <div className="heading nowrap">Mín. 52 semanas</div>
                         <div className="title nowrap is-5">{getAcaoData({key:'preco.min'})}</div>
                       </div>
                     </div>
