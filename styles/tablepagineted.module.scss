@@ -1,0 +1,8 @@
+.table {
+    @extend .table;
+    background-color: inherit;
+    display: block;
+    margin: 0 auto;
+    overflow-y: hidden;
+    width: fit-content;
+}

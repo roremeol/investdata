@@ -1,0 +1,36 @@
+.butttons {
+    position: absolute;
+    top: 1.25rem;
+    right: 1.25rem;
+}
+
+.button {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background-color: hsl(0deg, 0%, 86%);
+    color:#257953;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    pointer-events: auto;
+    display: inline-block;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: .7rem;
+    height: 20px;
+    max-height: 20px;
+    max-width: 20px;
+    min-height: 20px;
+    min-width: 20px;
+    outline: none;
+    position: relative;
+    vertical-align: top;
+    width: 20px;
+    margin: 0 0.1rem 0;
+    padding: calc(10px - 0.35rem);
+}

@@ -1,5 +1,10 @@
 @import "~bulma/bulma";
 
+$tooltip-background-color: #d0d0d0;
+$tooltip-color: #257953;
+
+@import '@creativebulma/bulma-tooltip';
+
 // @import "~bulmaswatch/litera/bulmaswatch.scss";
 
 .navbar-logo {

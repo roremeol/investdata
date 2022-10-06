@@ -1,18 +1,23 @@
-import { useState, useEffect } from 'react'
-import { useRouter } from 'next/router'
-import moment from 'moment'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faArrowUp, faArrowDown } from '@fortawesome/free-solid-svg-icons'
+import { useState, useEffect } from 'react';
+import { useRouter } from 'next/router';
+import moment from 'moment';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowUp, faArrowDown } from '@fortawesome/free-solid-svg-icons';
 
-import Navbar from '../components/Navbar'
-import DataSearch from '../components/DataSearch'
+import Navbar from '../components/Navbar';
+import DataSearch from '../components/DataSearch';
 import { getData, getConfig } from "../lib/data_utils";
 import { getDate, getDataSafe, format, arrMax, arrMin } from "../lib/utils";
-import StockPriceChart from '../components/StockPriceChart'
-import DividendsChart from '../components/DividendsChart'
-import Snowflake from '../components/Snowflake'
+import StockPriceChart from '../components/StockPriceChart';
+import MultiDataChart from '../components/MultiDataChart';
+import MDIChart from '../components/MDIChart';
+import Snowflake from '../components/Snowflake';
+import TablePaginated from '../components/TablePaginated';
+import IndicatorField from '../components/IndicatorField';
+import DividendsChart from '../components/DividendsChart';
 
 import utilStyles from '../styles/utils.module.scss';
+import grafStyle from '../styles/graf.module.scss';
 
 export async function getStaticProps() {
     const acoes = getData('acao');
@@ -186,29 +191,63 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
           } 
         }
       }
-  
-    //   const mkDYGraf = () => {
-    //     const yrs = [...new Set(imr.map( ({competencia}) => moment(competencia,'MM/YYYY').format("YYYY") ))];
-    //     const dta = {
-    //       'Mensal': imr,
-    //       'Anual': yrs.map( (y) => imr.filter(({competencia}) => moment(competencia,'MM/YYYY').format("YYYY")===y)
-    //                 .reduce((sum,{dy}) => dy+sum,0) )
-    //     }
-        
-    //     return {
-    //       'Anual': {
-    //         headers: yrs,
-    //         data: dta['Anual'],
-    //         formatter: (v) => format(v).percent()
-    //       },
-    //       'Mensal': {
-    //         headers: dta['Mensal'].map( ({competencia}) => competencia ),
-    //         data: dta['Mensal'].map( ({dy}) => dy ),
-    //         formatter: (v) => format(v).percent()
-    //       } 
-    //     }
-    //   }
-  
+
+      const mkMDIGraf = () => {
+        const result = [0,0,0,0,0,0,0,0,0,0,0,0]
+
+        dividends.filter(({data_com}) => moment(data_com).isAfter( getDate({years:-2}).moment() ) )
+                  .forEach( ({data_com}) => {
+                    const month = moment(data_com).format('M')
+                    result[month-1]++;
+                  });
+
+        return result;
+      }
+      
+      const mkPayoutGraf = () => {
+        return {
+          conf:[
+            {
+              type:'line',
+              title:'PAYOUT'
+            },
+            {
+              type:'bar',
+              title:'LUCRO LÍQUIDO'
+            },
+            {
+              type:'bar',
+              title:'PROVENTOS'
+            }
+          ],
+          datasets: indicadores.map( ({ano,payout,lucro_liquido,dividend_yield,cotacao}) => ({label:ano, dataset:[payout,lucro_liquido,dividend_yield*cotacao/100]}) )
+        }
+      }
+      
+      const mkMargenGraf = () => {
+        return {
+          conf:[
+            {
+              type:'line',
+              title:'Bruta'
+            },
+            {
+              type:'line',
+              title:'Ebitida'
+            },
+            {
+              type:'line',
+              title:'Ebit'
+            },
+            {
+              type:'line',
+              title:'Liquida'
+            }
+          ],
+          datasets: indicadores.map( ({ano,marg_liq,marg_ebitda,marg_ebit,marg_brut}) => ({label:ano, dataset:[marg_liq,marg_ebitda,marg_ebit,marg_brut]}) )
+        }
+      }
+      
       const parseSnowflake = () => {
         const { data=[], indicator=[] } = snowflake;
         
@@ -268,35 +307,33 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
       }
   
       const last_price = getDataSafe({key:'close', data:prices.slice(-1), default_response:0});
-      const price_1 = getDataSafe({key:'close', data:prices.slice(-12), default_response:0});
+      const price_1 = getDataSafe({key:'close', data:prices.slice(-30), default_response:0});
+      const price_12 = getDataSafe({key:'close', data:prices.slice(-52*5), default_response:0});
       
       return {
         ticker: getDataSafe({key:'ticker', data}),
         datasets:{
           cotacoes:mkCotacoesGraf(),
           dividends:mkDividensGraf(),
-        //   dy:mkDYGraf(),
+          payout:mkPayoutGraf(),
+          mdi: mkMDIGraf(),
+          margem:mkMargenGraf(),
         },
         preco: {
           close: format( getDataSafe({key:'close', data:prices.slice(-1), default_response:0}) ).moeda(),
           date: format( getDataSafe({key:'date', data:prices.slice(-1)}) ).date(),
           change: format( getDataSafe({key:'change', data:prices.slice(-1), default_response:0}) ).percent(),
-          max: format( arrMax(prices.filter(({date}) => moment(date).isAfter( getDate({months:-2}).moment() ) ).map( ({close}) => close )) ).moeda(),
-          min: format( arrMin(prices.filter(({date}) => moment(date).isAfter( getDate({months:-2}).moment() ) ).map( ({close}) => close )) ).moeda(),
+          max: format( arrMax(prices.filter(({date}) => moment(date).isAfter( getDate({days:-52*7}).moment() ) ).map( ({close}) => close )) ).moeda(),
+          min: format( arrMin(prices.filter(({date}) => moment(date).isAfter( getDate({days:-52*7}).moment() ) ).map( ({close}) => close )) ).moeda(),
           arrow: 1, // falta ver
         },
-        // dy: {
-        //   last: format( imr.slice(-1).reduce((sum,{dy}) => dy+sum,0) ).percent(),
-        //   last_3: format( imr.slice(-3).reduce((sum,{dy}) => dy+sum,0) ) .percent(),
-        //   last_6: format( imr.slice(-6).reduce((sum,{dy}) => dy+sum,0) ).percent(),
-        //   last_12: format( imr.slice(-12).reduce((sum,{dy}) => dy+sum,0) ).percent(),
-        // },
-        rentabilidade: format( (last_price-price_1)*100/Math.max(price_1,1) ).percent(),
-        provento: {
-          last: format( dividends.slice(-1).reduce((sum,{dividendo}) => dividendo+sum,0) ).moeda(),
-          last_3: format( dividends.slice(-3).reduce((sum,{dividendo}) => dividendo+sum,0) ) .moeda(),
-          last_6: format( dividends.slice(-6).reduce((sum,{dividendo}) => dividendo+sum,0) ).moeda(),
-          last_12: format( dividends.slice(-12).reduce((sum,{dividendo}) => dividendo+sum,0) ).moeda(),
+        dy: {
+          last: format( dividends.filter(({data_com}) => moment(data_com).isAfter( moment().startOf('year') ) ).reduce( (sum,{dy}) => sum+dy,0 ) * 100 / price_1 ).percent(),
+          last_12: format( dividends.filter(({data_com}) => moment(data_com).isAfter( getDate({years:-1}).moment() )).reduce( (sum,{dy}) => sum+dy,0 ) * 100 / price_1 ).percent(),
+        },
+        rentabilidade: {
+          last: format( (last_price-price_1)*100/Math.max(price_1,1) ).percent(),
+          last_12: format( (last_price-price_12)*100/Math.max(price_12,1) ).percent(),
         },
         liquidez: {
           last: format( prices.slice(-1).reduce((sum,{volume}) => volume+sum,0) ).numero({divisor:Math.pow(10,3), prefix:'', sufix:'K'}),
@@ -307,6 +344,8 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
         // p_vp: format( p_vp ).percent({sufix:''}),
         // pl: format( imr.slice(-1).reduce((sum,{patrimonio_liquido}) => patrimonio_liquido+sum,0) ).moeda({divisor:Math.pow(10,9), sufix:'Bi'}),
         snowflake:parseSnowflake(),
+        dividends,
+        indicadores:indicadores.slice(-1)[0]
       }
     }
   
@@ -357,19 +396,8 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                     <div className="heading nowrap">Dividend Yield</div>
                     <div className="title nowrap">{getAcaoData({key:'dy.last'})}</div>
                     <div className="level">
-                      <div className="level-item">
-                        <div className="">
-                          <div className="heading nowrap">3 meses</div>
-                          <div className="title nowrap is-5">{getAcaoData({key:'dy.last_3'})}</div>
-                        </div>
-                      </div>
-                    <div className="level-item">
-                      <div className="">
-                        <div className="heading nowrap">6 meses</div>
-                        <div className="title nowrap is-5">{getAcaoData({key:'dy.last_6'})}</div>
-                      </div>
-                    </div>
-                    <div className="level-item">
+                      
+                    <div className="level-item" style={{"flex-grow":"inherit"}}>
                       <div className="">
                         <div className="heading nowrap">12 meses	</div>
                         <div className="title nowrap is-5">{getAcaoData({key:'dy.last_12'})}</div>
@@ -381,69 +409,259 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
   
               <div className="column">
                   <div className="box is-card">
-                    <div className="heading nowrap">Último Rendimento</div>
-                    <div className="title nowrap">{getAcaoData({key:'provento.last'})}</div>
+                    <div className="heading nowrap">Rentabilidade (12m)</div>
+                    <div className="title nowrap">{getAcaoData({key:'rentabilidade.last_12'})}</div>
                     <div className="level">
-                      <div className="level-item">
+                      <div className="level-item" style={{"flex-grow":"inherit"}}>
                         <div className="">
-                          <div className="heading nowrap">3 meses</div>
-                          <div className="title nowrap is-5">{getAcaoData({key:'provento.last_3'})}</div>
+                          <div className="heading nowrap">Mês atual</div>
+                          <div className="title nowrap is-5">{getAcaoData({key:'rentabilidade.last'})}</div>
                         </div>
                       </div>
-                    <div className="level-item">
-                      <div className="">
-                        <div className="heading nowrap">6 meses</div>
-                        <div className="title nowrap is-5">{getAcaoData({key:'provento.last_6'})}</div>
-                      </div>
-                    </div>
-                    <div className="level-item">
-                      <div className="">
-                        <div className="heading nowrap">12 meses	</div>
-                        <div className="title nowrap is-5">{getAcaoData({key:'provento.last_12'})}</div>
-                      </div>
-                    </div>
                   </div>
                 </div>
               </div>
             
             </div>
+
+            {/* indicadores de valuation */}
             <div className="columns is-multiline">
   
               <div className="column">
                 <div className="box is-card">
-                  <div className="heading nowrap">Liquidez Diária</div>
-                  <div className="title nowrap">{getAcaoData({key:'liquidez.last'})}</div>
+                  <div className="heading nowrap">DY</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.dividend_yield'})).percent()}</div>
+                </div>
+              </div>
+  
+              <div className="column">
+                <div className="box is-card">
+                  <div className="heading nowrap">P/L</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.p__l'})).moeda({prefix:''})}</div>
+                </div>
+              </div>
+  
+              <div className="column">
+                <div className="box is-card">
+                  <div className="heading nowrap">PEG RATIO</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.peg_ratio'})).moeda({prefix:''})}</div>
                 </div>
               </div>
   
               <div className="column">
                 <div className="box is-card">
                   <div className="heading nowrap">P/VP</div>
-                  <div className="title nowrap">{getAcaoData({key:'p_vp'})}</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.p__vpa'})).moeda({prefix:''})}</div>
                 </div>
               </div>
   
               <div className="column">
                 <div className="box is-card">
-                  <div className="heading nowrap">Patrimônio Líquido</div>
-                  <div className="title nowrap">{getAcaoData({key:'pl'})}</div>
+                  <div className="heading nowrap">EV/EBITIDA</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.ev__ebitida'})).moeda({prefix:''})}</div>
+                </div>
+              </div>
+  
+            </div>
+            
+            <div className="columns is-multiline">
+  
+              <div className="column">
+                <div className="box is-card">
+                  <div className="heading nowrap">EV/EBIT</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.ev__ebit'})).moeda({prefix:''})}</div>
+                </div>
+              </div>
+  
+              <div className="column">
+                <IndicatorField 
+                  title="P/EBITIDA" 
+                  value={format(getAcaoData({key:'indicadores.p__ebit'})).moeda({prefix:''})} />
+              </div>
+  
+              <div className="column">
+                <div className="box is-card">
+                  <div className="heading nowrap">P/EBIT</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.p__ebit'})).moeda({prefix:''})}</div>
                 </div>
               </div>
   
               <div className="column">
                 <div className="box is-card">
-                  <div className="heading nowrap">Valor Patrimonial</div>
-                  <div className="title nowrap">{getAcaoData({key:'vp.last_3'})}</div>
+                  <div className="heading nowrap">VPA</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.vpa'})).moeda({prefix:''})}</div>
                 </div>
               </div>
   
               <div className="column">
                 <div className="box is-card">
-                  <div className="heading nowrap">Rentabilidade</div>
-                  <div className="title nowrap">{getAcaoData({key:'rentabilidade'})}</div>                  
+                  <div className="heading nowrap">P/ATIVO</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.p__ativo'})).moeda({prefix:''})}</div>
                 </div>
               </div>
   
+            </div>
+            
+            <div className="columns is-multiline">
+  
+              <div className="column">
+                <div className="box is-card">
+                  <div className="heading nowrap">LPA</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.lpa'})).moeda({prefix:''})}</div>
+                </div>
+              </div>
+  
+              <div className="column">
+                <div className="box is-card">
+                  <div className="heading nowrap">P/SR</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.p__sr'})).moeda({prefix:''})}</div>
+                </div>
+              </div>
+  
+              <div className="column">
+                <div className="box is-card">
+                  <div className="heading nowrap">P/CAP.GIRO</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.p__capital_de_giro'})).moeda({prefix:''})}</div>
+                </div>
+              </div>
+  
+              <div className="column">
+                <div className="box is-card">
+                  <div className="heading nowrap">P/ATIVO CIRC. LIQ</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.p__ativo_circ_liq'})).moeda({prefix:''})}</div>
+                </div>
+              </div>
+  
+              <div className="column">
+                <div className="box is-card">
+                  <div className="heading nowrap">VAL. INTRÍN. GRAHAM</div>
+                  <div className="title nowrap">{format(getAcaoData({key:'snowflake.valuation.price'})).moeda()}</div>
+                </div>
+              </div>
+  
+            </div>
+
+            {/* indicadores de endividmento */}
+            <div className="columns is-multiline">
+  
+              <div className="column">
+                <IndicatorField 
+                  title="DÍV. LÍQUIDA/PL" 
+                  value={format(getAcaoData({key:'indicadores.div_bru__pl'})).moeda({prefix:''})} />
+              </div>
+  
+              <div className="column">
+                <IndicatorField 
+                  title="DÍV. LÍQUIDA/EBITDA" 
+                  value={format(getAcaoData({key:'indicadores.div_liq__ebitda'})).moeda({prefix:''})} />
+              </div>
+  
+              <div className="column">
+                <IndicatorField 
+                  title="PL/ATIVOS" 
+                  value={format(getAcaoData({key:'indicadores.p__ativo'})).moeda({prefix:''})} />
+              </div>
+  
+              <div className="column">
+                <IndicatorField 
+                  title="PASSIVOS/ATIVOS" 
+                  value={format(getAcaoData({key:'indicadores.passivo__ativo'})).moeda({prefix:''})} />
+              </div>
+  
+              <div className="column">
+                <IndicatorField 
+                  title="LIQ. CORRENTE" 
+                  value={format(getAcaoData({key:'indicadores.divida_liq'})).moeda({prefix:''})} />
+              </div>
+  
+            </div>
+
+            <div className="columns is-multiline">
+
+
+              {/* indicadores de eficiência */}
+              <div className="column is-4">
+                <div className="columns is-multiline">
+                  <div className="column">
+                    <IndicatorField 
+                      title="M. Bruta" 
+                      value={format(getAcaoData({key:'indicadores.marg_brut'})).moeda({prefix:''})} />
+                  </div>
+
+                  <div className="column">
+                    <IndicatorField 
+                      title="M. EBITIDA" 
+                      value={format(getAcaoData({key:'indicadores.marg_ebitda'})).moeda({prefix:''})} />
+                  </div>
+                </div>
+
+
+                <div className="columns is-multiline">
+                  <div className="column">
+                    <IndicatorField 
+                      title="M. EBIT" 
+                      value={format(getAcaoData({key:'indicadores.marg_ebit'})).moeda({prefix:''})} />
+                  </div>
+
+                  <div className="column">
+                    <IndicatorField 
+                      title="M. LÍQUIDA" 
+                      value={format(getAcaoData({key:'indicadores.marg_liq'})).moeda({prefix:''})} />
+                  </div>
+                </div>
+              </div>
+
+
+              {/* indicadores de rentabilidade */}
+              <div className="column is-4">
+                <div className="columns is-multiline">
+                  <div className="column">
+                    <IndicatorField 
+                      title="ROE" 
+                      value={format(getAcaoData({key:'indicadores.roe'})).moeda({prefix:''})} />
+                  </div>
+
+                  <div className="column">
+                    <IndicatorField 
+                      title="ROA" 
+                      value={format(getAcaoData({key:'indicadores.roa'})).moeda({prefix:''})} />
+                  </div>
+                </div>
+
+
+                <div className="columns is-multiline">
+                  <div className="column">
+                    <IndicatorField 
+                      title="ROIC" 
+                      value={format(getAcaoData({key:'indicadores.roic'})).moeda({prefix:''})} />
+                  </div>
+
+                  <div className="column">
+                    <IndicatorField 
+                      title="GIRO ATIVOS" 
+                      value={format(getAcaoData({key:'indicadores.giro_dos_ativos'})).moeda({prefix:''})} />
+                  </div>
+                </div>
+              </div>
+
+
+              {/* indicadores de crescimento */}
+              <div className="column is-4">
+                <div className="columns is-multiline">
+                  <div className="column">
+                    <IndicatorField 
+                      title="CAGR RECEITAS 5 ANOS" 
+                      value={format(getAcaoData({key:'indicadores.p__ebit'})).moeda({prefix:''})} />
+                  </div>
+
+                  <div className="column">
+                    <IndicatorField 
+                      title="CAGR LUCORS 5 ANOS" 
+                      value={format(getAcaoData({key:'indicadores.p__ebit'})).moeda({prefix:''})} />
+                  </div>
+                </div>
+              </div>
+
             </div>
   
             <div className="columns is-multiline">
@@ -466,6 +684,21 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
               <div className="column is-12">
                 <div className="box is-card">
                   <div className="heading nowrap">
+                    PAYOUT
+                  </div>
+                  <div className="graf">
+                    <MultiDataChart dataset={getAcaoData({key:`datasets.payout`})} />
+                  </div>
+                </div>
+              </div>
+  
+            </div>
+
+            <div className="columns is-multiline">
+
+              <div className="column is-12">
+                <div className="box is-card">
+                  <div className="heading nowrap">
                     Dividendos
                   </div>
                   <div className="graf">
@@ -473,22 +706,42 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                   </div>
                 </div>
               </div>
-  
+
             </div>
-  
+
             <div className="columns is-multiline">
   
               <div className="column is-12">
                 <div className="box is-card">
                   <div className="heading nowrap">
-                    Dividend Yield
+                    Mapa do dividendos inteligente
                   </div>
                   <div className="graf">
-                    <DividendsChart tabs={dyTabList} dataset={getAcaoData({key:`datasets.dy.${state.grafs.dy}`})}/>
+                    <MDIChart dataset={getAcaoData({key:`datasets.mdi`})} >
+                      <TablePaginated 
+                        header={['Tipo','Data','Dividendo']} 
+                        body={getAcaoData({key:`dividends`,default_response:[]}).map(({tipo='',data_com='',dividendo=''}) => [tipo,moment(data_com).format('DD/MM/YY'),format(dividendo).moeda()])}
+                      />                      
+                    </MDIChart>
                   </div>
                 </div>
               </div>
   
+            </div>
+  
+            <div className="columns is-multiline">
+
+              <div className="column is-12">
+                <div className="box is-card">
+                  <div className="heading nowrap">
+                    Margens
+                  </div>
+                  <div className="graf">
+                    <MultiDataChart dataset={getAcaoData({key:`datasets.margem`})} />
+                  </div>
+                </div>
+              </div>
+
             </div>
   
             <div className="columns is-multiline">

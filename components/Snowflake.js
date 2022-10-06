@@ -98,9 +98,9 @@ export default function Snowflake({ config={} }) {
                     </tr>
                   </thead>
                   <tbody>
-                    {data.map(({title='',value='',op='',objective=0,color=''}) => {
+                    {data.map(({title='',value='',op='',objective=0,color=''},idx) => {
                       return (
-                        <tr>
+                        <tr key={idx} >
                           <td style={{color}}>{title}</td>
                           <td style={{color}}>{value}</td>
                           <td style={{color}}>{op}</td>
