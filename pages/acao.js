@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import moment from 'moment';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faArrowUp, faArrowDown } from '@fortawesome/free-solid-svg-icons';
+import { faArrowUp, faArrowDown, prefix } from '@fortawesome/free-solid-svg-icons';
 
 import Navbar from '../components/Navbar';
 import DataSearch from '../components/DataSearch';
@@ -118,6 +118,8 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
     const parseData = (data) => {
       if(data.length==0)
         return {}
+
+      const cagr = (vi,vf,t) => (Math.pow((vf/Math.max(vi,1)),(1/Math.max(t,1)))-1)
     
       const dividends = getDataSafe({key:'dividends', data, default_response:[]});
       const indicadores = getDataSafe({key:'indicadores', data, default_response:[]});
@@ -206,45 +208,76 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
       
       const mkPayoutGraf = () => {
         return {
-          conf:[
+          label:indicadores.map( ({ano}) => (ano) ),
+          datasets:[
             {
               type:'line',
-              title:'PAYOUT'
+              title:'PAYOUT',
+              dataset: indicadores.map( ({y}) => (y) )
             },
             {
               type:'bar',
-              title:'LUCRO LÍQUIDO'
+              title:'LUCRO LÍQUIDO',
+              dataset: indicadores.map( ({lucro_liquido}) => (lucro_liquido) ),
             },
             {
               type:'bar',
-              title:'PROVENTOS'
+              title:'PROVENTOS',
+              dataset: indicadores.map( ({dividend_yield,cotacao}) => (dividend_yield*cotacao/100) ),
             }
-          ],
-          datasets: indicadores.map( ({ano,payout,lucro_liquido,dividend_yield,cotacao}) => ({label:ano, dataset:[payout,lucro_liquido,dividend_yield*cotacao/100]}) )
+          ]
         }
       }
       
       const mkMargenGraf = () => {
         return {
-          conf:[
+          label:indicadores.map( ({ano}) => (ano) ),
+          datasets:[
             {
               type:'line',
-              title:'Bruta'
+              title:'Bruta',
+              dataset: indicadores.map( ({marg_brut}) => (marg_brut) ),
+              formatter:(val) => format( val*100 ).percent(),
             },
             {
               type:'line',
-              title:'Ebitida'
+              title:'Ebitida',
+              dataset: indicadores.map( ({marg_ebitda}) => (marg_ebitda) ),
+              formatter:(val) => format( val*100 ).percent(),
             },
             {
               type:'line',
-              title:'Ebit'
+              title:'Ebit',
+              dataset: indicadores.map( ({marg_ebit}) => (marg_ebit) ),
+              formatter:(val) => format( val*100 ).percent(),
             },
             {
               type:'line',
-              title:'Liquida'
+              title:'Liquida',
+              dataset: indicadores.map( ({marg_liq}) => (marg_liq) ),
+              formatter:(val) => format( val*100 ).percent(),
             }
-          ],
-          datasets: indicadores.map( ({ano,marg_liq,marg_ebitda,marg_ebit,marg_brut}) => ({label:ano, dataset:[marg_liq,marg_ebitda,marg_ebit,marg_brut]}) )
+          ]
+        }
+      }
+      
+      const mkLucroCotacaoGraf = () => {
+        return {
+          label:indicadores.map( ({ano}) => (ano) ),
+          datasets:[
+            {
+              type:'line',
+              title:'Lucro',
+              dataset: indicadores.map( ({lucro_liquido}) => (lucro_liquido) ),
+              formatter:(val) => format( val/1000000 ).moeda({prefix:'',sufix:'Mi'}),
+            },
+            {
+              type:'line',
+              title:'Cotação',
+              dataset: indicadores.map( ({cotacao}) => (cotacao) ),
+              formatter:(val) => format( val ).moeda(),
+            }
+          ]
         }
       }
       
@@ -318,6 +351,7 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
           payout:mkPayoutGraf(),
           mdi: mkMDIGraf(),
           margem:mkMargenGraf(),
+          lucro_cotacao: mkLucroCotacaoGraf(),
         },
         preco: {
           close: format( getDataSafe({key:'close', data:prices.slice(-1), default_response:0}) ).moeda(),
@@ -327,8 +361,8 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
           min: format( arrMin(prices.filter(({date}) => moment(date).isAfter( getDate({days:-52*7}).moment() ) ).map( ({close}) => close )) ).moeda(),
           arrow: 1, // falta ver
         },
-        dy: {
-          last: format( dividends.filter(({data_com}) => moment(data_com).isAfter( moment().startOf('year') ) ).reduce( (sum,{dy}) => sum+dy,0 ) * 100 / price_1 ).percent(),
+        dy: { 
+          last: format( getDataSafe({key:'dividend_yield', data:indicadores.slice(-1), default_response:0})*100 ).percent(),
           last_12: format( dividends.filter(({data_com}) => moment(data_com).isAfter( getDate({years:-1}).moment() )).reduce( (sum,{dy}) => sum+dy,0 ) * 100 / price_1 ).percent(),
         },
         rentabilidade: {
@@ -345,7 +379,9 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
         // pl: format( imr.slice(-1).reduce((sum,{patrimonio_liquido}) => patrimonio_liquido+sum,0) ).moeda({divisor:Math.pow(10,9), sufix:'Bi'}),
         snowflake:parseSnowflake(),
         dividends,
-        indicadores:indicadores.slice(-1)[0]
+        indicadores:indicadores.slice(-1)[0],
+        gagr_receitas_5:cagr(getDataSafe({key:'receita_liquida', data:indicadores.slice(-5), default_response:0}), getDataSafe({key:'receita_liquida', data:indicadores.slice(-1), default_response:0}), 5),
+        gagr_lucros_5:cagr(getDataSafe({key:'lucro_liquido', data:indicadores.slice(-5), default_response:0}), getDataSafe({key:'lucro_liquido', data:indicadores.slice(-1), default_response:0}), 5),
       }
     }
   
@@ -429,24 +465,17 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
   
               <div className="column">
                 <div className="box is-card">
-                  <div className="heading nowrap">DY</div>
-                  <div className="title nowrap">{format(getAcaoData({key:'indicadores.dividend_yield'})).percent()}</div>
-                </div>
-              </div>
-  
-              <div className="column">
-                <div className="box is-card">
                   <div className="heading nowrap">P/L</div>
                   <div className="title nowrap">{format(getAcaoData({key:'indicadores.p__l'})).moeda({prefix:''})}</div>
                 </div>
               </div>
   
-              <div className="column">
+              {/* <div className="column">
                 <div className="box is-card">
                   <div className="heading nowrap">PEG RATIO</div>
                   <div className="title nowrap">{format(getAcaoData({key:'indicadores.peg_ratio'})).moeda({prefix:''})}</div>
                 </div>
-              </div>
+              </div> */}
   
               <div className="column">
                 <div className="box is-card">
@@ -462,17 +491,13 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                 </div>
               </div>
   
-            </div>
-            
-            <div className="columns is-multiline">
-  
               <div className="column">
                 <div className="box is-card">
                   <div className="heading nowrap">EV/EBIT</div>
                   <div className="title nowrap">{format(getAcaoData({key:'indicadores.ev__ebit'})).moeda({prefix:''})}</div>
                 </div>
               </div>
-  
+
               <div className="column">
                 <IndicatorField 
                   title="P/EBITIDA" 
@@ -485,6 +510,10 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                   <div className="title nowrap">{format(getAcaoData({key:'indicadores.p__ebit'})).moeda({prefix:''})}</div>
                 </div>
               </div>
+  
+            </div>
+            
+            <div className="columns is-multiline">
   
               <div className="column">
                 <div className="box is-card">
@@ -499,11 +528,7 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                   <div className="title nowrap">{format(getAcaoData({key:'indicadores.p__ativo'})).moeda({prefix:''})}</div>
                 </div>
               </div>
-  
-            </div>
-            
-            <div className="columns is-multiline">
-  
+
               <div className="column">
                 <div className="box is-card">
                   <div className="heading nowrap">LPA</div>
@@ -532,13 +557,6 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                 </div>
               </div>
   
-              <div className="column">
-                <div className="box is-card">
-                  <div className="heading nowrap">VAL. INTRÍN. GRAHAM</div>
-                  <div className="title nowrap">{format(getAcaoData({key:'snowflake.valuation.price'})).moeda()}</div>
-                </div>
-              </div>
-  
             </div>
 
             {/* indicadores de endividmento */}
@@ -547,19 +565,25 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
               <div className="column">
                 <IndicatorField 
                   title="DÍV. LÍQUIDA/PL" 
-                  value={format(getAcaoData({key:'indicadores.div_bru__pl'})).moeda({prefix:''})} />
+                  value={format(getAcaoData({key:'indicadores.div_liq__pl'})).moeda({prefix:''})} />
               </div>
   
               <div className="column">
                 <IndicatorField 
                   title="DÍV. LÍQUIDA/EBITDA" 
-                  value={format(getAcaoData({key:'indicadores.div_liq__ebitda'})).moeda({prefix:''})} />
+                  value={format(getAcaoData({key:'indicadores.divida_liquida__ebitida'})).moeda({prefix:''})} />
+              </div>
+  
+              <div className="column">
+                <IndicatorField 
+                  title="DÍV. LÍQUIDA/EBIT" 
+                  value={format(getAcaoData({key:'indicadores.divida_liquida__ebit'})).moeda({prefix:''})} />
               </div>
   
               <div className="column">
                 <IndicatorField 
                   title="PL/ATIVOS" 
-                  value={format(getAcaoData({key:'indicadores.p__ativo'})).moeda({prefix:''})} />
+                  value={format(getAcaoData({key:'indicadores.pl__ativo'})).moeda({prefix:''})} />
               </div>
   
               <div className="column">
@@ -571,7 +595,7 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
               <div className="column">
                 <IndicatorField 
                   title="LIQ. CORRENTE" 
-                  value={format(getAcaoData({key:'indicadores.divida_liq'})).moeda({prefix:''})} />
+                  value={format(getAcaoData({key:'indicadores.liquidez_corrente'})).moeda({prefix:''})} />
               </div>
   
             </div>
@@ -585,13 +609,13 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                   <div className="column">
                     <IndicatorField 
                       title="M. Bruta" 
-                      value={format(getAcaoData({key:'indicadores.marg_brut'})).moeda({prefix:''})} />
+                      value={format(getAcaoData({key:'indicadores.marg_brut'})*100).percent()} />
                   </div>
 
                   <div className="column">
                     <IndicatorField 
                       title="M. EBITIDA" 
-                      value={format(getAcaoData({key:'indicadores.marg_ebitda'})).moeda({prefix:''})} />
+                      value={format(getAcaoData({key:'indicadores.marg_ebitda'})*100).percent()} />
                   </div>
                 </div>
 
@@ -600,13 +624,13 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                   <div className="column">
                     <IndicatorField 
                       title="M. EBIT" 
-                      value={format(getAcaoData({key:'indicadores.marg_ebit'})).moeda({prefix:''})} />
+                      value={format(getAcaoData({key:'indicadores.marg_ebit'})*100).percent()} />
                   </div>
 
                   <div className="column">
                     <IndicatorField 
                       title="M. LÍQUIDA" 
-                      value={format(getAcaoData({key:'indicadores.marg_liq'})).moeda({prefix:''})} />
+                      value={format(getAcaoData({key:'indicadores.marg_liq'})*100).percent()} />
                   </div>
                 </div>
               </div>
@@ -618,13 +642,13 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                   <div className="column">
                     <IndicatorField 
                       title="ROE" 
-                      value={format(getAcaoData({key:'indicadores.roe'})).moeda({prefix:''})} />
+                      value={format(getAcaoData({key:'indicadores.roe'})*100).percent()} />
                   </div>
 
                   <div className="column">
                     <IndicatorField 
                       title="ROA" 
-                      value={format(getAcaoData({key:'indicadores.roa'})).moeda({prefix:''})} />
+                      value={format(getAcaoData({key:'indicadores.roa'})*100).percent()} />
                   </div>
                 </div>
 
@@ -633,7 +657,7 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                   <div className="column">
                     <IndicatorField 
                       title="ROIC" 
-                      value={format(getAcaoData({key:'indicadores.roic'})).moeda({prefix:''})} />
+                      value={format(getAcaoData({key:'indicadores.roic'})).percent()} />
                   </div>
 
                   <div className="column">
@@ -651,13 +675,13 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                   <div className="column">
                     <IndicatorField 
                       title="CAGR RECEITAS 5 ANOS" 
-                      value={format(getAcaoData({key:'indicadores.p__ebit'})).moeda({prefix:''})} />
+                      value={format(getAcaoData({key:'gagr_receitas_5'})*100).percent()} />
                   </div>
 
                   <div className="column">
                     <IndicatorField 
                       title="CAGR LUCORS 5 ANOS" 
-                      value={format(getAcaoData({key:'indicadores.p__ebit'})).moeda({prefix:''})} />
+                      value={format(getAcaoData({key:'gagr_lucros_5'})*100).percent()} />
                   </div>
                 </div>
               </div>
@@ -677,6 +701,21 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                 </div>
               </div>
   
+            </div>
+  
+            <div className="columns is-multiline">
+
+              <div className="column is-12">
+                <div className="box is-card">
+                  <div className="heading nowrap">
+                    LUCRO X COTAÇÃO
+                  </div>
+                  <div className="graf">
+                    <MultiDataChart dataset={getAcaoData({key:`datasets.lucro_cotacao`})} />
+                  </div>
+                </div>
+              </div>
+
             </div>
   
             <div className="columns is-multiline">
