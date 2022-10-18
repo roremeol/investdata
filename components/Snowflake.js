@@ -72,7 +72,7 @@ export default function Snowflake({ config={} }) {
 
         </div>
 
-        <div className="columns is-multiline">
+        {/* <div className="columns is-multiline">
 
           <div className="column is-12">
             <div className='level-item' style={{height: '100%'}}>
@@ -115,7 +115,7 @@ export default function Snowflake({ config={} }) {
             </div>
           </div>
 
-        </div>
+        </div> */}
       </>
   );
 }
