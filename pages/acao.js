@@ -213,17 +213,20 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
             {
               type:'line',
               title:'PAYOUT',
-              dataset: indicadores.map( ({y}) => (y) )
+              dataset: indicadores.map( ({payout}) => (payout) ),
+              formatter:(val) => format( val*100 ).percent(),
             },
             {
               type:'bar',
               title:'LUCRO LÍQUIDO',
               dataset: indicadores.map( ({lucro_liquido}) => (lucro_liquido) ),
+              formatter:(val) => format( val/1000000 ).moeda({prefix:'',sufix:'Mi'}),
             },
             {
               type:'bar',
               title:'PROVENTOS',
-              dataset: indicadores.map( ({dividend_yield,cotacao}) => (dividend_yield*cotacao/100) ),
+              dataset: indicadores.map( ({dividend_yield,cotacao}) => (dividend_yield*cotacao) ),
+              formatter:(val) => format( val ).moeda(),
             }
           ]
         }
@@ -433,7 +436,7 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                     <div className="title nowrap">{getAcaoData({key:'dy.last'})}</div>
                     <div className="level">
                       
-                    <div className="level-item" style={{"flex-grow":"inherit"}}>
+                    <div className="level-item" style={{"flexGrow":"inherit"}}>
                       <div className="">
                         <div className="heading nowrap">12 meses	</div>
                         <div className="title nowrap is-5">{getAcaoData({key:'dy.last_12'})}</div>
@@ -448,7 +451,7 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                     <div className="heading nowrap">Rentabilidade (12m)</div>
                     <div className="title nowrap">{getAcaoData({key:'rentabilidade.last_12'})}</div>
                     <div className="level">
-                      <div className="level-item" style={{"flex-grow":"inherit"}}>
+                      <div className="level-item" style={{"flexGrow":"inherit"}}>
                         <div className="">
                           <div className="heading nowrap">Mês atual</div>
                           <div className="title nowrap is-5">{getAcaoData({key:'rentabilidade.last'})}</div>

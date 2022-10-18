@@ -1,10 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import ReactECharts from 'echarts-for-react';
 
-import { format } from '../lib/utils'
+import { colors } from '../lib/utils'
 import grafStyle from '../styles/graf.module.scss'
-import { getData } from '../lib/data_utils';
-import { color } from 'd3';
 
 export default function MultiDataChart({ dataset={} }) {
   const { label=[], datasets=[] } = dataset;
@@ -21,9 +19,9 @@ export default function MultiDataChart({ dataset={} }) {
     })
   },[dataset])
 
-  const colors = ['#808080','#9b9b9b',"#3a3a3a"]
+  const _colors = colors()
   const options = {
-    color: colors,
+    color: _colors,
     legend: {},
     tooltip: {
       axisPointer: {
@@ -34,8 +32,8 @@ export default function MultiDataChart({ dataset={} }) {
         
         const html = data.datasets.map( ({title,dataset,formatter=false},index) => {
           const val = dataset[dataIndex];
-          const c = index % colors.length
-          const color = colors[c]
+          const c = index % _colors.length
+          const color = _colors[c]
           
           return `
           <span style="display:flex; align-items: center;margin-bottom: 0.2rem">                                    
@@ -64,7 +62,9 @@ export default function MultiDataChart({ dataset={} }) {
         type: 'value',
         alignTicks: true,
         show:index==0,
-        formatter:(val) => formatter ? formatter(val) : val
+        axisLabel:{
+          formatter:(val) => formatter ? formatter(val) : val
+        }
       }
     }),
 

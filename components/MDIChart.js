@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactECharts from 'echarts-for-react';
 
-import { format } from '../lib/utils'
-import grafStyle from '../styles/graf.module.scss'
+import { colors } from '../lib/utils'
 
 const months = ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez'];
+const _colors = colors()
 
 export default function MDIChart({ dataset=[], children=false }) {
   
@@ -47,7 +47,7 @@ export default function MDIChart({ dataset=[], children=false }) {
       left: 'center',
       top: '80px',
       inRange : {   
-          color: ['#effaf5','hsl(0deg, 0%, 21%)'] //From smaller to bigger value ->
+          color: ['#effaf5',_colors[0]] //From smaller to bigger value ->
       }
     },
     series: [

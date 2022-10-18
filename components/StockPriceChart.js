@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ReactECharts from 'echarts-for-react';
 
+import { colors } from '../lib/utils'
 import grafStyle from '../styles/graf.module.scss'
 
 export default function StockPriceChart({ tabs=[], dataset={} }) {
@@ -14,10 +15,7 @@ export default function StockPriceChart({ tabs=[], dataset={} }) {
         formatter: (params) => formatter(params[0].value),
         axisPointer: {
           animation: false,
-          type: 'cross',
-          lineStyle: {
-            color: '#8392A5'
-          }
+          type: 'cross'
         }
       },
       xAxis: {
@@ -28,7 +26,6 @@ export default function StockPriceChart({ tabs=[], dataset={} }) {
         type: 'value',
         data: data,
         scale: true,
-        axisLine: { lineStyle: { color: '#8392A5' } },
         splitLine: { show: true },
         axisLabel: {
           formatter
@@ -40,7 +37,7 @@ export default function StockPriceChart({ tabs=[], dataset={} }) {
           type: 'line',
           smooth: true,
           itemStyle: {
-            color: 'hsl(0deg, 0%, 21%)',
+            color: colors()[0],
           }
         },
       ]
