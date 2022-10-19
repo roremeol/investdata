@@ -20,6 +20,7 @@
     "bulmaswatch": "^0.8.1",
     "d3": "^7.6.1",
     "d3-selection": "^3.0.0",
+    "echarts": "^5.4.0",
     "echarts-for-react": "^3.0.2",
     "fs": "^0.0.1-security",
     "moment": "^2.29.4",
@@ -28,7 +29,8 @@
     "path": "^0.12.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "sass": "^1.54.6"
+    "sass": "^1.54.6",
+    "tslib": "^2.4.0"
   },
   "devDependencies": {
     "eslint": "8.23.0",
