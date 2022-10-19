@@ -10,8 +10,10 @@ export default function DividendsChart({ tabs=[], dataset={} }) {
   const options = {
       grid: { top: 8, right: 8, bottom: 24, left: 68 },
       tooltip: {
-        trigger: 'axis',
-        formatter: (params) => formatter(params[0].value)
+        axisPointer: {
+          type: 'cross'
+        },
+        formatter: (params) => formatter(params.value)
       },
       xAxis: {
         type: 'category',

@@ -121,7 +121,8 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
 
       const cagr = (vi,vf,t) => (Math.pow((vf/Math.max(vi,1)),(1/Math.max(t,1)))-1)
     
-      const dividends = getDataSafe({key:'dividends', data, default_response:[]});
+
+      const dividends = [...getDataSafe({key:'dividends', data, default_response:[]}).sort((d1,d2) => moment(d1.data_com).unix()-moment(d2.data_com).unix())];
       const indicadores = getDataSafe({key:'indicadores', data, default_response:[]});
       const prices = getDataSafe({key:'prices', data, default_response:[]});
       const snowflake_ = getDataSafe({key:'snowflake', data, default_response:{}});
@@ -202,7 +203,7 @@ export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
                     const month = moment(data_com).format('M')
                     result[month-1]++;
                   });
-
+        
         return result;
       }
       
