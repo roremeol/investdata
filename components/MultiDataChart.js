@@ -25,7 +25,7 @@ export default function MultiDataChart({ dataset={} }) {
     legend: {},
     tooltip: {
       axisPointer: {
-        type: 'cross'
+        show:false
       },
       formatter: (params) => {
         const { dataIndex=0 } = params;
