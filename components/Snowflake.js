@@ -4,7 +4,7 @@ import ReactECharts from 'echarts-for-react';
 import grafStyle from '../styles/graf.module.scss'
 
 export default function Snowflake({ config={} }) {
-  const { data=[], dataset=[], indicator=[{ text: 'Dividendos', max: 100 }], pontuacao='0.00%', valuation='R$ 0,00', upside='0.00%' } = config;
+  const { dataset=[], indicator=[{ text: 'Dividendos', max: 100 }], pontuacao='0.00%', valuation='R$ 0,00', upside='0.00%' } = config;
 
   const options = {
     color: ['hsl(0deg, 0%, 21%)'],

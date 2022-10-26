@@ -3,6 +3,13 @@
     "cnpj": "00.000.000/0001-91",
     "dividends": [
         {
+            "data_com": "2022-09-12T00:00:00",
+            "dividendo": 0.2737355124,
+            "dy": 0.666672,
+            "ticker": "ON",
+            "tipo": "JRS CAP PROPRIO"
+        },
+        {
             "data_com": "2022-08-22T00:00:00",
             "dividendo": 0.20018899819,
             "dy": 0.482732,
@@ -1571,7 +1578,7 @@
             "tipo": "DIVIDENDO"
         }
     ],
-    "ibov_participacao": 2.641,
+    "ibov_participacao": 2.598,
     "indicadores": [
         {
             "alavancagem": 17.338322,

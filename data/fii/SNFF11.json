@@ -1,0 +1,3663 @@
+{
+    "cnpj": "40.011.225/000168",
+    "contratos": [],
+    "cri": [],
+    "dividends": [
+        {
+            "data_com": "2021-06-15T00:00:00",
+            "data_pagamento": "2021-06-25T00:00:00",
+            "provento": 0.12
+        },
+        {
+            "data_com": "2021-07-15T00:00:00",
+            "data_pagamento": "2021-07-23T00:00:00",
+            "provento": 0.41
+        },
+        {
+            "data_com": "2021-08-13T00:00:00",
+            "data_pagamento": "2021-08-25T00:00:00",
+            "provento": 0.55
+        },
+        {
+            "data_com": "2021-09-15T00:00:00",
+            "data_pagamento": "2021-09-24T00:00:00",
+            "provento": 0.7
+        },
+        {
+            "data_com": "2021-10-15T00:00:00",
+            "data_pagamento": "2021-10-25T00:00:00",
+            "provento": 0.7
+        },
+        {
+            "data_com": "2021-11-12T00:00:00",
+            "data_pagamento": "2021-11-25T00:00:00",
+            "provento": 0.62
+        },
+        {
+            "data_com": "2021-12-15T00:00:00",
+            "data_pagamento": "2021-12-23T00:00:00",
+            "provento": 0.7
+        },
+        {
+            "data_com": "2022-01-14T00:00:00",
+            "data_pagamento": "2022-01-25T00:00:00",
+            "provento": 0.65
+        },
+        {
+            "data_com": "2022-02-15T00:00:00",
+            "data_pagamento": "2022-02-25T00:00:00",
+            "provento": 0.65
+        },
+        {
+            "data_com": "2022-03-15T00:00:00",
+            "data_pagamento": "2022-03-25T00:00:00",
+            "provento": 0.65
+        },
+        {
+            "data_com": "2022-04-14T00:00:00",
+            "data_pagamento": "2022-04-25T00:00:00",
+            "provento": 0.65
+        },
+        {
+            "data_com": "2022-05-13T00:00:00",
+            "data_pagamento": "2022-05-25T00:00:00",
+            "provento": 0.65
+        },
+        {
+            "data_com": "2022-06-15T00:00:00",
+            "data_pagamento": "2022-06-24T00:00:00",
+            "provento": 1.3
+        },
+        {
+            "data_com": "2022-07-15T00:00:00",
+            "data_pagamento": "2022-07-25T00:00:00",
+            "provento": 0.65
+        },
+        {
+            "data_com": "2022-08-15T00:00:00",
+            "data_pagamento": "2022-08-25T00:00:00",
+            "provento": 0.65
+        },
+        {
+            "data_com": "2022-09-15T00:00:00",
+            "data_pagamento": "2022-09-23T00:00:00",
+            "provento": 0.65
+        },
+        {
+            "data_com": "2022-10-14T00:00:00",
+            "data_pagamento": "2022-10-25T00:00:00",
+            "provento": 0.106361483
+        }
+    ],
+    "fii": [],
+    "gestao": "Ativa",
+    "ifix_participacao": 0.218,
+    "imr": [
+        {
+            "ativo": 248182004.47,
+            "caixa": 110093847.49,
+            "competencia": "05/2021",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 23884,
+            "despesa_administracao": 158921.96,
+            "dy": 0.1352,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 243372074.74,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 97.34883
+        },
+        {
+            "ativo": 283511982.52,
+            "caixa": 73261294.05,
+            "competencia": "06/2021",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 27509,
+            "despesa_administracao": 158286.86,
+            "dy": 0.4103,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 240192510.51,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 96.077004
+        },
+        {
+            "ativo": 253706356.91,
+            "caixa": 51380905.24,
+            "competencia": "07/2021",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 28461,
+            "despesa_administracao": 156221.85,
+            "dy": 0.7167,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 241829487.82,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 96.731795
+        },
+        {
+            "ativo": 246119446.46,
+            "caixa": 19481912.08,
+            "competencia": "08/2021",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 28612,
+            "despesa_administracao": 57180.73,
+            "dy": 0.7212,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 235311629.41,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 94.124652
+        },
+        {
+            "ativo": 243503936.93,
+            "caixa": 25571572.73,
+            "competencia": "09/2021",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 29763,
+            "despesa_administracao": 102863.55,
+            "dy": 0.6792,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 230635763.32,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 92.254305
+        },
+        {
+            "ativo": 247699192.91,
+            "caixa": 6117863.23,
+            "competencia": "10/2021",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 30509,
+            "despesa_administracao": 149996.09,
+            "dy": 0.6057,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 225897721.45,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 90.359089
+        },
+        {
+            "ativo": 218118411.08,
+            "caixa": 7796916.06,
+            "competencia": "11/2021",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 30375,
+            "despesa_administracao": 146816.23,
+            "dy": 0.8375,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 215906222.37,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 86.362489
+        },
+        {
+            "ativo": 235574039.02,
+            "caixa": 4273970.55,
+            "competencia": "12/2021",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 30474,
+            "despesa_administracao": 140321.19,
+            "dy": 0.8032,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 233091678.77,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 93.236672
+        },
+        {
+            "ativo": 240761186.1,
+            "caixa": 8923457.61,
+            "competencia": "01/2022",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 30751,
+            "despesa_administracao": 145116.78,
+            "dy": 0.8307,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 230710296.21,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 92.284118
+        },
+        {
+            "ativo": 236590443.48,
+            "caixa": 15041139.01,
+            "competencia": "02/2022",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 30876,
+            "despesa_administracao": 141191.23,
+            "dy": 0.8822,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 227361073.98,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 90.94443
+        },
+        {
+            "ativo": 237011703.25,
+            "caixa": 8651748.14,
+            "competencia": "03/2022",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 31162,
+            "despesa_administracao": 136051.84,
+            "dy": 0.7043,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 228274891.17,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 91.309956
+        },
+        {
+            "ativo": 238435645.44,
+            "caixa": 15509350.56,
+            "competencia": "04/2022",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 31121,
+            "despesa_administracao": 140285.86,
+            "dy": 0.8964,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 229225267.17,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 91.690107
+        },
+        {
+            "ativo": 231842045.21,
+            "caixa": 3957447.9,
+            "competencia": "05/2022",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 31003,
+            "despesa_administracao": 135614.56,
+            "dy": 0.8384,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 227160067.18,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 90.864027
+        },
+        {
+            "ativo": 230478840.99,
+            "caixa": 10499480.47,
+            "competencia": "06/2022",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 31666,
+            "despesa_administracao": 138540.27,
+            "dy": 0.6827,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 225268736.49,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 90.107495
+        },
+        {
+            "ativo": 227578339.91,
+            "caixa": 10120884.12,
+            "competencia": "07/2022",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 32104,
+            "despesa_administracao": 143334.42,
+            "dy": 0.9329,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 224310520.66,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 89.724208
+        },
+        {
+            "ativo": 249155079.16,
+            "caixa": 17519787.15,
+            "competencia": "08/2022",
+            "cotas_emitidas": 2500000.0,
+            "cotistas": 32473,
+            "despesa_administracao": 142306.32,
+            "dy": 0.7221,
+            "numero_cotas": 2500000.0,
+            "patrimonio_liquido": 235606490.7,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 94.242596
+        },
+        {
+            "ativo": 288654585.54,
+            "caixa": 32200400.99,
+            "competencia": "09/2022",
+            "cotas_emitidas": 2830000.0,
+            "cotistas": 32250,
+            "despesa_administracao": 148003.58,
+            "dy": 0.7975,
+            "numero_cotas": 2830000.0,
+            "patrimonio_liquido": 266673120.8,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 94.230785
+        }
+    ],
+    "indexador_reajuste_contrato": [],
+    "ipca_prize": 5.76,
+    "isin": "BRSNFFCTF001",
+    "lci": [],
+    "mandato": "T\u00edtulos",
+    "nome": "SUNO FUNDO DE FUNDOS DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "prices": [
+        {
+            "change": 0.0,
+            "close": 108.5,
+            "date": "2021-05-07",
+            "max": 114.17,
+            "min": 107.5,
+            "open": 110.0,
+            "volume": 41748443580000
+        },
+        {
+            "change": 0.737327,
+            "close": 109.3,
+            "date": "2021-05-10",
+            "max": 109.98,
+            "min": 109.0,
+            "open": 109.2,
+            "volume": 11689525070000
+        },
+        {
+            "change": 0.046083,
+            "close": 108.55,
+            "date": "2021-05-11",
+            "max": 109.85,
+            "min": 108.5,
+            "open": 109.41,
+            "volume": 5503037300000
+        },
+        {
+            "change": -1.539171,
+            "close": 106.83,
+            "date": "2021-05-12",
+            "max": 109.0,
+            "min": 106.5,
+            "open": 108.8,
+            "volume": 5931059570000
+        },
+        {
+            "change": -3.21659,
+            "close": 105.01,
+            "date": "2021-05-13",
+            "max": 107.0,
+            "min": 105.01,
+            "open": 107.0,
+            "volume": 5090447610000
+        },
+        {
+            "change": -4.193548,
+            "close": 103.95,
+            "date": "2021-05-14",
+            "max": 106.57,
+            "min": 103.7,
+            "open": 105.37,
+            "volume": 5230954790000
+        },
+        {
+            "change": -5.990783,
+            "close": 102.0,
+            "date": "2021-05-17",
+            "max": 104.09,
+            "min": 101.0,
+            "open": 104.0,
+            "volume": 4579805510000
+        },
+        {
+            "change": -6.082949,
+            "close": 101.9,
+            "date": "2021-05-18",
+            "max": 102.97,
+            "min": 101.03,
+            "open": 102.0,
+            "volume": 3982905990000
+        },
+        {
+            "change": -6.331797,
+            "close": 101.63,
+            "date": "2021-05-19",
+            "max": 102.0,
+            "min": 101.1,
+            "open": 101.99,
+            "volume": 2808199630000
+        },
+        {
+            "change": -7.004608,
+            "close": 100.9,
+            "date": "2021-05-20",
+            "max": 102.5,
+            "min": 100.13,
+            "open": 101.9,
+            "volume": 2829197430000
+        },
+        {
+            "change": -6.912442,
+            "close": 101.0,
+            "date": "2021-05-21",
+            "max": 102.03,
+            "min": 101.0,
+            "open": 101.94,
+            "volume": 2595634050000
+        },
+        {
+            "change": -6.635945,
+            "close": 101.3,
+            "date": "2021-05-24",
+            "max": 102.0,
+            "min": 101.01,
+            "open": 101.3,
+            "volume": 2358671060000
+        },
+        {
+            "change": -6.479263,
+            "close": 101.47,
+            "date": "2021-05-25",
+            "max": 101.94,
+            "min": 101.16,
+            "open": 101.35,
+            "volume": 2890396920000
+        },
+        {
+            "change": -6.912442,
+            "close": 101.0,
+            "date": "2021-05-26",
+            "max": 103.18,
+            "min": 100.54,
+            "open": 101.35,
+            "volume": 5587919170000
+        },
+        {
+            "change": -6.903226,
+            "close": 101.01,
+            "date": "2021-05-27",
+            "max": 101.9,
+            "min": 100.53,
+            "open": 100.81,
+            "volume": 2618733900000
+        },
+        {
+            "change": -7.428571,
+            "close": 100.44,
+            "date": "2021-05-28",
+            "max": 101.76,
+            "min": 100.43,
+            "open": 101.5,
+            "volume": 3135026300000
+        },
+        {
+            "change": -7.465438,
+            "close": 100.4,
+            "date": "2021-05-31",
+            "max": 100.89,
+            "min": 99.2,
+            "open": 100.85,
+            "volume": 4476282440000
+        },
+        {
+            "change": -7.004608,
+            "close": 100.9,
+            "date": "2021-06-01",
+            "max": 101.33,
+            "min": 100.2,
+            "open": 100.7,
+            "volume": 2791814950000
+        },
+        {
+            "change": -7.382488,
+            "close": 100.49,
+            "date": "2021-06-02",
+            "max": 102.0,
+            "min": 100.37,
+            "open": 101.29,
+            "volume": 2840967320000
+        },
+        {
+            "change": -6.082949,
+            "close": 101.9,
+            "date": "2021-06-04",
+            "max": 102.49,
+            "min": 101.19,
+            "open": 101.2,
+            "volume": 2531379440000
+        },
+        {
+            "change": -5.62212,
+            "close": 102.4,
+            "date": "2021-06-07",
+            "max": 103.13,
+            "min": 102.3,
+            "open": 102.52,
+            "volume": 1963000330000
+        },
+        {
+            "change": -5.059908,
+            "close": 103.01,
+            "date": "2021-06-08",
+            "max": 104.0,
+            "min": 102.72,
+            "open": 102.87,
+            "volume": 2189585780000
+        },
+        {
+            "change": -5.24424,
+            "close": 102.81,
+            "date": "2021-06-09",
+            "max": 104.09,
+            "min": 102.51,
+            "open": 103.5,
+            "volume": 1390135630000
+        },
+        {
+            "change": -4.884793,
+            "close": 103.2,
+            "date": "2021-06-10",
+            "max": 104.2,
+            "min": 102.8,
+            "open": 102.81,
+            "volume": 1365198040000
+        },
+        {
+            "change": -4.986175,
+            "close": 103.09,
+            "date": "2021-06-11",
+            "max": 103.59,
+            "min": 102.3,
+            "open": 103.45,
+            "volume": 1562283570000
+        },
+        {
+            "change": -5.078341,
+            "close": 102.99,
+            "date": "2021-06-14",
+            "max": 103.95,
+            "min": 102.51,
+            "open": 103.1,
+            "volume": 2102786360000
+        },
+        {
+            "change": -4.81106,
+            "close": 103.28,
+            "date": "2021-06-15",
+            "max": 103.52,
+            "min": 102.21,
+            "open": 103.38,
+            "volume": 3467357450000
+        },
+        {
+            "change": -6.359447,
+            "close": 101.6,
+            "date": "2021-06-16",
+            "max": 102.98,
+            "min": 101.21,
+            "open": 102.0,
+            "volume": 3321088060000
+        },
+        {
+            "change": -7.207373,
+            "close": 100.68,
+            "date": "2021-06-17",
+            "max": 102.5,
+            "min": 99.99,
+            "open": 102.0,
+            "volume": 3017108040000
+        },
+        {
+            "change": -7.096774,
+            "close": 100.8,
+            "date": "2021-06-18",
+            "max": 101.42,
+            "min": 100.11,
+            "open": 100.95,
+            "volume": 1964580290000
+        },
+        {
+            "change": -7.179724,
+            "close": 100.71,
+            "date": "2021-06-21",
+            "max": 101.79,
+            "min": 100.31,
+            "open": 101.1,
+            "volume": 1401084820000
+        },
+        {
+            "change": -7.557604,
+            "close": 100.3,
+            "date": "2021-06-22",
+            "max": 101.44,
+            "min": 100.16,
+            "open": 100.7,
+            "volume": 1663287530000
+        },
+        {
+            "change": -7.686636,
+            "close": 100.16,
+            "date": "2021-06-23",
+            "max": 101.0,
+            "min": 100.1,
+            "open": 100.5,
+            "volume": 1559918250000
+        },
+        {
+            "change": -7.695853,
+            "close": 100.15,
+            "date": "2021-06-24",
+            "max": 100.97,
+            "min": 100.11,
+            "open": 100.25,
+            "volume": 1428563380000
+        },
+        {
+            "change": -8.764977,
+            "close": 98.99,
+            "date": "2021-06-25",
+            "max": 100.7,
+            "min": 97.0,
+            "open": 100.17,
+            "volume": 3961687530000
+        },
+        {
+            "change": -8.294931,
+            "close": 99.5,
+            "date": "2021-06-28",
+            "max": 99.79,
+            "min": 94.42,
+            "open": 97.0,
+            "volume": 2926042540000
+        },
+        {
+            "change": -7.963134,
+            "close": 99.86,
+            "date": "2021-06-29",
+            "max": 100.25,
+            "min": 98.03,
+            "open": 99.45,
+            "volume": 949503180000
+        },
+        {
+            "change": -8.479263,
+            "close": 99.3,
+            "date": "2021-06-30",
+            "max": 99.99,
+            "min": 99.0,
+            "open": 99.01,
+            "volume": 758309170000
+        },
+        {
+            "change": -8.341014,
+            "close": 99.45,
+            "date": "2021-07-01",
+            "max": 99.94,
+            "min": 99.02,
+            "open": 99.03,
+            "volume": 627653510000
+        },
+        {
+            "change": -8.073733,
+            "close": 99.74,
+            "date": "2021-07-02",
+            "max": 99.95,
+            "min": 99.01,
+            "open": 99.91,
+            "volume": 747647570000
+        },
+        {
+            "change": -8.552995,
+            "close": 99.22,
+            "date": "2021-07-05",
+            "max": 100.0,
+            "min": 98.5,
+            "open": 100.0,
+            "volume": 1659694440000
+        },
+        {
+            "change": -8.294931,
+            "close": 99.5,
+            "date": "2021-07-06",
+            "max": 99.95,
+            "min": 98.8,
+            "open": 99.5,
+            "volume": 572916590000
+        },
+        {
+            "change": -8.562212,
+            "close": 99.21,
+            "date": "2021-07-07",
+            "max": 99.8,
+            "min": 99.12,
+            "open": 99.5,
+            "volume": 853063640000
+        },
+        {
+            "change": -8.746544,
+            "close": 99.01,
+            "date": "2021-07-08",
+            "max": 99.95,
+            "min": 98.53,
+            "open": 98.53,
+            "volume": 662485060000
+        },
+        {
+            "change": -7.834101,
+            "close": 100.0,
+            "date": "2021-07-12",
+            "max": 100.01,
+            "min": 99.01,
+            "open": 99.02,
+            "volume": 1604904410000
+        },
+        {
+            "change": -7.695853,
+            "close": 100.15,
+            "date": "2021-07-13",
+            "max": 100.98,
+            "min": 100.06,
+            "open": 100.25,
+            "volume": 1337703080000
+        },
+        {
+            "change": -7.732719,
+            "close": 100.11,
+            "date": "2021-07-14",
+            "max": 101.24,
+            "min": 100.0,
+            "open": 100.78,
+            "volume": 1581155760000
+        },
+        {
+            "change": -6.912442,
+            "close": 101.0,
+            "date": "2021-07-15",
+            "max": 101.49,
+            "min": 100.52,
+            "open": 100.53,
+            "volume": 1209182750000
+        },
+        {
+            "change": -7.345622,
+            "close": 100.53,
+            "date": "2021-07-16",
+            "max": 104.24,
+            "min": 100.51,
+            "open": 100.7,
+            "volume": 1214003920000
+        },
+        {
+            "change": -6.912442,
+            "close": 101.0,
+            "date": "2021-07-19",
+            "max": 101.96,
+            "min": 99.65,
+            "open": 99.65,
+            "volume": 1106016660000
+        },
+        {
+            "change": -6.894009,
+            "close": 101.02,
+            "date": "2021-07-20",
+            "max": 101.99,
+            "min": 101.0,
+            "open": 101.3,
+            "volume": 816653330000
+        },
+        {
+            "change": -6.912442,
+            "close": 101.0,
+            "date": "2021-07-21",
+            "max": 101.96,
+            "min": 100.7,
+            "open": 101.7,
+            "volume": 958610460000
+        },
+        {
+            "change": -7.465438,
+            "close": 100.4,
+            "date": "2021-07-22",
+            "max": 101.89,
+            "min": 99.8,
+            "open": 101.89,
+            "volume": 750617980000
+        },
+        {
+            "change": -7.603687,
+            "close": 100.25,
+            "date": "2021-07-23",
+            "max": 101.0,
+            "min": 100.0,
+            "open": 100.4,
+            "volume": 973978870000
+        },
+        {
+            "change": -7.529954,
+            "close": 100.33,
+            "date": "2021-07-26",
+            "max": 101.42,
+            "min": 100.01,
+            "open": 101.34,
+            "volume": 655420720000
+        },
+        {
+            "change": -7.834101,
+            "close": 100.0,
+            "date": "2021-07-27",
+            "max": 100.95,
+            "min": 100.0,
+            "open": 100.3,
+            "volume": 1275619400000
+        },
+        {
+            "change": -7.815668,
+            "close": 100.02,
+            "date": "2021-07-28",
+            "max": 100.7,
+            "min": 100.0,
+            "open": 100.0,
+            "volume": 487696180000
+        },
+        {
+            "change": -7.880184,
+            "close": 99.95,
+            "date": "2021-07-29",
+            "max": 100.49,
+            "min": 99.8,
+            "open": 100.15,
+            "volume": 840235490000
+        },
+        {
+            "change": -8.294931,
+            "close": 99.5,
+            "date": "2021-07-30",
+            "max": 100.2,
+            "min": 99.09,
+            "open": 100.2,
+            "volume": 865362060000
+        },
+        {
+            "change": -8.75576,
+            "close": 99.0,
+            "date": "2021-08-02",
+            "max": 99.98,
+            "min": 98.0,
+            "open": 99.03,
+            "volume": 1238180510000
+        },
+        {
+            "change": -9.410138,
+            "close": 98.29,
+            "date": "2021-08-03",
+            "max": 100.0,
+            "min": 98.24,
+            "open": 99.03,
+            "volume": 883052950000
+        },
+        {
+            "change": -10.073733,
+            "close": 97.57,
+            "date": "2021-08-04",
+            "max": 98.89,
+            "min": 97.36,
+            "open": 98.6,
+            "volume": 730064910000
+        },
+        {
+            "change": -9.585253,
+            "close": 98.1,
+            "date": "2021-08-05",
+            "max": 99.0,
+            "min": 97.5,
+            "open": 97.65,
+            "volume": 681611660000
+        },
+        {
+            "change": -9.686636,
+            "close": 97.99,
+            "date": "2021-08-06",
+            "max": 98.15,
+            "min": 97.5,
+            "open": 98.1,
+            "volume": 710589890000
+        },
+        {
+            "change": -9.677419,
+            "close": 98.0,
+            "date": "2021-08-09",
+            "max": 98.97,
+            "min": 97.58,
+            "open": 97.58,
+            "volume": 593335360000
+        },
+        {
+            "change": -10.506912,
+            "close": 97.1,
+            "date": "2021-08-10",
+            "max": 98.37,
+            "min": 96.07,
+            "open": 98.0,
+            "volume": 923929710000
+        },
+        {
+            "change": -11.880184,
+            "close": 95.61,
+            "date": "2021-08-11",
+            "max": 97.6,
+            "min": 95.6,
+            "open": 96.52,
+            "volume": 819489390000
+        },
+        {
+            "change": -13.364055,
+            "close": 94.0,
+            "date": "2021-08-12",
+            "max": 97.0,
+            "min": 92.99,
+            "open": 95.61,
+            "volume": 1122653670000
+        },
+        {
+            "change": -12.903226,
+            "close": 94.5,
+            "date": "2021-08-13",
+            "max": 95.0,
+            "min": 93.8,
+            "open": 94.5,
+            "volume": 971754140000
+        },
+        {
+            "change": -15.207373,
+            "close": 92.0,
+            "date": "2021-08-16",
+            "max": 94.86,
+            "min": 90.0,
+            "open": 94.0,
+            "volume": 1308299670000
+        },
+        {
+            "change": -17.004608,
+            "close": 90.05,
+            "date": "2021-08-17",
+            "max": 92.4,
+            "min": 90.04,
+            "open": 92.02,
+            "volume": 1296140200000
+        },
+        {
+            "change": -15.806452,
+            "close": 91.35,
+            "date": "2021-08-18",
+            "max": 92.4,
+            "min": 90.1,
+            "open": 90.8,
+            "volume": 930176570000
+        },
+        {
+            "change": -14.285714,
+            "close": 93.0,
+            "date": "2021-08-19",
+            "max": 100.01,
+            "min": 90.5,
+            "open": 91.5,
+            "volume": 1378523640000
+        },
+        {
+            "change": -14.470046,
+            "close": 92.8,
+            "date": "2021-08-20",
+            "max": 94.0,
+            "min": 91.23,
+            "open": 93.1,
+            "volume": 622713520000
+        },
+        {
+            "change": -13.262673,
+            "close": 94.11,
+            "date": "2021-08-23",
+            "max": 94.78,
+            "min": 92.01,
+            "open": 92.32,
+            "volume": 593136740000
+        },
+        {
+            "change": -14.847926,
+            "close": 92.39,
+            "date": "2021-08-24",
+            "max": 94.98,
+            "min": 92.05,
+            "open": 94.15,
+            "volume": 937800260000
+        },
+        {
+            "change": -14.894009,
+            "close": 92.34,
+            "date": "2021-08-25",
+            "max": 93.8,
+            "min": 92.01,
+            "open": 92.89,
+            "volume": 644706190000
+        },
+        {
+            "change": -14.119816,
+            "close": 93.18,
+            "date": "2021-08-26",
+            "max": 93.98,
+            "min": 92.9,
+            "open": 93.3,
+            "volume": 461669830000
+        },
+        {
+            "change": -14.470046,
+            "close": 92.8,
+            "date": "2021-08-27",
+            "max": 94.0,
+            "min": 92.5,
+            "open": 93.47,
+            "volume": 966704610000
+        },
+        {
+            "change": -13.723502,
+            "close": 93.61,
+            "date": "2021-08-30",
+            "max": 94.0,
+            "min": 92.85,
+            "open": 93.0,
+            "volume": 616604590000
+        },
+        {
+            "change": -12.451613,
+            "close": 94.99,
+            "date": "2021-08-31",
+            "max": 95.0,
+            "min": 93.22,
+            "open": 93.96,
+            "volume": 785880000000
+        },
+        {
+            "change": -12.903226,
+            "close": 94.5,
+            "date": "2021-09-01",
+            "max": 95.0,
+            "min": 94.02,
+            "open": 94.98,
+            "volume": 817483650000
+        },
+        {
+            "change": -13.225806,
+            "close": 94.15,
+            "date": "2021-09-02",
+            "max": 95.0,
+            "min": 94.08,
+            "open": 94.84,
+            "volume": 796260200000
+        },
+        {
+            "change": -12.921659,
+            "close": 94.48,
+            "date": "2021-09-03",
+            "max": 94.98,
+            "min": 93.5,
+            "open": 94.5,
+            "volume": 628157250000
+        },
+        {
+            "change": -12.746544,
+            "close": 94.67,
+            "date": "2021-09-06",
+            "max": 96.0,
+            "min": 94.0,
+            "open": 94.0,
+            "volume": 540938990000
+        },
+        {
+            "change": -14.267281,
+            "close": 93.02,
+            "date": "2021-09-08",
+            "max": 95.98,
+            "min": 92.87,
+            "open": 94.73,
+            "volume": 741013930000
+        },
+        {
+            "change": -14.672811,
+            "close": 92.58,
+            "date": "2021-09-09",
+            "max": 96.0,
+            "min": 92.58,
+            "open": 94.14,
+            "volume": 805605660000
+        },
+        {
+            "change": -14.672811,
+            "close": 92.58,
+            "date": "2021-09-10",
+            "max": 95.1,
+            "min": 92.0,
+            "open": 93.77,
+            "volume": 1014183840000
+        },
+        {
+            "change": -13.373272,
+            "close": 93.99,
+            "date": "2021-09-13",
+            "max": 94.49,
+            "min": 93.02,
+            "open": 93.49,
+            "volume": 613110520000
+        },
+        {
+            "change": -13.087558,
+            "close": 94.3,
+            "date": "2021-09-14",
+            "max": 94.89,
+            "min": 92.63,
+            "open": 94.89,
+            "volume": 869075020000
+        },
+        {
+            "change": -12.903226,
+            "close": 94.5,
+            "date": "2021-09-15",
+            "max": 96.5,
+            "min": 94.3,
+            "open": 94.5,
+            "volume": 2176285070000
+        },
+        {
+            "change": -13.364055,
+            "close": 94.0,
+            "date": "2021-09-16",
+            "max": 96.0,
+            "min": 93.75,
+            "open": 96.0,
+            "volume": 1674308220000
+        },
+        {
+            "change": -15.207373,
+            "close": 92.0,
+            "date": "2021-09-17",
+            "max": 94.99,
+            "min": 92.0,
+            "open": 94.99,
+            "volume": 1119735180000
+        },
+        {
+            "change": -16.958525,
+            "close": 90.1,
+            "date": "2021-09-20",
+            "max": 92.99,
+            "min": 90.1,
+            "open": 92.94,
+            "volume": 1891574330000
+        },
+        {
+            "change": -15.585253,
+            "close": 91.59,
+            "date": "2021-09-21",
+            "max": 93.97,
+            "min": 90.5,
+            "open": 91.93,
+            "volume": 983071350000
+        },
+        {
+            "change": -16.129032,
+            "close": 91.0,
+            "date": "2021-09-22",
+            "max": 94.23,
+            "min": 91.0,
+            "open": 91.59,
+            "volume": 919496950000
+        },
+        {
+            "change": -14.267281,
+            "close": 93.02,
+            "date": "2021-09-23",
+            "max": 93.69,
+            "min": 92.21,
+            "open": 92.99,
+            "volume": 517939840000
+        },
+        {
+            "change": -14.285714,
+            "close": 93.0,
+            "date": "2021-09-24",
+            "max": 94.89,
+            "min": 92.67,
+            "open": 93.37,
+            "volume": 909934120000
+        },
+        {
+            "change": -14.0,
+            "close": 93.31,
+            "date": "2021-09-27",
+            "max": 95.65,
+            "min": 93.0,
+            "open": 93.1,
+            "volume": 974751210000
+        },
+        {
+            "change": -15.686636,
+            "close": 91.48,
+            "date": "2021-09-28",
+            "max": 94.91,
+            "min": 91.48,
+            "open": 93.49,
+            "volume": 1073722880000
+        },
+        {
+            "change": -14.368664,
+            "close": 92.91,
+            "date": "2021-09-29",
+            "max": 93.83,
+            "min": 92.49,
+            "open": 92.58,
+            "volume": 582822240000
+        },
+        {
+            "change": -14.239631,
+            "close": 93.05,
+            "date": "2021-09-30",
+            "max": 93.9,
+            "min": 93.05,
+            "open": 93.9,
+            "volume": 563319460000
+        },
+        {
+            "change": -12.552995,
+            "close": 94.88,
+            "date": "2021-10-01",
+            "max": 94.9,
+            "min": 93.06,
+            "open": 93.06,
+            "volume": 505525520000
+        },
+        {
+            "change": -13.9447,
+            "close": 93.37,
+            "date": "2021-10-04",
+            "max": 95.2,
+            "min": 92.91,
+            "open": 94.85,
+            "volume": 907860860000
+        },
+        {
+            "change": -14.774194,
+            "close": 92.47,
+            "date": "2021-10-05",
+            "max": 96.5,
+            "min": 92.0,
+            "open": 94.79,
+            "volume": 2675303920000
+        },
+        {
+            "change": -15.327189,
+            "close": 91.87,
+            "date": "2021-10-06",
+            "max": 93.31,
+            "min": 90.0,
+            "open": 93.31,
+            "volume": 880541110000
+        },
+        {
+            "change": -14.294931,
+            "close": 92.99,
+            "date": "2021-10-07",
+            "max": 93.0,
+            "min": 91.98,
+            "open": 92.0,
+            "volume": 636264160000
+        },
+        {
+            "change": -13.852535,
+            "close": 93.47,
+            "date": "2021-10-08",
+            "max": 95.49,
+            "min": 92.7,
+            "open": 92.99,
+            "volume": 442234670000
+        },
+        {
+            "change": -13.179724,
+            "close": 94.2,
+            "date": "2021-10-11",
+            "max": 95.0,
+            "min": 93.47,
+            "open": 93.47,
+            "volume": 577470050000
+        },
+        {
+            "change": -12.451613,
+            "close": 94.99,
+            "date": "2021-10-13",
+            "max": 96.47,
+            "min": 94.2,
+            "open": 94.2,
+            "volume": 587582560000
+        },
+        {
+            "change": -12.903226,
+            "close": 94.5,
+            "date": "2021-10-14",
+            "max": 96.13,
+            "min": 94.2,
+            "open": 94.99,
+            "volume": 462163080000
+        },
+        {
+            "change": -11.62212,
+            "close": 95.89,
+            "date": "2021-10-15",
+            "max": 96.5,
+            "min": 94.2,
+            "open": 95.63,
+            "volume": 1648573200000
+        },
+        {
+            "change": -12.451613,
+            "close": 94.99,
+            "date": "2021-10-18",
+            "max": 96.49,
+            "min": 94.14,
+            "open": 95.22,
+            "volume": 753282210000
+        },
+        {
+            "change": -13.382488,
+            "close": 93.98,
+            "date": "2021-10-19",
+            "max": 95.98,
+            "min": 93.61,
+            "open": 95.97,
+            "volume": 807075580000
+        },
+        {
+            "change": -13.382488,
+            "close": 93.98,
+            "date": "2021-10-20",
+            "max": 95.0,
+            "min": 93.65,
+            "open": 94.0,
+            "volume": 568131450000
+        },
+        {
+            "change": -13.400922,
+            "close": 93.96,
+            "date": "2021-10-21",
+            "max": 94.44,
+            "min": 92.77,
+            "open": 93.98,
+            "volume": 558505230000
+        },
+        {
+            "change": -14.580645,
+            "close": 92.68,
+            "date": "2021-10-22",
+            "max": 93.85,
+            "min": 90.12,
+            "open": 93.0,
+            "volume": 1152699480000
+        },
+        {
+            "change": -14.746544,
+            "close": 92.5,
+            "date": "2021-10-25",
+            "max": 93.45,
+            "min": 91.97,
+            "open": 92.99,
+            "volume": 942779480000
+        },
+        {
+            "change": -16.248848,
+            "close": 90.87,
+            "date": "2021-10-26",
+            "max": 93.01,
+            "min": 90.07,
+            "open": 93.0,
+            "volume": 988852920000
+        },
+        {
+            "change": -15.668203,
+            "close": 91.5,
+            "date": "2021-10-27",
+            "max": 92.79,
+            "min": 90.83,
+            "open": 90.87,
+            "volume": 572167920000
+        },
+        {
+            "change": -15.797235,
+            "close": 91.36,
+            "date": "2021-10-28",
+            "max": 92.0,
+            "min": 90.8,
+            "open": 91.16,
+            "volume": 642985860000
+        },
+        {
+            "change": -16.691244,
+            "close": 90.39,
+            "date": "2021-10-29",
+            "max": 91.99,
+            "min": 88.04,
+            "open": 90.8,
+            "volume": 691634860000
+        },
+        {
+            "change": -16.866359,
+            "close": 90.2,
+            "date": "2021-11-01",
+            "max": 91.89,
+            "min": 90.0,
+            "open": 90.5,
+            "volume": 539133480000
+        },
+        {
+            "change": -16.589862,
+            "close": 90.5,
+            "date": "2021-11-03",
+            "max": 90.5,
+            "min": 89.6,
+            "open": 90.22,
+            "volume": 740795650000
+        },
+        {
+            "change": -16.635945,
+            "close": 90.45,
+            "date": "2021-11-04",
+            "max": 90.45,
+            "min": 89.62,
+            "open": 90.45,
+            "volume": 660018620000
+        },
+        {
+            "change": -16.958525,
+            "close": 90.1,
+            "date": "2021-11-05",
+            "max": 91.97,
+            "min": 90.1,
+            "open": 90.5,
+            "volume": 485636450000
+        },
+        {
+            "change": -17.142857,
+            "close": 89.9,
+            "date": "2021-11-08",
+            "max": 91.0,
+            "min": 89.7,
+            "open": 90.26,
+            "volume": 645872850000
+        },
+        {
+            "change": -20.0,
+            "close": 86.8,
+            "date": "2021-11-09",
+            "max": 90.5,
+            "min": 86.75,
+            "open": 90.0,
+            "volume": 1405924680000
+        },
+        {
+            "change": -19.354839,
+            "close": 87.5,
+            "date": "2021-11-10",
+            "max": 89.47,
+            "min": 87.48,
+            "open": 87.5,
+            "volume": 691566620000
+        },
+        {
+            "change": -17.963134,
+            "close": 89.01,
+            "date": "2021-11-11",
+            "max": 91.85,
+            "min": 87.0,
+            "open": 87.0,
+            "volume": 642836390000
+        },
+        {
+            "change": -17.16129,
+            "close": 89.88,
+            "date": "2021-11-12",
+            "max": 90.93,
+            "min": 87.5,
+            "open": 89.01,
+            "volume": 657841110000
+        },
+        {
+            "change": -17.253456,
+            "close": 89.78,
+            "date": "2021-11-16",
+            "max": 96.49,
+            "min": 88.01,
+            "open": 89.28,
+            "volume": 495852560000
+        },
+        {
+            "change": -17.465438,
+            "close": 89.55,
+            "date": "2021-11-17",
+            "max": 93.0,
+            "min": 87.0,
+            "open": 89.78,
+            "volume": 664985990000
+        },
+        {
+            "change": -17.741935,
+            "close": 89.25,
+            "date": "2021-11-18",
+            "max": 90.25,
+            "min": 87.02,
+            "open": 89.53,
+            "volume": 725299960000
+        },
+        {
+            "change": -18.921659,
+            "close": 87.97,
+            "date": "2021-11-19",
+            "max": 90.6,
+            "min": 87.11,
+            "open": 90.24,
+            "volume": 766439340000
+        },
+        {
+            "change": -20.737327,
+            "close": 86.0,
+            "date": "2021-11-22",
+            "max": 88.88,
+            "min": 86.0,
+            "open": 88.88,
+            "volume": 769922730000
+        },
+        {
+            "change": -22.571429,
+            "close": 84.01,
+            "date": "2021-11-23",
+            "max": 87.7,
+            "min": 84.01,
+            "open": 86.8,
+            "volume": 332498510000
+        },
+        {
+            "change": -22.83871,
+            "close": 83.72,
+            "date": "2021-11-24",
+            "max": 85.66,
+            "min": 81.01,
+            "open": 84.01,
+            "volume": 491490850000
+        },
+        {
+            "change": -21.953917,
+            "close": 84.68,
+            "date": "2021-11-25",
+            "max": 85.29,
+            "min": 82.06,
+            "open": 83.72,
+            "volume": 474891150000
+        },
+        {
+            "change": -21.658986,
+            "close": 85.0,
+            "date": "2021-11-26",
+            "max": 86.95,
+            "min": 82.5,
+            "open": 84.68,
+            "volume": 699262550000
+        },
+        {
+            "change": -21.658986,
+            "close": 85.0,
+            "date": "2021-11-29",
+            "max": 86.42,
+            "min": 84.68,
+            "open": 85.01,
+            "volume": 689151030000
+        },
+        {
+            "change": -21.658986,
+            "close": 85.0,
+            "date": "2021-11-30",
+            "max": 85.0,
+            "min": 84.7,
+            "open": 85.0,
+            "volume": 794325270000
+        },
+        {
+            "change": -21.658986,
+            "close": 85.0,
+            "date": "2021-12-01",
+            "max": 85.0,
+            "min": 84.06,
+            "open": 85.0,
+            "volume": 749305100000
+        },
+        {
+            "change": -21.658986,
+            "close": 85.0,
+            "date": "2021-12-02",
+            "max": 85.0,
+            "min": 84.0,
+            "open": 84.85,
+            "volume": 869146930000
+        },
+        {
+            "change": -21.658986,
+            "close": 85.0,
+            "date": "2021-12-03",
+            "max": 85.0,
+            "min": 84.75,
+            "open": 84.99,
+            "volume": 563511810000
+        },
+        {
+            "change": -20.645161,
+            "close": 86.1,
+            "date": "2021-12-06",
+            "max": 87.0,
+            "min": 84.66,
+            "open": 84.66,
+            "volume": 1196134760000
+        },
+        {
+            "change": -19.069124,
+            "close": 87.81,
+            "date": "2021-12-07",
+            "max": 88.5,
+            "min": 85.97,
+            "open": 86.1,
+            "volume": 748577060000
+        },
+        {
+            "change": -18.894009,
+            "close": 88.0,
+            "date": "2021-12-08",
+            "max": 89.81,
+            "min": 86.0,
+            "open": 86.0,
+            "volume": 559328080000
+        },
+        {
+            "change": -20.267281,
+            "close": 86.51,
+            "date": "2021-12-09",
+            "max": 91.89,
+            "min": 85.03,
+            "open": 88.0,
+            "volume": 779504050000
+        },
+        {
+            "change": -18.940092,
+            "close": 87.95,
+            "date": "2021-12-10",
+            "max": 88.5,
+            "min": 86.55,
+            "open": 86.72,
+            "volume": 325590870000
+        },
+        {
+            "change": -17.668203,
+            "close": 89.33,
+            "date": "2021-12-13",
+            "max": 90.9,
+            "min": 87.95,
+            "open": 87.97,
+            "volume": 526469940000
+        },
+        {
+            "change": -17.235023,
+            "close": 89.8,
+            "date": "2021-12-14",
+            "max": 91.88,
+            "min": 88.77,
+            "open": 89.33,
+            "volume": 351663280000
+        },
+        {
+            "change": -16.571429,
+            "close": 90.52,
+            "date": "2021-12-15",
+            "max": 91.88,
+            "min": 89.01,
+            "open": 89.01,
+            "volume": 495644870000
+        },
+        {
+            "change": -18.239631,
+            "close": 88.71,
+            "date": "2021-12-16",
+            "max": 95.98,
+            "min": 88.29,
+            "open": 90.49,
+            "volume": 370671610000
+        },
+        {
+            "change": -18.847926,
+            "close": 88.05,
+            "date": "2021-12-17",
+            "max": 91.53,
+            "min": 87.0,
+            "open": 91.2,
+            "volume": 408120410000
+        },
+        {
+            "change": -19.170507,
+            "close": 87.7,
+            "date": "2021-12-20",
+            "max": 89.42,
+            "min": 87.44,
+            "open": 89.15,
+            "volume": 601966840000
+        },
+        {
+            "change": -19.115207,
+            "close": 87.76,
+            "date": "2021-12-21",
+            "max": 89.85,
+            "min": 87.7,
+            "open": 88.0,
+            "volume": 530478000000
+        },
+        {
+            "change": -19.21659,
+            "close": 87.65,
+            "date": "2021-12-22",
+            "max": 89.83,
+            "min": 87.04,
+            "open": 87.79,
+            "volume": 408248980000
+        },
+        {
+            "change": -19.373272,
+            "close": 87.48,
+            "date": "2021-12-23",
+            "max": 88.97,
+            "min": 87.05,
+            "open": 87.66,
+            "volume": 485891090000
+        },
+        {
+            "change": -19.797235,
+            "close": 87.02,
+            "date": "2021-12-27",
+            "max": 88.98,
+            "min": 84.75,
+            "open": 87.48,
+            "volume": 982680110000
+        },
+        {
+            "change": -20.147465,
+            "close": 86.64,
+            "date": "2021-12-28",
+            "max": 87.99,
+            "min": 86.05,
+            "open": 87.02,
+            "volume": 444884040000
+        },
+        {
+            "change": -19.447005,
+            "close": 87.4,
+            "date": "2021-12-29",
+            "max": 88.0,
+            "min": 86.64,
+            "open": 87.68,
+            "volume": 555367050000
+        },
+        {
+            "change": -20.700461,
+            "close": 86.04,
+            "date": "2021-12-30",
+            "max": 89.89,
+            "min": 86.04,
+            "open": 87.4,
+            "volume": 644291900000
+        },
+        {
+            "change": -18.967742,
+            "close": 87.92,
+            "date": "2022-01-03",
+            "max": 90.0,
+            "min": 86.04,
+            "open": 87.0,
+            "volume": 730823130000
+        },
+        {
+            "change": -18.202765,
+            "close": 88.75,
+            "date": "2022-01-04",
+            "max": 89.2,
+            "min": 87.82,
+            "open": 88.0,
+            "volume": 645106020000
+        },
+        {
+            "change": -18.396313,
+            "close": 88.54,
+            "date": "2022-01-05",
+            "max": 89.98,
+            "min": 88.0,
+            "open": 88.9,
+            "volume": 627057050000
+        },
+        {
+            "change": -17.235023,
+            "close": 89.8,
+            "date": "2022-01-06",
+            "max": 90.0,
+            "min": 88.01,
+            "open": 88.8,
+            "volume": 564316120000
+        },
+        {
+            "change": -17.059908,
+            "close": 89.99,
+            "date": "2022-01-07",
+            "max": 89.99,
+            "min": 88.04,
+            "open": 89.8,
+            "volume": 575773960000
+        },
+        {
+            "change": -18.129032,
+            "close": 88.83,
+            "date": "2022-01-10",
+            "max": 89.97,
+            "min": 88.01,
+            "open": 89.97,
+            "volume": 729041920000
+        },
+        {
+            "change": -17.797235,
+            "close": 89.19,
+            "date": "2022-01-11",
+            "max": 89.87,
+            "min": 88.6,
+            "open": 89.0,
+            "volume": 1257998050000
+        },
+        {
+            "change": -16.857143,
+            "close": 90.21,
+            "date": "2022-01-12",
+            "max": 91.89,
+            "min": 89.19,
+            "open": 89.19,
+            "volume": 431568340000
+        },
+        {
+            "change": -16.156682,
+            "close": 90.97,
+            "date": "2022-01-13",
+            "max": 91.88,
+            "min": 90.06,
+            "open": 90.5,
+            "volume": 785458800000
+        },
+        {
+            "change": -15.410138,
+            "close": 91.78,
+            "date": "2022-01-14",
+            "max": 93.34,
+            "min": 90.97,
+            "open": 91.86,
+            "volume": 979428630000
+        },
+        {
+            "change": -16.589862,
+            "close": 90.5,
+            "date": "2022-01-17",
+            "max": 91.78,
+            "min": 90.0,
+            "open": 91.78,
+            "volume": 499442520000
+        },
+        {
+            "change": -16.359447,
+            "close": 90.75,
+            "date": "2022-01-18",
+            "max": 91.39,
+            "min": 90.3,
+            "open": 90.52,
+            "volume": 1121899830000
+        },
+        {
+            "change": -16.589862,
+            "close": 90.5,
+            "date": "2022-01-19",
+            "max": 91.64,
+            "min": 90.25,
+            "open": 91.0,
+            "volume": 543217450000
+        },
+        {
+            "change": -16.81106,
+            "close": 90.26,
+            "date": "2022-01-20",
+            "max": 91.5,
+            "min": 90.03,
+            "open": 90.5,
+            "volume": 417551110000
+        },
+        {
+            "change": -16.608295,
+            "close": 90.48,
+            "date": "2022-01-21",
+            "max": 91.09,
+            "min": 90.0,
+            "open": 91.09,
+            "volume": 499568370000
+        },
+        {
+            "change": -19.354839,
+            "close": 87.5,
+            "date": "2022-01-24",
+            "max": 90.8,
+            "min": 87.5,
+            "open": 90.48,
+            "volume": 1335641740000
+        },
+        {
+            "change": -17.97235,
+            "close": 89.0,
+            "date": "2022-01-25",
+            "max": 89.98,
+            "min": 87.51,
+            "open": 87.51,
+            "volume": 628684370000
+        },
+        {
+            "change": -18.451613,
+            "close": 88.48,
+            "date": "2022-01-26",
+            "max": 89.39,
+            "min": 87.09,
+            "open": 88.99,
+            "volume": 561854170000
+        },
+        {
+            "change": -19.253456,
+            "close": 87.61,
+            "date": "2022-01-27",
+            "max": 89.99,
+            "min": 87.5,
+            "open": 89.0,
+            "volume": 583023960000
+        },
+        {
+            "change": -19.105991,
+            "close": 87.77,
+            "date": "2022-01-28",
+            "max": 89.89,
+            "min": 87.62,
+            "open": 87.84,
+            "volume": 1029971710000
+        },
+        {
+            "change": -18.930876,
+            "close": 87.96,
+            "date": "2022-01-31",
+            "max": 90.0,
+            "min": 87.5,
+            "open": 89.97,
+            "volume": 457448100000
+        },
+        {
+            "change": -18.894009,
+            "close": 88.0,
+            "date": "2022-02-01",
+            "max": 88.0,
+            "min": 87.52,
+            "open": 87.52,
+            "volume": 638827560000
+        },
+        {
+            "change": -19.612903,
+            "close": 87.22,
+            "date": "2022-02-02",
+            "max": 88.0,
+            "min": 87.22,
+            "open": 88.0,
+            "volume": 488444400000
+        },
+        {
+            "change": -19.631336,
+            "close": 87.2,
+            "date": "2022-02-03",
+            "max": 87.5,
+            "min": 87.2,
+            "open": 87.22,
+            "volume": 283004780000
+        },
+        {
+            "change": -20.746544,
+            "close": 85.99,
+            "date": "2022-02-04",
+            "max": 87.5,
+            "min": 85.15,
+            "open": 87.5,
+            "volume": 987136070000
+        },
+        {
+            "change": -21.336406,
+            "close": 85.35,
+            "date": "2022-02-07",
+            "max": 87.0,
+            "min": 85.14,
+            "open": 86.54,
+            "volume": 733052260000
+        },
+        {
+            "change": -21.751152,
+            "close": 84.9,
+            "date": "2022-02-08",
+            "max": 86.89,
+            "min": 84.54,
+            "open": 85.36,
+            "volume": 659101870000
+        },
+        {
+            "change": -21.769585,
+            "close": 84.88,
+            "date": "2022-02-09",
+            "max": 85.87,
+            "min": 83.9,
+            "open": 84.8,
+            "volume": 730579320000
+        },
+        {
+            "change": -20.02765,
+            "close": 86.77,
+            "date": "2022-02-10",
+            "max": 86.99,
+            "min": 84.88,
+            "open": 84.88,
+            "volume": 301370770000
+        },
+        {
+            "change": -17.97235,
+            "close": 89.0,
+            "date": "2022-02-11",
+            "max": 89.0,
+            "min": 86.01,
+            "open": 86.77,
+            "volume": 571104590000
+        },
+        {
+            "change": -18.43318,
+            "close": 88.5,
+            "date": "2022-02-14",
+            "max": 89.67,
+            "min": 87.01,
+            "open": 89.0,
+            "volume": 518855520000
+        },
+        {
+            "change": -18.700461,
+            "close": 88.21,
+            "date": "2022-02-15",
+            "max": 89.49,
+            "min": 88.0,
+            "open": 88.99,
+            "volume": 577449370000
+        },
+        {
+            "change": -19.400922,
+            "close": 87.45,
+            "date": "2022-02-16",
+            "max": 89.0,
+            "min": 86.32,
+            "open": 87.56,
+            "volume": 719557450000
+        },
+        {
+            "change": -19.235023,
+            "close": 87.63,
+            "date": "2022-02-17",
+            "max": 88.49,
+            "min": 86.8,
+            "open": 87.45,
+            "volume": 250067070000
+        },
+        {
+            "change": -19.548387,
+            "close": 87.29,
+            "date": "2022-02-18",
+            "max": 87.74,
+            "min": 85.9,
+            "open": 87.63,
+            "volume": 443704100000
+        },
+        {
+            "change": -19.953917,
+            "close": 86.85,
+            "date": "2022-02-21",
+            "max": 87.74,
+            "min": 86.21,
+            "open": 87.3,
+            "volume": 579391320000
+        },
+        {
+            "change": -19.447005,
+            "close": 87.4,
+            "date": "2022-02-22",
+            "max": 87.72,
+            "min": 86.03,
+            "open": 86.85,
+            "volume": 486793070000
+        },
+        {
+            "change": -20.276498,
+            "close": 86.5,
+            "date": "2022-02-23",
+            "max": 87.74,
+            "min": 86.21,
+            "open": 87.74,
+            "volume": 635826500000
+        },
+        {
+            "change": -20.294931,
+            "close": 86.48,
+            "date": "2022-02-24",
+            "max": 86.54,
+            "min": 85.68,
+            "open": 86.5,
+            "volume": 511063020000
+        },
+        {
+            "change": -21.898618,
+            "close": 84.74,
+            "date": "2022-02-25",
+            "max": 86.96,
+            "min": 84.7,
+            "open": 86.9,
+            "volume": 1764323580000
+        },
+        {
+            "change": -21.889401,
+            "close": 84.75,
+            "date": "2022-03-02",
+            "max": 86.68,
+            "min": 84.32,
+            "open": 85.76,
+            "volume": 620540120000
+        },
+        {
+            "change": -21.198157,
+            "close": 85.5,
+            "date": "2022-03-03",
+            "max": 86.4,
+            "min": 84.76,
+            "open": 84.76,
+            "volume": 575205500000
+        },
+        {
+            "change": -21.198157,
+            "close": 85.5,
+            "date": "2022-03-04",
+            "max": 87.0,
+            "min": 85.0,
+            "open": 86.58,
+            "volume": 673908340000
+        },
+        {
+            "change": -21.105991,
+            "close": 85.6,
+            "date": "2022-03-07",
+            "max": 86.81,
+            "min": 85.5,
+            "open": 85.51,
+            "volume": 565533400000
+        },
+        {
+            "change": -21.658986,
+            "close": 85.0,
+            "date": "2022-03-08",
+            "max": 86.8,
+            "min": 85.0,
+            "open": 85.61,
+            "volume": 556022930000
+        },
+        {
+            "change": -23.852535,
+            "close": 82.62,
+            "date": "2022-03-09",
+            "max": 85.9,
+            "min": 82.62,
+            "open": 85.07,
+            "volume": 1859812640000
+        },
+        {
+            "change": -23.880184,
+            "close": 82.59,
+            "date": "2022-03-10",
+            "max": 83.5,
+            "min": 82.0,
+            "open": 83.48,
+            "volume": 572822880000
+        },
+        {
+            "change": -23.502304,
+            "close": 83.0,
+            "date": "2022-03-11",
+            "max": 83.68,
+            "min": 82.6,
+            "open": 82.6,
+            "volume": 568777850000
+        },
+        {
+            "change": -23.115207,
+            "close": 83.42,
+            "date": "2022-03-14",
+            "max": 84.89,
+            "min": 83.0,
+            "open": 83.86,
+            "volume": 646389640000
+        },
+        {
+            "change": -24.414747,
+            "close": 82.01,
+            "date": "2022-03-15",
+            "max": 84.62,
+            "min": 81.72,
+            "open": 83.42,
+            "volume": 980617870000
+        },
+        {
+            "change": -26.359447,
+            "close": 79.9,
+            "date": "2022-03-16",
+            "max": 81.97,
+            "min": 79.56,
+            "open": 81.71,
+            "volume": 1802213360000
+        },
+        {
+            "change": -25.797235,
+            "close": 80.51,
+            "date": "2022-03-17",
+            "max": 81.3,
+            "min": 79.3,
+            "open": 79.9,
+            "volume": 478967830000
+        },
+        {
+            "change": -24.737327,
+            "close": 81.66,
+            "date": "2022-03-18",
+            "max": 82.46,
+            "min": 78.9,
+            "open": 81.13,
+            "volume": 531383310000
+        },
+        {
+            "change": -23.520737,
+            "close": 82.98,
+            "date": "2022-03-21",
+            "max": 83.5,
+            "min": 80.09,
+            "open": 81.18,
+            "volume": 570903990000
+        },
+        {
+            "change": -23.059908,
+            "close": 83.48,
+            "date": "2022-03-22",
+            "max": 85.0,
+            "min": 82.5,
+            "open": 82.99,
+            "volume": 529801780000
+        },
+        {
+            "change": -22.35023,
+            "close": 84.25,
+            "date": "2022-03-23",
+            "max": 85.0,
+            "min": 82.15,
+            "open": 83.48,
+            "volume": 532613400000
+        },
+        {
+            "change": -21.935484,
+            "close": 84.7,
+            "date": "2022-03-24",
+            "max": 84.7,
+            "min": 82.6,
+            "open": 83.99,
+            "volume": 455215630000
+        },
+        {
+            "change": -21.861751,
+            "close": 84.78,
+            "date": "2022-03-25",
+            "max": 84.99,
+            "min": 82.62,
+            "open": 84.39,
+            "volume": 602074950000
+        },
+        {
+            "change": -22.580645,
+            "close": 84.0,
+            "date": "2022-03-28",
+            "max": 85.02,
+            "min": 83.12,
+            "open": 84.78,
+            "volume": 472597130000
+        },
+        {
+            "change": -22.119816,
+            "close": 84.5,
+            "date": "2022-03-29",
+            "max": 84.87,
+            "min": 84.01,
+            "open": 84.17,
+            "volume": 615533320000
+        },
+        {
+            "change": -21.751152,
+            "close": 84.9,
+            "date": "2022-03-30",
+            "max": 85.8,
+            "min": 84.35,
+            "open": 84.54,
+            "volume": 434183570000
+        },
+        {
+            "change": -20.645161,
+            "close": 86.1,
+            "date": "2022-03-31",
+            "max": 86.5,
+            "min": 84.3,
+            "open": 85.5,
+            "volume": 921126230000
+        },
+        {
+            "change": -19.843318,
+            "close": 86.97,
+            "date": "2022-04-01",
+            "max": 87.1,
+            "min": 85.33,
+            "open": 86.59,
+            "volume": 440017460000
+        },
+        {
+            "change": -21.18894,
+            "close": 85.51,
+            "date": "2022-04-04",
+            "max": 87.0,
+            "min": 84.9,
+            "open": 86.9,
+            "volume": 675382090000
+        },
+        {
+            "change": -21.179724,
+            "close": 85.52,
+            "date": "2022-04-05",
+            "max": 86.93,
+            "min": 85.0,
+            "open": 85.55,
+            "volume": 675795490000
+        },
+        {
+            "change": -22.75576,
+            "close": 83.81,
+            "date": "2022-04-06",
+            "max": 86.3,
+            "min": 83.7,
+            "open": 86.25,
+            "volume": 990752370000
+        },
+        {
+            "change": -22.737327,
+            "close": 83.83,
+            "date": "2022-04-07",
+            "max": 85.49,
+            "min": 83.7,
+            "open": 85.23,
+            "volume": 1098272370000
+        },
+        {
+            "change": -21.751152,
+            "close": 84.9,
+            "date": "2022-04-08",
+            "max": 85.48,
+            "min": 82.82,
+            "open": 83.83,
+            "volume": 399286040000
+        },
+        {
+            "change": -20.903226,
+            "close": 85.82,
+            "date": "2022-04-11",
+            "max": 85.98,
+            "min": 84.1,
+            "open": 84.9,
+            "volume": 352141950000
+        },
+        {
+            "change": -21.225806,
+            "close": 85.47,
+            "date": "2022-04-12",
+            "max": 86.72,
+            "min": 84.22,
+            "open": 85.82,
+            "volume": 768180920000
+        },
+        {
+            "change": -20.202765,
+            "close": 86.58,
+            "date": "2022-04-13",
+            "max": 87.0,
+            "min": 85.99,
+            "open": 85.99,
+            "volume": 641162560000
+        },
+        {
+            "change": -17.990783,
+            "close": 88.98,
+            "date": "2022-04-14",
+            "max": 88.99,
+            "min": 86.01,
+            "open": 86.58,
+            "volume": 727548940000
+        },
+        {
+            "change": -17.97235,
+            "close": 89.0,
+            "date": "2022-04-18",
+            "max": 89.0,
+            "min": 85.06,
+            "open": 87.96,
+            "volume": 539525540000
+        },
+        {
+            "change": -20.322581,
+            "close": 86.45,
+            "date": "2022-04-19",
+            "max": 88.89,
+            "min": 86.42,
+            "open": 88.32,
+            "volume": 298784170000
+        },
+        {
+            "change": -19.834101,
+            "close": 86.98,
+            "date": "2022-04-20",
+            "max": 87.48,
+            "min": 86.5,
+            "open": 87.11,
+            "volume": 223441990000
+        },
+        {
+            "change": -20.0,
+            "close": 86.8,
+            "date": "2022-04-22",
+            "max": 88.0,
+            "min": 86.5,
+            "open": 86.98,
+            "volume": 540482220000
+        },
+        {
+            "change": -19.760369,
+            "close": 87.06,
+            "date": "2022-04-25",
+            "max": 87.08,
+            "min": 86.5,
+            "open": 86.87,
+            "volume": 334713920000
+        },
+        {
+            "change": -20.294931,
+            "close": 86.48,
+            "date": "2022-04-26",
+            "max": 87.06,
+            "min": 86.45,
+            "open": 87.06,
+            "volume": 431293690000
+        },
+        {
+            "change": -19.852535,
+            "close": 86.96,
+            "date": "2022-04-27",
+            "max": 87.2,
+            "min": 86.0,
+            "open": 86.55,
+            "volume": 304581310000
+        },
+        {
+            "change": -20.193548,
+            "close": 86.59,
+            "date": "2022-04-28",
+            "max": 87.2,
+            "min": 86.45,
+            "open": 86.45,
+            "volume": 232036150000
+        },
+        {
+            "change": -20.073733,
+            "close": 86.72,
+            "date": "2022-04-29",
+            "max": 87.49,
+            "min": 86.53,
+            "open": 87.0,
+            "volume": 308837630000
+        },
+        {
+            "change": -22.525346,
+            "close": 84.06,
+            "date": "2022-05-02",
+            "max": 87.5,
+            "min": 83.91,
+            "open": 87.47,
+            "volume": 1116775340000
+        },
+        {
+            "change": -22.211982,
+            "close": 84.4,
+            "date": "2022-05-03",
+            "max": 85.08,
+            "min": 83.69,
+            "open": 84.49,
+            "volume": 670788700000
+        },
+        {
+            "change": -22.230415,
+            "close": 84.38,
+            "date": "2022-05-04",
+            "max": 86.0,
+            "min": 84.38,
+            "open": 84.39,
+            "volume": 476777070000
+        },
+        {
+            "change": -23.18894,
+            "close": 83.34,
+            "date": "2022-05-05",
+            "max": 85.24,
+            "min": 83.16,
+            "open": 85.24,
+            "volume": 562741060000
+        },
+        {
+            "change": -23.585253,
+            "close": 82.91,
+            "date": "2022-05-06",
+            "max": 85.35,
+            "min": 82.1,
+            "open": 83.34,
+            "volume": 824001850000
+        },
+        {
+            "change": -22.211982,
+            "close": 84.4,
+            "date": "2022-05-09",
+            "max": 85.99,
+            "min": 82.95,
+            "open": 84.42,
+            "volume": 634944360000
+        },
+        {
+            "change": -23.686636,
+            "close": 82.8,
+            "date": "2022-05-10",
+            "max": 84.4,
+            "min": 81.6,
+            "open": 84.4,
+            "volume": 841850930000
+        },
+        {
+            "change": -23.612903,
+            "close": 82.88,
+            "date": "2022-05-11",
+            "max": 83.19,
+            "min": 82.46,
+            "open": 82.79,
+            "volume": 269882000000
+        },
+        {
+            "change": -23.557604,
+            "close": 82.94,
+            "date": "2022-05-12",
+            "max": 83.19,
+            "min": 82.02,
+            "open": 82.88,
+            "volume": 282444290000
+        },
+        {
+            "change": -22.866359,
+            "close": 83.69,
+            "date": "2022-05-13",
+            "max": 84.84,
+            "min": 82.43,
+            "open": 83.0,
+            "volume": 396594400000
+        },
+        {
+            "change": -23.520737,
+            "close": 82.98,
+            "date": "2022-05-16",
+            "max": 83.94,
+            "min": 81.5,
+            "open": 83.04,
+            "volume": 526623070000
+        },
+        {
+            "change": -23.529954,
+            "close": 82.97,
+            "date": "2022-05-17",
+            "max": 83.85,
+            "min": 82.0,
+            "open": 82.98,
+            "volume": 513139600000
+        },
+        {
+            "change": -23.56682,
+            "close": 82.93,
+            "date": "2022-05-18",
+            "max": 84.0,
+            "min": 82.12,
+            "open": 83.5,
+            "volume": 313371590000
+        },
+        {
+            "change": -23.087558,
+            "close": 83.45,
+            "date": "2022-05-19",
+            "max": 84.0,
+            "min": 82.3,
+            "open": 83.69,
+            "volume": 318883270000
+        },
+        {
+            "change": -22.599078,
+            "close": 83.98,
+            "date": "2022-05-20",
+            "max": 83.99,
+            "min": 83.5,
+            "open": 83.86,
+            "volume": 318630610000
+        },
+        {
+            "change": -22.986175,
+            "close": 83.56,
+            "date": "2022-05-23",
+            "max": 84.17,
+            "min": 83.01,
+            "open": 83.98,
+            "volume": 468664820000
+        },
+        {
+            "change": -23.21659,
+            "close": 83.31,
+            "date": "2022-05-24",
+            "max": 84.1,
+            "min": 83.01,
+            "open": 84.1,
+            "volume": 283122880000
+        },
+        {
+            "change": -22.479263,
+            "close": 84.11,
+            "date": "2022-05-25",
+            "max": 84.4,
+            "min": 83.33,
+            "open": 84.04,
+            "volume": 320647020000
+        },
+        {
+            "change": -23.308756,
+            "close": 83.21,
+            "date": "2022-05-26",
+            "max": 84.49,
+            "min": 83.05,
+            "open": 83.4,
+            "volume": 456265670000
+        },
+        {
+            "change": -22.672811,
+            "close": 83.9,
+            "date": "2022-05-27",
+            "max": 84.39,
+            "min": 83.22,
+            "open": 83.22,
+            "volume": 532516790000
+        },
+        {
+            "change": -23.032258,
+            "close": 83.51,
+            "date": "2022-05-30",
+            "max": 84.4,
+            "min": 83.21,
+            "open": 83.9,
+            "volume": 559344420000
+        },
+        {
+            "change": -23.032258,
+            "close": 83.51,
+            "date": "2022-05-31",
+            "max": 84.35,
+            "min": 83.0,
+            "open": 83.99,
+            "volume": 755150040000
+        },
+        {
+            "change": -22.672811,
+            "close": 83.9,
+            "date": "2022-06-01",
+            "max": 84.0,
+            "min": 83.52,
+            "open": 83.55,
+            "volume": 376519530000
+        },
+        {
+            "change": -21.198157,
+            "close": 85.5,
+            "date": "2022-06-02",
+            "max": 85.62,
+            "min": 83.65,
+            "open": 83.89,
+            "volume": 657058080000
+        },
+        {
+            "change": -22.506912,
+            "close": 84.08,
+            "date": "2022-06-03",
+            "max": 85.97,
+            "min": 84.04,
+            "open": 85.5,
+            "volume": 595333280000
+        },
+        {
+            "change": -22.35023,
+            "close": 84.25,
+            "date": "2022-06-06",
+            "max": 84.5,
+            "min": 83.51,
+            "open": 84.08,
+            "volume": 580042430000
+        },
+        {
+            "change": -22.801843,
+            "close": 83.76,
+            "date": "2022-06-07",
+            "max": 84.9,
+            "min": 83.07,
+            "open": 84.01,
+            "volume": 443656170000
+        },
+        {
+            "change": -23.447005,
+            "close": 83.06,
+            "date": "2022-06-08",
+            "max": 84.16,
+            "min": 82.81,
+            "open": 83.76,
+            "volume": 883920950000
+        },
+        {
+            "change": -23.631336,
+            "close": 82.86,
+            "date": "2022-06-09",
+            "max": 83.77,
+            "min": 82.82,
+            "open": 83.07,
+            "volume": 333757170000
+        },
+        {
+            "change": -23.059908,
+            "close": 83.48,
+            "date": "2022-06-10",
+            "max": 83.91,
+            "min": 83.3,
+            "open": 83.34,
+            "volume": 304673450000
+        },
+        {
+            "change": -23.963134,
+            "close": 82.5,
+            "date": "2022-06-13",
+            "max": 85.0,
+            "min": 82.15,
+            "open": 83.39,
+            "volume": 1066172610000
+        },
+        {
+            "change": -24.709677,
+            "close": 81.69,
+            "date": "2022-06-14",
+            "max": 82.5,
+            "min": 81.0,
+            "open": 82.5,
+            "volume": 1023349070000
+        },
+        {
+            "change": -20.635945,
+            "close": 86.11,
+            "date": "2022-06-15",
+            "max": 86.64,
+            "min": 81.96,
+            "open": 82.0,
+            "volume": 2008985570000
+        },
+        {
+            "change": -21.428571,
+            "close": 85.25,
+            "date": "2022-06-17",
+            "max": 86.14,
+            "min": 84.63,
+            "open": 84.81,
+            "volume": 789265970000
+        },
+        {
+            "change": -22.02765,
+            "close": 84.6,
+            "date": "2022-06-20",
+            "max": 86.86,
+            "min": 84.6,
+            "open": 85.25,
+            "volume": 682638470000
+        },
+        {
+            "change": -20.0553,
+            "close": 86.74,
+            "date": "2022-06-21",
+            "max": 86.75,
+            "min": 84.51,
+            "open": 85.41,
+            "volume": 767549660000
+        },
+        {
+            "change": -19.797235,
+            "close": 87.02,
+            "date": "2022-06-22",
+            "max": 88.89,
+            "min": 85.05,
+            "open": 86.5,
+            "volume": 928591760000
+        },
+        {
+            "change": -21.198157,
+            "close": 85.5,
+            "date": "2022-06-23",
+            "max": 87.02,
+            "min": 84.5,
+            "open": 87.02,
+            "volume": 473793750000
+        },
+        {
+            "change": -19.354839,
+            "close": 87.5,
+            "date": "2022-06-24",
+            "max": 87.77,
+            "min": 85.5,
+            "open": 85.5,
+            "volume": 665496840000
+        },
+        {
+            "change": -18.119816,
+            "close": 88.84,
+            "date": "2022-06-27",
+            "max": 89.5,
+            "min": 87.52,
+            "open": 88.47,
+            "volume": 870553660000
+        },
+        {
+            "change": -18.165899,
+            "close": 88.79,
+            "date": "2022-06-28",
+            "max": 89.38,
+            "min": 88.0,
+            "open": 89.0,
+            "volume": 388902010000
+        },
+        {
+            "change": -19.078341,
+            "close": 87.8,
+            "date": "2022-06-29",
+            "max": 88.5,
+            "min": 87.33,
+            "open": 88.5,
+            "volume": 430395220000
+        },
+        {
+            "change": -18.728111,
+            "close": 88.18,
+            "date": "2022-06-30",
+            "max": 89.24,
+            "min": 87.45,
+            "open": 88.47,
+            "volume": 396861410000
+        },
+        {
+            "change": -17.880184,
+            "close": 89.1,
+            "date": "2022-07-01",
+            "max": 89.33,
+            "min": 88.18,
+            "open": 88.18,
+            "volume": 323755800000
+        },
+        {
+            "change": -17.806452,
+            "close": 89.18,
+            "date": "2022-07-04",
+            "max": 89.19,
+            "min": 88.19,
+            "open": 89.09,
+            "volume": 952865890000
+        },
+        {
+            "change": -17.806452,
+            "close": 89.18,
+            "date": "2022-07-05",
+            "max": 89.2,
+            "min": 88.22,
+            "open": 89.18,
+            "volume": 378955790000
+        },
+        {
+            "change": -17.769585,
+            "close": 89.22,
+            "date": "2022-07-06",
+            "max": 90.4,
+            "min": 88.33,
+            "open": 89.18,
+            "volume": 824048240000
+        },
+        {
+            "change": -17.56682,
+            "close": 89.44,
+            "date": "2022-07-07",
+            "max": 90.34,
+            "min": 88.64,
+            "open": 89.22,
+            "volume": 358361650000
+        },
+        {
+            "change": -17.354839,
+            "close": 89.67,
+            "date": "2022-07-08",
+            "max": 90.45,
+            "min": 88.85,
+            "open": 89.45,
+            "volume": 345102380000
+        },
+        {
+            "change": -17.198157,
+            "close": 89.84,
+            "date": "2022-07-11",
+            "max": 90.09,
+            "min": 89.16,
+            "open": 89.67,
+            "volume": 375696070000
+        },
+        {
+            "change": -19.815668,
+            "close": 87.0,
+            "date": "2022-07-12",
+            "max": 89.99,
+            "min": 87.0,
+            "open": 89.83,
+            "volume": 430247260000
+        },
+        {
+            "change": -18.248848,
+            "close": 88.7,
+            "date": "2022-07-13",
+            "max": 88.84,
+            "min": 87.1,
+            "open": 87.1,
+            "volume": 313700190000
+        },
+        {
+            "change": -17.585253,
+            "close": 89.42,
+            "date": "2022-07-14",
+            "max": 89.45,
+            "min": 88.71,
+            "open": 88.71,
+            "volume": 623609400000
+        },
+        {
+            "change": -17.834101,
+            "close": 89.15,
+            "date": "2022-07-15",
+            "max": 90.45,
+            "min": 88.92,
+            "open": 89.87,
+            "volume": 906421200000
+        },
+        {
+            "change": -20.184332,
+            "close": 86.6,
+            "date": "2022-07-18",
+            "max": 88.76,
+            "min": 86.3,
+            "open": 88.5,
+            "volume": 583660770000
+        },
+        {
+            "change": -19.815668,
+            "close": 87.0,
+            "date": "2022-07-19",
+            "max": 88.7,
+            "min": 85.81,
+            "open": 86.9,
+            "volume": 703714540000
+        },
+        {
+            "change": -18.479263,
+            "close": 88.45,
+            "date": "2022-07-20",
+            "max": 88.45,
+            "min": 87.0,
+            "open": 88.15,
+            "volume": 556632000000
+        },
+        {
+            "change": -18.092166,
+            "close": 88.87,
+            "date": "2022-07-21",
+            "max": 88.9,
+            "min": 88.1,
+            "open": 88.43,
+            "volume": 352237980000
+        },
+        {
+            "change": -18.599078,
+            "close": 88.32,
+            "date": "2022-07-22",
+            "max": 88.86,
+            "min": 88.32,
+            "open": 88.64,
+            "volume": 502097750000
+        },
+        {
+            "change": -18.543779,
+            "close": 88.38,
+            "date": "2022-07-25",
+            "max": 89.27,
+            "min": 88.0,
+            "open": 88.4,
+            "volume": 509125140000
+        },
+        {
+            "change": -19.170507,
+            "close": 87.7,
+            "date": "2022-07-26",
+            "max": 88.87,
+            "min": 87.3,
+            "open": 88.25,
+            "volume": 351033080000
+        },
+        {
+            "change": -20.036866,
+            "close": 86.76,
+            "date": "2022-07-27",
+            "max": 88.98,
+            "min": 86.0,
+            "open": 88.98,
+            "volume": 607262180000
+        },
+        {
+            "change": -20.718894,
+            "close": 86.02,
+            "date": "2022-07-28",
+            "max": 86.75,
+            "min": 85.51,
+            "open": 86.7,
+            "volume": 764438300000
+        },
+        {
+            "change": -21.059908,
+            "close": 85.65,
+            "date": "2022-07-29",
+            "max": 86.04,
+            "min": 83.45,
+            "open": 86.02,
+            "volume": 778627570000
+        },
+        {
+            "change": -20.608295,
+            "close": 86.14,
+            "date": "2022-08-01",
+            "max": 86.25,
+            "min": 85.56,
+            "open": 86.04,
+            "volume": 411423910000
+        },
+        {
+            "change": -20.645161,
+            "close": 86.1,
+            "date": "2022-08-02",
+            "max": 86.15,
+            "min": 85.65,
+            "open": 86.15,
+            "volume": 288257810000
+        },
+        {
+            "change": -20.101382,
+            "close": 86.69,
+            "date": "2022-08-03",
+            "max": 86.83,
+            "min": 85.94,
+            "open": 86.15,
+            "volume": 407107730000
+        },
+        {
+            "change": -20.276498,
+            "close": 86.5,
+            "date": "2022-08-04",
+            "max": 87.0,
+            "min": 85.5,
+            "open": 87.0,
+            "volume": 474081700000
+        },
+        {
+            "change": -20.285714,
+            "close": 86.49,
+            "date": "2022-08-05",
+            "max": 86.63,
+            "min": 86.05,
+            "open": 86.63,
+            "volume": 335942760000
+        },
+        {
+            "change": -20.414747,
+            "close": 86.35,
+            "date": "2022-08-08",
+            "max": 86.99,
+            "min": 86.11,
+            "open": 86.49,
+            "volume": 430856450000
+        },
+        {
+            "change": -20.322581,
+            "close": 86.45,
+            "date": "2022-08-09",
+            "max": 86.45,
+            "min": 86.11,
+            "open": 86.11,
+            "volume": 367591070000
+        },
+        {
+            "change": -19.815668,
+            "close": 87.0,
+            "date": "2022-08-10",
+            "max": 87.0,
+            "min": 86.02,
+            "open": 86.45,
+            "volume": 370541410000
+        },
+        {
+            "change": -18.894009,
+            "close": 88.0,
+            "date": "2022-08-11",
+            "max": 88.95,
+            "min": 86.52,
+            "open": 86.85,
+            "volume": 419718920000
+        },
+        {
+            "change": -17.511521,
+            "close": 89.5,
+            "date": "2022-08-12",
+            "max": 89.5,
+            "min": 88.22,
+            "open": 88.4,
+            "volume": 536540780000
+        },
+        {
+            "change": -15.032258,
+            "close": 92.19,
+            "date": "2022-08-15",
+            "max": 92.19,
+            "min": 88.8,
+            "open": 89.5,
+            "volume": 735833260000
+        },
+        {
+            "change": -17.529954,
+            "close": 89.48,
+            "date": "2022-08-16",
+            "max": 91.51,
+            "min": 89.15,
+            "open": 91.51,
+            "volume": 566176740000
+        },
+        {
+            "change": -18.110599,
+            "close": 88.85,
+            "date": "2022-08-17",
+            "max": 90.25,
+            "min": 88.0,
+            "open": 89.5,
+            "volume": 665366370000
+        },
+        {
+            "change": -18.709677,
+            "close": 88.2,
+            "date": "2022-08-18",
+            "max": 89.68,
+            "min": 86.71,
+            "open": 87.86,
+            "volume": 531650020000
+        },
+        {
+            "change": -18.691244,
+            "close": 88.22,
+            "date": "2022-08-19",
+            "max": 89.48,
+            "min": 87.8,
+            "open": 88.6,
+            "volume": 481384790000
+        },
+        {
+            "change": -18.986175,
+            "close": 87.9,
+            "date": "2022-08-22",
+            "max": 88.5,
+            "min": 87.81,
+            "open": 88.22,
+            "volume": 264039980000
+        },
+        {
+            "change": -18.202765,
+            "close": 88.75,
+            "date": "2022-08-23",
+            "max": 89.8,
+            "min": 87.91,
+            "open": 87.91,
+            "volume": 357941420000
+        },
+        {
+            "change": -19.870968,
+            "close": 86.94,
+            "date": "2022-08-24",
+            "max": 89.55,
+            "min": 86.9,
+            "open": 88.75,
+            "volume": 608845770000
+        },
+        {
+            "change": -19.668203,
+            "close": 87.16,
+            "date": "2022-08-25",
+            "max": 88.34,
+            "min": 86.94,
+            "open": 88.19,
+            "volume": 519027740000
+        },
+        {
+            "change": -19.97235,
+            "close": 86.83,
+            "date": "2022-08-26",
+            "max": 87.95,
+            "min": 86.61,
+            "open": 87.6,
+            "volume": 444724830000
+        },
+        {
+            "change": -20.018433,
+            "close": 86.78,
+            "date": "2022-08-29",
+            "max": 87.65,
+            "min": 86.51,
+            "open": 86.83,
+            "volume": 613364520000
+        },
+        {
+            "change": -19.815668,
+            "close": 87.0,
+            "date": "2022-08-30",
+            "max": 88.32,
+            "min": 86.51,
+            "open": 86.77,
+            "volume": 618839010000
+        },
+        {
+            "change": -19.640553,
+            "close": 87.19,
+            "date": "2022-08-31",
+            "max": 88.46,
+            "min": 86.87,
+            "open": 87.3,
+            "volume": 788701130000
+        },
+        {
+            "change": -19.824885,
+            "close": 86.99,
+            "date": "2022-09-01",
+            "max": 87.6,
+            "min": 86.99,
+            "open": 87.23,
+            "volume": 561673570000
+        },
+        {
+            "change": -19.788018,
+            "close": 87.03,
+            "date": "2022-09-02",
+            "max": 88.4,
+            "min": 86.62,
+            "open": 86.99,
+            "volume": 440440620000
+        },
+        {
+            "change": -18.894009,
+            "close": 88.0,
+            "date": "2022-09-05",
+            "max": 88.92,
+            "min": 87.05,
+            "open": 87.05,
+            "volume": 474304670000
+        },
+        {
+            "change": -17.308756,
+            "close": 89.72,
+            "date": "2022-09-06",
+            "max": 90.69,
+            "min": 88.0,
+            "open": 88.0,
+            "volume": 655506260000
+        },
+        {
+            "change": -19.207373,
+            "close": 87.66,
+            "date": "2022-09-08",
+            "max": 91.7,
+            "min": 87.16,
+            "open": 89.8,
+            "volume": 684913130000
+        },
+        {
+            "change": -18.709677,
+            "close": 88.2,
+            "date": "2022-09-09",
+            "max": 89.69,
+            "min": 87.29,
+            "open": 88.99,
+            "volume": 505023220000
+        },
+        {
+            "change": -17.059908,
+            "close": 89.99,
+            "date": "2022-09-12",
+            "max": 91.0,
+            "min": 88.1,
+            "open": 88.21,
+            "volume": 623788920000
+        },
+        {
+            "change": -17.834101,
+            "close": 89.15,
+            "date": "2022-09-13",
+            "max": 90.94,
+            "min": 88.0,
+            "open": 90.05,
+            "volume": 616744140000
+        },
+        {
+            "change": -17.557604,
+            "close": 89.45,
+            "date": "2022-09-14",
+            "max": 90.22,
+            "min": 89.21,
+            "open": 89.39,
+            "volume": 458212000000
+        },
+        {
+            "change": -16.801843,
+            "close": 90.27,
+            "date": "2022-09-15",
+            "max": 90.5,
+            "min": 89.2,
+            "open": 89.51,
+            "volume": 451028820000
+        },
+        {
+            "change": -18.02765,
+            "close": 88.94,
+            "date": "2022-09-16",
+            "max": 90.09,
+            "min": 88.43,
+            "open": 89.62,
+            "volume": 305064400000
+        },
+        {
+            "change": -17.953917,
+            "close": 89.02,
+            "date": "2022-09-19",
+            "max": 90.0,
+            "min": 88.18,
+            "open": 88.32,
+            "volume": 341650330000
+        },
+        {
+            "change": -16.866359,
+            "close": 90.2,
+            "date": "2022-09-20",
+            "max": 90.2,
+            "min": 89.4,
+            "open": 89.4,
+            "volume": 331808600000
+        },
+        {
+            "change": -16.866359,
+            "close": 90.2,
+            "date": "2022-09-21",
+            "max": 90.22,
+            "min": 89.0,
+            "open": 90.2,
+            "volume": 540559160000
+        },
+        {
+            "change": -17.354839,
+            "close": 89.67,
+            "date": "2022-09-22",
+            "max": 89.97,
+            "min": 89.07,
+            "open": 89.68,
+            "volume": 280792080000
+        },
+        {
+            "change": -16.525346,
+            "close": 90.57,
+            "date": "2022-09-23",
+            "max": 91.6,
+            "min": 89.71,
+            "open": 89.71,
+            "volume": 392677690000
+        },
+        {
+            "change": -17.142857,
+            "close": 89.9,
+            "date": "2022-09-26",
+            "max": 91.38,
+            "min": 89.39,
+            "open": 90.56,
+            "volume": 341984880000
+        },
+        {
+            "change": -18.442396,
+            "close": 88.49,
+            "date": "2022-09-27",
+            "max": 90.51,
+            "min": 87.9,
+            "open": 88.77,
+            "volume": 782139550000
+        },
+        {
+            "change": -19.354839,
+            "close": 87.5,
+            "date": "2022-09-28",
+            "max": 88.5,
+            "min": 87.0,
+            "open": 88.48,
+            "volume": 595183350000
+        },
+        {
+            "change": -19.529954,
+            "close": 87.31,
+            "date": "2022-09-29",
+            "max": 87.5,
+            "min": 86.05,
+            "open": 87.5,
+            "volume": 654962860000
+        },
+        {
+            "change": -19.354839,
+            "close": 87.5,
+            "date": "2022-09-30",
+            "max": 88.88,
+            "min": 87.32,
+            "open": 87.32,
+            "volume": 445858270000
+        },
+        {
+            "change": -17.843318,
+            "close": 89.14,
+            "date": "2022-10-03",
+            "max": 90.57,
+            "min": 87.31,
+            "open": 87.5,
+            "volume": 406311170000
+        },
+        {
+            "change": -18.995392,
+            "close": 87.89,
+            "date": "2022-10-04",
+            "max": 90.19,
+            "min": 87.89,
+            "open": 89.1,
+            "volume": 482271490000
+        },
+        {
+            "change": -18.248848,
+            "close": 88.7,
+            "date": "2022-10-05",
+            "max": 89.3,
+            "min": 88.01,
+            "open": 88.15,
+            "volume": 351029090000
+        },
+        {
+            "change": -17.087558,
+            "close": 89.96,
+            "date": "2022-10-06",
+            "max": 90.3,
+            "min": 88.54,
+            "open": 89.3,
+            "volume": 344884650000
+        },
+        {
+            "change": -17.069124,
+            "close": 89.98,
+            "date": "2022-10-07",
+            "max": 90.05,
+            "min": 89.39,
+            "open": 89.95,
+            "volume": 321937420000
+        },
+        {
+            "change": -17.456221,
+            "close": 89.56,
+            "date": "2022-10-10",
+            "max": 90.1,
+            "min": 89.23,
+            "open": 90.0,
+            "volume": 439335480000
+        },
+        {
+            "change": -17.152074,
+            "close": 89.89,
+            "date": "2022-10-11",
+            "max": 89.97,
+            "min": 88.88,
+            "open": 89.57,
+            "volume": 380409110000
+        },
+        {
+            "change": -17.788018,
+            "close": 89.2,
+            "date": "2022-10-13",
+            "max": 89.89,
+            "min": 88.89,
+            "open": 89.89,
+            "volume": 477354180000
+        },
+        {
+            "change": -17.695853,
+            "close": 89.3,
+            "date": "2022-10-14",
+            "max": 89.89,
+            "min": 89.0,
+            "open": 89.0,
+            "volume": 398254570000
+        },
+        {
+            "change": -17.695853,
+            "close": 89.3,
+            "date": "2022-10-17",
+            "max": 89.82,
+            "min": 88.54,
+            "open": 88.54,
+            "volume": 318907990000
+        },
+        {
+            "change": -17.963134,
+            "close": 89.01,
+            "date": "2022-10-18",
+            "max": 89.29,
+            "min": 88.01,
+            "open": 89.29,
+            "volume": 465039990000
+        },
+        {
+            "change": -18.525346,
+            "close": 88.4,
+            "date": "2022-10-19",
+            "max": 89.49,
+            "min": 88.25,
+            "open": 89.09,
+            "volume": 238960610000
+        }
+    ],
+    "propriedades": [],
+    "segmento": "T\u00edtulos",
+    "snowflake": {
+        "crescimento": {
+            "cagr_alugeis_1": 0,
+            "cagr_ativo_1": 0.32,
+            "cagr_patrimonio_liquido": 0.24,
+            "cagr_vpa_1": 0.24,
+            "cagr_vpa_3": 0.03,
+            "cmgr_alugeis_6m": 0
+        },
+        "dividends": {
+            "cagr_dividens_1": -0.89,
+            "cagr_dividens_3": -0.53,
+            "cagr_dy_1": -0.2,
+            "cagr_dy_3": -0.07,
+            "cagr_dy_5": -0.04,
+            "dy": 8.93
+        },
+        "medias_segmento": {
+            "dividends": {
+                "cagr_dy_3": -0.04,
+                "dy": 10.73
+            },
+            "mercado": {
+                "custo_adm_med": 231034.16,
+                "liquidez_med": 792177073119.66
+            },
+            "operacao": {
+                "patrimonio_liquido": 548089731.91,
+                "pl_cx": 8.01,
+                "vacancia": 0.72
+            },
+            "valuation": {
+                "p_vpa_med": 1.01
+            }
+        },
+        "mercado": {
+            "custo_adm_med": 142306.32,
+            "ifix": 0.218,
+            "liquidez_med": 628420810000.0
+        },
+        "operacao": {
+            "contratos_vencimento": 0,
+            "estados": 0,
+            "imoveis": 0,
+            "patrimonio_liquido": 266673120.8,
+            "pl_cx": 12.07,
+            "vacancia": 0,
+            "vacancia_1": 0,
+            "vacancia_3m": 0
+        },
+        "valuation": {
+            "p_vpa": 0.94,
+            "p_vpa_med": 0.96,
+            "price": 88.4,
+            "valuation": 90.48
+        }
+    },
+    "ticker": "SNFF11",
+    "vacancia": []
+}
