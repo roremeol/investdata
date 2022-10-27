@@ -1272,6 +1272,51 @@
     "prices": [
         {
             "change": 0.0,
+            "close": 636.994629,
+            "date": "2009-12-29T00:00:00",
+            "high": 636.994629,
+            "low": 636.994629,
+            "open": 636.994629,
+            "volume": 0.0
+        },
+        {
+            "change": 9.408279798855245,
+            "close": 696.924866,
+            "date": "2010-12-29T00:00:00",
+            "high": 696.924866,
+            "low": 696.924866,
+            "open": 696.924866,
+            "volume": 0.0
+        },
+        {
+            "change": -54.79451754846698,
+            "close": 315.048248,
+            "date": "2011-12-29T00:00:00",
+            "high": 315.048248,
+            "low": 315.048248,
+            "open": 315.048248,
+            "volume": 0.0
+        },
+        {
+            "change": -84.26327227187119,
+            "close": 49.578285,
+            "date": "2012-12-28T00:00:00",
+            "high": 49.578285,
+            "low": 44.069588,
+            "open": 49.578285,
+            "volume": 9.0
+        },
+        {
+            "change": -33.33333535034542,
+            "close": 33.052189,
+            "date": "2013-12-27T00:00:00",
+            "high": 33.052189,
+            "low": 33.052189,
+            "open": 33.052189,
+            "volume": 0.0
+        },
+        {
+            "change": -99.75795854247355,
             "close": 0.08,
             "date": "2014-01-02T00:00:00",
             "high": 0.08,
@@ -6437,7 +6482,16 @@
             "volume": 289.0
         },
         {
-            "change": -0.3460207612456827,
+            "change": 197.25602076124565,
+            "close": 8.590699,
+            "date": "2017-12-29T00:00:00",
+            "high": 8.590699,
+            "low": 8.590699,
+            "open": 8.590699,
+            "volume": 0.0
+        },
+        {
+            "change": -66.47537063049235,
             "close": 2.88,
             "date": "2018-01-11T00:00:00",
             "high": 2.88,
@@ -16236,6 +16290,15 @@
             "low": 2.09,
             "open": 2.17,
             "volume": 481274.0
+        },
+        {
+            "change": -0.9174311926605512,
+            "close": 2.16,
+            "date": "2022-10-25T00:00:00",
+            "high": 2.25,
+            "low": 2.13,
+            "open": 2.17,
+            "volume": 154300.0
         }
     ],
     "setor": "Bens Industriais > Material de Transporte > Material Rodovi\u00e1rio",
@@ -16344,8 +16407,82 @@
             "valuation_med": 0
         }
     },
-    "splits": [],
-    "subscriptions": [],
+    "splits": [
+        {
+            "data_com": "2022-06-24T00:00:00",
+            "fator": 0.5,
+            "isin": "BRRCSLACNOR4",
+            "tipo": "GRUPAMENTO"
+        },
+        {
+            "data_com": "2022-06-24T00:00:00",
+            "fator": 0.5,
+            "isin": "BRRCSLACNPR1",
+            "tipo": "GRUPAMENTO"
+        },
+        {
+            "data_com": "2010-04-30T00:00:00",
+            "fator": 300.0,
+            "isin": "BRRCSLACNOR4",
+            "tipo": "DESDOBRAMENTO"
+        },
+        {
+            "data_com": "2010-04-30T00:00:00",
+            "fator": 300.0,
+            "isin": "BRRCSLACNPR1",
+            "tipo": "DESDOBRAMENTO"
+        },
+        {
+            "data_com": "1992-04-03T00:00:00",
+            "fator": 900.0,
+            "isin": "BRRCSLACNOR4",
+            "tipo": "BONIFICACAO"
+        },
+        {
+            "data_com": "1992-04-03T00:00:00",
+            "fator": 900.0,
+            "isin": "BRRCSLACNPR1",
+            "tipo": "BONIFICACAO"
+        }
+    ],
+    "subscriptions": [
+        {
+            "data_com": "22/11/2018",
+            "data_negociacao": "23/11/2018 a 17/12/2018",
+            "data_subiscricao": "26/12/2018",
+            "isin": "BRRCSLACNOR4",
+            "precentual": 1392.21510479,
+            "tipo": "SUBSCRICAO",
+            "valor": 1.35
+        },
+        {
+            "data_com": "22/11/2018",
+            "data_negociacao": "23/11/2018 a 17/12/2018",
+            "data_subiscricao": "26/12/2018",
+            "isin": "BRRCSLACNPR1",
+            "precentual": 1392.21510479,
+            "tipo": "SUBSCRICAO",
+            "valor": 1.35
+        },
+        {
+            "data_com": "13/03/1998",
+            "data_negociacao": "31/12/9999 a 23/06/1998",
+            "data_subiscricao": "30/06/1998",
+            "isin": "BRRCSLACNOR4",
+            "precentual": 224.358974375,
+            "tipo": "PRIORIDADE SUBS",
+            "valor": 3.0
+        },
+        {
+            "data_com": "13/03/1998",
+            "data_negociacao": "31/12/9999 a 23/06/1998",
+            "data_subiscricao": "30/06/1998",
+            "isin": "BRRCSLACNPR1",
+            "precentual": 224.358974375,
+            "tipo": "PRIORIDADE SUBS",
+            "valor": 3.0
+        }
+    ],
     "ticker": "RCSL3",
     "tickers": [
         {

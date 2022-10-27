@@ -220,7 +220,7 @@
             "tipo": "DIVIDENDO"
         }
     ],
-    "ibov_participacao": 1.158,
+    "ibov_participacao": 1.154,
     "indicadores": [
         {
             "alavancagem": 3.38665,
@@ -1391,6 +1391,24 @@
     "prices": [
         {
             "change": 0.0,
+            "close": 6.32,
+            "date": "2015-12-29T00:00:00",
+            "high": 6.32,
+            "low": 6.01,
+            "open": 6.01,
+            "volume": 473200.0
+        },
+        {
+            "change": -2.848101265822794,
+            "close": 6.14,
+            "date": "2016-12-29T00:00:00",
+            "high": 6.19,
+            "low": 6.05,
+            "open": 6.16,
+            "volume": 5038800.0
+        },
+        {
+            "change": 42.34527687296418,
             "close": 8.74,
             "date": "2017-03-13T00:00:00",
             "high": 8.83,
@@ -3179,6 +3197,15 @@
             "low": 12.62,
             "open": 12.62,
             "volume": 76814542.0
+        },
+        {
+            "change": 0.0,
+            "close": 12.97,
+            "date": "2017-12-29T00:00:00",
+            "high": 12.97,
+            "low": 12.97,
+            "open": 12.97,
+            "volume": 0.0
         },
         {
             "change": 0.15420200462605685,
@@ -13871,6 +13898,15 @@
             "low": 20.8,
             "open": 21.05,
             "volume": 125702986.0
+        },
+        {
+            "change": -2.232779097387185,
+            "close": 20.58,
+            "date": "2022-10-25T00:00:00",
+            "high": 21.0,
+            "low": 20.58,
+            "open": 21.0,
+            "volume": 7559900.0
         }
     ],
     "setor": "Bens Industriais > M\u00e1quinas e Equipamentos > M\u00e1q. e Equip. Industriais",

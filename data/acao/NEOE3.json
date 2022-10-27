@@ -8651,6 +8651,15 @@
             "low": 16.3,
             "open": 16.37,
             "volume": 16090890.0
+        },
+        {
+            "change": -3.9015606242496914,
+            "close": 16.01,
+            "date": "2022-10-25T00:00:00",
+            "high": 16.700001,
+            "low": 16.01,
+            "open": 16.65,
+            "volume": 1994100.0
         }
     ],
     "setor": "Utilidade P\u00fablica > Energia El\u00e9trica > Energia El\u00e9trica",
@@ -8759,8 +8768,25 @@
             "valuation_med": 40.00295464951737
         }
     },
-    "splits": [],
-    "subscriptions": [],
+    "splits": [
+        {
+            "data_com": "2017-11-03T00:00:00",
+            "fator": 0.13324875691,
+            "isin": "BRNEOEACNOR3",
+            "tipo": "GRUPAMENTO"
+        }
+    ],
+    "subscriptions": [
+        {
+            "data_com": "26/03/2018",
+            "data_negociacao": "31/12/9999 a 22/03/2018",
+            "data_subiscricao": "29/03/2018",
+            "isin": "BRNEOEACNOR3",
+            "precentual": 5.16652201717,
+            "tipo": "SUBSCRICAO",
+            "valor": 16.77
+        }
+    ],
     "ticker": "NEOE3",
     "tickers": [],
     "website": "www.neoenergia.com"

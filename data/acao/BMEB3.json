@@ -11784,6 +11784,15 @@
             "low": 11.11,
             "open": 11.66,
             "volume": 20456.0
+        },
+        {
+            "change": 0.18001800180019217,
+            "close": 11.13,
+            "date": "2022-10-25T00:00:00",
+            "high": 11.13,
+            "low": 11.13,
+            "open": 11.13,
+            "volume": 100.0
         }
     ],
     "setor": "Financeiro > Intermedi\u00e1rios Financeiros > Bancos",
@@ -11892,8 +11901,58 @@
             "valuation_med": 24.38732824204965
         }
     },
-    "splits": [],
-    "subscriptions": [],
+    "splits": [
+        {
+            "data_com": "2021-12-02T00:00:00",
+            "fator": 19900.0,
+            "isin": "BRBMEBACNOR8",
+            "tipo": "DESDOBRAMENTO"
+        },
+        {
+            "data_com": "2021-12-02T00:00:00",
+            "fator": 19900.0,
+            "isin": "BRBMEBACNPR5",
+            "tipo": "DESDOBRAMENTO"
+        },
+        {
+            "data_com": "2021-12-02T00:00:00",
+            "fator": 0.01,
+            "isin": "BRBMEBACNOR8",
+            "tipo": "GRUPAMENTO"
+        },
+        {
+            "data_com": "2021-12-02T00:00:00",
+            "fator": 0.01,
+            "isin": "BRBMEBACNPR5",
+            "tipo": "GRUPAMENTO"
+        },
+        {
+            "data_com": "1987-07-24T00:00:00",
+            "fator": 99900.0,
+            "isin": "BRBMEBACPPR0",
+            "tipo": "BONIFICACAO"
+        }
+    ],
+    "subscriptions": [
+        {
+            "data_com": "11/08/2017",
+            "data_negociacao": "14/08/2017 a 05/09/2017",
+            "data_subiscricao": "13/09/2017",
+            "isin": "BRBMEBACNOR8",
+            "precentual": 13.70019522,
+            "tipo": "SUBSCRICAO",
+            "valor": 9.5
+        },
+        {
+            "data_com": "11/08/2017",
+            "data_negociacao": "14/08/2017 a 05/09/2017",
+            "data_subiscricao": "13/09/2017",
+            "isin": "BRBMEBACNOR8",
+            "precentual": 13.70019522,
+            "tipo": "SUBSCRICAO",
+            "valor": 9.5
+        }
+    ],
     "ticker": "BMEB3",
     "tickers": [
         {
