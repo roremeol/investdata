@@ -47,11 +47,11 @@
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 0.0
+            "precentual": 0.84
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 100.0
+            "precentual": 99.16
         },
         {
             "prazo": "Prazo indeterminado",
@@ -164,9 +164,20 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-14T00:00:00",
             "provento": 0.63
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.63
         }
     ],
-    "fii": [],
+    "fii": [
+        {
+            "nome": "FII KINEA RI - KNCR11",
+            "quantidade": 248908.0,
+            "valor": 25488179.2
+        }
+    ],
     "gestao": "Ativa",
     "ifix_participacao": 0,
     "imr": [
@@ -1066,12 +1077,25 @@
             "patrimonio_liquido": 819247303.09,
             "receita_aluguel": 6465030.32,
             "valor_patrimonio_cotas": 96.177641
+        },
+        {
+            "ativo": 826015350.35,
+            "caixa": 17810116.18,
+            "competencia": "10/2022",
+            "cotas_emitidas": 8518064.0,
+            "cotistas": 165,
+            "despesa_administracao": 565593.3,
+            "dy": 0.655,
+            "numero_cotas": 8518064.0,
+            "patrimonio_liquido": 819700436.58,
+            "receita_aluguel": 6477823.66,
+            "valor_patrimonio_cotas": 96.230838
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 4.58
+            "precentual": 4.13
         },
         {
             "indexador": "INPC",
@@ -1079,7 +1103,7 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 95.42
+            "precentual": 95.87
         },
         {
             "indexador": "INCC",
@@ -1088,33 +1112,9 @@
         {
             "indexador": "AAA",
             "precentual": 0.0
-        },
-        {
-            "indexador": "Outros",
-            "precentual": 0.0
-        },
-        {
-            "indexador": "Outros",
-            "precentual": 0.0
-        },
-        {
-            "indexador": "Outros",
-            "precentual": 0.0
-        },
-        {
-            "indexador": "Outros",
-            "precentual": 0.0
-        },
-        {
-            "indexador": "Outros",
-            "precentual": 0.0
-        },
-        {
-            "indexador": "Outros",
-            "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRHSRECTF001",
     "lci": [],
     "mandato": "Renda",
@@ -3108,6 +3108,96 @@
             "min": 100.37,
             "open": 100.37,
             "volume": 100370000
+        },
+        {
+            "change": 1.898477,
+            "close": 100.37,
+            "date": "2022-10-21",
+            "max": 100.37,
+            "min": 100.37,
+            "open": 100.37,
+            "volume": 100370000
+        },
+        {
+            "change": 1.928934,
+            "close": 100.4,
+            "date": "2022-10-24",
+            "max": 101.5,
+            "min": 100.4,
+            "open": 101.5,
+            "volume": 15010204900000
+        },
+        {
+            "change": 3.045685,
+            "close": 101.5,
+            "date": "2022-10-26",
+            "max": 101.5,
+            "min": 101.5,
+            "open": 101.5,
+            "volume": 609000000
+        },
+        {
+            "change": 3.035533,
+            "close": 101.49,
+            "date": "2022-10-27",
+            "max": 101.5,
+            "min": 101.49,
+            "open": 101.5,
+            "volume": 40494560000
+        },
+        {
+            "change": 3.035533,
+            "close": 101.49,
+            "date": "2022-10-28",
+            "max": 101.5,
+            "min": 101.49,
+            "open": 101.5,
+            "volume": 6000190300000
+        },
+        {
+            "change": 3.015228,
+            "close": 101.47,
+            "date": "2022-10-31",
+            "max": 101.5,
+            "min": 99.01,
+            "open": 101.5,
+            "volume": 43125965480000
+        },
+        {
+            "change": 2.375635,
+            "close": 100.84,
+            "date": "2022-11-01",
+            "max": 100.84,
+            "min": 100.84,
+            "open": 100.84,
+            "volume": 100840000
+        },
+        {
+            "change": 3.045685,
+            "close": 101.5,
+            "date": "2022-11-03",
+            "max": 101.5,
+            "min": 101.5,
+            "open": 101.5,
+            "volume": 609000000
+        },
+        {
+            "change": 2.538071,
+            "close": 101.0,
+            "date": "2022-11-04",
+            "max": 101.5,
+            "min": 101.0,
+            "open": 101.5,
+            "volume": 710000000
+        },
+        {
+            "change": 3.045685,
+            "close": 101.5,
+            "date": "2022-11-09",
+            "max": 101.5,
+            "min": 101.5,
+            "open": 101.5,
+            "volume": 304500000
         }
     ],
     "propriedades": [
@@ -3342,32 +3432,32 @@
             "vacancia": 0.0
         },
         {
-            "area": 3622.85,
-            "cidade": "Centro SP Cidade de S\u00e3o Paulo, S\u00e3o Paulo, na Av. S\u00e3o Jo\u00e3o, 455 e Rua 24 de Maio, 70",
+            "area": 4186.66,
+            "cidade": "LojaVit\u00f3ria Cidade de Vit\u00f3ria, Esp\u00edrito Santo, na Avenida Jer\u00f4nimo Monteiro, 1.000 \n                \u00c1rea (m2):\n                4.186,66 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Avenida Jer\u00f4nimo Monteiro, 1",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Loja - Vit\u00f3ria Cidade de Vit\u00f3ria, Esp\u00edrito Santo, naenida Jer\u00f4nimo Monteiro, 1.000 \n                \u00c1rea (m2):\n                4.186,66 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 2299.99,
+            "cidade": "LojaShopping  Iguatemi RJ Cidade do Rio de Janeiro, Rio de Janeiro, na Rua Bar\u00e3o de S\u00e3o Francisco, 236 \n                \u00c1rea (m2):\n                2.299,99 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Rua Bar\u00e3o de S\u00e3o Francisco, 236 \n                \u00c1rea",
+            "estado": "RJ",
+            "inadimplencia": 0.0,
+            "nome": "Loja - Shopping  Iguatemi RJ Cidade do Rio de Janeiro, Rio de Janeiro, na Bar\u00e3o de S\u00e3o Francisco, 236 \n                \u00c1rea (m2):\n                2.299,99 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 3031.91,
+            "cidade": "Centro E Call Center Cidade de S\u00e3o Paulo, S\u00e3o Paulo, na Av. S\u00e3o Jo\u00e3o, 455 e Rua 24 de Maio, 70",
             "endereco": "Av. S\u00e3o Jo\u00e3o, 455 e Rua 24 de Maio, 70/90 \n                \u00c1rea",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Loja - Centro SP Cidade de S\u00e3o Paulo, S\u00e3o Paulo, na S\u00e3o Jo\u00e3o, 455 e 24 de Maio, 70/90 \n                \u00c1rea (m2):\n                3.622,85 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
-            "area": 4186.66,
-            "cidade": "LojaVit\u00f3ria Cidade de Vit\u00f3ria, Esp\u00edrito Santo, na Avenida Jer\u00f4nimo Monteiro, 1.000 \n                \u00c1rea (m2):\n                4.186,66 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Avenida Jer\u00f4nimo Monteiro, 1",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "Loja - Vit\u00f3ria Cidade de Vit\u00f3ria, Esp\u00edrito Santo, naenida Jer\u00f4nimo Monteiro, 1.000 \n                \u00c1rea (m2):\n                4.186,66 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
-            "area": 4186.66,
-            "cidade": "LojaVit\u00f3ria Cidade de Vit\u00f3ria, Esp\u00edrito Santo, na Avenida Jer\u00f4nimo Monteiro, 1.000 \n                \u00c1rea (m2):\n                4.186,66 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Avenida Jer\u00f4nimo Monteiro, 1",
-            "estado": "Outros",
-            "inadimplencia": 0.0,
-            "nome": "Loja - Vit\u00f3ria Cidade de Vit\u00f3ria, Esp\u00edrito Santo, naenida Jer\u00f4nimo Monteiro, 1.000 \n                \u00c1rea (m2):\n                4.186,66 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Loja - Centro E Call Center Cidade de S\u00e3o Paulo, S\u00e3o Paulo, na S\u00e3o Jo\u00e3o, 455 e 24 de Maio, 70/90 \n                \u00c1rea (m2):\n                3.031,91 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -3405,7 +3495,7 @@
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.04,
+            "cagr_alugeis_1": -0.0,
             "cagr_ativo_1": -0.01,
             "cagr_patrimonio_liquido": -0.01,
             "cagr_vpa_1": -0.01,
@@ -3417,47 +3507,47 @@
             "cagr_dividens_3": -0.14,
             "cagr_dy_1": -0.34,
             "cagr_dy_3": -0.13,
-            "cagr_dy_5": -0.1,
-            "dy": 6.9
+            "cagr_dy_5": -0.08,
+            "dy": 6.98
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 93908.03,
+            "custo_adm_med": 96493.72,
             "ifix": 0,
-            "liquidez_med": 1238850000
+            "liquidez_med": 1201000000
         },
         "operacao": {
             "contratos_vencimento": 37,
-            "estados": 3,
+            "estados": 2,
             "imoveis": 29,
-            "patrimonio_liquido": 819247303.09,
-            "pl_cx": 2.12,
+            "patrimonio_liquido": 819700436.58,
+            "pl_cx": 2.17,
             "vacancia": 0.0,
-            "vacancia_1": 4.06,
+            "vacancia_1": 0.0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 1.04,
+            "p_vpa": 1.05,
             "p_vpa_med": 1.03,
-            "price": 100.37,
-            "valuation": 82.65
+            "price": 101.5,
+            "valuation": 79.98
         }
     },
     "ticker": "HSRE11",
@@ -3552,6 +3642,10 @@
         },
         {
             "competencia": "02/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "03/2022",
             "total": 0.0
         }
     ]

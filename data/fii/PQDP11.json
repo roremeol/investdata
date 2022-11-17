@@ -3,59 +3,59 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 0.8755
+            "precentual": 0.7652
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 2.6627
+            "precentual": 2.5236
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 1.1891
+            "precentual": 1.2501
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 5.0464
+            "precentual": 5.152
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 1.2697
+            "precentual": 1.632
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 2.3242
+            "precentual": 2.3695
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 1.1184
+            "precentual": 1.2651
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 1.2771
+            "precentual": 1.3652
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 1.9272
+            "precentual": 1.9635
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 3.3314
+            "precentual": 3.4251
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 1.4956
+            "precentual": 1.563
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 0.9078
+            "precentual": 0.9632
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 50.6347
+            "precentual": 50.963
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 25.9402
+            "precentual": 24.7995
         }
     ],
     "cri": [],
@@ -399,15 +399,14 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-20T00:00:00",
             "provento": 14.51949359
-        }
-    ],
-    "fii": [
+        },
         {
-            "nome": "FII SHOPPING PARQUE DOM PEDRO",
-            "quantidade": 296832.0,
-            "valor": 407932043.31
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-18T00:00:00",
+            "provento": 18.547616582
         }
     ],
+    "fii": [],
     "gestao": "Passiva",
     "ifix_participacao": 0,
     "imr": [
@@ -1307,31 +1306,44 @@
             "patrimonio_liquido": 813386589.94,
             "receita_aluguel": 7547081.13,
             "valor_patrimonio_cotas": 3313.008231
+        },
+        {
+            "ativo": 824653916.91,
+            "caixa": 17174015.28,
+            "competencia": "10/2022",
+            "cotas_emitidas": 245513.0,
+            "cotistas": 4080,
+            "despesa_administracao": 168326.18,
+            "dy": 0.5283,
+            "numero_cotas": 245513.0,
+            "patrimonio_liquido": 813169973.83,
+            "receita_aluguel": 7371002.8,
+            "valor_patrimonio_cotas": 3312.125932
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 3.9936
+            "precentual": 3.8695
         },
         {
             "indexador": "INPC",
-            "precentual": 1.2077
+            "precentual": 1.362
         },
         {
             "indexador": "IPCA",
-            "precentual": 93.9761
+            "precentual": 93.263
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
         },
         {
-            "indexador": "Outros indicadores",
-            "precentual": 0.8226
+            "indexador": "Outros",
+            "precentual": 1.5055
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRPQDPCTF004",
     "lci": [],
     "mandato": "Renda",
@@ -14541,6 +14553,15 @@
             "volume": 106719920000
         },
         {
+            "change": 171.428571,
+            "close": 3800.0,
+            "date": "2019-12-26",
+            "max": 3900.0,
+            "min": 3690.0,
+            "open": 3690.0,
+            "volume": 68029990000
+        },
+        {
             "change": 185.0,
             "close": 3990.0,
             "date": "2019-12-27",
@@ -14548,6 +14569,24 @@
             "min": 3790.0,
             "open": 3790.0,
             "volume": 176114950000
+        },
+        {
+            "change": 178.571429,
+            "close": 3900.0,
+            "date": "2019-12-30",
+            "max": 3958.0,
+            "min": 3851.0,
+            "open": 3958.0,
+            "volume": 159792940000
+        },
+        {
+            "change": 177.857143,
+            "close": 3890.0,
+            "date": "2020-01-02",
+            "max": 3980.0,
+            "min": 3786.24,
+            "open": 3980.0,
+            "volume": 182356440000
         },
         {
             "change": 180.429286,
@@ -20812,76 +20851,202 @@
             "min": 2270.0,
             "open": 2322.69,
             "volume": 261645990000
+        },
+        {
+            "change": 64.285714,
+            "close": 2300.0,
+            "date": "2022-10-20",
+            "max": 2300.0,
+            "min": 2270.0,
+            "open": 2270.08,
+            "volume": 91212900000
+        },
+        {
+            "change": 62.142857,
+            "close": 2270.0,
+            "date": "2022-10-21",
+            "max": 2280.0,
+            "min": 2270.0,
+            "open": 2280.0,
+            "volume": 195265180000
+        },
+        {
+            "change": 62.214286,
+            "close": 2271.0,
+            "date": "2022-10-24",
+            "max": 2300.0,
+            "min": 2271.0,
+            "open": 2271.0,
+            "volume": 228550800000
+        },
+        {
+            "change": 62.510714,
+            "close": 2275.15,
+            "date": "2022-10-25",
+            "max": 2302.46,
+            "min": 2270.0,
+            "open": 2276.11,
+            "volume": 281844400000
+        },
+        {
+            "change": 63.642857,
+            "close": 2291.0,
+            "date": "2022-10-26",
+            "max": 2298.99,
+            "min": 2270.0,
+            "open": 2298.99,
+            "volume": 91255060000
+        },
+        {
+            "change": 64.142857,
+            "close": 2298.0,
+            "date": "2022-10-27",
+            "max": 2298.0,
+            "min": 2272.2,
+            "open": 2291.0,
+            "volume": 78043200000
+        },
+        {
+            "change": 62.286429,
+            "close": 2272.01,
+            "date": "2022-10-28",
+            "max": 2295.0,
+            "min": 2272.01,
+            "open": 2294.99,
+            "volume": 63713140000
+        },
+        {
+            "change": 62.285714,
+            "close": 2272.0,
+            "date": "2022-10-31",
+            "max": 2299.0,
+            "min": 2271.41,
+            "open": 2272.01,
+            "volume": 235842410000
+        },
+        {
+            "change": 61.464286,
+            "close": 2260.5,
+            "date": "2022-11-01",
+            "max": 2299.99,
+            "min": 2260.5,
+            "open": 2299.99,
+            "volume": 11420970000
+        },
+        {
+            "change": 61.985714,
+            "close": 2267.8,
+            "date": "2022-11-03",
+            "max": 2267.8,
+            "min": 2250.0,
+            "open": 2260.5,
+            "volume": 45090590000
+        },
+        {
+            "change": 61.278571,
+            "close": 2257.9,
+            "date": "2022-11-04",
+            "max": 2258.0,
+            "min": 2220.0,
+            "open": 2258.0,
+            "volume": 44727350000
+        },
+        {
+            "change": 58.73,
+            "close": 2222.22,
+            "date": "2022-11-07",
+            "max": 2260.0,
+            "min": 2222.22,
+            "open": 2251.53,
+            "volume": 73952710000
+        },
+        {
+            "change": 58.786429,
+            "close": 2223.01,
+            "date": "2022-11-08",
+            "max": 2259.99,
+            "min": 2222.0,
+            "open": 2222.25,
+            "volume": 75669320000
+        },
+        {
+            "change": 59.285714,
+            "close": 2230.0,
+            "date": "2022-11-09",
+            "max": 2295.0,
+            "min": 2230.0,
+            "open": 2248.0,
+            "volume": 99377200000
         }
     ],
     "propriedades": [
         {
-            "area": 3392.33,
-            "cidade": "SHOPPING PARQUE DOM PEDRO II Avenida Guilherme Campos 500, 500, Jardim Santa Genebra, CampinasSP, Brasil, 13087901 \n                \u00c1rea (m2):\n                3.392,33 \n                N\u00ba de unidades ou lojas:\n                473 Direito de propriedade",
-            "endereco": "Avenida Guilherme Campos 500, 500, Jardim Santa Genebra, Campinas/SP, Brasil, 13087",
+            "area": 127300.0,
+            "cidade": "SHOPPING PARQUE DOM PEDRO Avenida Guilherme Campos 500, Jardim Santa Genebra, CampinasSP, Brasil, 13087901 \n                \u00c1rea (m2):\n                127.300,00 \n                N\u00ba de unidades ou lojas:\n                387 Direito de propriedade",
+            "endereco": "Avenida Guilherme Campos 500, Jardim Santa Genebra, Campinas/SP, Brasil, 13087",
             "estado": "RO",
-            "inadimplencia": 0.0,
-            "nome": "SHOPPING PARQUE DOM PEDRO II",
-            "unidades": 473,
-            "vacancia": 0.0
+            "inadimplencia": 4.4568,
+            "nome": "SHOPPING PARQUE DOM PEDRO",
+            "unidades": 387,
+            "vacancia": 1.0907
         }
     ],
     "segmento": "Shoppings",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.22,
-            "cagr_ativo_1": -0.06,
-            "cagr_patrimonio_liquido": -0.06,
-            "cagr_vpa_1": -0.06,
+            "cagr_alugeis_1": -0.25,
+            "cagr_ativo_1": 0.02,
+            "cagr_patrimonio_liquido": 0.01,
+            "cagr_vpa_1": 0.01,
             "cagr_vpa_3": 0.0,
             "cmgr_alugeis_6m": -0.02
         },
         "dividends": {
-            "cagr_dividens_1": 0.15,
-            "cagr_dividens_3": 0.01,
-            "cagr_dy_1": -0.41,
-            "cagr_dy_3": -0.16,
-            "cagr_dy_5": -0.1,
-            "dy": 5.06
+            "cagr_dividens_1": 0.46,
+            "cagr_dividens_3": 0.1,
+            "cagr_dy_1": -0.47,
+            "cagr_dy_3": -0.19,
+            "cagr_dy_5": -0.12,
+            "dy": 5.14
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.16,
-                "dy": 5.16
+                "cagr_dy_3": -0.17,
+                "dy": 5.24
             },
             "mercado": {
-                "custo_adm_med": 236677.22,
-                "liquidez_med": 574772111428.57
+                "custo_adm_med": 237341.59,
+                "liquidez_med": 575574112380.95
             },
             "operacao": {
-                "patrimonio_liquido": 661924718.57,
-                "pl_cx": 2.02,
-                "vacancia": 7.89
+                "patrimonio_liquido": 663251512.39,
+                "pl_cx": 2.77,
+                "vacancia": 7.06
             },
             "valuation": {
-                "p_vpa_med": 0.78
+                "p_vpa_med": 0.74
             }
         },
         "mercado": {
-            "custo_adm_med": 165696.73,
+            "custo_adm_med": 165875.77000000002,
             "ifix": 0,
-            "liquidez_med": 107003570000.0
+            "liquidez_med": 106929940000
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 1,
             "imoveis": 1,
-            "patrimonio_liquido": 813386589.94,
-            "pl_cx": 2.06,
-            "vacancia": 0.0,
-            "vacancia_1": 2.0,
-            "vacancia_3m": 2.5
+            "patrimonio_liquido": 813169973.83,
+            "pl_cx": 2.11,
+            "vacancia": 1.09,
+            "vacancia_1": 6.73,
+            "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.69,
-            "p_vpa_med": 0.7,
-            "price": 2270.02,
-            "valuation": 1877.33
+            "p_vpa": 0.67,
+            "p_vpa_med": 0.69,
+            "price": 2230.0,
+            "valuation": 1845.86
         }
     },
     "ticker": "PQDP11",
@@ -20977,6 +21142,10 @@
         {
             "competencia": "2/2022",
             "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
+            "total": 1.09
         }
     ]
 }

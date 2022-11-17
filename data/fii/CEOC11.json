@@ -364,6 +364,11 @@
             "data_com": "2022-10-07T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.50110486
+        },
+        {
+            "data_com": "2022-11-08T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.499662652
         }
     ],
     "fii": [],
@@ -1279,6 +1284,19 @@
             "patrimonio_liquido": 163237739.13,
             "receita_aluguel": 14133720.19,
             "valor_patrimonio_cotas": 89.903673
+        },
+        {
+            "ativo": 164442476.3,
+            "caixa": 3438828.54,
+            "competencia": "10/2022",
+            "cotas_emitidas": 1815696.0,
+            "cotistas": 5061,
+            "despesa_administracao": 65405.44,
+            "dy": 0.555,
+            "numero_cotas": 1815696.0,
+            "patrimonio_liquido": 163105846.62,
+            "receita_aluguel": 14007172.25,
+            "valor_patrimonio_cotas": 89.831033
         }
     ],
     "indexador_reajuste_contrato": [
@@ -1299,7 +1317,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRCEOCCTF003",
     "lci": [],
     "mandato": "Renda",
@@ -7012,6 +7030,15 @@
             "volume": 1485867160000
         },
         {
+            "change": 14.856429,
+            "close": 92.0,
+            "date": "2019-12-26",
+            "max": 92.0,
+            "min": 91.2,
+            "open": 91.2,
+            "volume": 636055870000
+        },
+        {
             "change": 17.353308,
             "close": 94.0,
             "date": "2019-12-27",
@@ -7019,6 +7046,24 @@
             "min": 92.0,
             "open": 92.0,
             "volume": 683503350000
+        },
+        {
+            "change": 19.225968,
+            "close": 95.5,
+            "date": "2019-12-30",
+            "max": 95.5,
+            "min": 94.2,
+            "open": 94.25,
+            "volume": 327111250000
+        },
+        {
+            "change": 24.219725,
+            "close": 99.5,
+            "date": "2020-01-02",
+            "max": 101.4,
+            "min": 95.6,
+            "open": 95.6,
+            "volume": 318111120000
         },
         {
             "change": 25.280899,
@@ -13219,7 +13264,7 @@
             "max": 61.0,
             "min": 60.52,
             "open": 60.52,
-            "volume": 559000000
+            "volume": 34052950000
         },
         {
             "change": -24.044944,
@@ -13283,12 +13328,138 @@
             "min": 60.69,
             "open": 60.97,
             "volume": 15119790000
+        },
+        {
+            "change": -23.196005,
+            "close": 61.52,
+            "date": "2022-10-20",
+            "max": 61.74,
+            "min": 61.39,
+            "open": 61.39,
+            "volume": 7498990000
+        },
+        {
+            "change": -22.259675,
+            "close": 62.27,
+            "date": "2022-10-21",
+            "max": 63.25,
+            "min": 61.52,
+            "open": 61.74,
+            "volume": 40830410000
+        },
+        {
+            "change": -23.583021,
+            "close": 61.21,
+            "date": "2022-10-24",
+            "max": 63.02,
+            "min": 61.21,
+            "open": 63.02,
+            "volume": 39443230000
+        },
+        {
+            "change": -23.845194,
+            "close": 61.0,
+            "date": "2022-10-25",
+            "max": 61.66,
+            "min": 61.0,
+            "open": 61.66,
+            "volume": 79516290000
+        },
+        {
+            "change": -24.032459,
+            "close": 60.85,
+            "date": "2022-10-26",
+            "max": 61.18,
+            "min": 60.83,
+            "open": 60.83,
+            "volume": 27603070000
+        },
+        {
+            "change": -24.11985,
+            "close": 60.78,
+            "date": "2022-10-27",
+            "max": 61.59,
+            "min": 60.78,
+            "open": 60.85,
+            "volume": 8858360000
+        },
+        {
+            "change": -23.845194,
+            "close": 61.0,
+            "date": "2022-10-28",
+            "max": 61.23,
+            "min": 60.12,
+            "open": 60.74,
+            "volume": 20051240000
+        },
+        {
+            "change": -23.957553,
+            "close": 60.91,
+            "date": "2022-10-31",
+            "max": 61.65,
+            "min": 60.13,
+            "open": 61.35,
+            "volume": 25668060000
+        },
+        {
+            "change": -24.394507,
+            "close": 60.56,
+            "date": "2022-11-01",
+            "max": 60.92,
+            "min": 60.27,
+            "open": 60.9,
+            "volume": 27655960000
+        },
+        {
+            "change": -24.057428,
+            "close": 60.83,
+            "date": "2022-11-03",
+            "max": 60.83,
+            "min": 60.56,
+            "open": 60.56,
+            "volume": 10261730000
+        },
+        {
+            "change": -23.071161,
+            "close": 61.62,
+            "date": "2022-11-04",
+            "max": 61.65,
+            "min": 60.7,
+            "open": 61.24,
+            "volume": 15803690000
+        },
+        {
+            "change": -23.932584,
+            "close": 60.93,
+            "date": "2022-11-07",
+            "max": 61.66,
+            "min": 60.73,
+            "open": 61.66,
+            "volume": 45731920000
+        },
+        {
+            "change": -25.193508,
+            "close": 59.92,
+            "date": "2022-11-08",
+            "max": 60.81,
+            "min": 59.82,
+            "open": 60.79,
+            "volume": 44128200000
+        },
+        {
+            "change": -25.530587,
+            "close": 59.65,
+            "date": "2022-11-09",
+            "max": 60.0,
+            "min": 59.5,
+            "open": 59.5,
+            "volume": 3954600000
         }
     ],
     "propriedades": [
         {
-            "area": 11942.0,
-            "cidade": "CEO Corporate Executive Offices Avenida Joao Cabral De Mello Neto, 850, 2\u00ba, 3\u00ba, 4\u00ba, 8\u00ba, 9\u00ba,10\u00ba,11\u00ba E 12\u00ba Andares, Barra Da Tijuca, Rio De JaneiroRJ, Brasil, 22775057 \n                \u00c1rea (m2):\n                11.942,00 \n                N\u00ba de unidades ou lojas:\n                60 Direito de propriedade",
+            "area": 11492.0,
+            "cidade": "CEO Corporate Executive Offices Avenida Joao Cabral De Mello Neto, 850, 2\u00ba, 3\u00ba, 4\u00ba, 8\u00ba, 9\u00ba,10\u00ba,11\u00ba E 12\u00ba Andares, Barra Da Tijuca, Rio De JaneiroRJ, Brasil, 22775057 \n                \u00c1rea (m2):\n                11.492,00 \n                N\u00ba de unidades ou lojas:\n                60 Direito de propriedade",
             "endereco": "Avenida Joao Cabral De Mello Neto, 850, 2\u00ba, 3\u00ba, 4\u00ba, 8\u00ba, 9\u00ba,10\u00ba,11\u00ba E 12\u00ba Andares, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22775",
             "estado": "RJ",
             "inadimplencia": 0.0,
@@ -13301,10 +13472,10 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": -0.07,
-            "cagr_ativo_1": 0.04,
-            "cagr_patrimonio_liquido": 0.04,
-            "cagr_vpa_1": 0.04,
-            "cagr_vpa_3": 0.01,
+            "cagr_ativo_1": -0.01,
+            "cagr_patrimonio_liquido": -0.01,
+            "cagr_vpa_1": -0.01,
+            "cagr_vpa_3": -0.03,
             "cmgr_alugeis_6m": -0.01
         },
         "dividends": {
@@ -13313,46 +13484,46 @@
             "cagr_dy_1": -0.44,
             "cagr_dy_3": -0.18,
             "cagr_dy_5": -0.11,
-            "dy": 5.94
+            "dy": 5.96
         },
         "medias_segmento": {
             "dividends": {
                 "cagr_dy_3": -0.14,
-                "dy": 4.88
+                "dy": 4.91
             },
             "mercado": {
-                "custo_adm_med": 139044.06,
-                "liquidez_med": 330316845875.0
+                "custo_adm_med": 139745.11,
+                "liquidez_med": 330367024000.0
             },
             "operacao": {
-                "patrimonio_liquido": 358083792.65,
-                "pl_cx": 2.85,
-                "vacancia": 23.39
+                "patrimonio_liquido": 358671419.0,
+                "pl_cx": 3.23,
+                "vacancia": 23.51
             },
             "valuation": {
-                "p_vpa_med": 0.72
+                "p_vpa_med": 0.71
             }
         },
         "mercado": {
-            "custo_adm_med": 51693.445,
+            "custo_adm_med": 52131.33,
             "ifix": 0,
-            "liquidez_med": 84302130000
+            "liquidez_med": 83949365000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 1,
             "imoveis": 1,
-            "patrimonio_liquido": 163237739.13,
-            "pl_cx": 2.1,
+            "patrimonio_liquido": 163105846.62,
+            "pl_cx": 2.11,
             "vacancia": 0.0,
             "vacancia_1": 0.0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.68,
-            "p_vpa_med": 0.92,
-            "price": 61.11,
-            "valuation": 66.08
+            "p_vpa": 0.66,
+            "p_vpa_med": 0.91,
+            "price": 59.65,
+            "valuation": 63.74
         }
     },
     "ticker": "CEOC11",
@@ -13447,6 +13618,10 @@
         },
         {
             "competencia": "2/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
             "total": 0.0
         }
     ]

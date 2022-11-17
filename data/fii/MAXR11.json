@@ -7,7 +7,7 @@
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 0.0
+            "precentual": 1.718
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
@@ -15,7 +15,7 @@
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 0.0
+            "precentual": 23.0781
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
@@ -23,7 +23,7 @@
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 0.0
+            "precentual": 2.1799
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
@@ -39,7 +39,7 @@
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 19.5959
+            "precentual": 0.0
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
@@ -47,11 +47,11 @@
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 3.7233
+            "precentual": 0.0
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 76.6808
+            "precentual": 73.024
         },
         {
             "prazo": "Prazo indeterminado",
@@ -403,6 +403,11 @@
         {
             "data_com": "2022-10-07T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
+            "provento": 0.65
+        },
+        {
+            "data_com": "2022-11-08T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
             "provento": 0.65
         }
     ],
@@ -1332,12 +1337,25 @@
             "patrimonio_liquido": 135313523.81,
             "receita_aluguel": 1029734.73,
             "valor_patrimonio_cotas": 120.2087
+        },
+        {
+            "ativo": 137077009.7,
+            "caixa": 1760025.28,
+            "competencia": "10/2022",
+            "cotas_emitidas": 1125655.0,
+            "cotistas": 4195,
+            "despesa_administracao": 37871.71,
+            "dy": 0.6196,
+            "numero_cotas": 1125655.0,
+            "patrimonio_liquido": 135256102.97,
+            "receita_aluguel": 1010642.68,
+            "valor_patrimonio_cotas": 120.157689
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 96.2767
+            "precentual": 96.1021
         },
         {
             "indexador": "INPC",
@@ -1345,18 +1363,18 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 1.641
+            "precentual": 1.718
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
         },
         {
-            "indexador": "Outros",
-            "precentual": 2.0823
+            "indexador": "IGP-DI",
+            "precentual": 2.1799
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRMAXRCTF009",
     "lci": [],
     "mandato": "H\u00edbrido",
@@ -2056,15 +2074,6 @@
             "volume": 36120000000
         },
         {
-            "change": 2.226529,
-            "close": 1741.02002,
-            "date": "2017-10-06",
-            "max": 1741.02002,
-            "min": 1741.02002,
-            "open": 1741.02002,
-            "volume": 0
-        },
-        {
             "change": 14.203511,
             "close": 1945.0,
             "date": "2017-10-09",
@@ -2189,15 +2198,6 @@
             "min": 1900.01,
             "open": 1920.0,
             "volume": 9580010000
-        },
-        {
-            "change": 2.226529,
-            "close": 1741.02002,
-            "date": "2017-11-08",
-            "max": 1741.02002,
-            "min": 1741.02002,
-            "open": 1741.02002,
-            "volume": 0
         },
         {
             "change": 12.7356,
@@ -6412,6 +6412,15 @@
             "volume": 125369440000
         },
         {
+            "change": 40.005872,
+            "close": 2384.44,
+            "date": "2019-12-26",
+            "max": 2405.0,
+            "min": 2340.01,
+            "open": 2340.01,
+            "volume": 227597790000
+        },
+        {
             "change": 40.391639,
             "close": 2391.01,
             "date": "2019-12-27",
@@ -6419,6 +6428,24 @@
             "min": 2386.0,
             "open": 2414.99,
             "volume": 267929250000
+        },
+        {
+            "change": 40.925371,
+            "close": 2400.1,
+            "date": "2019-12-30",
+            "max": 2414.99,
+            "min": 2370.0,
+            "open": 2388.94,
+            "volume": 356645470000
+        },
+        {
+            "change": 43.206506,
+            "close": 2438.95,
+            "date": "2020-01-02",
+            "max": 2449.99,
+            "min": 2400.01,
+            "open": 2415.0,
+            "volume": 92040790000
         },
         {
             "change": 43.854148,
@@ -12683,106 +12710,232 @@
             "min": 82.95,
             "open": 83.0,
             "volume": 15349970000
+        },
+        {
+            "change": -95.072515,
+            "close": 83.92,
+            "date": "2022-10-20",
+            "max": 83.94,
+            "min": 82.95,
+            "open": 83.0,
+            "volume": 27225820000
+        },
+        {
+            "change": -95.107158,
+            "close": 83.33,
+            "date": "2022-10-21",
+            "max": 84.0,
+            "min": 82.96,
+            "open": 83.91,
+            "volume": 31133820000
+        },
+        {
+            "change": -95.12947,
+            "close": 82.95,
+            "date": "2022-10-24",
+            "max": 83.45,
+            "min": 82.95,
+            "open": 83.07,
+            "volume": 39180150000
+        },
+        {
+            "change": -95.12947,
+            "close": 82.95,
+            "date": "2022-10-25",
+            "max": 83.13,
+            "min": 82.95,
+            "open": 82.95,
+            "volume": 52431950000
+        },
+        {
+            "change": -95.18525,
+            "close": 82.0,
+            "date": "2022-10-26",
+            "max": 83.47,
+            "min": 81.99,
+            "open": 83.47,
+            "volume": 90682620000
+        },
+        {
+            "change": -95.16881,
+            "close": 82.28,
+            "date": "2022-10-27",
+            "max": 82.29,
+            "min": 81.62,
+            "open": 82.0,
+            "volume": 65813750000
+        },
+        {
+            "change": -95.18525,
+            "close": 82.0,
+            "date": "2022-10-28",
+            "max": 82.93,
+            "min": 81.56,
+            "open": 82.28,
+            "volume": 68376730000
+        },
+        {
+            "change": -95.189948,
+            "close": 81.92,
+            "date": "2022-10-31",
+            "max": 82.96,
+            "min": 80.52,
+            "open": 82.0,
+            "volume": 77759160000
+        },
+        {
+            "change": -95.226352,
+            "close": 81.3,
+            "date": "2022-11-01",
+            "max": 82.96,
+            "min": 81.0,
+            "open": 81.89,
+            "volume": 44670760000
+        },
+        {
+            "change": -95.143562,
+            "close": 82.71,
+            "date": "2022-11-03",
+            "max": 82.97,
+            "min": 81.3,
+            "open": 81.31,
+            "volume": 72081420000
+        },
+        {
+            "change": -95.174094,
+            "close": 82.19,
+            "date": "2022-11-04",
+            "max": 82.7,
+            "min": 81.34,
+            "open": 82.7,
+            "volume": 11703940000
+        },
+        {
+            "change": -95.202865,
+            "close": 81.7,
+            "date": "2022-11-07",
+            "max": 82.38,
+            "min": 81.65,
+            "open": 82.19,
+            "volume": 47670980000
+        },
+        {
+            "change": -95.205801,
+            "close": 81.65,
+            "date": "2022-11-08",
+            "max": 82.66,
+            "min": 81.58,
+            "open": 82.66,
+            "volume": 116758980000
+        },
+        {
+            "change": -95.273912,
+            "close": 80.49,
+            "date": "2022-11-09",
+            "max": 81.65,
+            "min": 80.0,
+            "open": 81.65,
+            "volume": 47422080000
         }
     ],
     "propriedades": [
         {
-            "area": 14176.0,
-            "cidade": "Vit\u00f3ria Avenida Princesa Isabel 475, , Vit\u00f3ria, ES, 29010",
-            "endereco": "Avenida Princesa Isabel 475, , Vit\u00f3ria, ES, 29010",
-            "estado": "ES",
-            "inadimplencia": 0.0,
-            "nome": "Americanas S.A - Vit\u00f3riaenida Princesa Isabel 475, , Vit\u00f3ria, ES, 29010-365 \n                \u00c1rea (m2):\n                14.176,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
-            "area": 9890.0,
-            "cidade": "Bompre\u00e7o Supermercados do Nordeste Ltda. Rua Parque Solon de Lucena 563, , Jo\u00e3o Pessoa, PB, 58013131 \n                \u00c1rea (m2):\n                9.890,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
-            "endereco": "Rua Parque Solon de Lucena 563, , Jo\u00e3o Pessoa, PB, 58013",
-            "estado": "PB",
-            "inadimplencia": 0.0,
-            "nome": "Bompre\u00e7o Supermercados do Nordeste Ltda. Parque Solon de Lucena 563, , Jo\u00e3o Pessoa, PB, 58013-131 \n                \u00c1rea (m2):\n                9.890,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
-            "area": 10767.0,
-            "cidade": "P. Cheng Rua Saldanha Marinho 516, Box AR01, Manaus, AM, 69010040 \n                \u00c1rea (m2):\n                10.767,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
-            "endereco": "Rua Saldanha Marinho 516, Box AR01, Manaus, AM, 69010",
-            "estado": "AM",
-            "inadimplencia": 0.0,
-            "nome": "P. Cheng Saldanha Marinho 516, Box AR01, Manaus, AM, 69010-040 \n                \u00c1rea (m2):\n                10.767,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
-            "area": 8304.38,
-            "cidade": "RW Lanchonete Avenida Epaminondas 84, Loja D, Manaus, AM, 69010090 \n                \u00c1rea (m2):\n                8.304,38 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
-            "endereco": "Avenida Epaminondas 84, Loja D, Manaus, AM, 69010",
-            "estado": "AM",
-            "inadimplencia": 0.0,
-            "nome": "RW Lanchonete",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
             "area": 7688.39,
-            "cidade": "Magazine Torra Torra Ltda. Avenida Eduardo Ribeiro 442, , Manaus, AM, 69010000 \n                \u00c1rea (m2):\n                7.688,39 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
-            "endereco": "Avenida Eduardo Ribeiro 442, , Manaus, AM, 69010",
-            "estado": "AM",
+            "cidade": "Americanas Avenida Presidente Vargas, 940,, Campina, Bel\u00e9mPA, Brasil, 66017",
+            "endereco": "Avenida Presidente Vargas, 940,, Campina, Bel\u00e9m/PA, Brasil, 66017",
+            "estado": "PA",
             "inadimplencia": 0.0,
-            "nome": "Magazine Torra Torra Ltda.enida Eduardo Ribeiro 442, , Manaus, AM, 69010-000 \n                \u00c1rea (m2):\n                7.688,39 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
+            "nome": "Imovel de Belem - Americanasenida Presidente Vargas, 940,, Campina, Bel\u00e9m/PA, Brasil, 66017-000 \n                \u00c1rea (m2):\n                7.688,39 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 3618.19,
-            "cidade": "Belem Avenida Presidente Vargas 940, , Belem, PA, 66017",
-            "endereco": "Avenida Presidente Vargas 940, , Belem, PA, 66017",
-            "estado": "PA",
+            "cidade": "Americanas Quadra 13, 13, Lotes 18 E 19 ScsScsul, Del Lago I (itapo\u00e3), Bras\u00edliaDF, Brasil, 71591",
+            "endereco": "Imovel de Brasilia - Americanas Quadra 13, 13, Lotes 18 E 19 Scs - Sc/sul, Del Lago I (itapo\u00e3), Bras\u00edlia/DF, Brasil, 71591-215 \n                \u00c1rea (m2):\n                3.618,19 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "estado": "DF",
             "inadimplencia": 0.0,
-            "nome": "Americanas S.A - Belemenida Presidente Vargas 940, , Belem, PA, 66017-000 \n                \u00c1rea (m2):\n                3.618,19 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
+            "nome": "Imovel de Brasilia - Americanas Quadra 13, 13, Lotes 18 E 19 Scs - Sc/sul, Del Lago I (itapo\u00e3), Bras\u00edlia/DF, Brasil, 71591-215 \n                \u00c1rea (m2):\n                3.618,19 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 6873.0,
+            "cidade": "Americanas Av. Duque De CaxiasAvenida Da Paz, 1792, Sem Complemento, Centro, MaceioAL, Brasil, 57020",
+            "endereco": "Av. Duque De Caxias / Avenida Da Paz, 1792, Sem Complemento, Centro, Maceio/AL, Brasil, 57020",
+            "estado": "AL",
+            "inadimplencia": 0.0,
+            "nome": "Imovel de Maceio - Americanas Duque De Caxias /enida Da Paz, 1792, Sem Complemento, Centro, Maceio/AL, Brasil, 57020-440 \n                \u00c1rea (m2):\n                6.873,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 7688.39,
+            "cidade": "Magazine Torra Torra Ltda. Avenida Eduardo Ribeiro, 442, Centro, ManausAM, Brasil, 69010",
+            "endereco": "Avenida Eduardo Ribeiro, 442, Centro, Manaus/AM, Brasil, 69010",
+            "estado": "AM",
+            "inadimplencia": 0.0,
+            "nome": "Imovel de Manaus - Magazine Torra Torra Ltda.enida Eduardo Ribeiro, 442, Centro, Manaus/AM, Brasil, 69010-000 \n                \u00c1rea (m2):\n                7.688,39 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 3420.0,
-            "cidade": "Brasilia SCS Quadra 04, Bloco A , , Brasilia, DF, 70297",
-            "endereco": "Americanas S.A - Brasilia SCS Quadra 04, Bloco A , , Brasilia, DF, 70297-400 \n                \u00c1rea (m2):\n                3.420,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
-            "estado": "DF",
+            "cidade": "Americanas Avenida Duque De Caxias, 318, Sem Complemento, Pra\u00e7a 14 De Janeiro, ManausAM, Brasil, 69020",
+            "endereco": "Avenida Duque De Caxias, 318, Sem Complemento, Pra\u00e7a 14 De Janeiro, Manaus/AM, Brasil, 69020",
+            "estado": "AM",
             "inadimplencia": 0.0,
-            "nome": "Americanas S.A - Brasilia SCS Quadra 04, Bloco A , , Brasilia, DF, 70297-400 \n                \u00c1rea (m2):\n                3.420,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
+            "nome": "Imovel de Nilopolis - Americanasenida Duque De Caxias, 318, Sem Complemento, 14 De Janeiro, Manaus/AM, Brasil, 69020-141 \n                \u00c1rea (m2):\n                3.420,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 1734.0,
-            "cidade": "Nilopolis Estrada Mirandela 318, , Nilopolis, RJ, 69020",
-            "endereco": "Estrada Mirandela 318, , Nilopolis, RJ, 69020",
-            "estado": "RJ",
-            "inadimplencia": 0.0,
-            "nome": "Americanas S.A - Nilopolis Mirandela 318, , Nilopolis, RJ, 69020-141 \n                \u00c1rea (m2):\n                1.734,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
-            "area": 6873.0,
-            "cidade": "Taquatinga Lotes 02, 03, 04, 16 e 17",
-            "endereco": "Americanas S.A - Taquatinga Lotes 02, 03, 04, 16 e 17 - CSA 01 Quadra D, , Taguatinga, DF, 72015015 \n                \u00c1rea (m2):\n                6.873,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
+            "cidade": "Americanas Csa 1 Lote 0217, 01, Lotes 02,03,04,16,17Csa 01Quadra D, Taguatinga Sul (taguatinga), Bras\u00edliaDF, Brasil, 72015",
+            "endereco": "Imovel de Taguatinga - Americanas Csa 1 Lote 02/17, 01, Lotes 02,03,04,16,17 - Csa 01 - Quadra D, Taguatinga Sul (taguatinga), Bras\u00edlia/DF, Brasil, 72015-902 \n                \u00c1rea (m2):\n                1.734,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "estado": "DF",
             "inadimplencia": 0.0,
-            "nome": "Americanas S.A - Taquatinga Lotes 02, 03, 04, 16 e 17 - CSA 01 Quadra D, , Taguatinga, DF, 72015015 \n                \u00c1rea (m2):\n                6.873,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
+            "nome": "Imovel de Taguatinga - Americanas Csa 1 Lote 02/17, 01, Lotes 02,03,04,16,17 - Csa 01 - Quadra D, Taguatinga Sul (taguatinga), Bras\u00edlia/DF, Brasil, 72015-902 \n                \u00c1rea (m2):\n                1.734,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
-            "area": 6873.0,
-            "cidade": "Maceio Avenida Duque de Caxias 1792, , Maceio, AL, 26520",
-            "endereco": "Avenida Duque de Caxias 1792, , Maceio, AL, 26520",
-            "estado": "AL",
+            "area": 8097.61,
+            "cidade": "Americanas Avenida Princesa Isabel, 475,  Centro, Vit\u00f3riaES, Brasil, 29010",
+            "endereco": "Avenida Princesa Isabel, 475,  Centro, Vit\u00f3ria/ES, Brasil, 29010",
+            "estado": "ES",
             "inadimplencia": 0.0,
-            "nome": "Americanas S.A - Maceioenida Duque de Caxias 1792, , Maceio, AL, 26520-332 \n                \u00c1rea (m2):\n                6.873,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
+            "nome": "Imovel de Vitoria - Americanasenida Princesa Isabel, 475,  Centro, Vit\u00f3ria/ES, Brasil, 29010-365 \n                \u00c1rea (m2):\n                8.097,61 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 10767.0,
+            "cidade": "P. Cheng Rua Saldanha Marinho 516, Box AR01, Manaus, AM, 69010",
+            "endereco": "Rua Saldanha Marinho 516, Box AR01, Manaus, AM, 69010",
+            "estado": "AM",
+            "inadimplencia": 0.0,
+            "nome": "Imovel de Manaus - P. Cheng Saldanha Marinho 516, Box AR01, Manaus, AM, 69010-040 \n                \u00c1rea (m2):\n                10.767,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 14176.0,
+            "cidade": "Bompreco Walmart Parque Solon De Lucena, 563, Matriculas 18322623626285, Centro, Jo\u00e3o PessoaPB, Brasil, 58013",
+            "endereco": "Imovel de Joao Pessoa - Bompreco Walmart Parque Solon De Lucena, 563, Matriculas 1832 / 26236 / 26285, Centro, Jo\u00e3o Pessoa/PB, Brasil, 58013-131 \n                \u00c1rea (m2):\n                14.176,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "estado": "PB",
+            "inadimplencia": 0.0,
+            "nome": "Imovel de Joao Pessoa - Bompreco Walmart Parque Solon De Lucena, 563, Matriculas 1832 / 26236 / 26285, Centro, Jo\u00e3o Pessoa/PB, Brasil, 58013-131 \n                \u00c1rea (m2):\n                14.176,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 8304.38,
+            "cidade": "RW Lanchonete  Avenida Epaminondas, 84, Loja D, Manaus, Am, 69010",
+            "endereco": "Avenida Epaminondas, 84, Loja D, Manaus, Am, 69010",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Imovel de Manaus - RW Lanchoneteenida Epaminondas, 84, Loja D, Manaus, Am, 69010-00 \n                \u00c1rea (m2):\n                8.304,38 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         }
@@ -12790,59 +12943,59 @@
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.09,
-            "cagr_ativo_1": 0.02,
-            "cagr_patrimonio_liquido": 0.02,
-            "cagr_vpa_1": 0.02,
-            "cagr_vpa_3": 0.09,
-            "cmgr_alugeis_6m": -0.03
+            "cagr_alugeis_1": 0.14,
+            "cagr_ativo_1": 0.0,
+            "cagr_patrimonio_liquido": -0.0,
+            "cagr_vpa_1": -0.0,
+            "cagr_vpa_3": 0.01,
+            "cmgr_alugeis_6m": -0.09
         },
         "dividends": {
             "cagr_dividens_1": -0.35,
-            "cagr_dividens_3": -0.64,
-            "cagr_dy_1": -0.45,
-            "cagr_dy_3": -0.18,
-            "cagr_dy_5": -0.11,
-            "dy": 6.07
+            "cagr_dividens_3": -0.63,
+            "cagr_dy_1": -0.38,
+            "cagr_dy_3": -0.15,
+            "cagr_dy_5": -0.27,
+            "dy": 6.1
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 25989.01,
+            "custo_adm_med": 27713.489999999998,
             "ifix": 0,
-            "liquidez_med": 81692625000.0
+            "liquidez_med": 81477240000
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 7,
             "imoveis": 10,
-            "patrimonio_liquido": 135313523.81,
-            "pl_cx": 1.17,
+            "patrimonio_liquido": 135256102.97,
+            "pl_cx": 1.3,
             "vacancia": 0.0,
             "vacancia_1": 0.0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.69,
+            "p_vpa": 0.67,
             "p_vpa_med": 1.06,
-            "price": 83.0,
-            "valuation": 87.85
+            "price": 80.49,
+            "valuation": 83.47
         }
     },
     "ticker": "MAXR11",
@@ -12937,6 +13090,10 @@
         },
         {
             "competencia": "2/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
             "total": 0.0
         }
     ]

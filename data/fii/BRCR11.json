@@ -3,23 +3,23 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 0.0
+            "precentual": 1.1774
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 1.1837
+            "precentual": 0.0
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 2.828
+            "precentual": 10.0257
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 10.0787
+            "precentual": 3.2361
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 2.9484
+            "precentual": 0.0
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
@@ -27,35 +27,35 @@
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 0.0
+            "precentual": 1.0948
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 1.1006
+            "precentual": 1.4065
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 1.2772
+            "precentual": 2.9462
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 2.9617
+            "precentual": 15.8496
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 16.3767
+            "precentual": 8.0841
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 9.189
+            "precentual": 0.0
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 51.2004
+            "precentual": 56.1795
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 0.8556
+            "precentual": 0.0
         }
     ],
     "cri": [],
@@ -434,42 +434,47 @@
             "data_com": "2022-10-07T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.47
+        },
+        {
+            "data_com": "2022-11-08T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.47
         }
     ],
     "fii": [
         {
             "nome": "FII BTG PACTUAL PRIME OFFICES I - FII",
             "quantidade": 37095271.0,
-            "valor": 80325628.71
+            "valor": 78370704.22
         },
         {
             "nome": "FII EDIFICIO GALERIA",
             "quantidade": 407028.0,
-            "valor": 7293941.76
+            "valor": 7334644.56
         },
         {
             "nome": "FII PROJ AGUA BRANCA",
             "quantidade": 109685.0,
-            "valor": 21614526.1
+            "valor": 22819964.25
         },
         {
             "nome": "FUNDO DE INV IMOBILIARIO FII PRIME PORTFO",
-            "quantidade": 6208390.0,
-            "valor": 572447847.57
+            "quantidade": 6225759.0,
+            "valor": 565560205.46
         },
         {
             "nome": "FUNDO DE INVESTIMENTO IMOBILIARIO CJ - FII",
-            "quantidade": 52379055.0,
-            "valor": 117757512.45
+            "quantidade": 52579055.0,
+            "valor": 118359364.68
         },
         {
             "nome": "FUNDO DE INVESTIMENTO IMOBILIARIO MV9 - FII",
             "quantidade": 78155673.0,
-            "valor": 123247346.27
+            "valor": 123423391.92
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 1.575,
+    "ifix_participacao": 1.482,
     "imr": [
         {
             "ativo": 2388822184.38,
@@ -1367,12 +1372,25 @@
             "patrimonio_liquido": 2674906709.91,
             "receita_aluguel": 39258184.36,
             "valor_patrimonio_cotas": 100.416188
+        },
+        {
+            "ativo": 3309551036.47,
+            "caixa": 21029154.51,
+            "competencia": "10/2022",
+            "cotas_emitidas": 26638202.0,
+            "cotistas": 155876,
+            "despesa_administracao": 411119.81,
+            "dy": 0.4516,
+            "numero_cotas": 26638202.0,
+            "patrimonio_liquido": 2669609165.11,
+            "receita_aluguel": 42494526.81,
+            "valor_patrimonio_cotas": 100.217318
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 25.7554
+            "precentual": 20.4298
         },
         {
             "indexador": "INPC",
@@ -1380,14 +1398,14 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 74.2446
+            "precentual": 79.5702
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRBRCRCTF000",
     "lci": [],
     "mandato": "H\u00edbrido",
@@ -14705,6 +14723,15 @@
             "volume": 43121085960000
         },
         {
+            "change": -13.440299,
+            "close": 115.99,
+            "date": "2019-12-26",
+            "max": 116.66,
+            "min": 110.0,
+            "open": 110.0,
+            "volume": 12606843100000
+        },
+        {
             "change": -12.171642,
             "close": 117.69,
             "date": "2019-12-27",
@@ -14712,6 +14739,24 @@
             "min": 115.51,
             "open": 115.98,
             "volume": 8865443460000
+        },
+        {
+            "change": -12.164179,
+            "close": 117.7,
+            "date": "2019-12-30",
+            "max": 117.92,
+            "min": 117.42,
+            "open": 117.68,
+            "volume": 5260811430000
+        },
+        {
+            "change": -11.246269,
+            "close": 118.93,
+            "date": "2020-01-02",
+            "max": 119.0,
+            "min": 117.66,
+            "open": 117.7,
+            "volume": 5071234090000
         },
         {
             "change": -10.447761,
@@ -20906,13 +20951,13 @@
             "volume": 1603703760000
         },
         {
-            "change": -49.261196,
-            "close": 67.989998,
+            "change": -49.261194,
+            "close": 67.99,
             "date": "2022-10-07",
-            "max": 69.879997,
-            "min": 67.699997,
-            "open": 68.629997,
-            "volume": 44012000000
+            "max": 69.88,
+            "min": 67.7,
+            "open": 68.63,
+            "volume": 3039696340000
         },
         {
             "change": -50.298507,
@@ -20976,6 +21021,132 @@
             "min": 67.28,
             "open": 67.39,
             "volume": 1871946280000
+        },
+        {
+            "change": -49.850746,
+            "close": 67.2,
+            "date": "2022-10-20",
+            "max": 67.79,
+            "min": 67.1,
+            "open": 67.5,
+            "volume": 1336689800000
+        },
+        {
+            "change": -49.626866,
+            "close": 67.5,
+            "date": "2022-10-21",
+            "max": 67.59,
+            "min": 67.02,
+            "open": 67.2,
+            "volume": 1935472970000
+        },
+        {
+            "change": -49.589552,
+            "close": 67.55,
+            "date": "2022-10-24",
+            "max": 67.79,
+            "min": 67.35,
+            "open": 67.45,
+            "volume": 1687989650000
+        },
+        {
+            "change": -50.0,
+            "close": 67.0,
+            "date": "2022-10-25",
+            "max": 67.64,
+            "min": 66.9,
+            "open": 67.54,
+            "volume": 2041897470000
+        },
+        {
+            "change": -50.261194,
+            "close": 66.65,
+            "date": "2022-10-26",
+            "max": 67.23,
+            "min": 66.53,
+            "open": 67.06,
+            "volume": 1313521410000
+        },
+        {
+            "change": -50.597015,
+            "close": 66.2,
+            "date": "2022-10-27",
+            "max": 66.65,
+            "min": 66.0,
+            "open": 66.65,
+            "volume": 1735292730000
+        },
+        {
+            "change": -50.246269,
+            "close": 66.67,
+            "date": "2022-10-28",
+            "max": 67.5,
+            "min": 66.2,
+            "open": 66.31,
+            "volume": 1011215480000
+        },
+        {
+            "change": -50.335821,
+            "close": 66.55,
+            "date": "2022-10-31",
+            "max": 66.69,
+            "min": 66.2,
+            "open": 66.67,
+            "volume": 1233450170000
+        },
+        {
+            "change": -50.283582,
+            "close": 66.62,
+            "date": "2022-11-01",
+            "max": 66.69,
+            "min": 66.35,
+            "open": 66.51,
+            "volume": 1296195600000
+        },
+        {
+            "change": -50.014925,
+            "close": 66.98,
+            "date": "2022-11-03",
+            "max": 67.09,
+            "min": 66.38,
+            "open": 66.66,
+            "volume": 1437446970000
+        },
+        {
+            "change": -49.261194,
+            "close": 67.99,
+            "date": "2022-11-04",
+            "max": 68.19,
+            "min": 66.8,
+            "open": 66.91,
+            "volume": 1819739800000
+        },
+        {
+            "change": -49.552239,
+            "close": 67.6,
+            "date": "2022-11-07",
+            "max": 68.09,
+            "min": 67.01,
+            "open": 67.99,
+            "volume": 2266361890000
+        },
+        {
+            "change": -49.768657,
+            "close": 67.31,
+            "date": "2022-11-08",
+            "max": 67.87,
+            "min": 67.18,
+            "open": 67.6,
+            "volume": 1490047350000
+        },
+        {
+            "change": -50.671642,
+            "close": 66.1,
+            "date": "2022-11-09",
+            "max": 67.19,
+            "min": 66.0,
+            "open": 66.87,
+            "volume": 1554590510000
         }
     ],
     "propriedades": [
@@ -20987,52 +21158,52 @@
             "inadimplencia": 0.0,
             "nome": "Edificio Eldorado Business Tower",
             "unidades": 23,
-            "vacancia": 15.8
+            "vacancia": 11.0
         },
         {
             "area": 10550.0,
-            "cidade": "Edif\u00edcio Burity Avenida Indian\u00f3polis 3096, Planalto Paulista, S\u00e3o Paulo, SP, 04062904 \n                \u00c1rea (m2):\n                10.550,00 \n                N\u00ba de unidades ou lojas:\n                17 Direito de propriedade",
-            "endereco": "Avenida Indian\u00f3polis 3096, Planalto Paulista, S\u00e3o Paulo, SP, 04062",
+            "cidade": "Burity Avenida Indianopolis, 3096, Indian\u00f3polis, S\u00e3o PauloSP, Brasil, 04062904 \n                \u00c1rea (m2):\n                10.550,00 \n                N\u00ba de unidades ou lojas:\n                17 Direito de propriedade",
+            "endereco": "Avenida Indianopolis, 3096, Indian\u00f3polis, S\u00e3o Paulo/SP, Brasil, 04062",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Edif\u00edcio Burity",
+            "nome": "Burity",
             "unidades": 17,
-            "vacancia": 0.0
+            "vacancia": 11.9
         },
         {
             "area": 12560.0,
-            "cidade": "Edif\u00edcio Volkswagen Rua Volkswagen, 291, Jabaquara, S\u00e3o PauloSP, Brasil, 04344020 \n                \u00c1rea (m2):\n                12.560,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "cidade": "Ediif\u00edcioVolkswagen Rua Volkswagen, 291, Jabaquara, S\u00e3o PauloSP, Brasil, 04344901 \n                \u00c1rea (m2):\n                12.560,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "endereco": "Rua Volkswagen, 291, Jabaquara, S\u00e3o Paulo/SP, Brasil, 04344",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Edif\u00edcio Volkswagen",
+            "nome": "Ediif\u00edcioVolkswagen",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 4208.0,
-            "cidade": "Centro Empresarial Transatl\u00e2ntico  Rua Verbo Divino 1488, Ch\u00e1cara Santo Ant\u00f4nio (zona Sul), S\u00e3o PauloSP, 04719904  \n                \u00c1rea (m2):\n                4.208,00 \n                N\u00ba de unidades ou lojas:\n                2 Direito de propriedade",
-            "endereco": "Rua Verbo Divino 1488, Ch\u00e1cara Santo Ant\u00f4nio",
+            "cidade": "Edif\u00edcio Transatl\u00e2ntico  Rua Verbo Divino, 1488, Ch\u00e1cara Santo Ant\u00f4nio (zona Sul), S\u00e3o PauloSP, Brasil, 04719002 \n                \u00c1rea (m2):\n                4.208,00 \n                N\u00ba de unidades ou lojas:\n                2 Direito de propriedade",
+            "endereco": "Rua Verbo Divino, 1488, Ch\u00e1cara Santo Ant\u00f4nio",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Centro Empresarial Transatl\u00e2ntico",
+            "nome": "Edif\u00edcio Transatl\u00e2ntico",
             "unidades": 2,
             "vacancia": 12.5
         },
         {
             "area": 6439.0,
-            "cidade": "Edif\u00edcio Montreal Avenida Das Americas, 4200, Bloco 5, Barra Da Tijuca, Rio De JaneiroRJ, 22640",
-            "endereco": "Avenida Das Americas, 4200, Bloco 5, Barra Da Tijuca, Rio De Janeiro/RJ, 22640",
+            "cidade": "Centro Empresarial Barra Shopping Avenida Das Americas, 4200, Bloco 5, Barra Da Tijuca, Rio De JaneiroRJ, Brasil, 22640",
+            "endereco": "Avenida Das Americas, 4200, Bloco 5, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22640",
             "estado": "RJ",
             "inadimplencia": 0.0,
-            "nome": "Centro Empresarial Barra Shopping - Edif\u00edcio Montrealenida Das Americas, 4200, Bloco 5, Barra Da Tijuca, Rio De Janeiro/RJ, 22640-907 \n                \u00c1rea (m2):\n                6.439,00 \n                N\u00ba de unidades ou lojas:\n                7 Direito de propriedade",
+            "nome": "Montreal - Centro Empresarial Barra Shoppingenida Das Americas, 4200, Bloco 5, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22640-102 \n                \u00c1rea (m2):\n                6.439,00 \n                N\u00ba de unidades ou lojas:\n                7 Direito de propriedade",
             "unidades": 7,
             "vacancia": 0.0
         },
         {
             "area": 4782.0,
-            "cidade": "CEO Corporate Executive Offices Avenida Joao Cabral De Mello Neto, 850, Barra Da Tijuca, Rio De JaneiroRJ, 22775057 \n                \u00c1rea (m2):\n                4.782,00 \n                N\u00ba de unidades ou lojas:\n                3 Direito de propriedade",
-            "endereco": "Avenida Joao Cabral De Mello Neto, 850, Barra Da Tijuca, Rio De Janeiro/RJ, 22775",
+            "cidade": "CEO Corporate Executive Offices Avenida Joao Cabral De Mello Neto, 850, Barra Da Tijuca, Rio De JaneiroRJ, Brasil, 22775057 \n                \u00c1rea (m2):\n                4.782,00 \n                N\u00ba de unidades ou lojas:\n                3 Direito de propriedade",
+            "endereco": "Avenida Joao Cabral De Mello Neto, 850, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22775",
             "estado": "RJ",
             "inadimplencia": 0.0,
             "nome": "CEO Corporate Executive Offices",
@@ -21041,18 +21212,18 @@
         },
         {
             "area": 7534.0,
-            "cidade": "Torre Sucupira Avenida Das Nacoes Unidas, 14401, Vila Gertrudes, Sao PauloSP, Brasil, 04794",
-            "endereco": "Avenida Das Nacoes Unidas, 14401, Vila Gertrudes, Sao Paulo/SP, Brasil, 04794",
+            "cidade": "Torre Sucupira Avenida Das Nacoes Unidas, 14401,  Vila Gertrudes, Sao PauloSP, Brasil, 04794",
+            "endereco": "Avenida Das Nacoes Unidas, 14401,  Vila Gertrudes, Sao Paulo/SP, Brasil, 04794",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Condom\u00ednio Parque da Cidade - Torre Sucupiraenida Das Nacoes Unidas, 14401, Gertrudes, Sao Paulo/SP, Brasil, 04794-000 \n                \u00c1rea (m2):\n                7.534,00 \n                N\u00ba de unidades ou lojas:\n                5 Direito de propriedade",
+            "nome": "Condom\u00ednio Parque da Cidade  - Torre Sucupiraenida Das Nacoes Unidas, 14401, Gertrudes, Sao Paulo/SP, Brasil, 04794-000 \n                \u00c1rea (m2):\n                7.534,00 \n                N\u00ba de unidades ou lojas:\n                5 Direito de propriedade",
             "unidades": 5,
             "vacancia": 20.0
         },
         {
             "area": 19035.0,
-            "cidade": "Centro Empresarial Senado Avenida Henrique Valadares, 28, Centro, Rio De JaneiroRJ, Brasil, 20231030 \n                \u00c1rea (m2):\n                19.035,00 \n                N\u00ba de unidades ou lojas:\n                2 Direito de propriedade",
-            "endereco": "Avenida Henrique Valadares, 28, Centro, Rio De Janeiro/RJ, Brasil, 20231",
+            "cidade": "Centro Empresarial Senado Avenida Henrique Valadares, 28, Centro, Rio De JaneiroRJ, Brasil, 00020231 \n                \u00c1rea (m2):\n                19.035,00 \n                N\u00ba de unidades ou lojas:\n                2 Direito de propriedade",
+            "endereco": "Avenida Henrique Valadares, 28, Centro, Rio De Janeiro/RJ, Brasil, 00020",
             "estado": "RJ",
             "inadimplencia": 0.0,
             "nome": "Centro Empresarial Senado",
@@ -21067,65 +21238,65 @@
             "inadimplencia": 0.0,
             "nome": "Morumbi Corporate - Diamond Towerenida Doutor Chucri Zaidan, 1240, Sao Francisco Zona Sul, Sao Paulo/SP, Brasil, 04711-130 \n                \u00c1rea (m2):\n                36.918,00 \n                N\u00ba de unidades ou lojas:\n                18 Direito de propriedade",
             "unidades": 18,
-            "vacancia": 27.8
+            "vacancia": 30.6
         }
     ],
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.1,
+            "cagr_alugeis_1": 3.15,
             "cagr_ativo_1": -0.03,
             "cagr_patrimonio_liquido": -0.05,
             "cagr_vpa_1": -0.05,
             "cagr_vpa_3": 0.02,
-            "cmgr_alugeis_6m": 0.07
+            "cmgr_alugeis_6m": 0.06
         },
         "dividends": {
             "cagr_dividens_1": -0.53,
             "cagr_dividens_3": -0.22,
-            "cagr_dy_1": -0.66,
-            "cagr_dy_3": -0.3,
-            "cagr_dy_5": -0.19,
-            "dy": 5.07
+            "cagr_dy_1": -0.55,
+            "cagr_dy_3": -0.23,
+            "cagr_dy_5": -0.15,
+            "dy": 5.0
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 398693.73,
-            "ifix": 1.575,
-            "liquidez_med": 2790334470000.0
+            "custo_adm_med": 403402.47,
+            "ifix": 1.482,
+            "liquidez_med": 2780448640000
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 2,
             "imoveis": 9,
-            "patrimonio_liquido": 2674906709.91,
-            "pl_cx": 1.01,
-            "vacancia": 12.72,
-            "vacancia_1": 5.1,
-            "vacancia_3m": 13.14
+            "patrimonio_liquido": 2669609165.11,
+            "pl_cx": 0.79,
+            "vacancia": 13.71,
+            "vacancia_1": 2.61,
+            "vacancia_3m": 12.72
         },
         "valuation": {
-            "p_vpa": 0.67,
+            "p_vpa": 0.66,
             "p_vpa_med": 0.89,
-            "price": 67.31,
-            "valuation": 66.32
+            "price": 66.1,
+            "valuation": 63.68
         }
     },
     "ticker": "BRCR11",
@@ -21221,6 +21392,10 @@
         {
             "competencia": "2/2022",
             "total": 12.72
+        },
+        {
+            "competencia": "3/2022",
+            "total": 13.71
         }
     ]
 }

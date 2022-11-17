@@ -1,63 +1,6 @@
 {
     "cnpj": "40.041.711/000129",
-    "contratos": [
-        {
-            "prazo": "At\u00e9 3 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "Acima de 36 meses",
-            "precentual": 0.0
-        },
-        {
-            "prazo": "Prazo indeterminado",
-            "precentual": 0.0
-        }
-    ],
+    "contratos": [],
     "cri": [],
     "dividends": [
         {
@@ -163,6 +106,11 @@
         {
             "data_com": "2022-10-07T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
+            "provento": 0.35
+        },
+        {
+            "data_com": "2022-11-08T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
             "provento": 0.35
         }
     ],
@@ -416,31 +364,23 @@
             "patrimonio_liquido": 73810012.9,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 39.090684
+        },
+        {
+            "ativo": 176401057.38,
+            "caixa": 37062095.17,
+            "competencia": "10/2022",
+            "cotas_emitidas": 1888174.0,
+            "cotistas": 3564,
+            "despesa_administracao": 153676.08,
+            "dy": 0.0,
+            "numero_cotas": 1888174.0,
+            "patrimonio_liquido": 73776321.74,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 39.072841
         }
     ],
-    "indexador_reajuste_contrato": [
-        {
-            "indexador": "IGP-M",
-            "precentual": 0.0
-        },
-        {
-            "indexador": "INPC",
-            "precentual": 0.0
-        },
-        {
-            "indexador": "IPCA",
-            "precentual": 0.0
-        },
-        {
-            "indexador": "INCC",
-            "precentual": 0.0
-        },
-        {
-            "indexador": "AAA",
-            "precentual": 0.0
-        }
-    ],
-    "ipca_prize": 5.76,
+    "indexador_reajuste_contrato": [],
+    "ipca_prize": 6.140000000000001,
     "isin": "BRMGLGCTF004",
     "lci": [],
     "mandato": "Renda",
@@ -3046,37 +2986,142 @@
             "min": 42.63,
             "open": 42.75,
             "volume": 72591020000
-        }
-    ],
-    "propriedades": [
-        {
-            "area": 10439.0,
-            "cidade": "SP) Rodovia Miguel Melhado Campos 79Vinhedo",
-            "endereco": "Rodovia Miguel Melhado Campos 79",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Magna (Vinhedo - SP) Miguel Melhado Campos 79 - Vinhedo/SP \n                \u00c1rea (m2):\n                10.439,00 \n                N\u00ba de unidades ou lojas:\n                1 Participa\u00e7\u00e3o do Fundo 45%",
-            "unidades": 1,
-            "vacancia": 0.0
         },
         {
-            "area": 13851.0,
-            "cidade": "SP) Rodovia Miguel Melhado Campos 79Vinhado",
-            "endereco": "Rodovia Miguel Melhado Campos 79",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Cerrati (Vinhedo - SP) Miguel Melhado Campos 79 - Vinhado/SP  \n                \u00c1rea (m2):\n                13.851,00 \n                N\u00ba de unidades ou lojas:\n                1 Participa\u00e7\u00e3o do Fundo 45%",
-            "unidades": 1,
-            "vacancia": 0.0
+            "change": -55.89,
+            "close": 44.11,
+            "date": "2022-10-20",
+            "max": 46.6,
+            "min": 42.39,
+            "open": 44.15,
+            "volume": 867579580000
+        },
+        {
+            "change": -55.1,
+            "close": 44.9,
+            "date": "2022-10-21",
+            "max": 44.9,
+            "min": 43.0,
+            "open": 43.1,
+            "volume": 23137880000
+        },
+        {
+            "change": -56.41,
+            "close": 43.59,
+            "date": "2022-10-24",
+            "max": 44.99,
+            "min": 43.05,
+            "open": 44.99,
+            "volume": 31188680000
+        },
+        {
+            "change": -56.71,
+            "close": 43.29,
+            "date": "2022-10-25",
+            "max": 44.21,
+            "min": 43.0,
+            "open": 44.08,
+            "volume": 58645700000
+        },
+        {
+            "change": -57.18,
+            "close": 42.82,
+            "date": "2022-10-26",
+            "max": 44.2,
+            "min": 42.67,
+            "open": 43.99,
+            "volume": 12491410000
+        },
+        {
+            "change": -57.09,
+            "close": 42.91,
+            "date": "2022-10-27",
+            "max": 44.07,
+            "min": 41.93,
+            "open": 43.61,
+            "volume": 39227310000
+        },
+        {
+            "change": -56.97,
+            "close": 43.03,
+            "date": "2022-10-28",
+            "max": 43.99,
+            "min": 42.84,
+            "open": 43.01,
+            "volume": 14155030000
+        },
+        {
+            "change": -57.56,
+            "close": 42.44,
+            "date": "2022-10-31",
+            "max": 43.37,
+            "min": 42.18,
+            "open": 43.0,
+            "volume": 33786070000
+        },
+        {
+            "change": -57.77,
+            "close": 42.23,
+            "date": "2022-11-01",
+            "max": 42.95,
+            "min": 42.2,
+            "open": 42.44,
+            "volume": 28876650000
+        },
+        {
+            "change": -57.12,
+            "close": 42.88,
+            "date": "2022-11-03",
+            "max": 44.04,
+            "min": 41.5,
+            "open": 42.91,
+            "volume": 58117850000
+        },
+        {
+            "change": -57.5,
+            "close": 42.5,
+            "date": "2022-11-04",
+            "max": 43.99,
+            "min": 41.49,
+            "open": 42.87,
+            "volume": 48239100000
+        },
+        {
+            "change": -56.66,
+            "close": 43.34,
+            "date": "2022-11-07",
+            "max": 43.89,
+            "min": 42.0,
+            "open": 42.51,
+            "volume": 32095600000
+        },
+        {
+            "change": -58.01,
+            "close": 41.99,
+            "date": "2022-11-08",
+            "max": 43.37,
+            "min": 41.9,
+            "open": 42.47,
+            "volume": 37712990000
+        },
+        {
+            "change": -58.77,
+            "close": 41.23,
+            "date": "2022-11-09",
+            "max": 42.0,
+            "min": 40.44,
+            "open": 41.99,
+            "volume": 43411600000
         }
     ],
+    "propriedades": [],
     "segmento": "Log\u00edstica",
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
             "cagr_ativo_1": -0.35,
-            "cagr_patrimonio_liquido": -0.35,
-            "cagr_vpa_1": -0.35,
+            "cagr_patrimonio_liquido": -0.34,
+            "cagr_vpa_1": -0.34,
             "cagr_vpa_3": 0.55,
             "cmgr_alugeis_6m": 0
         },
@@ -3090,42 +3135,42 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06,
-                "dy": 5.86
+                "cagr_dy_3": -0.07,
+                "dy": 5.85
             },
             "mercado": {
-                "custo_adm_med": 338717.33,
-                "liquidez_med": 804838015416.67
+                "custo_adm_med": 345057.52,
+                "liquidez_med": 801298095625.0
             },
             "operacao": {
-                "patrimonio_liquido": 1006893449.01,
-                "pl_cx": 4.5,
-                "vacancia": 3.82
+                "patrimonio_liquido": 1006636839.66,
+                "pl_cx": 4.06,
+                "vacancia": 5.76
             },
             "valuation": {
-                "p_vpa_med": 0.83
+                "p_vpa_med": 0.76
             }
         },
         "mercado": {
-            "custo_adm_med": 79015.88,
+            "custo_adm_med": 84707.145,
             "ifix": 0,
-            "liquidez_med": 81052360000
+            "liquidez_med": 78355120000
         },
         "operacao": {
-            "contratos_vencimento": 3,
-            "estados": 1,
-            "imoveis": 2,
-            "patrimonio_liquido": 73810012.9,
-            "pl_cx": 50.34,
+            "contratos_vencimento": 0,
+            "estados": 0,
+            "imoveis": 0,
+            "patrimonio_liquido": 73776321.74,
+            "pl_cx": 50.24,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 1.12,
-            "p_vpa_med": 0.52,
-            "price": 43.66,
-            "valuation": 61.07
+            "p_vpa": 1.06,
+            "p_vpa_med": 0.56,
+            "price": 41.23,
+            "valuation": 55.47
         }
     },
     "ticker": "MGLG11",

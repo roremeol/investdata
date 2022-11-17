@@ -3,27 +3,27 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 0.0
+            "precentual": 1.9409
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 0.0
+            "precentual": 1.3535
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 0.0
+            "precentual": 2.8752
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 0.0
+            "precentual": 1.43
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 0.0
+            "precentual": 1.9202
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 0.0
+            "precentual": 0.8219
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
@@ -31,11 +31,11 @@
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 0.0
+            "precentual": 4.0844
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 0.0
+            "precentual": 0.7854
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
@@ -43,15 +43,15 @@
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 0.0
+            "precentual": 1.0124
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 0.0
+            "precentual": 1.1946
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 0.0
+            "precentual": 82.5814
         },
         {
             "prazo": "Prazo indeterminado",
@@ -383,7 +383,7 @@
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.526,
+    "ifix_participacao": 0.51,
     "imr": [
         {
             "ativo": 181002165.65,
@@ -1047,12 +1047,25 @@
             "patrimonio_liquido": 748757629.98,
             "receita_aluguel": 6046109.45,
             "valor_patrimonio_cotas": 104.715166
+        },
+        {
+            "ativo": 911576319.86,
+            "caixa": 48144240.07,
+            "competencia": "10/2022",
+            "cotas_emitidas": 7150422.0,
+            "cotistas": 47691,
+            "despesa_administracao": 353728.45,
+            "dy": 0.6111,
+            "numero_cotas": 7150422.0,
+            "patrimonio_liquido": 752613733.16,
+            "receita_aluguel": 9678030.48,
+            "valor_patrimonio_cotas": 105.25445
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 0.0
+            "precentual": 41.1964
         },
         {
             "indexador": "INPC",
@@ -1060,7 +1073,7 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 0.0
+            "precentual": 58.8036
         },
         {
             "indexador": "INCC",
@@ -1071,7 +1084,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRXPINCTF004",
     "lci": [],
     "mandato": "Renda",
@@ -3733,6 +3746,15 @@
             "volume": 7260889340000
         },
         {
+            "change": 50.9,
+            "close": 165.99,
+            "date": "2019-12-26",
+            "max": 168.97,
+            "min": 164.0,
+            "open": 164.0,
+            "volume": 2607673550000
+        },
+        {
             "change": 62.727273,
             "close": 179.0,
             "date": "2019-12-27",
@@ -3740,6 +3762,24 @@
             "min": 166.2,
             "open": 166.2,
             "volume": 2888683660000
+        },
+        {
+            "change": 63.636364,
+            "close": 180.0,
+            "date": "2019-12-30",
+            "max": 180.0,
+            "min": 172.02,
+            "open": 178.99,
+            "volume": 3007727550000
+        },
+        {
+            "change": 75.454545,
+            "close": 193.0,
+            "date": "2020-01-02",
+            "max": 197.99,
+            "min": 179.0,
+            "open": 180.0,
+            "volume": 5867947110000
         },
         {
             "change": 77.263636,
@@ -10004,6 +10044,132 @@
             "min": 83.5,
             "open": 83.51,
             "volume": 504495880000
+        },
+        {
+            "change": -23.990909,
+            "close": 83.61,
+            "date": "2022-10-20",
+            "max": 84.75,
+            "min": 83.5,
+            "open": 84.42,
+            "volume": 238595980000
+        },
+        {
+            "change": -22.781818,
+            "close": 84.94,
+            "date": "2022-10-21",
+            "max": 84.94,
+            "min": 83.0,
+            "open": 83.61,
+            "volume": 470387140000
+        },
+        {
+            "change": -22.854545,
+            "close": 84.86,
+            "date": "2022-10-24",
+            "max": 84.86,
+            "min": 83.6,
+            "open": 84.8,
+            "volume": 335792970000
+        },
+        {
+            "change": -22.863636,
+            "close": 84.85,
+            "date": "2022-10-25",
+            "max": 84.85,
+            "min": 84.06,
+            "open": 84.06,
+            "volume": 443896230000
+        },
+        {
+            "change": -23.727273,
+            "close": 83.9,
+            "date": "2022-10-26",
+            "max": 84.85,
+            "min": 83.79,
+            "open": 84.79,
+            "volume": 364143480000
+        },
+        {
+            "change": -23.7,
+            "close": 83.93,
+            "date": "2022-10-27",
+            "max": 84.94,
+            "min": 83.28,
+            "open": 84.32,
+            "volume": 249627190000
+        },
+        {
+            "change": -24.527273,
+            "close": 83.02,
+            "date": "2022-10-28",
+            "max": 84.0,
+            "min": 82.59,
+            "open": 83.51,
+            "volume": 437345970000
+        },
+        {
+            "change": -23.636364,
+            "close": 84.0,
+            "date": "2022-10-31",
+            "max": 84.0,
+            "min": 82.0,
+            "open": 83.0,
+            "volume": 1062131460000
+        },
+        {
+            "change": -23.872727,
+            "close": 83.74,
+            "date": "2022-11-01",
+            "max": 84.18,
+            "min": 82.6,
+            "open": 84.0,
+            "volume": 391145460000
+        },
+        {
+            "change": -24.545455,
+            "close": 83.0,
+            "date": "2022-11-03",
+            "max": 83.74,
+            "min": 82.32,
+            "open": 83.74,
+            "volume": 584611590000
+        },
+        {
+            "change": -25.090909,
+            "close": 82.4,
+            "date": "2022-11-04",
+            "max": 82.5,
+            "min": 82.05,
+            "open": 82.5,
+            "volume": 443642670000
+        },
+        {
+            "change": -24.909091,
+            "close": 82.6,
+            "date": "2022-11-07",
+            "max": 82.94,
+            "min": 81.09,
+            "open": 82.41,
+            "volume": 595039700000
+        },
+        {
+            "change": -25.1,
+            "close": 82.39,
+            "date": "2022-11-08",
+            "max": 82.59,
+            "min": 82.2,
+            "open": 82.5,
+            "volume": 291570710000
+        },
+        {
+            "change": -25.118182,
+            "close": 82.37,
+            "date": "2022-11-09",
+            "max": 82.58,
+            "min": 81.3,
+            "open": 82.39,
+            "volume": 388909230000
         }
     ],
     "propriedades": [
@@ -10015,17 +10181,17 @@
             "inadimplencia": 0.0,
             "nome": "BM-01-03 Rod Dom Pedro I, km 87,5, Ponte Alta, 12954-273 \n                \u00c1rea (m2):\n                3.141,14 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 104465",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 66.8967
         },
         {
             "area": 3109.11,
             "cidade": "0104 Rod Dom Pedro I, km 87,5, Ponte Alta, 12954",
-            "endereco": "BM-01-04 Rod Dom Pedro I, km 87,5, Ponte Alta, 12954-273 \n                \u00c1rea (m2):\n                3.109,11 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 104467",
+            "endereco": "BM-01-04 Rod Dom Pedro I, km 87,5, Ponte Alta, 12954-273 \n                \u00c1rea (m2):\n                3.109,11 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 104467 e 104468",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "BM-01-04 Rod Dom Pedro I, km 87,5, Ponte Alta, 12954-273 \n                \u00c1rea (m2):\n                3.109,11 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 104467",
+            "nome": "BM-01-04 Rod Dom Pedro I, km 87,5, Ponte Alta, 12954-273 \n                \u00c1rea (m2):\n                3.109,11 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 104467 e 104468",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 2895.08,
@@ -10045,7 +10211,7 @@
             "inadimplencia": 0.0,
             "nome": "BM-01-06 Rod Dom Pedro I, km 87,5, Ponte Alta, 12954-278 \n                \u00c1rea (m2):\n                2.865,91 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 104470",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 2865.91,
@@ -10055,7 +10221,7 @@
             "inadimplencia": 0.0,
             "nome": "BM-01-07 Rod Dom Pedro I, km 87,5, Ponte Alta, 12954-274 \n                \u00c1rea (m2):\n                2.865,91 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 104471",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 2865.91,
@@ -10085,7 +10251,7 @@
             "inadimplencia": 0.0,
             "nome": "BM-01-15 Rod Dom Pedro I, km 87,5, Ponte Alta, 12954-275 \n                \u00c1rea (m2):\n                2.884,44 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 104480",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 50.6206
         },
         {
             "area": 2884.44,
@@ -10105,7 +10271,7 @@
             "inadimplencia": 0.0,
             "nome": "BM-01-17 Rod Dom Pedro I, km 87,5, Ponte Alta, 12954-275 \n                \u00c1rea (m2):\n                2.274,53 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 106932",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 59.2092
         },
         {
             "area": 2251.92,
@@ -10135,7 +10301,7 @@
             "inadimplencia": 0.0,
             "nome": "BM-01-20 Rod Dom Pedro I, km 87,5, Ponte Alta, 12954-275 \n                \u00c1rea (m2):\n                2.665,71 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 106935",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 2692.85,
@@ -10165,7 +10331,7 @@
             "inadimplencia": 0.0,
             "nome": "BM-01-27 Rod Dom Pedro I, km 87,5, Ponte Alta, 12954-261 \n                \u00c1rea (m2):\n                2.491,69 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 111788",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 2029.75,
@@ -10243,9 +10409,9 @@
             "endereco": "Av. T\u00e9gula, 888, Ponte Alta, 12952",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-02 T\u00e9gula, 888, Ponte Alta, 12952-823 \n                \u00c1rea (m2):\n                2.775,83 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091307",
+            "nome": "CEA-01-02 T\u00e9gula, 888, Ponte Alta, 12952-823 \n                \u00c1rea (m2):\n                2.775,83 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91307",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 85.9937
         },
         {
             "area": 2485.75,
@@ -10253,7 +10419,7 @@
             "endereco": "Av. T\u00e9gula, 888, Ponte Alta, 12952",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-03 T\u00e9gula, 888, Ponte Alta, 12952-824 \n                \u00c1rea (m2):\n                2.485,75 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091308",
+            "nome": "CEA-01-03 T\u00e9gula, 888, Ponte Alta, 12952-824 \n                \u00c1rea (m2):\n                2.485,75 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91308",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10263,7 +10429,7 @@
             "endereco": "Av. T\u00e9gula, 888, Ponte Alta, 12952",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-04 T\u00e9gula, 888, Ponte Alta, 12952-824 \n                \u00c1rea (m2):\n                2.140,44 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091309",
+            "nome": "CEA-01-04 T\u00e9gula, 888, Ponte Alta, 12952-824 \n                \u00c1rea (m2):\n                2.140,44 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91309",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10273,7 +10439,7 @@
             "endereco": "Av. T\u00e9gula, 888, Ponte Alta, 12952",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-05 T\u00e9gula, 888, Ponte Alta, 12952-824 \n                \u00c1rea (m2):\n                2.119,24 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091310",
+            "nome": "CEA-01-05 T\u00e9gula, 888, Ponte Alta, 12952-824 \n                \u00c1rea (m2):\n                2.119,24 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91310",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10283,7 +10449,7 @@
             "endereco": "Av. T\u00e9gula, 888, Ponte Alta, 12952",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-06 T\u00e9gula, 888, Ponte Alta, 12952-824 \n                \u00c1rea (m2):\n                2.140,44 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091311",
+            "nome": "CEA-01-06 T\u00e9gula, 888, Ponte Alta, 12952-824 \n                \u00c1rea (m2):\n                2.140,44 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91311",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10293,7 +10459,7 @@
             "endereco": "Av. T\u00e9gula, 888, Ponte Alta, 12952",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-07 T\u00e9gula, 888, Ponte Alta, 12952-824 \n                \u00c1rea (m2):\n                1.786,97 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091312",
+            "nome": "CEA-01-07 T\u00e9gula, 888, Ponte Alta, 12952-824 \n                \u00c1rea (m2):\n                1.786,97 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91312",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10303,7 +10469,7 @@
             "endereco": "Av. T\u00e9gula, 888, Ponte Alta, 12952",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-08 T\u00e9gula, 888, Ponte Alta, 12952-826 \n                \u00c1rea (m2):\n                1.786,97 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091313",
+            "nome": "CEA-01-08 T\u00e9gula, 888, Ponte Alta, 12952-826 \n                \u00c1rea (m2):\n                1.786,97 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91313",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10313,7 +10479,7 @@
             "endereco": "Avenida T\u00e9gula, 888, bairro Ponte Alta \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-09enida T\u00e9gula, 888, bairro Ponte Alta \n                \u00c1rea (m2):\n                1.865,47 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091314",
+            "nome": "CEA-01-09enida T\u00e9gula, 888, bairro Ponte Alta \n                \u00c1rea (m2):\n                1.865,47 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91314",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10323,7 +10489,7 @@
             "endereco": "Avenida T\u00e9gula, 888, bairro Ponte Alta \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-10enida T\u00e9gula, 888, bairro Ponte Alta \n                \u00c1rea (m2):\n                1.002,88 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091315",
+            "nome": "CEA-01-10enida T\u00e9gula, 888, bairro Ponte Alta \n                \u00c1rea (m2):\n                1.002,88 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91315",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10333,7 +10499,7 @@
             "endereco": "Avenida T\u00e9gula, 888, bairro Ponte Alta \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-11enida T\u00e9gula, 888, bairro Ponte Alta \n                \u00c1rea (m2):\n                1.662,00 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula  091316",
+            "nome": "CEA-01-11enida T\u00e9gula, 888, bairro Ponte Alta \n                \u00c1rea (m2):\n                1.662,00 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91316",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10343,7 +10509,7 @@
             "endereco": "Av. T\u00e9gula, 888, Ponte Alta, 12952",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-15 T\u00e9gula, 888, Ponte Alta, 12952-820 \n                \u00c1rea (m2):\n                1.814,49 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091320",
+            "nome": "CEA-01-15 T\u00e9gula, 888, Ponte Alta, 12952-820 \n                \u00c1rea (m2):\n                1.814,49 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91320",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10353,7 +10519,7 @@
             "endereco": "Av. T\u00e9gula, 888, Ponte Alta, 12952",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-16 T\u00e9gula, 888, Ponte Alta, 12952-821 \n                \u00c1rea (m2):\n                2.759,71 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091321",
+            "nome": "CEA-01-16 T\u00e9gula, 888, Ponte Alta, 12952-821 \n                \u00c1rea (m2):\n                2.759,71 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91321",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10363,9 +10529,9 @@
             "endereco": "Av. T\u00e9gula, 888, Ponte Alta, 12952",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-20 T\u00e9gula, 888, Ponte Alta, 12952-820 \n                \u00c1rea (m2):\n                1.830,47 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091313",
+            "nome": "CEA-01-20 T\u00e9gula, 888, Ponte Alta, 12952-820 \n                \u00c1rea (m2):\n                1.830,47 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91325",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 2626.51,
@@ -10373,7 +10539,7 @@
             "endereco": "Av. T\u00e9gula, 888, Ponte Alta, 12952",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "CEA-01-21 T\u00e9gula, 888, Ponte Alta, 12952-820 \n                \u00c1rea (m2):\n                2.626,51 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 091326",
+            "nome": "CEA-01-21 T\u00e9gula, 888, Ponte Alta, 12952-820 \n                \u00c1rea (m2):\n                2.626,51 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91326",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10495,7 +10661,7 @@
             "inadimplencia": 0.0,
             "nome": "JNDI-01-1C Kanebo, 175, bairro Distrito Federal \n                \u00c1rea (m2):\n                1.860,00 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 11545",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 2460.0,
@@ -10535,7 +10701,7 @@
             "inadimplencia": 0.0,
             "nome": "JNDI-01-2C Kanebo, 175, bairro Distrito Federal \n                \u00c1rea (m2):\n                1.860,00 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 11545",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 2460.0,
@@ -10575,7 +10741,7 @@
             "inadimplencia": 0.0,
             "nome": "JNDI-01-3C Kanebo, 175, bairro Distrito Federal \n                \u00c1rea (m2):\n                1.860,00 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 11545",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 2460.0,
@@ -10675,7 +10841,7 @@
             "inadimplencia": 0.0,
             "nome": "JNDI-01-8A Kanebo, 175, bairro Distrito Federal \n                \u00c1rea (m2):\n                1.740,35 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 11545",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 1860.0,
@@ -10695,7 +10861,7 @@
             "inadimplencia": 0.0,
             "nome": "JNDI-01-9A Kanebo, 175, bairro Distrito Federal \n                \u00c1rea (m2):\n                1.108,63 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 11545",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 1924.34,
@@ -10908,12 +11074,12 @@
             "vacancia": 0.0
         },
         {
-            "area": 13881.59,
+            "area": 15297.34,
             "cidade": "ACQUA Estrada Municipal Antonio Agostinho Barbosa, n\u00ba 1300, Gleba \"B\", CEP 37640",
             "endereco": "Estrada Municipal Antonio Agostinho Barbosa, n\u00ba 1300, Gleba",
             "estado": "Outros",
             "inadimplencia": 0.0,
-            "nome": "EXTR-ACQUA Municipal Antonio Agostinho Barbosa, n\u00ba 1300, Gleba \"B\", CEP 37640-000 \n                \u00c1rea (m2):\n                13.881,59 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 11610",
+            "nome": "EXTR-ACQUA Municipal Antonio Agostinho Barbosa, n\u00ba 1300, Gleba \"B\", CEP 37640-000 \n                \u00c1rea (m2):\n                15.297,34 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 11610",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -10925,7 +11091,7 @@
             "inadimplencia": 0.0,
             "nome": "CEA-01-12enida T\u00e9gula, 888, Atibaia - SP, CEP: 12952-820 \n                \u00c1rea (m2):\n                2.485,75 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91317",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 2775.83,
@@ -10935,7 +11101,7 @@
             "inadimplencia": 0.0,
             "nome": "CEA-01-13enida T\u00e9gula, 888, Atibaia - SP, CEP: 12952-820 \n                \u00c1rea (m2):\n                2.775,83 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91318",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
             "area": 2485.75,
@@ -10945,45 +11111,45 @@
             "inadimplencia": 0.0,
             "nome": "CEA-01-14enida T\u00e9gula, 888, Atibaia - SP, CEP: 12952-820 \n                \u00c1rea (m2):\n                2.485,75 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 91319",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
-            "area": 17254.0,
+            "area": 7929.86,
             "cidade": "0128 Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia",
             "endereco": "Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia / Jarin\u00fa, SP\nEstrada Municipal Al \n                \u00c1rea",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "GAIAAR-01-28 Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia / Jarin\u00fa, SP Municipal Al \n                \u00c1rea (m2):\n                17.254,00 \n                N\u00ba de unidades ou lojas:\n                1 n/a",
+            "nome": "GAIAAR-01-28 Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia / Jarin\u00fa, SP Municipal Al \n                \u00c1rea (m2):\n                7.929,86 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 113258",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 100.0
         },
         {
-            "area": 1.0,
+            "area": 7929.86,
             "cidade": "0129 Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia",
             "endereco": "Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia / Jarin\u00fa, SP\nEstrada Municipal Al \n                \u00c1rea",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "GAIAAR-01-29 Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia / Jarin\u00fa, SP Municipal Al \n                \u00c1rea (m2):\n                1,00 \n                N\u00ba de unidades ou lojas:\n                1 n/a",
+            "nome": "GAIAAR-01-29 Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia / Jarin\u00fa, SP Municipal Al \n                \u00c1rea (m2):\n                7.929,86 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 113259",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
-            "area": 1.0,
+            "area": 7929.86,
             "cidade": "0130 Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia",
             "endereco": "Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia / Jarin\u00fa, SP\nEstrada Municipal Al \n                \u00c1rea",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "GAIAAR-01-30 Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia / Jarin\u00fa, SP Municipal Al \n                \u00c1rea (m2):\n                1,00 \n                N\u00ba de unidades ou lojas:\n                1 n/a",
+            "nome": "GAIAAR-01-30 Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia / Jarin\u00fa, SP Municipal Al \n                \u00c1rea (m2):\n                7.929,86 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 113260",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
-            "area": 1.0,
+            "area": 7929.86,
             "cidade": "0131 Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia",
             "endereco": "Estrada Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia / Jarin\u00fa, SP\nEstrada Municipal Al \n                \u00c1rea",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "GAIAAR-01-31 Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia / Jarin\u00fa, SP Municipal Al \n                \u00c1rea (m2):\n                1,00 \n                N\u00ba de unidades ou lojas:\n                1 n/a",
+            "nome": "GAIAAR-01-31 Municipal Alberto Tofanin, km 5,5, Bairro do Pinhal, Atibaia / Jarin\u00fa, SP Municipal Al \n                \u00c1rea (m2):\n                7.929,86 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 113261",
             "unidades": 1,
             "vacancia": 0.0
         }
@@ -10991,59 +11157,59 @@
     "segmento": "Outros",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.05,
+            "cagr_alugeis_1": 0.32,
             "cagr_ativo_1": 0.03,
-            "cagr_patrimonio_liquido": -0.05,
-            "cagr_vpa_1": -0.05,
+            "cagr_patrimonio_liquido": -0.04,
+            "cagr_vpa_1": -0.04,
             "cagr_vpa_3": 0.45,
-            "cmgr_alugeis_6m": -0.06
+            "cmgr_alugeis_6m": -0.04
         },
         "dividends": {
             "cagr_dividens_1": -0.36,
             "cagr_dividens_3": -0.14,
-            "cagr_dy_1": -0.42,
-            "cagr_dy_3": -0.17,
+            "cagr_dy_1": -0.39,
+            "cagr_dy_3": -0.15,
             "cagr_dy_5": 0,
-            "dy": 6.22
+            "dy": 6.26
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.04,
-                "dy": 7.96
+                "cagr_dy_3": -0.02,
+                "dy": 8.08
             },
             "mercado": {
-                "custo_adm_med": 130816.61,
-                "liquidez_med": 448585663333.33
+                "custo_adm_med": 131960.85,
+                "liquidez_med": 432296910147.06
             },
             "operacao": {
-                "patrimonio_liquido": 317634116.94,
-                "pl_cx": 6.52,
-                "vacancia": 1.86
+                "patrimonio_liquido": 331225030.0,
+                "pl_cx": 6.79,
+                "vacancia": 2.48
             },
             "valuation": {
-                "p_vpa_med": 0.91
+                "p_vpa_med": 0.84
             }
         },
         "mercado": {
-            "custo_adm_med": 339020.95,
-            "ifix": 0.526,
-            "liquidez_med": 932633055000.0
+            "custo_adm_med": 339076.81,
+            "ifix": 0.51,
+            "liquidez_med": 925162410000
         },
         "operacao": {
-            "contratos_vencimento": 3,
+            "contratos_vencimento": 37,
             "estados": 2,
             "imoveis": 98,
-            "patrimonio_liquido": 748757629.98,
-            "pl_cx": 6.46,
-            "vacancia": 0.0,
+            "patrimonio_liquido": 752613733.16,
+            "pl_cx": 6.4,
+            "vacancia": 15.94,
             "vacancia_1": 0.0,
-            "vacancia_3m": 21.43
+            "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.81,
-            "p_vpa_med": 1.01,
-            "price": 84.75,
-            "valuation": 84.93
+            "p_vpa": 0.78,
+            "p_vpa_med": 1.0,
+            "price": 82.37,
+            "valuation": 81.4
         }
     },
     "ticker": "XPIN11",
@@ -11111,6 +11277,10 @@
         {
             "competencia": "2/2022",
             "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
+            "total": 15.94
         }
     ]
 }

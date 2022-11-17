@@ -514,77 +514,82 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.85
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.85
         }
     ],
     "fii": [
         {
             "nome": "FII BRESCO - BRCO11",
-            "quantidade": 8848.0,
-            "valor": 871881.92
+            "quantidade": 8959.0,
+            "valor": 972051.5
+        },
+        {
+            "nome": "FII BTLG - BTLG11",
+            "quantidade": 9179.0,
+            "valor": 945437.0
         },
         {
             "nome": "FII CAPI SEC - CPTS11",
             "quantidade": 382084.0,
-            "valor": 34708510.56
+            "valor": 34826956.6
         },
         {
             "nome": "FII VBI CRI - CVBI11",
-            "quantidade": 11996.0,
-            "valor": 1193602.0
+            "quantidade": 12528.0,
+            "valor": 1129900.32
         },
         {
             "nome": "FII BRL1873 - VBI CONSUMO ESSENCIAL FII - EVBI11",
             "quantidade": 102898.0,
-            "valor": 10175583.22
+            "valor": 10392698.0
         },
         {
             "nome": "FII CSHG LOG - HGLG11",
-            "quantidade": 6482.0,
-            "valor": 1065770.44
+            "quantidade": 6609.0,
+            "valor": 1133443.5
         },
         {
             "nome": "FII CSHG URB - HGRU11",
-            "quantidade": 8914.0,
-            "valor": 1058002.66
+            "quantidade": 8592.0,
+            "valor": 1111375.2
         },
         {
             "nome": "FII KINEA IP - KNIP11",
-            "quantidade": 11306.0,
-            "valor": 1144054.14
+            "quantidade": 14243.0,
+            "valor": 1301810.2
         },
         {
             "nome": "FII KINEA SC - KNSC11",
-            "quantidade": 10781.0,
-            "valor": 1014276.48
-        },
-        {
-            "nome": "FII VBI LOG - LVBI11",
-            "quantidade": 8630.0,
-            "valor": 849796.1
+            "quantidade": 12892.0,
+            "valor": 1103555.2
         },
         {
             "nome": "FII MAUA - MCCI11",
-            "quantidade": 10704.0,
-            "valor": 1046851.2
+            "quantidade": 9375.0,
+            "valor": 913125.0
         },
         {
             "nome": "FII UBS (BR) - RECR11",
-            "quantidade": 10709.0,
-            "valor": 1070900.0
+            "quantidade": 12660.0,
+            "valor": 1131171.0
         },
         {
-            "nome": "FII TRX REAL ESTATE II - TRXB11",
-            "quantidade": 1320572.0,
-            "valor": 165401643.0
+            "nome": "FII BRL1818 - TRX REAL ESTATE II FII - TRXB11",
+            "quantidade": 1850283.0,
+            "valor": 221848931.7
         },
         {
             "nome": "FII XP LOG - XPLG11",
-            "quantidade": 9270.0,
-            "valor": 868320.9
+            "quantidade": 8586.0,
+            "valor": 943343.82
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 0.942,
+    "ifix_participacao": 0.936,
     "imr": [
         {
             "ativo": 54721494.41,
@@ -1053,6 +1058,19 @@
             "patrimonio_liquido": 914775705.08,
             "receita_aluguel": 7663358.51,
             "valor_patrimonio_cotas": 102.996283
+        },
+        {
+            "ativo": 1752364410.66,
+            "caixa": 18096170.41,
+            "competencia": "10/2022",
+            "cotas_emitidas": 8881638.0,
+            "cotistas": 69219,
+            "despesa_administracao": 746713.22,
+            "dy": 0.8253,
+            "numero_cotas": 8881638.0,
+            "patrimonio_liquido": 895339591.18,
+            "receita_aluguel": 7961666.85,
+            "valor_patrimonio_cotas": 100.807936
         }
     ],
     "indexador_reajuste_contrato": [
@@ -1077,7 +1095,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRTRXFCTF003",
     "lci": [],
     "mandato": "Renda",
@@ -7139,6 +7157,132 @@
             "min": 108.86,
             "open": 109.25,
             "volume": 1928232560000
+        },
+        {
+            "change": -7.618644,
+            "close": 109.01,
+            "date": "2022-10-20",
+            "max": 109.3,
+            "min": 108.54,
+            "open": 108.96,
+            "volume": 2423218380000
+        },
+        {
+            "change": -7.440678,
+            "close": 109.22,
+            "date": "2022-10-21",
+            "max": 109.45,
+            "min": 108.85,
+            "open": 109.25,
+            "volume": 2655343860000
+        },
+        {
+            "change": -7.415254,
+            "close": 109.25,
+            "date": "2022-10-24",
+            "max": 109.35,
+            "min": 108.78,
+            "open": 109.0,
+            "volume": 2153349060000
+        },
+        {
+            "change": -7.211864,
+            "close": 109.49,
+            "date": "2022-10-25",
+            "max": 109.5,
+            "min": 109.01,
+            "open": 109.35,
+            "volume": 1813090090000
+        },
+        {
+            "change": -7.372881,
+            "close": 109.3,
+            "date": "2022-10-26",
+            "max": 109.48,
+            "min": 108.68,
+            "open": 109.48,
+            "volume": 1678316310000
+        },
+        {
+            "change": -7.788136,
+            "close": 108.81,
+            "date": "2022-10-27",
+            "max": 109.45,
+            "min": 108.71,
+            "open": 109.3,
+            "volume": 1719719200000
+        },
+        {
+            "change": -7.254237,
+            "close": 109.44,
+            "date": "2022-10-28",
+            "max": 109.44,
+            "min": 108.82,
+            "open": 108.82,
+            "volume": 6008916080000
+        },
+        {
+            "change": -7.288136,
+            "close": 109.4,
+            "date": "2022-10-31",
+            "max": 109.48,
+            "min": 108.5,
+            "open": 109.4,
+            "volume": 11516563610000
+        },
+        {
+            "change": -7.330508,
+            "close": 109.35,
+            "date": "2022-11-01",
+            "max": 109.85,
+            "min": 108.55,
+            "open": 108.7,
+            "volume": 2939390690000
+        },
+        {
+            "change": -7.677966,
+            "close": 108.94,
+            "date": "2022-11-03",
+            "max": 109.65,
+            "min": 108.7,
+            "open": 109.4,
+            "volume": 2398670220000
+        },
+        {
+            "change": -7.847458,
+            "close": 108.74,
+            "date": "2022-11-04",
+            "max": 108.9,
+            "min": 108.21,
+            "open": 108.9,
+            "volume": 1741453580000
+        },
+        {
+            "change": -8.050847,
+            "close": 108.5,
+            "date": "2022-11-07",
+            "max": 108.69,
+            "min": 108.22,
+            "open": 108.57,
+            "volume": 2630842110000
+        },
+        {
+            "change": -8.118644,
+            "close": 108.42,
+            "date": "2022-11-08",
+            "max": 108.58,
+            "min": 108.24,
+            "open": 108.5,
+            "volume": 2141464070000
+        },
+        {
+            "change": -8.559322,
+            "close": 107.9,
+            "date": "2022-11-09",
+            "max": 108.42,
+            "min": 107.9,
+            "open": 108.3,
+            "volume": 2563304940000
         }
     ],
     "propriedades": [
@@ -7444,11 +7588,11 @@
         },
         {
             "area": 34229.0,
-            "cidade": "OBRAMAX _1 Interior do Estado de S\u00e3o Paulo  \n                \u00c1rea (m2):\n                34.229,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "OBRAMAX _1 Interior do Estado de S\u00e3o Paulo  \n                \u00c1rea (m2):\n                34.229,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "estado": "Outros",
+            "cidade": "OBRAMAX _Piracicaba Rodovia do A\u00e7\u00facar, Km 06, PiracicabaSP, PiracicabaSP \n                \u00c1rea (m2):\n                34.229,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Rodovia do A\u00e7\u00facar, Km 06, Piracicaba / SP, Piracicaba",
+            "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "OBRAMAX _1 Interior do Estado de S\u00e3o Paulo  \n                \u00c1rea (m2):\n                34.229,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "OBRAMAX _Piracicaba",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -7466,59 +7610,59 @@
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.08,
-            "cagr_ativo_1": 0.22,
-            "cagr_patrimonio_liquido": 0.59,
-            "cagr_vpa_1": 0.59,
-            "cagr_vpa_3": 1.56,
-            "cmgr_alugeis_6m": 0.01
+            "cagr_alugeis_1": -0.24,
+            "cagr_ativo_1": 0.23,
+            "cagr_patrimonio_liquido": 0.21,
+            "cagr_vpa_1": 0.21,
+            "cagr_vpa_3": 1.55,
+            "cmgr_alugeis_6m": 0.02
         },
         "dividends": {
             "cagr_dividens_1": -0.15,
             "cagr_dividens_3": -0.05,
-            "cagr_dy_1": -0.18,
-            "cagr_dy_3": 0,
+            "cagr_dy_1": -0.17,
+            "cagr_dy_3": -0.06,
             "cagr_dy_5": 0,
-            "dy": 7.91
+            "dy": 7.84
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 419297.80000000005,
-            "ifix": 0.942,
-            "liquidez_med": 1544063460000
+            "custo_adm_med": 424315.65,
+            "ifix": 0.936,
+            "liquidez_med": 1592076670000
         },
         "operacao": {
             "contratos_vencimento": 3,
             "estados": 8,
             "imoveis": 32,
-            "patrimonio_liquido": 914775705.08,
-            "pl_cx": 8.82,
+            "patrimonio_liquido": 895339591.18,
+            "pl_cx": 2.02,
             "vacancia": 0.0,
-            "vacancia_1": 0,
+            "vacancia_1": 0.0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 1.06,
+            "p_vpa": 1.07,
             "p_vpa_med": 1.0,
-            "price": 108.96,
-            "valuation": 101.43
+            "price": 107.9,
+            "valuation": 97.76
         }
     },
     "ticker": "TRXF11",
@@ -7565,6 +7709,10 @@
         },
         {
             "competencia": "02/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "03/2022",
             "total": 0.0
         }
     ]

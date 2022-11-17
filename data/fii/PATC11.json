@@ -11,7 +11,7 @@
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 0.0
+            "precentual": 8.3333
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
@@ -19,7 +19,7 @@
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 13.2121
+            "precentual": 0.0
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
@@ -31,31 +31,31 @@
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 0.0
+            "precentual": 25.0
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 7.7628
+            "precentual": 0.0
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 6.7916
+            "precentual": 0.0
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 0.0
+            "precentual": 16.6667
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 0.0
+            "precentual": 8.3333
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 72.1533
+            "precentual": 41.6667
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 0.0848
+            "precentual": 0.0
         }
     ],
     "cri": [],
@@ -279,53 +279,23 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-10T00:00:00",
             "provento": 0.4
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-09T00:00:00",
+            "provento": 0.4
         }
     ],
     "fii": [
         {
             "nome": "BTG Pactual Corporate Office Fund (BRCR11)",
-            "quantidade": 62185.0,
-            "valor": 3848629.65
-        },
-        {
-            "nome": "JS Real Estate Multigest\u00e3o (JSRE11)",
-            "quantidade": 10529.0,
-            "valor": 798414.07
-        },
-        {
-            "nome": "FII The One (ONEF11)",
-            "quantidade": 68336.0,
-            "valor": 11078632.32
-        },
-        {
-            "nome": "FI Imobili\u00e1rio VBI Prime Properties (PVBI11)",
-            "quantidade": 148893.0,
-            "valor": 13668377.4
-        },
-        {
-            "nome": "RB Capital Office Income (RBCO11)",
-            "quantidade": 87.0,
-            "valor": 3444.33
-        },
-        {
-            "nome": "Rio Bravo Renda Corporativa (RCRB11)",
-            "quantidade": 57.0,
-            "valor": 7192.26
-        },
-        {
-            "nome": "Vinci Offices (VINO11)",
-            "quantidade": 226.0,
-            "valor": 9973.38
+            "quantidade": 52857.0,
+            "valor": 3688890.03
         },
         {
             "nome": "Vila Ol\u00edmpia Corporate FII (VLOL11)",
             "quantidade": 283975.0,
-            "valor": 27980056.75
-        },
-        {
-            "nome": "XP Porperties FII (XPPR11)",
-            "quantidade": 90.0,
-            "valor": 4526.1
+            "valor": 30899319.75
         }
     ],
     "gestao": "Ativa",
@@ -889,12 +859,25 @@
             "patrimonio_liquido": 297907873.38,
             "receita_aluguel": 882876.56,
             "valor_patrimonio_cotas": 85.668879
+        },
+        {
+            "ativo": 297739896.63,
+            "caixa": 33444128.27,
+            "competencia": "10/2022",
+            "cotas_emitidas": 3477434.0,
+            "cotistas": 8600,
+            "despesa_administracao": 246222.59,
+            "dy": 0.4669,
+            "numero_cotas": 3477434.0,
+            "patrimonio_liquido": 296296737.34,
+            "receita_aluguel": 833488.37,
+            "valor_patrimonio_cotas": 85.205567
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 42.451
+            "precentual": 29.5
         },
         {
             "indexador": "INPC",
@@ -902,14 +885,18 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 57.4689
+            "precentual": 63.21
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
+        },
+        {
+            "indexador": "M\u00e9dia IPCA e IGP-M",
+            "precentual": 7.29
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRPATCCTF002",
     "lci": [],
     "mandato": "Desenvolvimento",
@@ -2572,6 +2559,15 @@
             "volume": 3048854020000
         },
         {
+            "change": 30.039012,
+            "close": 130.0,
+            "date": "2019-12-26",
+            "max": 130.0,
+            "min": 125.2,
+            "open": 126.0,
+            "volume": 2020510390000
+        },
+        {
             "change": 34.540362,
             "close": 134.5,
             "date": "2019-12-27",
@@ -2587,7 +2583,16 @@
             "max": 145.0,
             "min": 136.0,
             "open": 136.0,
-            "volume": 27320000000
+            "volume": 3822418430000
+        },
+        {
+            "change": 57.837351,
+            "close": 157.79,
+            "date": "2020-01-02",
+            "max": 159.85,
+            "min": 142.65,
+            "open": 144.44,
+            "volume": 4858659810000
         },
         {
             "change": 57.947384,
@@ -8852,6 +8857,132 @@
             "min": 76.0,
             "open": 76.15,
             "volume": 21373650000
+        },
+        {
+            "change": -24.077223,
+            "close": 75.9,
+            "date": "2022-10-20",
+            "max": 77.0,
+            "min": 75.03,
+            "open": 76.0,
+            "volume": 660501500000
+        },
+        {
+            "change": -24.047214,
+            "close": 75.93,
+            "date": "2022-10-21",
+            "max": 75.97,
+            "min": 74.84,
+            "open": 75.49,
+            "volume": 93746940000
+        },
+        {
+            "change": -24.957487,
+            "close": 75.02,
+            "date": "2022-10-24",
+            "max": 80.7,
+            "min": 74.41,
+            "open": 74.41,
+            "volume": 2552133200000
+        },
+        {
+            "change": -24.087226,
+            "close": 75.89,
+            "date": "2022-10-25",
+            "max": 75.89,
+            "min": 75.0,
+            "open": 75.0,
+            "volume": 548083190000
+        },
+        {
+            "change": -23.727118,
+            "close": 76.25,
+            "date": "2022-10-26",
+            "max": 76.8,
+            "min": 75.04,
+            "open": 75.1,
+            "volume": 13549777200000
+        },
+        {
+            "change": -23.977193,
+            "close": 76.0,
+            "date": "2022-10-27",
+            "max": 76.25,
+            "min": 75.04,
+            "open": 76.25,
+            "volume": 395570000000
+        },
+        {
+            "change": -23.977193,
+            "close": 76.0,
+            "date": "2022-10-28",
+            "max": 76.65,
+            "min": 75.55,
+            "open": 76.65,
+            "volume": 120065640000
+        },
+        {
+            "change": -23.727118,
+            "close": 76.25,
+            "date": "2022-10-31",
+            "max": 76.25,
+            "min": 75.03,
+            "open": 75.48,
+            "volume": 13286094170000
+        },
+        {
+            "change": -23.627088,
+            "close": 76.35,
+            "date": "2022-11-01",
+            "max": 76.35,
+            "min": 75.04,
+            "open": 75.04,
+            "volume": 89108510000
+        },
+        {
+            "change": -28.728619,
+            "close": 71.25,
+            "date": "2022-11-03",
+            "max": 73.76,
+            "min": 66.16,
+            "open": 72.0,
+            "volume": 347044730000
+        },
+        {
+            "change": -28.548565,
+            "close": 71.43,
+            "date": "2022-11-04",
+            "max": 71.98,
+            "min": 70.94,
+            "open": 71.61,
+            "volume": 53134410000
+        },
+        {
+            "change": -28.988697,
+            "close": 70.99,
+            "date": "2022-11-07",
+            "max": 71.7,
+            "min": 69.4,
+            "open": 71.7,
+            "volume": 198092820000
+        },
+        {
+            "change": -29.128739,
+            "close": 70.85,
+            "date": "2022-11-08",
+            "max": 70.99,
+            "min": 70.51,
+            "open": 70.86,
+            "volume": 160144310000
+        },
+        {
+            "change": -29.108733,
+            "close": 70.87,
+            "date": "2022-11-09",
+            "max": 71.35,
+            "min": 70.5,
+            "open": 70.84,
+            "volume": 73041200000
         }
     ],
     "propriedades": [
@@ -8863,7 +8994,7 @@
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Sky Corporate R. Gomes de Carvalho, 1996, Ol\u00edmpia, S\u00e3o Paulo - SP \n                \u00c1rea (m2):\n                2.689,52 \n                N\u00ba de unidades ou lojas:\n                4 Im\u00f3vel AA, com certifica\u00e7\u00e3o LEED GOLD.Os andares adquiridos pelo Fundo (9\u00ba e 10\u00ba) correspondem a uma participa\u00e7\u00e3o de 10,5% do edif\u00edcio.",
             "unidades": 4,
-            "vacancia": 100.0
+            "vacancia": 0.0
         },
         {
             "area": 1298.0,
@@ -8883,17 +9014,7 @@
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Ol\u00edmpia Corporate",
             "unidades": 6,
-            "vacancia": 0.0
-        },
-        {
-            "area": 450.0,
-            "cidade": "Edif\u00edcio Icon Faria Lima Avenida Brigadeiro Faria Lima, 3311, Itaim Bibi, S\u00e3o PauloSP \n                \u00c1rea (m2):\n                450,00 \n                N\u00ba de unidades ou lojas:\n                1 Im\u00f3vel A,  andar adquirido pelo Fundo (1\u00ba) corresponde a uma participa\u00e7\u00e3o de 4,4% no edif\u00edcio.",
-            "endereco": "Avenida Brigadeiro Faria Lima, 3311, Itaim Bibi, S\u00e3o Paulo",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Edif\u00edcio Icon Faria Lima",
-            "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 12.73
         },
         {
             "area": 1826.39,
@@ -8923,65 +9044,65 @@
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Cetenco Plaza",
             "unidades": 4,
-            "vacancia": 0.0
+            "vacancia": 4.86
         }
     ],
     "segmento": "Lajes",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.57,
-            "cagr_ativo_1": 0.01,
-            "cagr_patrimonio_liquido": 0.0,
-            "cagr_vpa_1": 0.0,
+            "cagr_alugeis_1": -0.27,
+            "cagr_ativo_1": -0.01,
+            "cagr_patrimonio_liquido": -0.02,
+            "cagr_vpa_1": -0.02,
             "cagr_vpa_3": 0.27,
-            "cmgr_alugeis_6m": -0.04
+            "cmgr_alugeis_6m": -0.07
         },
         "dividends": {
             "cagr_dividens_1": -0.6,
             "cagr_dividens_3": -0.26,
-            "cagr_dy_1": -0.6,
-            "cagr_dy_3": -0.26,
+            "cagr_dy_1": -0.53,
+            "cagr_dy_3": -0.22,
             "cagr_dy_5": 0,
-            "dy": 4.68
+            "dy": 4.8
         },
         "medias_segmento": {
             "dividends": {
                 "cagr_dy_3": -0.14,
-                "dy": 4.88
+                "dy": 4.91
             },
             "mercado": {
-                "custo_adm_med": 139044.06,
-                "liquidez_med": 330316845875.0
+                "custo_adm_med": 139745.11,
+                "liquidez_med": 330367024000.0
             },
             "operacao": {
-                "patrimonio_liquido": 358083792.65,
-                "pl_cx": 2.85,
-                "vacancia": 23.39
+                "patrimonio_liquido": 358671419.0,
+                "pl_cx": 3.23,
+                "vacancia": 23.51
             },
             "valuation": {
-                "p_vpa_med": 0.72
+                "p_vpa_med": 0.71
             }
         },
         "mercado": {
-            "custo_adm_med": 169901.53,
+            "custo_adm_med": 175308.87,
             "ifix": 0,
             "liquidez_med": 480494735000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 2,
-            "imoveis": 7,
-            "patrimonio_liquido": 297907873.38,
-            "pl_cx": 11.36,
-            "vacancia": 21.88,
+            "imoveis": 6,
+            "patrimonio_liquido": 296296737.34,
+            "pl_cx": 11.29,
+            "vacancia": 2.9,
             "vacancia_1": 0.0,
             "vacancia_3m": 21.88
         },
         "valuation": {
-            "p_vpa": 0.89,
+            "p_vpa": 0.83,
             "p_vpa_med": 0.88,
-            "price": 76.0,
-            "valuation": 50.68
+            "price": 70.87,
+            "valuation": 49.67
         }
     },
     "ticker": "PATC11",
@@ -9037,6 +9158,10 @@
         {
             "competencia": "02/2022",
             "total": 21.88
+        },
+        {
+            "competencia": "03/2022",
+            "total": 2.9
         }
     ]
 }

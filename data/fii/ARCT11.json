@@ -329,11 +329,16 @@
             "data_com": "2022-10-17T00:00:00",
             "data_pagamento": "2022-10-24T00:00:00",
             "provento": 0.78
+        },
+        {
+            "data_com": "2022-11-16T00:00:00",
+            "data_pagamento": "2022-11-23T00:00:00",
+            "provento": 0.766028834
         }
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.325,
+    "ifix_participacao": 0.319,
     "imr": [
         {
             "ativo": 27659889.39,
@@ -867,6 +872,19 @@
             "patrimonio_liquido": 370290091.16,
             "receita_aluguel": 2453531.12,
             "valor_patrimonio_cotas": 99.85796
+        },
+        {
+            "ativo": 378337302.35,
+            "caixa": 1473108.59,
+            "competencia": "10/2022",
+            "cotas_emitidas": 3708168.0,
+            "cotistas": 39396,
+            "despesa_administracao": 326910.13,
+            "dy": 0.7593,
+            "numero_cotas": 3708168.0,
+            "patrimonio_liquido": 369807834.19,
+            "receita_aluguel": 2453531.12,
+            "valor_patrimonio_cotas": 99.727907
         }
     ],
     "indexador_reajuste_contrato": [
@@ -887,7 +905,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRARCTCTF008",
     "lci": [],
     "mandato": "H\u00edbrido",
@@ -5905,16 +5923,142 @@
             "min": 99.0,
             "open": 99.2,
             "volume": 944790910000
+        },
+        {
+            "change": -90.0251,
+            "close": 99.75,
+            "date": "2022-10-20",
+            "max": 99.9,
+            "min": 98.37,
+            "open": 99.9,
+            "volume": 1377109350000
+        },
+        {
+            "change": -90.0301,
+            "close": 99.7,
+            "date": "2022-10-21",
+            "max": 99.97,
+            "min": 99.17,
+            "open": 99.8,
+            "volume": 978723710000
+        },
+        {
+            "change": -90.097099,
+            "close": 99.03,
+            "date": "2022-10-24",
+            "max": 99.96,
+            "min": 98.91,
+            "open": 99.7,
+            "volume": 1235814640000
+        },
+        {
+            "change": -90.082099,
+            "close": 99.18,
+            "date": "2022-10-25",
+            "max": 99.26,
+            "min": 98.9,
+            "open": 99.0,
+            "volume": 973158020000
+        },
+        {
+            "change": -90.062099,
+            "close": 99.38,
+            "date": "2022-10-26",
+            "max": 99.48,
+            "min": 98.5,
+            "open": 99.18,
+            "volume": 1214499260000
+        },
+        {
+            "change": -90.0371,
+            "close": 99.63,
+            "date": "2022-10-27",
+            "max": 99.86,
+            "min": 98.99,
+            "open": 99.6,
+            "volume": 837952100000
+        },
+        {
+            "change": -90.0371,
+            "close": 99.63,
+            "date": "2022-10-28",
+            "max": 100.0,
+            "min": 99.16,
+            "open": 99.62,
+            "volume": 733708140000
+        },
+        {
+            "change": -90.081099,
+            "close": 99.19,
+            "date": "2022-10-31",
+            "max": 99.97,
+            "min": 98.51,
+            "open": 99.62,
+            "volume": 907324140000
+        },
+        {
+            "change": -89.9801,
+            "close": 100.2,
+            "date": "2022-11-01",
+            "max": 100.24,
+            "min": 99.2,
+            "open": 99.2,
+            "volume": 1239056240000
+        },
+        {
+            "change": -90.261097,
+            "close": 97.39,
+            "date": "2022-11-03",
+            "max": 100.19,
+            "min": 96.1,
+            "open": 100.19,
+            "volume": 6013271610000
+        },
+        {
+            "change": -90.145099,
+            "close": 98.55,
+            "date": "2022-11-04",
+            "max": 98.6,
+            "min": 96.7,
+            "open": 97.39,
+            "volume": 1243779910000
+        },
+        {
+            "change": -90.080099,
+            "close": 99.2,
+            "date": "2022-11-07",
+            "max": 99.8,
+            "min": 98.19,
+            "open": 98.74,
+            "volume": 983086080000
+        },
+        {
+            "change": -90.061099,
+            "close": 99.39,
+            "date": "2022-11-08",
+            "max": 99.5,
+            "min": 98.5,
+            "open": 99.2,
+            "volume": 982385220000
+        },
+        {
+            "change": -90.144099,
+            "close": 98.56,
+            "date": "2022-11-09",
+            "max": 99.51,
+            "min": 98.54,
+            "open": 99.39,
+            "volume": 776003490000
         }
     ],
     "propriedades": [
         {
             "area": 464958.17,
-            "cidade": "BR 364, Frutal, MG, 38200",
-            "endereco": "Galp\u00e3o Imp\u00e9rio Rod. Juscelino Kubitscheck de Oliveira - BR 364, Frutal, MG, 38200-000 \n                \u00c1rea (m2):\n                464.958,17 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "cidade": "Imperio Rod. Juscelino Kubitscheck de OliveiraBR 364, Frutal, MG, 38200",
+            "endereco": "Galpao Industrial - Imperio Rod. Juscelino Kubitscheck de Oliveira - BR 364, Frutal, MG, 38200-000 \n                \u00c1rea (m2):\n                464.958,17 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "estado": "MG",
             "inadimplencia": 0.0,
-            "nome": "Galp\u00e3o Imp\u00e9rio Rod. Juscelino Kubitscheck de Oliveira - BR 364, Frutal, MG, 38200-000 \n                \u00c1rea (m2):\n                464.958,17 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Galpao Industrial - Imperio Rod. Juscelino Kubitscheck de Oliveira - BR 364, Frutal, MG, 38200-000 \n                \u00c1rea (m2):\n                464.958,17 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -5944,7 +6088,7 @@
             "endereco": "Rodovia BR 020 572, Caucaia, CE, 061663",
             "estado": "CE",
             "inadimplencia": 0.0,
-            "nome": "Galpao Caucaia - Stock Teck BR 020 572, Caucaia, CE, 061663-015 \n                \u00c1rea (m2):\n                38.849,65 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Galp\u00e3o Caucaia - Stock Teck BR 020 572, Caucaia, CE, 061663-015 \n                \u00c1rea (m2):\n                38.849,65 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -5992,59 +6136,59 @@
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.13,
-            "cagr_ativo_1": 0.85,
-            "cagr_patrimonio_liquido": 1.25,
-            "cagr_vpa_1": 1.25,
-            "cagr_vpa_3": 1.6,
-            "cmgr_alugeis_6m": -0.11
+            "cagr_alugeis_1": -0.19,
+            "cagr_ativo_1": 0.13,
+            "cagr_patrimonio_liquido": 0.46,
+            "cagr_vpa_1": 0.46,
+            "cagr_vpa_3": 1.58,
+            "cmgr_alugeis_6m": -0.07
         },
         "dividends": {
-            "cagr_dividens_1": -0.46,
-            "cagr_dividens_3": -0.51,
-            "cagr_dy_1": -0.54,
-            "cagr_dy_3": -0.24,
+            "cagr_dividens_1": -0.47,
+            "cagr_dividens_3": -0.59,
+            "cagr_dy_1": -0.46,
+            "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 14.77
+            "dy": 13.84
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 40819.52,
-            "ifix": 0.325,
-            "liquidez_med": 609802810000
+            "custo_adm_med": 40822.74,
+            "ifix": 0.319,
+            "liquidez_med": 642444520000
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 5,
             "imoveis": 8,
-            "patrimonio_liquido": 370290091.16,
-            "pl_cx": 0.24,
+            "patrimonio_liquido": 369807834.19,
+            "pl_cx": 0.4,
             "vacancia": 0.0,
             "vacancia_1": 0.0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 1.0,
+            "p_vpa": 0.99,
             "p_vpa_med": 1.03,
-            "price": 99.9,
-            "valuation": 161.78
+            "price": 98.56,
+            "valuation": 157.23
         }
     },
     "ticker": "ARCT11",
@@ -6095,6 +6239,10 @@
         },
         {
             "competencia": "2/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
             "total": 0.0
         }
     ]

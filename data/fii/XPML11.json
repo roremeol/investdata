@@ -3,59 +3,59 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 2.0523
+            "precentual": 2.5242
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 0.5245
+            "precentual": 0.5854
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 1.4252
+            "precentual": 1.3521
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 4.5623
+            "precentual": 4.4251
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 17.1236
+            "precentual": 17.5214
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 13.2012
+            "precentual": 13.2563
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 14.6322
+            "precentual": 14.9685
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 1.6521
+            "precentual": 1.8563
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 1.541
+            "precentual": 1.6385
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 8.251
+            "precentual": 8.521
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 3.4103
+            "precentual": 3.521
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 1.152
+            "precentual": 1.5201
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 20.251
+            "precentual": 20.563
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 10.2213
+            "precentual": 7.7471
         }
     ],
     "cri": [],
@@ -398,23 +398,23 @@
     ],
     "fii": [
         {
-            "nome": "FII RIO BRAVO RENDA VAREJO - FII",
-            "quantidade": 76151.0,
-            "valor": 6898519.09
+            "nome": "FII RIO BRAVO RENDA VAREJO",
+            "quantidade": 38076.0,
+            "valor": 3696037.32
         },
         {
             "nome": "FUNDO INV IMOB VIA PARQUE SHOPPING",
             "quantidade": 776398.0,
-            "valor": 89549745.32
+            "valor": 91909995.24
         },
         {
-            "nome": "INTERNACIONAL GUARULHOS FII",
+            "nome": "Shopping Internacional Guarulhos  \u2013 FII",
             "quantidade": 1752306.0,
-            "valor": 309310297.96
+            "valor": 313489922.87
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 1.932,
+    "ifix_participacao": 1.965,
     "imr": [
         {
             "ativo": 264951497.84,
@@ -1221,31 +1221,44 @@
             "patrimonio_liquido": 1904472618.71,
             "receita_aluguel": 8825182.66,
             "valor_patrimonio_cotas": 101.943889
+        },
+        {
+            "ativo": 2734550525.02,
+            "caixa": 19331068.11,
+            "competencia": "10/2022",
+            "cotas_emitidas": 18681577.0,
+            "cotistas": 275203,
+            "despesa_administracao": 1167441.72,
+            "dy": 0.696,
+            "numero_cotas": 18681577.0,
+            "patrimonio_liquido": 1904472618.71,
+            "receita_aluguel": 8825182.66,
+            "valor_patrimonio_cotas": 101.943889
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 25.412
+            "precentual": 25.2103
         },
         {
             "indexador": "INPC",
-            "precentual": 1.752
+            "precentual": 1.563
         },
         {
             "indexador": "IPCA",
-            "precentual": 5.8541
+            "precentual": 5.7541
         },
         {
             "indexador": "INCC",
-            "precentual": 24.361
+            "precentual": 24.1023
         },
         {
             "indexador": "Outros",
-            "precentual": 42.6209
+            "precentual": 43.3703
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRXPMLCTF000",
     "lci": [],
     "mandato": "Renda",
@@ -5671,6 +5684,15 @@
             "volume": 16882506530000
         },
         {
+            "change": 36.771166,
+            "close": 136.99,
+            "date": "2019-12-26",
+            "max": 139.0,
+            "min": 135.4,
+            "open": 135.45,
+            "volume": 16980009660000
+        },
+        {
             "change": 36.78115,
             "close": 137.0,
             "date": "2019-12-27",
@@ -5678,6 +5700,24 @@
             "min": 136.99,
             "open": 137.0,
             "volume": 17055837380000
+        },
+        {
+            "change": 36.78115,
+            "close": 137.0,
+            "date": "2019-12-30",
+            "max": 138.7,
+            "min": 132.7,
+            "open": 138.0,
+            "volume": 15529190820000
+        },
+        {
+            "change": 38.548323,
+            "close": 138.77,
+            "date": "2020-01-02",
+            "max": 140.9,
+            "min": 137.04,
+            "open": 137.9,
+            "volume": 20493272150000
         },
         {
             "change": 44.269169,
@@ -11942,6 +11982,132 @@
             "min": 103.52,
             "open": 103.86,
             "volume": 3372145880000
+        },
+        {
+            "change": 3.734026,
+            "close": 103.9,
+            "date": "2022-10-20",
+            "max": 104.12,
+            "min": 103.6,
+            "open": 103.89,
+            "volume": 2543868560000
+        },
+        {
+            "change": 3.823882,
+            "close": 103.99,
+            "date": "2022-10-21",
+            "max": 104.0,
+            "min": 103.26,
+            "open": 103.9,
+            "volume": 2730177210000
+        },
+        {
+            "change": 3.344649,
+            "close": 103.51,
+            "date": "2022-10-24",
+            "max": 104.0,
+            "min": 103.18,
+            "open": 103.99,
+            "volume": 2764586570000
+        },
+        {
+            "change": 3.22484,
+            "close": 103.39,
+            "date": "2022-10-25",
+            "max": 103.71,
+            "min": 103.01,
+            "open": 103.5,
+            "volume": 2599873330000
+        },
+        {
+            "change": 3.354633,
+            "close": 103.52,
+            "date": "2022-10-26",
+            "max": 103.77,
+            "min": 103.18,
+            "open": 103.39,
+            "volume": 2500319780000
+        },
+        {
+            "change": 3.314696,
+            "close": 103.48,
+            "date": "2022-10-27",
+            "max": 103.7,
+            "min": 103.0,
+            "open": 103.0,
+            "volume": 2745405650000
+        },
+        {
+            "change": 3.434505,
+            "close": 103.6,
+            "date": "2022-10-28",
+            "max": 103.75,
+            "min": 103.03,
+            "open": 103.75,
+            "volume": 2589591320000
+        },
+        {
+            "change": 3.813898,
+            "close": 103.98,
+            "date": "2022-10-31",
+            "max": 103.98,
+            "min": 101.72,
+            "open": 103.58,
+            "volume": 3943314670000
+        },
+        {
+            "change": 1.817093,
+            "close": 101.98,
+            "date": "2022-11-01",
+            "max": 103.98,
+            "min": 99.98,
+            "open": 103.97,
+            "volume": 6330152280000
+        },
+        {
+            "change": 2.735623,
+            "close": 102.9,
+            "date": "2022-11-03",
+            "max": 103.34,
+            "min": 101.98,
+            "open": 101.98,
+            "volume": 2930659600000
+        },
+        {
+            "change": 2.535942,
+            "close": 102.7,
+            "date": "2022-11-04",
+            "max": 103.69,
+            "min": 102.04,
+            "open": 102.9,
+            "volume": 3652337910000
+        },
+        {
+            "change": 4.253195,
+            "close": 104.42,
+            "date": "2022-11-07",
+            "max": 104.89,
+            "min": 102.82,
+            "open": 102.82,
+            "volume": 5110973820000
+        },
+        {
+            "change": 4.233227,
+            "close": 104.4,
+            "date": "2022-11-08",
+            "max": 104.42,
+            "min": 103.14,
+            "open": 104.42,
+            "volume": 2890354510000
+        },
+        {
+            "change": 4.133387,
+            "close": 104.3,
+            "date": "2022-11-09",
+            "max": 104.5,
+            "min": 103.7,
+            "open": 104.4,
+            "volume": 2946177490000
         }
     ],
     "propriedades": [
@@ -11950,47 +12116,47 @@
             "cidade": "Caxias Shopping Rodovia Washington Luiz 2895, Duque de Caxias, RJ, 25085008 \n                \u00c1rea (m2):\n                28.074,00 \n                N\u00ba de unidades ou lojas:\n                126 Direito de propriedade",
             "endereco": "Rodovia Washington Luiz 2895, Duque de Caxias, RJ, 25085",
             "estado": "RJ",
-            "inadimplencia": 8.1812,
+            "inadimplencia": 2.6,
             "nome": "Caxias Shopping",
             "unidades": 126,
-            "vacancia": 1.8395
+            "vacancia": 1.4
         },
         {
             "area": 9611.0,
             "cidade": "Downtown Shopping Avenida das Am\u00e9ricas 500, Barra da Tijuca, Rio de Janeiro, RJ, 59064900 \n                \u00c1rea (m2):\n                9.611,00 \n                N\u00ba de unidades ou lojas:\n                57 Direito de propriedade",
             "endereco": "Avenida das Am\u00e9ricas 500, Barra da Tijuca, Rio de Janeiro, RJ, 59064",
             "estado": "RJ",
-            "inadimplencia": 4.1064,
+            "inadimplencia": -12.5,
             "nome": "Downtown Shopping",
             "unidades": 57,
-            "vacancia": 4.5772
+            "vacancia": 5.3
         },
         {
             "area": 28361.0,
             "cidade": "Natal Shopping Av. Sen. Salgado Filho 2234, Natal, RN, 59064900 \n                \u00c1rea (m2):\n                28.361,00 \n                N\u00ba de unidades ou lojas:\n                170 Direito de propriedade",
             "endereco": "Av. Sen",
             "estado": "RN",
-            "inadimplencia": 1.0083,
+            "inadimplencia": 1.4,
             "nome": "Natal Shopping",
             "unidades": 170,
-            "vacancia": 9.1892
+            "vacancia": 8.0
         },
         {
             "area": 27981.0,
             "cidade": "Plaza Sul Shopping Pra\u00e7a Leonor Kaupa 100, S\u00e3o Paulo, SP, 04151100 \n                \u00c1rea (m2):\n                27.981,00 \n                N\u00ba de unidades ou lojas:\n                207 Direito de propriedade",
             "endereco": "Pra\u00e7a Leonor Kaupa 100, S\u00e3o Paulo, SP, 04151",
             "estado": "SP",
-            "inadimplencia": 5.5988,
+            "inadimplencia": 1.1,
             "nome": "Plaza Sul Shopping",
             "unidades": 207,
-            "vacancia": 4.7935
+            "vacancia": 5.1
         },
         {
             "area": 29529.0,
             "cidade": "Catarina Fashion Outlet Rodovia Castello Branco km 60, S\u00e3o Roque, SP, 18147000 \n                \u00c1rea (m2):\n                29.529,00 \n                N\u00ba de unidades ou lojas:\n                149 Direito de propriedade",
             "endereco": "Rodovia Castello Branco km 60, S\u00e3o Roque, SP, 18147",
             "estado": "SP",
-            "inadimplencia": -1.2052,
+            "inadimplencia": -1.3,
             "nome": "Catarina Fashion Outlet",
             "unidades": 149,
             "vacancia": 0.0
@@ -12000,71 +12166,71 @@
             "cidade": "Shopping Cidade Jardim Av. Magalhaes de Castro 12000, S\u00e3o Paulo, SP, 05502001 \n                \u00c1rea (m2):\n                39.012,00 \n                N\u00ba de unidades ou lojas:\n                195 Direito de propriedade",
             "endereco": "Av. Magalhaes de Castro 12000, S\u00e3o Paulo, SP, 05502",
             "estado": "SP",
-            "inadimplencia": -1.6164,
+            "inadimplencia": -0.3,
             "nome": "Shopping Cidade Jardim",
             "unidades": 195,
-            "vacancia": 0.1133
+            "vacancia": 0.0
         },
         {
             "area": 35029.0,
             "cidade": "Santana Parque Shopping Av. Coronel Teixeira, 5705, Ponta Negra, Manaus, AM, 69037000 \n                \u00c1rea (m2):\n                35.029,00 \n                N\u00ba de unidades ou lojas:\n                152 Direito de propriedade",
             "endereco": "Av. Coronel Teixeira, 5705, Ponta Negra, Manaus, AM, 69037",
             "estado": "AM",
-            "inadimplencia": 7.9023,
+            "inadimplencia": -3.8,
             "nome": "Santana Parque Shopping",
             "unidades": 152,
-            "vacancia": 4.9835
+            "vacancia": 5.1
         },
         {
             "area": 35029.0,
             "cidade": "Shopping Ponta Negra Av. Coronel Teixeira, 5705, Ponta Negra, Manaus, AM, 69037000 \n                \u00c1rea (m2):\n                35.029,00 \n                N\u00ba de unidades ou lojas:\n                152 Direito de Propriedade",
             "endereco": "Av. Coronel Teixeira, 5705, Ponta Negra, Manaus, AM, 69037",
             "estado": "AM",
-            "inadimplencia": -2.0052,
+            "inadimplencia": -0.4,
             "nome": "Shopping Ponta Negra",
             "unidades": 152,
-            "vacancia": 8.7025
+            "vacancia": 8.7
         },
         {
             "area": 16661.0,
             "cidade": "Shopping Cidade S\u00e3o Paulo Avenida Paulista 1230, S\u00e3o Paulo, SP, 01310100 \n                \u00c1rea (m2):\n                16.661,00 \n                N\u00ba de unidades ou lojas:\n                147 Direito de propriedade",
             "endereco": "Avenida Paulista 1230, S\u00e3o Paulo, SP, 01310",
             "estado": "SP",
-            "inadimplencia": 0.2799,
+            "inadimplencia": -0.7,
             "nome": "Shopping Cidade S\u00e3o Paulo",
             "unidades": 147,
-            "vacancia": 4.4293
+            "vacancia": 5.3
         },
         {
             "area": 51143.0,
             "cidade": "Shopping Bela Vista Alameda Euvaldo Luz, 92, Horto, Salvador, BA, 41098020 \n                \u00c1rea (m2):\n                51.143,00 \n                N\u00ba de unidades ou lojas:\n                191 Direito de propriedade",
             "endereco": "Alameda Euvaldo Luz, 92, Horto, Salvador, BA, 41098",
             "estado": "BA",
-            "inadimplencia": 5.8406,
+            "inadimplencia": 13.0,
             "nome": "Shopping Bela Vista",
             "unidades": 191,
-            "vacancia": 4.1428
+            "vacancia": 2.3
         },
         {
             "area": 69346.0,
             "cidade": "Salvador",
             "endereco": "Av. Tancredo Neves, 148, Caminho das \u00c1rvores",
             "estado": "Outros",
-            "inadimplencia": 0.0,
+            "inadimplencia": 2.1,
             "nome": "Shopping da Bahia",
             "unidades": 417,
-            "vacancia": 0.0
+            "vacancia": 1.5
         }
     ],
     "segmento": "Shoppings",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.1,
-            "cagr_ativo_1": 0.21,
-            "cagr_patrimonio_liquido": -0.02,
-            "cagr_vpa_1": -0.02,
+            "cagr_alugeis_1": -0.38,
+            "cagr_ativo_1": 0.05,
+            "cagr_patrimonio_liquido": 0.0,
+            "cagr_vpa_1": 0.0,
             "cagr_vpa_3": 0.0,
-            "cmgr_alugeis_6m": -0.0
+            "cmgr_alugeis_6m": -0.04
         },
         "dividends": {
             "cagr_dividens_1": -0.25,
@@ -12072,30 +12238,30 @@
             "cagr_dy_1": -0.3,
             "cagr_dy_3": -0.11,
             "cagr_dy_5": -0.07,
-            "dy": 7.17
+            "dy": 7.34
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.16,
-                "dy": 5.16
+                "cagr_dy_3": -0.17,
+                "dy": 5.24
             },
             "mercado": {
-                "custo_adm_med": 236677.22,
-                "liquidez_med": 574772111428.57
+                "custo_adm_med": 237341.59,
+                "liquidez_med": 575574112380.95
             },
             "operacao": {
-                "patrimonio_liquido": 661924718.57,
-                "pl_cx": 2.02,
-                "vacancia": 7.89
+                "patrimonio_liquido": 663251512.39,
+                "pl_cx": 2.77,
+                "vacancia": 7.06
             },
             "valuation": {
-                "p_vpa_med": 0.78
+                "p_vpa_med": 0.74
             }
         },
         "mercado": {
-            "custo_adm_med": 859586.275,
-            "ifix": 1.932,
-            "liquidez_med": 3570679045000.0
+            "custo_adm_med": 864007.39,
+            "ifix": 1.965,
+            "liquidez_med": 3567319300000
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -12103,15 +12269,15 @@
             "imoveis": 11,
             "patrimonio_liquido": 1904472618.71,
             "pl_cx": 1.02,
-            "vacancia": 3.41,
-            "vacancia_1": 0.22,
-            "vacancia_3m": 4.28
+            "vacancia": 3.39,
+            "vacancia_1": 3.09,
+            "vacancia_3m": 3.41
         },
         "valuation": {
             "p_vpa": 1.02,
-            "p_vpa_med": 0.99,
-            "price": 103.89,
-            "valuation": 91.67
+            "p_vpa_med": 1.0,
+            "price": 104.3,
+            "valuation": 87.86
         }
     },
     "ticker": "XPML11",
@@ -12187,6 +12353,10 @@
         {
             "competencia": "2/2022",
             "total": 3.41
+        },
+        {
+            "competencia": "3/2022",
+            "total": 3.39
         }
     ]
 }

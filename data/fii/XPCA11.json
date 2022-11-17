@@ -1,0 +1,2518 @@
+{
+    "cnpj": "41.269.527/000101",
+    "contratos": [],
+    "cri": [],
+    "dividends": [
+        {
+            "data_com": "2021-11-30T00:00:00",
+            "data_pagamento": "2021-12-14T00:00:00",
+            "provento": 0.05
+        },
+        {
+            "data_com": "2021-12-30T00:00:00",
+            "data_pagamento": "2022-01-14T00:00:00",
+            "provento": 0.08
+        },
+        {
+            "data_com": "2022-01-31T00:00:00",
+            "data_pagamento": "2022-02-14T00:00:00",
+            "provento": 0.1
+        },
+        {
+            "data_com": "2022-02-25T00:00:00",
+            "data_pagamento": "2022-03-15T00:00:00",
+            "provento": 0.11
+        },
+        {
+            "data_com": "2022-03-31T00:00:00",
+            "data_pagamento": "2022-04-14T00:00:00",
+            "provento": 0.14
+        },
+        {
+            "data_com": "2022-04-29T00:00:00",
+            "data_pagamento": "2022-05-13T00:00:00",
+            "provento": 0.14
+        },
+        {
+            "data_com": "2022-05-31T00:00:00",
+            "data_pagamento": "2022-06-14T00:00:00",
+            "provento": 0.14
+        },
+        {
+            "data_com": "2022-06-30T00:00:00",
+            "data_pagamento": "2022-07-14T00:00:00",
+            "provento": 0.14
+        },
+        {
+            "data_com": "2022-06-30T00:00:00",
+            "data_pagamento": "2022-07-14T00:00:00",
+            "provento": 0.08
+        },
+        {
+            "data_com": "2022-06-30T00:00:00",
+            "data_pagamento": "2022-07-14T00:00:00",
+            "provento": 0.03
+        },
+        {
+            "data_com": "2022-07-29T00:00:00",
+            "data_pagamento": "2022-08-12T00:00:00",
+            "provento": 0.14
+        },
+        {
+            "data_com": "2022-07-29T00:00:00",
+            "data_pagamento": "2022-08-12T00:00:00",
+            "provento": 0.14
+        },
+        {
+            "data_com": "2022-07-29T00:00:00",
+            "data_pagamento": "2022-08-12T00:00:00",
+            "provento": 0.14
+        },
+        {
+            "data_com": "2022-07-29T00:00:00",
+            "data_pagamento": "2022-08-12T00:00:00",
+            "provento": 0.12
+        },
+        {
+            "data_com": "2022-08-31T00:00:00",
+            "data_pagamento": "2022-09-15T00:00:00",
+            "provento": 0.14
+        },
+        {
+            "data_com": "2022-09-30T00:00:00",
+            "data_pagamento": "2022-10-17T00:00:00",
+            "provento": 0.01
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.06
+        }
+    ],
+    "fii": [],
+    "gestao": "Ativa",
+    "ifix_participacao": 0,
+    "imr": [
+        {
+            "ativo": 135477074.27,
+            "caixa": 40047940.82,
+            "competencia": "11/2021",
+            "cotas_emitidas": 14092466.0,
+            "cotistas": 3300,
+            "despesa_administracao": 91250.03,
+            "dy": 0.0,
+            "numero_cotas": 14092466.0,
+            "patrimonio_liquido": 135385795.52,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.606963
+        },
+        {
+            "ativo": 135965424.01,
+            "caixa": 1226034.37,
+            "competencia": "12/2021",
+            "cotas_emitidas": 14092466.0,
+            "cotistas": 3725,
+            "despesa_administracao": 123533.24,
+            "dy": 0.8371,
+            "numero_cotas": 14092466.0,
+            "patrimonio_liquido": 134714550.47,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.559331
+        },
+        {
+            "ativo": 136152186.53,
+            "caixa": 5369640.05,
+            "competencia": "01/2022",
+            "cotas_emitidas": 14092466.0,
+            "cotistas": 4546,
+            "despesa_administracao": 112683.45,
+            "dy": 1.0461,
+            "numero_cotas": 14092466.0,
+            "patrimonio_liquido": 134627775.15,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.553174
+        },
+        {
+            "ativo": 136653270.52,
+            "caixa": 16070828.19,
+            "competencia": "02/2022",
+            "cotas_emitidas": 14092466.0,
+            "cotistas": 5386,
+            "despesa_administracao": 102020.38,
+            "dy": 1.1514,
+            "numero_cotas": 14092466.0,
+            "patrimonio_liquido": 134947595.51,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.575868
+        },
+        {
+            "ativo": 136662149.81,
+            "caixa": 17295077.35,
+            "competencia": "03/2022",
+            "cotas_emitidas": 14092466.0,
+            "cotistas": 6546,
+            "despesa_administracao": 118380.2,
+            "dy": 1.462,
+            "numero_cotas": 14092466.0,
+            "patrimonio_liquido": 134522959.74,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.545736
+        },
+        {
+            "ativo": 136649710.57,
+            "caixa": 13002843.44,
+            "competencia": "04/2022",
+            "cotas_emitidas": 14092466.0,
+            "cotistas": 8496,
+            "despesa_administracao": 102064.71,
+            "dy": 1.4666,
+            "numero_cotas": 14092466.0,
+            "patrimonio_liquido": 134472608.37,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.542163
+        },
+        {
+            "ativo": 136333764.67,
+            "caixa": 10666933.42,
+            "competencia": "05/2022",
+            "cotas_emitidas": 14092466.0,
+            "cotistas": 10571,
+            "despesa_administracao": 118025.16,
+            "dy": 1.4672,
+            "numero_cotas": 14092466.0,
+            "patrimonio_liquido": 134119495.76,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.517106
+        },
+        {
+            "ativo": 154267128.28,
+            "caixa": 31947745.99,
+            "competencia": "06/2022",
+            "cotas_emitidas": 15885723.0,
+            "cotistas": 12420,
+            "despesa_administracao": 122626.67,
+            "dy": 1.6582,
+            "numero_cotas": 15885723.0,
+            "patrimonio_liquido": 151204284.15,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.51825
+        },
+        {
+            "ativo": 171101655.1,
+            "caixa": 44983954.65,
+            "competencia": "07/2022",
+            "cotas_emitidas": 17686985.0,
+            "cotistas": 13979,
+            "despesa_administracao": 138953.77,
+            "dy": 1.6126,
+            "numero_cotas": 17686985.0,
+            "patrimonio_liquido": 168021488.19,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.499725
+        },
+        {
+            "ativo": 171297132.91,
+            "caixa": 20656781.02,
+            "competencia": "08/2022",
+            "cotas_emitidas": 17686985.0,
+            "cotistas": 15971,
+            "despesa_administracao": 154479.44,
+            "dy": 1.4737,
+            "numero_cotas": 17686985.0,
+            "patrimonio_liquido": 168095144.07,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.503889
+        },
+        {
+            "ativo": 208519253.72,
+            "caixa": 33704916.24,
+            "competencia": "09/2022",
+            "cotas_emitidas": 21475895.0,
+            "cotistas": 27320,
+            "despesa_administracao": 145326.63,
+            "dy": 1.4956,
+            "numero_cotas": 21475895.0,
+            "patrimonio_liquido": 203824165.66,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.490835
+        },
+        {
+            "ativo": 303240069.06,
+            "caixa": 70158260.77,
+            "competencia": "10/2022",
+            "cotas_emitidas": 31390250.0,
+            "cotistas": 25098,
+            "despesa_administracao": 211625.4,
+            "dy": 1.6554,
+            "numero_cotas": 31390250.0,
+            "patrimonio_liquido": 298484344.6,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 9.508823
+        }
+    ],
+    "indexador_reajuste_contrato": [],
+    "ipca_prize": 6.140000000000001,
+    "isin": "BRXPCACTF004",
+    "lci": [],
+    "mandato": "T\u00edtulos",
+    "nome": "XP CR\u00c9DITO AGR\u00cdCOLAFUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS AGROINDUSTRIAIS IMOB.FIAGROIMOB.",
+    "prices": [
+        {
+            "change": 0.0,
+            "close": 10.0,
+            "date": "2021-11-19",
+            "max": 11.0,
+            "min": 7.5,
+            "open": 11.0,
+            "volume": 1293366820000
+        },
+        {
+            "change": 0.0,
+            "close": 10.0,
+            "date": "2021-11-22",
+            "max": 10.0,
+            "min": 8.5,
+            "open": 8.96,
+            "volume": 527337530000
+        },
+        {
+            "change": -3.6,
+            "close": 9.64,
+            "date": "2021-11-23",
+            "max": 9.99,
+            "min": 9.11,
+            "open": 9.99,
+            "volume": 292576530000
+        },
+        {
+            "change": -8.0,
+            "close": 9.2,
+            "date": "2021-11-24",
+            "max": 9.84,
+            "min": 8.69,
+            "open": 9.64,
+            "volume": 969993530000
+        },
+        {
+            "change": -9.8,
+            "close": 9.02,
+            "date": "2021-11-25",
+            "max": 9.8,
+            "min": 8.75,
+            "open": 9.47,
+            "volume": 740061030000
+        },
+        {
+            "change": -5.1,
+            "close": 9.49,
+            "date": "2021-11-26",
+            "max": 9.7,
+            "min": 8.6,
+            "open": 8.9,
+            "volume": 624350530000
+        },
+        {
+            "change": -9.6,
+            "close": 9.04,
+            "date": "2021-11-29",
+            "max": 9.48,
+            "min": 9.04,
+            "open": 9.1,
+            "volume": 136917280000
+        },
+        {
+            "change": -10.6,
+            "close": 8.94,
+            "date": "2021-11-30",
+            "max": 9.32,
+            "min": 8.82,
+            "open": 9.15,
+            "volume": 297442360000
+        },
+        {
+            "change": -12.0,
+            "close": 8.8,
+            "date": "2021-12-01",
+            "max": 9.25,
+            "min": 8.65,
+            "open": 9.13,
+            "volume": 140300800000
+        },
+        {
+            "change": -9.1,
+            "close": 9.09,
+            "date": "2021-12-02",
+            "max": 9.17,
+            "min": 8.8,
+            "open": 9.0,
+            "volume": 80889750000
+        },
+        {
+            "change": -10.0,
+            "close": 9.0,
+            "date": "2021-12-03",
+            "max": 9.47,
+            "min": 8.96,
+            "open": 9.14,
+            "volume": 518973680000
+        },
+        {
+            "change": -5.0,
+            "close": 9.5,
+            "date": "2021-12-06",
+            "max": 9.5,
+            "min": 9.2,
+            "open": 9.24,
+            "volume": 272860860000
+        },
+        {
+            "change": -7.8,
+            "close": 9.22,
+            "date": "2021-12-07",
+            "max": 9.5,
+            "min": 9.15,
+            "open": 9.5,
+            "volume": 317528180000
+        },
+        {
+            "change": -7.5,
+            "close": 9.25,
+            "date": "2021-12-08",
+            "max": 9.45,
+            "min": 8.95,
+            "open": 9.25,
+            "volume": 239425730000
+        },
+        {
+            "change": -4.1,
+            "close": 9.59,
+            "date": "2021-12-09",
+            "max": 9.59,
+            "min": 9.03,
+            "open": 9.25,
+            "volume": 512812360000
+        },
+        {
+            "change": -4.1,
+            "close": 9.59,
+            "date": "2021-12-10",
+            "max": 9.59,
+            "min": 9.3,
+            "open": 9.51,
+            "volume": 167062530000
+        },
+        {
+            "change": -3.7,
+            "close": 9.63,
+            "date": "2021-12-13",
+            "max": 9.64,
+            "min": 9.21,
+            "open": 9.51,
+            "volume": 179531890000
+        },
+        {
+            "change": -6.7,
+            "close": 9.33,
+            "date": "2021-12-14",
+            "max": 9.64,
+            "min": 9.3,
+            "open": 9.62,
+            "volume": 409599120000
+        },
+        {
+            "change": -7.0,
+            "close": 9.3,
+            "date": "2021-12-15",
+            "max": 9.52,
+            "min": 9.29,
+            "open": 9.33,
+            "volume": 265756570000
+        },
+        {
+            "change": -4.2,
+            "close": 9.58,
+            "date": "2021-12-16",
+            "max": 9.58,
+            "min": 9.34,
+            "open": 9.34,
+            "volume": 362022830000
+        },
+        {
+            "change": -4.0,
+            "close": 9.6,
+            "date": "2021-12-17",
+            "max": 9.64,
+            "min": 9.36,
+            "open": 9.58,
+            "volume": 280584410000
+        },
+        {
+            "change": -4.1,
+            "close": 9.59,
+            "date": "2021-12-20",
+            "max": 9.6,
+            "min": 9.35,
+            "open": 9.59,
+            "volume": 127563020000
+        },
+        {
+            "change": -4.2,
+            "close": 9.58,
+            "date": "2021-12-21",
+            "max": 9.6,
+            "min": 9.32,
+            "open": 9.59,
+            "volume": 328491030000
+        },
+        {
+            "change": -4.8,
+            "close": 9.52,
+            "date": "2021-12-22",
+            "max": 9.57,
+            "min": 9.36,
+            "open": 9.57,
+            "volume": 329308800000
+        },
+        {
+            "change": -4.5,
+            "close": 9.55,
+            "date": "2021-12-23",
+            "max": 9.55,
+            "min": 9.36,
+            "open": 9.55,
+            "volume": 248830960000
+        },
+        {
+            "change": -3.1,
+            "close": 9.69,
+            "date": "2021-12-27",
+            "max": 9.69,
+            "min": 9.45,
+            "open": 9.54,
+            "volume": 736588200000
+        },
+        {
+            "change": -4.0,
+            "close": 9.6,
+            "date": "2021-12-28",
+            "max": 9.9,
+            "min": 9.46,
+            "open": 9.65,
+            "volume": 721964600000
+        },
+        {
+            "change": -2.0,
+            "close": 9.8,
+            "date": "2021-12-29",
+            "max": 9.85,
+            "min": 9.55,
+            "open": 9.55,
+            "volume": 170884550000
+        },
+        {
+            "change": -3.3,
+            "close": 9.67,
+            "date": "2021-12-30",
+            "max": 9.84,
+            "min": 9.65,
+            "open": 9.8,
+            "volume": 210114570000
+        },
+        {
+            "change": -7.0,
+            "close": 9.3,
+            "date": "2022-01-03",
+            "max": 9.81,
+            "min": 9.15,
+            "open": 9.68,
+            "volume": 953284530000
+        },
+        {
+            "change": -6.0,
+            "close": 9.4,
+            "date": "2022-01-04",
+            "max": 9.73,
+            "min": 9.1,
+            "open": 9.44,
+            "volume": 562823520000
+        },
+        {
+            "change": -4.1,
+            "close": 9.59,
+            "date": "2022-01-05",
+            "max": 9.68,
+            "min": 9.43,
+            "open": 9.55,
+            "volume": 242000050000
+        },
+        {
+            "change": -4.0,
+            "close": 9.6,
+            "date": "2022-01-06",
+            "max": 9.77,
+            "min": 9.46,
+            "open": 9.59,
+            "volume": 302127450000
+        },
+        {
+            "change": -2.1,
+            "close": 9.79,
+            "date": "2022-01-07",
+            "max": 9.89,
+            "min": 9.5,
+            "open": 9.6,
+            "volume": 286450960000
+        },
+        {
+            "change": -3.2,
+            "close": 9.68,
+            "date": "2022-01-10",
+            "max": 9.85,
+            "min": 9.56,
+            "open": 9.85,
+            "volume": 374337140000
+        },
+        {
+            "change": -2.9,
+            "close": 9.71,
+            "date": "2022-01-11",
+            "max": 9.86,
+            "min": 9.66,
+            "open": 9.76,
+            "volume": 586942830000
+        },
+        {
+            "change": -2.1,
+            "close": 9.79,
+            "date": "2022-01-12",
+            "max": 9.9,
+            "min": 9.73,
+            "open": 9.83,
+            "volume": 174547700000
+        },
+        {
+            "change": -0.8,
+            "close": 9.92,
+            "date": "2022-01-13",
+            "max": 9.98,
+            "min": 9.7,
+            "open": 9.8,
+            "volume": 247160440000
+        },
+        {
+            "change": -1.0,
+            "close": 9.9,
+            "date": "2022-01-14",
+            "max": 9.99,
+            "min": 9.8,
+            "open": 9.91,
+            "volume": 520561200000
+        },
+        {
+            "change": -1.8,
+            "close": 9.82,
+            "date": "2022-01-17",
+            "max": 9.9,
+            "min": 9.68,
+            "open": 9.9,
+            "volume": 376163780000
+        },
+        {
+            "change": -1.6,
+            "close": 9.84,
+            "date": "2022-01-18",
+            "max": 9.88,
+            "min": 9.66,
+            "open": 9.82,
+            "volume": 360626370000
+        },
+        {
+            "change": -2.0,
+            "close": 9.8,
+            "date": "2022-01-19",
+            "max": 9.9,
+            "min": 9.6,
+            "open": 9.84,
+            "volume": 802422560000
+        },
+        {
+            "change": -4.7,
+            "close": 9.53,
+            "date": "2022-01-20",
+            "max": 9.8,
+            "min": 9.5,
+            "open": 9.8,
+            "volume": 1288101480000
+        },
+        {
+            "change": -4.3,
+            "close": 9.57,
+            "date": "2022-01-21",
+            "max": 9.73,
+            "min": 9.4,
+            "open": 9.53,
+            "volume": 951926460000
+        },
+        {
+            "change": -3.0,
+            "close": 9.7,
+            "date": "2022-01-24",
+            "max": 9.72,
+            "min": 9.33,
+            "open": 9.65,
+            "volume": 884134440000
+        },
+        {
+            "change": -2.8,
+            "close": 9.72,
+            "date": "2022-01-25",
+            "max": 9.72,
+            "min": 9.5,
+            "open": 9.7,
+            "volume": 1235859760000
+        },
+        {
+            "change": -1.0,
+            "close": 9.9,
+            "date": "2022-01-26",
+            "max": 9.9,
+            "min": 9.53,
+            "open": 9.55,
+            "volume": 1231030220000
+        },
+        {
+            "change": -2.5,
+            "close": 9.75,
+            "date": "2022-01-27",
+            "max": 9.88,
+            "min": 9.61,
+            "open": 9.88,
+            "volume": 723502030000
+        },
+        {
+            "change": -3.4,
+            "close": 9.66,
+            "date": "2022-01-28",
+            "max": 9.83,
+            "min": 9.6,
+            "open": 9.74,
+            "volume": 463891330000
+        },
+        {
+            "change": -2.8,
+            "close": 9.72,
+            "date": "2022-01-31",
+            "max": 9.79,
+            "min": 9.52,
+            "open": 9.75,
+            "volume": 655682490000
+        },
+        {
+            "change": -2.8,
+            "close": 9.72,
+            "date": "2022-02-01",
+            "max": 10.39,
+            "min": 9.64,
+            "open": 9.7,
+            "volume": 767595440000
+        },
+        {
+            "change": -1.5,
+            "close": 9.85,
+            "date": "2022-02-02",
+            "max": 9.87,
+            "min": 9.72,
+            "open": 9.79,
+            "volume": 534855630000
+        },
+        {
+            "change": -1.7,
+            "close": 9.83,
+            "date": "2022-02-03",
+            "max": 9.86,
+            "min": 9.76,
+            "open": 9.84,
+            "volume": 818873130000
+        },
+        {
+            "change": -1.1,
+            "close": 9.89,
+            "date": "2022-02-04",
+            "max": 9.9,
+            "min": 9.8,
+            "open": 9.83,
+            "volume": 698364180000
+        },
+        {
+            "change": 0.0,
+            "close": 10.0,
+            "date": "2022-02-07",
+            "max": 10.0,
+            "min": 9.81,
+            "open": 9.9,
+            "volume": 595261410000
+        },
+        {
+            "change": -0.4,
+            "close": 9.96,
+            "date": "2022-02-08",
+            "max": 10.08,
+            "min": 9.87,
+            "open": 9.99,
+            "volume": 869097050000
+        },
+        {
+            "change": 0.1,
+            "close": 10.01,
+            "date": "2022-02-09",
+            "max": 10.05,
+            "min": 9.86,
+            "open": 9.96,
+            "volume": 761280570000
+        },
+        {
+            "change": -0.7,
+            "close": 9.93,
+            "date": "2022-02-10",
+            "max": 10.18,
+            "min": 9.92,
+            "open": 10.0,
+            "volume": 551551380000
+        },
+        {
+            "change": -0.8,
+            "close": 9.92,
+            "date": "2022-02-11",
+            "max": 10.2,
+            "min": 9.9,
+            "open": 10.07,
+            "volume": 1433120730000
+        },
+        {
+            "change": -0.1,
+            "close": 9.99,
+            "date": "2022-02-14",
+            "max": 10.14,
+            "min": 9.91,
+            "open": 10.14,
+            "volume": 588318920000
+        },
+        {
+            "change": -0.2,
+            "close": 9.98,
+            "date": "2022-02-15",
+            "max": 10.16,
+            "min": 9.9,
+            "open": 10.0,
+            "volume": 519237100000
+        },
+        {
+            "change": 1.5,
+            "close": 10.15,
+            "date": "2022-02-16",
+            "max": 10.19,
+            "min": 9.97,
+            "open": 9.98,
+            "volume": 486683510000
+        },
+        {
+            "change": 1.8,
+            "close": 10.18,
+            "date": "2022-02-17",
+            "max": 10.19,
+            "min": 10.0,
+            "open": 10.11,
+            "volume": 614690660000
+        },
+        {
+            "change": 1.2,
+            "close": 10.12,
+            "date": "2022-02-18",
+            "max": 10.18,
+            "min": 9.91,
+            "open": 10.18,
+            "volume": 332091800000
+        },
+        {
+            "change": 0.2,
+            "close": 10.02,
+            "date": "2022-02-21",
+            "max": 10.14,
+            "min": 9.95,
+            "open": 10.12,
+            "volume": 504512860000
+        },
+        {
+            "change": -0.7,
+            "close": 9.93,
+            "date": "2022-02-22",
+            "max": 10.14,
+            "min": 9.87,
+            "open": 10.02,
+            "volume": 1599559420000
+        },
+        {
+            "change": -0.4,
+            "close": 9.96,
+            "date": "2022-02-23",
+            "max": 9.97,
+            "min": 9.6,
+            "open": 9.84,
+            "volume": 1135260700000
+        },
+        {
+            "change": -1.3,
+            "close": 9.87,
+            "date": "2022-02-24",
+            "max": 10.0,
+            "min": 9.76,
+            "open": 9.93,
+            "volume": 926937480000
+        },
+        {
+            "change": -3.0,
+            "close": 9.7,
+            "date": "2022-02-25",
+            "max": 9.95,
+            "min": 9.6,
+            "open": 9.86,
+            "volume": 1149168630000
+        },
+        {
+            "change": -4.0,
+            "close": 9.6,
+            "date": "2022-03-02",
+            "max": 9.78,
+            "min": 9.51,
+            "open": 9.67,
+            "volume": 383091820000
+        },
+        {
+            "change": -3.4,
+            "close": 9.66,
+            "date": "2022-03-03",
+            "max": 9.8,
+            "min": 9.4,
+            "open": 9.61,
+            "volume": 739167680000
+        },
+        {
+            "change": -3.2,
+            "close": 9.68,
+            "date": "2022-03-04",
+            "max": 9.8,
+            "min": 9.56,
+            "open": 9.66,
+            "volume": 428579360000
+        },
+        {
+            "change": -2.0,
+            "close": 9.8,
+            "date": "2022-03-07",
+            "max": 9.85,
+            "min": 9.63,
+            "open": 9.77,
+            "volume": 354847700000
+        },
+        {
+            "change": -2.8,
+            "close": 9.72,
+            "date": "2022-03-08",
+            "max": 9.85,
+            "min": 9.68,
+            "open": 9.8,
+            "volume": 510983880000
+        },
+        {
+            "change": -1.5,
+            "close": 9.85,
+            "date": "2022-03-09",
+            "max": 9.85,
+            "min": 9.65,
+            "open": 9.83,
+            "volume": 440458420000
+        },
+        {
+            "change": -2.2,
+            "close": 9.78,
+            "date": "2022-03-10",
+            "max": 9.81,
+            "min": 9.72,
+            "open": 9.81,
+            "volume": 476875870000
+        },
+        {
+            "change": -2.6,
+            "close": 9.74,
+            "date": "2022-03-11",
+            "max": 9.8,
+            "min": 9.62,
+            "open": 9.77,
+            "volume": 250456620000
+        },
+        {
+            "change": -2.5,
+            "close": 9.75,
+            "date": "2022-03-14",
+            "max": 9.88,
+            "min": 9.52,
+            "open": 9.8,
+            "volume": 525978720000
+        },
+        {
+            "change": -2.7,
+            "close": 9.73,
+            "date": "2022-03-15",
+            "max": 9.8,
+            "min": 9.65,
+            "open": 9.79,
+            "volume": 308749960000
+        },
+        {
+            "change": -2.5,
+            "close": 9.75,
+            "date": "2022-03-16",
+            "max": 9.82,
+            "min": 9.63,
+            "open": 9.75,
+            "volume": 534552250000
+        },
+        {
+            "change": -2.7,
+            "close": 9.73,
+            "date": "2022-03-17",
+            "max": 9.78,
+            "min": 9.69,
+            "open": 9.78,
+            "volume": 289149700000
+        },
+        {
+            "change": -1.6,
+            "close": 9.84,
+            "date": "2022-03-18",
+            "max": 9.92,
+            "min": 9.73,
+            "open": 9.79,
+            "volume": 443202270000
+        },
+        {
+            "change": -2.9,
+            "close": 9.71,
+            "date": "2022-03-21",
+            "max": 9.83,
+            "min": 9.69,
+            "open": 9.8,
+            "volume": 510044960000
+        },
+        {
+            "change": -2.0,
+            "close": 9.8,
+            "date": "2022-03-22",
+            "max": 9.8,
+            "min": 9.65,
+            "open": 9.74,
+            "volume": 504520060000
+        },
+        {
+            "change": -1.0,
+            "close": 9.9,
+            "date": "2022-03-23",
+            "max": 9.95,
+            "min": 9.7,
+            "open": 9.79,
+            "volume": 669194760000
+        },
+        {
+            "change": -0.9,
+            "close": 9.91,
+            "date": "2022-03-24",
+            "max": 9.97,
+            "min": 9.75,
+            "open": 9.92,
+            "volume": 677896180000
+        },
+        {
+            "change": -0.9,
+            "close": 9.91,
+            "date": "2022-03-25",
+            "max": 9.91,
+            "min": 9.77,
+            "open": 9.91,
+            "volume": 547562970000
+        },
+        {
+            "change": -1.3,
+            "close": 9.87,
+            "date": "2022-03-28",
+            "max": 9.98,
+            "min": 9.82,
+            "open": 9.91,
+            "volume": 416766990000
+        },
+        {
+            "change": -1.4,
+            "close": 9.86,
+            "date": "2022-03-29",
+            "max": 9.99,
+            "min": 9.71,
+            "open": 9.89,
+            "volume": 862093800000
+        },
+        {
+            "change": -1.3,
+            "close": 9.87,
+            "date": "2022-03-30",
+            "max": 9.98,
+            "min": 9.84,
+            "open": 9.87,
+            "volume": 639989170000
+        },
+        {
+            "change": -1.3,
+            "close": 9.87,
+            "date": "2022-03-31",
+            "max": 9.95,
+            "min": 9.84,
+            "open": 9.9,
+            "volume": 570970140000
+        },
+        {
+            "change": 0.0,
+            "close": 10.0,
+            "date": "2022-04-01",
+            "max": 10.0,
+            "min": 9.78,
+            "open": 9.94,
+            "volume": 1205050570000
+        },
+        {
+            "change": 1.9,
+            "close": 10.19,
+            "date": "2022-04-04",
+            "max": 10.2,
+            "min": 9.94,
+            "open": 9.96,
+            "volume": 609143570000
+        },
+        {
+            "change": 0.1,
+            "close": 10.01,
+            "date": "2022-04-05",
+            "max": 10.2,
+            "min": 10.0,
+            "open": 10.19,
+            "volume": 899767220000
+        },
+        {
+            "change": 1.3,
+            "close": 10.13,
+            "date": "2022-04-06",
+            "max": 10.19,
+            "min": 10.02,
+            "open": 10.03,
+            "volume": 228847520000
+        },
+        {
+            "change": 1.2,
+            "close": 10.12,
+            "date": "2022-04-07",
+            "max": 10.3,
+            "min": 10.08,
+            "open": 10.17,
+            "volume": 1196838250000
+        },
+        {
+            "change": 1.8,
+            "close": 10.18,
+            "date": "2022-04-08",
+            "max": 10.35,
+            "min": 10.05,
+            "open": 10.3,
+            "volume": 1075660090000
+        },
+        {
+            "change": 2.1,
+            "close": 10.21,
+            "date": "2022-04-11",
+            "max": 10.35,
+            "min": 10.05,
+            "open": 10.17,
+            "volume": 455026210000
+        },
+        {
+            "change": 0.5,
+            "close": 10.05,
+            "date": "2022-04-12",
+            "max": 10.25,
+            "min": 10.03,
+            "open": 10.11,
+            "volume": 843577270000
+        },
+        {
+            "change": 2.1,
+            "close": 10.21,
+            "date": "2022-04-13",
+            "max": 10.23,
+            "min": 10.0,
+            "open": 10.23,
+            "volume": 926742130000
+        },
+        {
+            "change": 1.9,
+            "close": 10.19,
+            "date": "2022-04-14",
+            "max": 10.25,
+            "min": 10.15,
+            "open": 10.21,
+            "volume": 701074260000
+        },
+        {
+            "change": 2.8,
+            "close": 10.28,
+            "date": "2022-04-18",
+            "max": 10.54,
+            "min": 10.16,
+            "open": 10.28,
+            "volume": 809827350000
+        },
+        {
+            "change": 5.8,
+            "close": 10.58,
+            "date": "2022-04-19",
+            "max": 10.87,
+            "min": 10.34,
+            "open": 10.35,
+            "volume": 1238955100000
+        },
+        {
+            "change": 4.7,
+            "close": 10.47,
+            "date": "2022-04-20",
+            "max": 10.6,
+            "min": 10.23,
+            "open": 10.58,
+            "volume": 750388080000
+        },
+        {
+            "change": 5.3,
+            "close": 10.53,
+            "date": "2022-04-22",
+            "max": 10.59,
+            "min": 10.47,
+            "open": 10.5,
+            "volume": 325290510000
+        },
+        {
+            "change": 4.5,
+            "close": 10.45,
+            "date": "2022-04-25",
+            "max": 10.79,
+            "min": 10.43,
+            "open": 10.54,
+            "volume": 713207910000
+        },
+        {
+            "change": 4.4,
+            "close": 10.44,
+            "date": "2022-04-26",
+            "max": 10.78,
+            "min": 10.13,
+            "open": 10.45,
+            "volume": 908500590000
+        },
+        {
+            "change": 1.5,
+            "close": 10.15,
+            "date": "2022-04-27",
+            "max": 10.6,
+            "min": 10.07,
+            "open": 10.44,
+            "volume": 1517751580000
+        },
+        {
+            "change": 1.5,
+            "close": 10.15,
+            "date": "2022-04-28",
+            "max": 10.32,
+            "min": 10.09,
+            "open": 10.2,
+            "volume": 677115330000
+        },
+        {
+            "change": 3.9,
+            "close": 10.39,
+            "date": "2022-04-29",
+            "max": 10.4,
+            "min": 10.15,
+            "open": 10.2,
+            "volume": 589797210000
+        },
+        {
+            "change": 2.7,
+            "close": 10.27,
+            "date": "2022-05-02",
+            "max": 10.44,
+            "min": 10.11,
+            "open": 10.24,
+            "volume": 409382430000
+        },
+        {
+            "change": 2.5,
+            "close": 10.25,
+            "date": "2022-05-03",
+            "max": 10.37,
+            "min": 10.15,
+            "open": 10.19,
+            "volume": 530072470000
+        },
+        {
+            "change": 3.3,
+            "close": 10.33,
+            "date": "2022-05-04",
+            "max": 10.35,
+            "min": 10.25,
+            "open": 10.26,
+            "volume": 172321130000
+        },
+        {
+            "change": 2.3,
+            "close": 10.23,
+            "date": "2022-05-05",
+            "max": 10.4,
+            "min": 10.22,
+            "open": 10.33,
+            "volume": 458477140000
+        },
+        {
+            "change": 1.5,
+            "close": 10.15,
+            "date": "2022-05-06",
+            "max": 10.35,
+            "min": 10.15,
+            "open": 10.29,
+            "volume": 688347850000
+        },
+        {
+            "change": 1.6,
+            "close": 10.16,
+            "date": "2022-05-09",
+            "max": 10.23,
+            "min": 10.03,
+            "open": 10.17,
+            "volume": 450143180000
+        },
+        {
+            "change": 1.9,
+            "close": 10.19,
+            "date": "2022-05-10",
+            "max": 10.19,
+            "min": 10.05,
+            "open": 10.17,
+            "volume": 623147780000
+        },
+        {
+            "change": 0.9,
+            "close": 10.09,
+            "date": "2022-05-11",
+            "max": 10.29,
+            "min": 10.06,
+            "open": 10.18,
+            "volume": 695586470000
+        },
+        {
+            "change": 1.2,
+            "close": 10.12,
+            "date": "2022-05-12",
+            "max": 10.17,
+            "min": 10.05,
+            "open": 10.09,
+            "volume": 488603050000
+        },
+        {
+            "change": 3.5,
+            "close": 10.35,
+            "date": "2022-05-13",
+            "max": 10.44,
+            "min": 10.07,
+            "open": 10.16,
+            "volume": 780350710000
+        },
+        {
+            "change": 1.7,
+            "close": 10.17,
+            "date": "2022-05-16",
+            "max": 10.54,
+            "min": 10.15,
+            "open": 10.54,
+            "volume": 1572100830000
+        },
+        {
+            "change": -0.2,
+            "close": 9.98,
+            "date": "2022-05-17",
+            "max": 10.23,
+            "min": 9.92,
+            "open": 10.16,
+            "volume": 1928832120000
+        },
+        {
+            "change": 1.4,
+            "close": 10.14,
+            "date": "2022-05-18",
+            "max": 10.2,
+            "min": 10.03,
+            "open": 10.03,
+            "volume": 567154570000
+        },
+        {
+            "change": -0.3,
+            "close": 9.97,
+            "date": "2022-05-19",
+            "max": 10.15,
+            "min": 9.9,
+            "open": 10.14,
+            "volume": 1300813920000
+        },
+        {
+            "change": -0.2,
+            "close": 9.98,
+            "date": "2022-05-20",
+            "max": 10.02,
+            "min": 9.97,
+            "open": 9.97,
+            "volume": 442363430000
+        },
+        {
+            "change": 0.0,
+            "close": 10.0,
+            "date": "2022-05-23",
+            "max": 10.05,
+            "min": 9.98,
+            "open": 10.0,
+            "volume": 854549820000
+        },
+        {
+            "change": 0.4,
+            "close": 10.04,
+            "date": "2022-05-24",
+            "max": 10.1,
+            "min": 9.99,
+            "open": 10.01,
+            "volume": 486219730000
+        },
+        {
+            "change": 0.6,
+            "close": 10.06,
+            "date": "2022-05-25",
+            "max": 10.15,
+            "min": 10.04,
+            "open": 10.09,
+            "volume": 500310030000
+        },
+        {
+            "change": 0.2,
+            "close": 10.02,
+            "date": "2022-05-26",
+            "max": 10.14,
+            "min": 9.93,
+            "open": 10.14,
+            "volume": 1182525170000
+        },
+        {
+            "change": 0.2,
+            "close": 10.02,
+            "date": "2022-05-27",
+            "max": 10.07,
+            "min": 9.95,
+            "open": 10.06,
+            "volume": 645692190000
+        },
+        {
+            "change": 0.3,
+            "close": 10.03,
+            "date": "2022-05-30",
+            "max": 10.12,
+            "min": 10.0,
+            "open": 10.0,
+            "volume": 698869640000
+        },
+        {
+            "change": 0.6,
+            "close": 10.06,
+            "date": "2022-05-31",
+            "max": 10.11,
+            "min": 9.99,
+            "open": 10.09,
+            "volume": 739506000000
+        },
+        {
+            "change": -0.6,
+            "close": 9.94,
+            "date": "2022-06-01",
+            "max": 10.02,
+            "min": 9.83,
+            "open": 10.02,
+            "volume": 1562634100000
+        },
+        {
+            "change": -0.5,
+            "close": 9.95,
+            "date": "2022-06-02",
+            "max": 9.99,
+            "min": 9.87,
+            "open": 9.94,
+            "volume": 1054864130000
+        },
+        {
+            "change": -0.7,
+            "close": 9.93,
+            "date": "2022-06-03",
+            "max": 9.96,
+            "min": 9.87,
+            "open": 9.91,
+            "volume": 1378753580000
+        },
+        {
+            "change": -0.3,
+            "close": 9.97,
+            "date": "2022-06-06",
+            "max": 10.0,
+            "min": 9.91,
+            "open": 9.95,
+            "volume": 807777390000
+        },
+        {
+            "change": -0.2,
+            "close": 9.98,
+            "date": "2022-06-07",
+            "max": 10.0,
+            "min": 9.93,
+            "open": 9.97,
+            "volume": 694671740000
+        },
+        {
+            "change": -0.5,
+            "close": 9.95,
+            "date": "2022-06-08",
+            "max": 10.0,
+            "min": 9.94,
+            "open": 9.98,
+            "volume": 571500520000
+        },
+        {
+            "change": -0.6,
+            "close": 9.94,
+            "date": "2022-06-09",
+            "max": 9.98,
+            "min": 9.92,
+            "open": 9.98,
+            "volume": 412631920000
+        },
+        {
+            "change": -0.4,
+            "close": 9.96,
+            "date": "2022-06-10",
+            "max": 9.99,
+            "min": 9.93,
+            "open": 9.95,
+            "volume": 750427320000
+        },
+        {
+            "change": -0.4,
+            "close": 9.96,
+            "date": "2022-06-13",
+            "max": 9.96,
+            "min": 9.88,
+            "open": 9.96,
+            "volume": 970456410000
+        },
+        {
+            "change": -0.5,
+            "close": 9.95,
+            "date": "2022-06-14",
+            "max": 9.98,
+            "min": 9.91,
+            "open": 9.95,
+            "volume": 915404140000
+        },
+        {
+            "change": -1.1,
+            "close": 9.89,
+            "date": "2022-06-15",
+            "max": 9.95,
+            "min": 9.87,
+            "open": 9.94,
+            "volume": 902375810000
+        },
+        {
+            "change": -0.7,
+            "close": 9.93,
+            "date": "2022-06-17",
+            "max": 9.97,
+            "min": 9.88,
+            "open": 9.91,
+            "volume": 520616280000
+        },
+        {
+            "change": -0.6,
+            "close": 9.94,
+            "date": "2022-06-20",
+            "max": 9.98,
+            "min": 9.92,
+            "open": 9.95,
+            "volume": 813180590000
+        },
+        {
+            "change": 0.0,
+            "close": 10.0,
+            "date": "2022-06-21",
+            "max": 10.0,
+            "min": 9.9,
+            "open": 9.94,
+            "volume": 648983400000
+        },
+        {
+            "change": -1.1,
+            "close": 9.89,
+            "date": "2022-06-22",
+            "max": 10.0,
+            "min": 9.85,
+            "open": 10.0,
+            "volume": 1267083620000
+        },
+        {
+            "change": -0.5,
+            "close": 9.95,
+            "date": "2022-06-23",
+            "max": 9.99,
+            "min": 9.89,
+            "open": 9.95,
+            "volume": 395254530000
+        },
+        {
+            "change": 0.7,
+            "close": 10.07,
+            "date": "2022-06-24",
+            "max": 10.1,
+            "min": 9.92,
+            "open": 9.92,
+            "volume": 515181230000
+        },
+        {
+            "change": 0.5,
+            "close": 10.05,
+            "date": "2022-06-27",
+            "max": 10.09,
+            "min": 10.03,
+            "open": 10.07,
+            "volume": 437298320000
+        },
+        {
+            "change": -0.7,
+            "close": 9.93,
+            "date": "2022-06-28",
+            "max": 10.07,
+            "min": 9.92,
+            "open": 10.05,
+            "volume": 1213738660000
+        },
+        {
+            "change": 0.6,
+            "close": 10.06,
+            "date": "2022-06-29",
+            "max": 10.07,
+            "min": 9.94,
+            "open": 9.97,
+            "volume": 844104690000
+        },
+        {
+            "change": 1.9,
+            "close": 10.19,
+            "date": "2022-06-30",
+            "max": 10.2,
+            "min": 10.0,
+            "open": 10.02,
+            "volume": 1128154580000
+        },
+        {
+            "change": 1.0,
+            "close": 10.1,
+            "date": "2022-07-01",
+            "max": 10.1,
+            "min": 9.95,
+            "open": 10.08,
+            "volume": 653017590000
+        },
+        {
+            "change": 0.0,
+            "close": 10.0,
+            "date": "2022-07-04",
+            "max": 10.1,
+            "min": 9.98,
+            "open": 10.06,
+            "volume": 581605720000
+        },
+        {
+            "change": 1.8,
+            "close": 10.18,
+            "date": "2022-07-05",
+            "max": 10.19,
+            "min": 10.0,
+            "open": 10.02,
+            "volume": 387965990000
+        },
+        {
+            "change": 1.7,
+            "close": 10.17,
+            "date": "2022-07-06",
+            "max": 10.8,
+            "min": 10.1,
+            "open": 10.17,
+            "volume": 623015380000
+        },
+        {
+            "change": 1.5,
+            "close": 10.15,
+            "date": "2022-07-07",
+            "max": 10.29,
+            "min": 10.15,
+            "open": 10.16,
+            "volume": 348451040000
+        },
+        {
+            "change": 0.8,
+            "close": 10.08,
+            "date": "2022-07-08",
+            "max": 10.2,
+            "min": 10.02,
+            "open": 10.15,
+            "volume": 475093390000
+        },
+        {
+            "change": 1.7,
+            "close": 10.17,
+            "date": "2022-07-11",
+            "max": 10.38,
+            "min": 10.03,
+            "open": 10.1,
+            "volume": 495893100000
+        },
+        {
+            "change": 0.3,
+            "close": 10.03,
+            "date": "2022-07-12",
+            "max": 10.13,
+            "min": 10.03,
+            "open": 10.12,
+            "volume": 414969550000
+        },
+        {
+            "change": 0.2,
+            "close": 10.02,
+            "date": "2022-07-13",
+            "max": 10.14,
+            "min": 10.0,
+            "open": 10.09,
+            "volume": 1085431600000
+        },
+        {
+            "change": 1.4,
+            "close": 10.14,
+            "date": "2022-07-14",
+            "max": 10.14,
+            "min": 10.0,
+            "open": 10.03,
+            "volume": 640742680000
+        },
+        {
+            "change": 3.0,
+            "close": 10.3,
+            "date": "2022-07-15",
+            "max": 10.42,
+            "min": 10.04,
+            "open": 10.17,
+            "volume": 787212830000
+        },
+        {
+            "change": 2.6,
+            "close": 10.26,
+            "date": "2022-07-18",
+            "max": 10.36,
+            "min": 10.12,
+            "open": 10.35,
+            "volume": 432016870000
+        },
+        {
+            "change": 3.5,
+            "close": 10.35,
+            "date": "2022-07-19",
+            "max": 10.38,
+            "min": 10.17,
+            "open": 10.3,
+            "volume": 392886250000
+        },
+        {
+            "change": 3.0,
+            "close": 10.3,
+            "date": "2022-07-20",
+            "max": 10.35,
+            "min": 10.25,
+            "open": 10.34,
+            "volume": 313545260000
+        },
+        {
+            "change": 3.9,
+            "close": 10.39,
+            "date": "2022-07-21",
+            "max": 10.39,
+            "min": 10.29,
+            "open": 10.3,
+            "volume": 313203290000
+        },
+        {
+            "change": 2.6,
+            "close": 10.26,
+            "date": "2022-07-22",
+            "max": 10.43,
+            "min": 10.26,
+            "open": 10.39,
+            "volume": 633878030000
+        },
+        {
+            "change": 2.5,
+            "close": 10.25,
+            "date": "2022-07-25",
+            "max": 10.32,
+            "min": 10.16,
+            "open": 10.3,
+            "volume": 512338530000
+        },
+        {
+            "change": 2.0,
+            "close": 10.2,
+            "date": "2022-07-26",
+            "max": 10.3,
+            "min": 10.18,
+            "open": 10.28,
+            "volume": 604802720000
+        },
+        {
+            "change": 1.9,
+            "close": 10.19,
+            "date": "2022-07-27",
+            "max": 10.33,
+            "min": 10.13,
+            "open": 10.2,
+            "volume": 1561826860000
+        },
+        {
+            "change": 2.7,
+            "close": 10.27,
+            "date": "2022-07-28",
+            "max": 10.29,
+            "min": 10.19,
+            "open": 10.2,
+            "volume": 221714790000
+        },
+        {
+            "change": 3.4,
+            "close": 10.34,
+            "date": "2022-07-29",
+            "max": 10.42,
+            "min": 10.27,
+            "open": 10.27,
+            "volume": 596406550000
+        },
+        {
+            "change": 1.5,
+            "close": 10.15,
+            "date": "2022-08-01",
+            "max": 10.32,
+            "min": 10.08,
+            "open": 10.32,
+            "volume": 628475080000
+        },
+        {
+            "change": 2.4,
+            "close": 10.24,
+            "date": "2022-08-02",
+            "max": 10.26,
+            "min": 10.16,
+            "open": 10.17,
+            "volume": 503093650000
+        },
+        {
+            "change": 5.6,
+            "close": 10.56,
+            "date": "2022-08-03",
+            "max": 10.89,
+            "min": 10.22,
+            "open": 10.24,
+            "volume": 1233564100000
+        },
+        {
+            "change": 7.0,
+            "close": 10.7,
+            "date": "2022-08-04",
+            "max": 10.75,
+            "min": 10.3,
+            "open": 10.48,
+            "volume": 1794674130000
+        },
+        {
+            "change": 7.0,
+            "close": 10.7,
+            "date": "2022-08-05",
+            "max": 10.7,
+            "min": 10.4,
+            "open": 10.49,
+            "volume": 2158615900000
+        },
+        {
+            "change": 5.1,
+            "close": 10.51,
+            "date": "2022-08-08",
+            "max": 10.75,
+            "min": 10.42,
+            "open": 10.6,
+            "volume": 831123170000
+        },
+        {
+            "change": 9.5,
+            "close": 10.95,
+            "date": "2022-08-09",
+            "max": 10.95,
+            "min": 10.51,
+            "open": 10.62,
+            "volume": 1406200370000
+        },
+        {
+            "change": 6.3,
+            "close": 10.63,
+            "date": "2022-08-10",
+            "max": 10.94,
+            "min": 10.57,
+            "open": 10.76,
+            "volume": 1245333870000
+        },
+        {
+            "change": 5.1,
+            "close": 10.51,
+            "date": "2022-08-11",
+            "max": 10.74,
+            "min": 10.4,
+            "open": 10.74,
+            "volume": 961155770000
+        },
+        {
+            "change": 3.7,
+            "close": 10.37,
+            "date": "2022-08-12",
+            "max": 10.65,
+            "min": 10.34,
+            "open": 10.35,
+            "volume": 876909110000
+        },
+        {
+            "change": 7.9,
+            "close": 10.79,
+            "date": "2022-08-15",
+            "max": 10.79,
+            "min": 10.37,
+            "open": 10.37,
+            "volume": 720659160000
+        },
+        {
+            "change": 6.0,
+            "close": 10.6,
+            "date": "2022-08-16",
+            "max": 10.78,
+            "min": 10.55,
+            "open": 10.78,
+            "volume": 1081474470000
+        },
+        {
+            "change": 3.7,
+            "close": 10.37,
+            "date": "2022-08-17",
+            "max": 10.69,
+            "min": 10.27,
+            "open": 10.65,
+            "volume": 1744785500000
+        },
+        {
+            "change": 4.0,
+            "close": 10.4,
+            "date": "2022-08-18",
+            "max": 10.48,
+            "min": 10.34,
+            "open": 10.39,
+            "volume": 860209130000
+        },
+        {
+            "change": 2.5,
+            "close": 10.25,
+            "date": "2022-08-19",
+            "max": 10.49,
+            "min": 10.23,
+            "open": 10.4,
+            "volume": 2028546360000
+        },
+        {
+            "change": 3.0,
+            "close": 10.3,
+            "date": "2022-08-22",
+            "max": 10.44,
+            "min": 10.19,
+            "open": 10.34,
+            "volume": 1690322750000
+        },
+        {
+            "change": 4.6,
+            "close": 10.46,
+            "date": "2022-08-23",
+            "max": 10.6,
+            "min": 10.24,
+            "open": 10.35,
+            "volume": 1089738150000
+        },
+        {
+            "change": 6.3,
+            "close": 10.63,
+            "date": "2022-08-24",
+            "max": 10.64,
+            "min": 10.46,
+            "open": 10.46,
+            "volume": 733448380000
+        },
+        {
+            "change": 7.0,
+            "close": 10.7,
+            "date": "2022-08-25",
+            "max": 10.73,
+            "min": 10.59,
+            "open": 10.63,
+            "volume": 1241759470000
+        },
+        {
+            "change": 8.4,
+            "close": 10.84,
+            "date": "2022-08-26",
+            "max": 10.87,
+            "min": 10.65,
+            "open": 10.7,
+            "volume": 931445800000
+        },
+        {
+            "change": 9.0,
+            "close": 10.9,
+            "date": "2022-08-29",
+            "max": 10.9,
+            "min": 10.76,
+            "open": 10.84,
+            "volume": 843417950000
+        },
+        {
+            "change": 12.4,
+            "close": 11.24,
+            "date": "2022-08-30",
+            "max": 11.5,
+            "min": 10.87,
+            "open": 10.88,
+            "volume": 1349847900000
+        },
+        {
+            "change": 10.2,
+            "close": 11.02,
+            "date": "2022-08-31",
+            "max": 11.55,
+            "min": 10.88,
+            "open": 11.19,
+            "volume": 1445238340000
+        },
+        {
+            "change": 10.0,
+            "close": 11.0,
+            "date": "2022-09-01",
+            "max": 11.26,
+            "min": 10.8,
+            "open": 10.92,
+            "volume": 731630250000
+        },
+        {
+            "change": 8.6,
+            "close": 10.86,
+            "date": "2022-09-02",
+            "max": 11.0,
+            "min": 10.78,
+            "open": 11.0,
+            "volume": 1370992430000
+        },
+        {
+            "change": 9.0,
+            "close": 10.9,
+            "date": "2022-09-05",
+            "max": 10.98,
+            "min": 10.78,
+            "open": 10.86,
+            "volume": 776913810000
+        },
+        {
+            "change": 9.2,
+            "close": 10.92,
+            "date": "2022-09-06",
+            "max": 10.93,
+            "min": 10.8,
+            "open": 10.89,
+            "volume": 1213162800000
+        },
+        {
+            "change": 5.9,
+            "close": 10.59,
+            "date": "2022-09-08",
+            "max": 10.89,
+            "min": 10.26,
+            "open": 10.84,
+            "volume": 1886182470000
+        },
+        {
+            "change": 6.9,
+            "close": 10.69,
+            "date": "2022-09-09",
+            "max": 10.69,
+            "min": 10.5,
+            "open": 10.59,
+            "volume": 1004141920000
+        },
+        {
+            "change": 6.9,
+            "close": 10.69,
+            "date": "2022-09-12",
+            "max": 10.7,
+            "min": 10.33,
+            "open": 10.68,
+            "volume": 1554633330000
+        },
+        {
+            "change": 4.4,
+            "close": 10.44,
+            "date": "2022-09-13",
+            "max": 10.55,
+            "min": 10.22,
+            "open": 10.53,
+            "volume": 782118560000
+        },
+        {
+            "change": 3.5,
+            "close": 10.35,
+            "date": "2022-09-14",
+            "max": 10.49,
+            "min": 10.24,
+            "open": 10.43,
+            "volume": 977741150000
+        },
+        {
+            "change": 0.8,
+            "close": 10.08,
+            "date": "2022-09-15",
+            "max": 10.45,
+            "min": 10.05,
+            "open": 10.39,
+            "volume": 2509652360000
+        },
+        {
+            "change": 0.0,
+            "close": 10.0,
+            "date": "2022-09-16",
+            "max": 10.11,
+            "min": 9.98,
+            "open": 10.08,
+            "volume": 1932718560000
+        },
+        {
+            "change": 0.7,
+            "close": 10.07,
+            "date": "2022-09-19",
+            "max": 10.16,
+            "min": 9.98,
+            "open": 10.1,
+            "volume": 1665196310000
+        },
+        {
+            "change": 0.2,
+            "close": 10.02,
+            "date": "2022-09-20",
+            "max": 10.11,
+            "min": 10.0,
+            "open": 10.11,
+            "volume": 2849712980000
+        },
+        {
+            "change": 0.3,
+            "close": 10.03,
+            "date": "2022-09-21",
+            "max": 10.05,
+            "min": 10.01,
+            "open": 10.02,
+            "volume": 1564139410000
+        },
+        {
+            "change": 0.1,
+            "close": 10.01,
+            "date": "2022-09-22",
+            "max": 10.09,
+            "min": 10.01,
+            "open": 10.03,
+            "volume": 1830367090000
+        },
+        {
+            "change": 0.0,
+            "close": 10.0,
+            "date": "2022-09-23",
+            "max": 10.04,
+            "min": 9.99,
+            "open": 10.03,
+            "volume": 2586363200000
+        },
+        {
+            "change": 0.7,
+            "close": 10.07,
+            "date": "2022-09-26",
+            "max": 10.1,
+            "min": 10.03,
+            "open": 10.03,
+            "volume": 1282603290000
+        },
+        {
+            "change": 1.7,
+            "close": 10.17,
+            "date": "2022-09-27",
+            "max": 10.22,
+            "min": 10.07,
+            "open": 10.08,
+            "volume": 1662126790000
+        },
+        {
+            "change": 2.8,
+            "close": 10.28,
+            "date": "2022-09-28",
+            "max": 10.38,
+            "min": 10.18,
+            "open": 10.2,
+            "volume": 1148033260000
+        },
+        {
+            "change": 2.2,
+            "close": 10.22,
+            "date": "2022-09-29",
+            "max": 10.38,
+            "min": 10.17,
+            "open": 10.18,
+            "volume": 1946849000000
+        },
+        {
+            "change": 2.5,
+            "close": 10.25,
+            "date": "2022-09-30",
+            "max": 10.38,
+            "min": 10.1,
+            "open": 10.24,
+            "volume": 1557229760000
+        },
+        {
+            "change": 0.2,
+            "close": 10.02,
+            "date": "2022-10-03",
+            "max": 10.15,
+            "min": 10.01,
+            "open": 10.1,
+            "volume": 2115222200000
+        },
+        {
+            "change": 0.2,
+            "close": 10.02,
+            "date": "2022-10-04",
+            "max": 10.32,
+            "min": 9.99,
+            "open": 10.03,
+            "volume": 4383205060000
+        },
+        {
+            "change": 0.5,
+            "close": 10.05,
+            "date": "2022-10-05",
+            "max": 10.05,
+            "min": 9.99,
+            "open": 10.02,
+            "volume": 2476486790000
+        },
+        {
+            "change": 0.1,
+            "close": 10.01,
+            "date": "2022-10-06",
+            "max": 10.05,
+            "min": 9.99,
+            "open": 10.04,
+            "volume": 1555022490000
+        },
+        {
+            "change": 0.1,
+            "close": 10.01,
+            "date": "2022-10-07",
+            "max": 10.14,
+            "min": 10.0,
+            "open": 10.05,
+            "volume": 3678403790000
+        },
+        {
+            "change": 0.2,
+            "close": 10.02,
+            "date": "2022-10-10",
+            "max": 10.05,
+            "min": 10.01,
+            "open": 10.03,
+            "volume": 1988280350000
+        },
+        {
+            "change": 0.2,
+            "close": 10.02,
+            "date": "2022-10-11",
+            "max": 10.09,
+            "min": 10.02,
+            "open": 10.04,
+            "volume": 1879263140000
+        },
+        {
+            "change": 0.0,
+            "close": 10.0,
+            "date": "2022-10-13",
+            "max": 10.06,
+            "min": 9.99,
+            "open": 10.04,
+            "volume": 1973403020000
+        },
+        {
+            "change": 0.2,
+            "close": 10.02,
+            "date": "2022-10-14",
+            "max": 10.03,
+            "min": 10.0,
+            "open": 10.03,
+            "volume": 1366622000000
+        },
+        {
+            "change": 0.4,
+            "close": 10.04,
+            "date": "2022-10-17",
+            "max": 10.07,
+            "min": 10.0,
+            "open": 10.04,
+            "volume": 1512534560000
+        },
+        {
+            "change": 0.9,
+            "close": 10.09,
+            "date": "2022-10-18",
+            "max": 10.13,
+            "min": 10.03,
+            "open": 10.03,
+            "volume": 776068550000
+        },
+        {
+            "change": 0.7,
+            "close": 10.07,
+            "date": "2022-10-19",
+            "max": 10.12,
+            "min": 10.02,
+            "open": 10.08,
+            "volume": 1710491310000
+        },
+        {
+            "change": 1.8,
+            "close": 10.18,
+            "date": "2022-10-20",
+            "max": 10.23,
+            "min": 10.07,
+            "open": 10.09,
+            "volume": 918954090000
+        },
+        {
+            "change": 1.2,
+            "close": 10.12,
+            "date": "2022-10-21",
+            "max": 10.24,
+            "min": 10.1,
+            "open": 10.2,
+            "volume": 2122925130000
+        },
+        {
+            "change": 1.2,
+            "close": 10.12,
+            "date": "2022-10-24",
+            "max": 10.18,
+            "min": 10.12,
+            "open": 10.14,
+            "volume": 1233369160000
+        },
+        {
+            "change": 2.2,
+            "close": 10.22,
+            "date": "2022-10-25",
+            "max": 10.23,
+            "min": 10.14,
+            "open": 10.14,
+            "volume": 930921210000
+        },
+        {
+            "change": 2.9,
+            "close": 10.29,
+            "date": "2022-10-26",
+            "max": 10.31,
+            "min": 10.2,
+            "open": 10.22,
+            "volume": 1011689560000
+        },
+        {
+            "change": 3.0,
+            "close": 10.3,
+            "date": "2022-10-27",
+            "max": 10.33,
+            "min": 10.27,
+            "open": 10.28,
+            "volume": 676327670000
+        },
+        {
+            "change": 2.6,
+            "close": 10.26,
+            "date": "2022-10-28",
+            "max": 10.29,
+            "min": 10.24,
+            "open": 10.28,
+            "volume": 738968790000
+        },
+        {
+            "change": 2.6,
+            "close": 10.26,
+            "date": "2022-10-31",
+            "max": 10.28,
+            "min": 10.2,
+            "open": 10.24,
+            "volume": 1138490310000
+        },
+        {
+            "change": 2.7,
+            "close": 10.27,
+            "date": "2022-11-01",
+            "max": 10.31,
+            "min": 10.08,
+            "open": 10.09,
+            "volume": 2588524530000
+        },
+        {
+            "change": 3.0,
+            "close": 10.3,
+            "date": "2022-11-03",
+            "max": 10.38,
+            "min": 10.22,
+            "open": 10.27,
+            "volume": 2164179920000
+        },
+        {
+            "change": 3.6,
+            "close": 10.36,
+            "date": "2022-11-04",
+            "max": 10.37,
+            "min": 10.28,
+            "open": 10.34,
+            "volume": 1250506230000
+        },
+        {
+            "change": 3.7,
+            "close": 10.37,
+            "date": "2022-11-07",
+            "max": 10.4,
+            "min": 10.32,
+            "open": 10.37,
+            "volume": 657893820000
+        },
+        {
+            "change": 2.1,
+            "close": 10.21,
+            "date": "2022-11-08",
+            "max": 10.4,
+            "min": 10.21,
+            "open": 10.37,
+            "volume": 983156100000
+        },
+        {
+            "change": 0.2,
+            "close": 10.02,
+            "date": "2022-11-09",
+            "max": 10.19,
+            "min": 9.99,
+            "open": 10.19,
+            "volume": 5676696840000
+        }
+    ],
+    "propriedades": [],
+    "segmento": "T\u00edtulos",
+    "snowflake": {
+        "crescimento": {
+            "cagr_alugeis_1": 0,
+            "cagr_ativo_1": 1.23,
+            "cagr_patrimonio_liquido": 1.22,
+            "cagr_vpa_1": 1.22,
+            "cagr_vpa_3": 0.3,
+            "cmgr_alugeis_6m": 0
+        },
+        "dividends": {
+            "cagr_dividens_1": -0.94,
+            "cagr_dividens_3": -0.61,
+            "cagr_dy_1": 0.66,
+            "cagr_dy_3": 0,
+            "cagr_dy_5": 0,
+            "dy": 15.33
+        },
+        "medias_segmento": {
+            "dividends": {
+                "cagr_dy_3": -0.06,
+                "dy": 10.8
+            },
+            "mercado": {
+                "custo_adm_med": 232835.76,
+                "liquidez_med": 735204290847.46
+            },
+            "operacao": {
+                "patrimonio_liquido": 555876695.52,
+                "pl_cx": 9.46,
+                "vacancia": 0.71
+            },
+            "valuation": {
+                "p_vpa_med": 0.84
+            }
+        },
+        "mercado": {
+            "custo_adm_med": 120503.435,
+            "ifix": 0,
+            "liquidez_med": 722733315000.0
+        },
+        "operacao": {
+            "contratos_vencimento": 0,
+            "estados": 0,
+            "imoveis": 0,
+            "patrimonio_liquido": 298484344.6,
+            "pl_cx": 23.5,
+            "vacancia": 0,
+            "vacancia_1": 0,
+            "vacancia_3m": 0
+        },
+        "valuation": {
+            "p_vpa": 1.05,
+            "p_vpa_med": 1.05,
+            "price": 10.02,
+            "valuation": 14.0
+        }
+    },
+    "ticker": "XPCA11",
+    "vacancia": []
+}

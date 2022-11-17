@@ -23,7 +23,7 @@
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 7.8298
+            "precentual": 7.4982
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
@@ -47,11 +47,11 @@
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 15.0077
+            "precentual": 14.3722
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 77.1625
+            "precentual": 78.1296
         },
         {
             "prazo": "Prazo indeterminado",
@@ -139,13 +139,18 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.072
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.072
         }
     ],
     "fii": [
         {
             "nome": "FII EQI RECE - EQIR11",
-            "quantidade": 30000.0,
-            "valor": 2835000.0
+            "quantidade": 300000.0,
+            "valor": 2940000.0
         }
     ],
     "gestao": "Ativa",
@@ -371,6 +376,19 @@
             "patrimonio_liquido": 255882653.78,
             "receita_aluguel": 2147304.0,
             "valor_patrimonio_cotas": 9.49605
+        },
+        {
+            "ativo": 382062477.42,
+            "caixa": 27365640.08,
+            "competencia": "10/2022",
+            "cotas_emitidas": 26946220.0,
+            "cotistas": 9275,
+            "despesa_administracao": 165229.86,
+            "dy": 0.7582,
+            "numero_cotas": 26946220.0,
+            "patrimonio_liquido": 256568105.47,
+            "receita_aluguel": 2147304.0,
+            "valor_patrimonio_cotas": 9.521488
         }
     ],
     "indexador_reajuste_contrato": [
@@ -384,14 +402,14 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 84.9923
+            "precentual": 85.6278
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRVIURCTF009",
     "lci": [],
     "mandato": "Renda",
@@ -3492,6 +3510,132 @@
             "min": 8.06,
             "open": 8.16,
             "volume": 162515330000
+        },
+        {
+            "change": -91.86,
+            "close": 8.14,
+            "date": "2022-10-20",
+            "max": 8.17,
+            "min": 8.11,
+            "open": 8.12,
+            "volume": 155444440000
+        },
+        {
+            "change": -91.91,
+            "close": 8.09,
+            "date": "2022-10-21",
+            "max": 8.29,
+            "min": 8.0,
+            "open": 8.13,
+            "volume": 346492790000
+        },
+        {
+            "change": -91.85,
+            "close": 8.15,
+            "date": "2022-10-24",
+            "max": 8.2,
+            "min": 8.1,
+            "open": 8.15,
+            "volume": 163638560000
+        },
+        {
+            "change": -91.87,
+            "close": 8.13,
+            "date": "2022-10-25",
+            "max": 8.29,
+            "min": 8.05,
+            "open": 8.15,
+            "volume": 396921240000
+        },
+        {
+            "change": -91.86,
+            "close": 8.14,
+            "date": "2022-10-26",
+            "max": 8.2,
+            "min": 8.05,
+            "open": 8.15,
+            "volume": 215885040000
+        },
+        {
+            "change": -91.9,
+            "close": 8.1,
+            "date": "2022-10-27",
+            "max": 8.14,
+            "min": 8.0,
+            "open": 8.14,
+            "volume": 284911280000
+        },
+        {
+            "change": -91.88,
+            "close": 8.12,
+            "date": "2022-10-28",
+            "max": 8.25,
+            "min": 8.03,
+            "open": 8.13,
+            "volume": 299549380000
+        },
+        {
+            "change": -91.91,
+            "close": 8.09,
+            "date": "2022-10-31",
+            "max": 8.11,
+            "min": 8.05,
+            "open": 8.11,
+            "volume": 183719980000
+        },
+        {
+            "change": -92.06,
+            "close": 7.94,
+            "date": "2022-11-01",
+            "max": 8.09,
+            "min": 7.91,
+            "open": 8.09,
+            "volume": 355447000000
+        },
+        {
+            "change": -92.0,
+            "close": 8.0,
+            "date": "2022-11-03",
+            "max": 8.0,
+            "min": 7.93,
+            "open": 7.95,
+            "volume": 372155190000
+        },
+        {
+            "change": -91.92,
+            "close": 8.08,
+            "date": "2022-11-04",
+            "max": 8.08,
+            "min": 8.02,
+            "open": 8.02,
+            "volume": 135691190000
+        },
+        {
+            "change": -91.97,
+            "close": 8.03,
+            "date": "2022-11-07",
+            "max": 8.1,
+            "min": 8.0,
+            "open": 8.08,
+            "volume": 170927090000
+        },
+        {
+            "change": -91.92,
+            "close": 8.08,
+            "date": "2022-11-08",
+            "max": 8.1,
+            "min": 7.95,
+            "open": 8.08,
+            "volume": 530679860000
+        },
+        {
+            "change": -91.94,
+            "close": 8.06,
+            "date": "2022-11-09",
+            "max": 8.11,
+            "min": 7.95,
+            "open": 8.08,
+            "volume": 556035110000
         }
     ],
     "propriedades": [
@@ -3547,11 +3691,11 @@
         },
         {
             "area": 7500.0,
-            "cidade": "Grande Center Rua Oswaldo Cruz (Rua Grande), 415, Centro, S\u00e3o LuisMA \n                \u00c1rea (m2):\n                7.500,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade.",
+            "cidade": "Grand Center Rua Oswaldo Cruz (Rua Grande), 415, Centro, S\u00e3o LuisMA \n                \u00c1rea (m2):\n                7.500,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade.",
             "endereco": "Rua Oswaldo Cruz",
             "estado": "MA",
             "inadimplencia": 0.0,
-            "nome": "Grande Center",
+            "nome": "Grand Center",
             "unidades": 1,
             "vacancia": 0.0
         }
@@ -3560,11 +3704,11 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0.33,
-            "cagr_ativo_1": -0.01,
-            "cagr_patrimonio_liquido": -0.0,
-            "cagr_vpa_1": -0.0,
+            "cagr_ativo_1": -0.03,
+            "cagr_patrimonio_liquido": -0.02,
+            "cagr_vpa_1": -0.02,
             "cagr_vpa_3": -0.0,
-            "cmgr_alugeis_6m": -0.0
+            "cmgr_alugeis_6m": 0.15
         },
         "dividends": {
             "cagr_dividens_1": -0.93,
@@ -3572,37 +3716,37 @@
             "cagr_dy_1": -0.24,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 6.68
+            "dy": 6.73
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.04,
-                "dy": 7.96
+                "cagr_dy_3": -0.02,
+                "dy": 8.08
             },
             "mercado": {
-                "custo_adm_med": 130816.61,
-                "liquidez_med": 448585663333.33
+                "custo_adm_med": 131960.85,
+                "liquidez_med": 432296910147.06
             },
             "operacao": {
-                "patrimonio_liquido": 317634116.94,
-                "pl_cx": 6.52,
-                "vacancia": 1.86
+                "patrimonio_liquido": 331225030.0,
+                "pl_cx": 6.79,
+                "vacancia": 2.48
             },
             "valuation": {
-                "p_vpa_med": 0.91
+                "p_vpa_med": 0.84
             }
         },
         "mercado": {
-            "custo_adm_med": 205327.4,
+            "custo_adm_med": 205225.54499999998,
             "ifix": 0.193,
-            "liquidez_med": 258669175000.0
+            "liquidez_med": 259511165000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 3,
             "imoveis": 6,
-            "patrimonio_liquido": 255882653.78,
-            "pl_cx": 11.04,
+            "patrimonio_liquido": 256568105.47,
+            "pl_cx": 10.67,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
@@ -3610,8 +3754,8 @@
         "valuation": {
             "p_vpa": 0.85,
             "p_vpa_med": 0.77,
-            "price": 8.11,
-            "valuation": 60.27
+            "price": 8.06,
+            "valuation": 51.23
         }
     },
     "ticker": "VIUR11",
@@ -3634,6 +3778,10 @@
         },
         {
             "competencia": "02/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "03/2022",
             "total": 0.0
         }
     ]

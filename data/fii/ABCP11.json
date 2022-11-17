@@ -3,59 +3,59 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 5.139
+            "precentual": 14.0825
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 12.8722
+            "precentual": 4.906
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 4.5476
+            "precentual": 8.761
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 9.8698
+            "precentual": 2.9714
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 2.7535
+            "precentual": 0.6469
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 0.6877
+            "precentual": 3.2161
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 3.237
+            "precentual": 4.0775
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 4.1312
+            "precentual": 2.71
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 2.8827
+            "precentual": 2.5403
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 6.3151
+            "precentual": 5.5593
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 5.598
+            "precentual": 2.3527
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 2.2413
+            "precentual": 1.8439
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 28.1643
+            "precentual": 31.7699
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 11.5606
+            "precentual": 14.5622
         }
     ],
     "cri": [],
@@ -384,6 +384,11 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-07T00:00:00",
             "provento": 0.52
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-08T00:00:00",
+            "provento": 0.55
         }
     ],
     "fii": [],
@@ -1312,39 +1317,48 @@
             "patrimonio_liquido": 1121743483.26,
             "receita_aluguel": 15799648.93,
             "valor_patrimonio_cotas": 91.917316
+        },
+        {
+            "ativo": 1131726403.51,
+            "caixa": 20667657.38,
+            "competencia": "10/2022",
+            "cotas_emitidas": 12203832.0,
+            "cotistas": 19597,
+            "despesa_administracao": 93174.53,
+            "dy": 0.5984,
+            "numero_cotas": 12203832.0,
+            "patrimonio_liquido": 1122584730.69,
+            "receita_aluguel": 16066331.72,
+            "valor_patrimonio_cotas": 91.986249
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 3.3989
+            "precentual": 2.1283
         },
         {
             "indexador": "INPC",
-            "precentual": 0.5304
+            "precentual": 0.2484
         },
         {
             "indexador": "IPCA",
-            "precentual": 11.6353
+            "precentual": 12.3821
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
         },
         {
-            "indexador": "IGP-DI",
-            "precentual": 77.7033
+            "indexador": "IPC - FIPE",
+            "precentual": 80.9982
         },
         {
-            "indexador": "IPC-FIPE",
-            "precentual": 5.4413
-        },
-        {
-            "indexador": "NA",
-            "precentual": 1.2908
+            "indexador": "Outros",
+            "precentual": 4.2428
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRABCPCTF000",
     "lci": [],
     "mandato": "Renda",
@@ -13744,6 +13758,15 @@
             "volume": 440724360000
         },
         {
+            "change": 926.315789,
+            "close": 105.3,
+            "date": "2019-12-26",
+            "max": 105.48,
+            "min": 104.62,
+            "open": 104.62,
+            "volume": 199428080000
+        },
+        {
             "change": 961.013645,
             "close": 108.86,
             "date": "2019-12-27",
@@ -13751,6 +13774,24 @@
             "min": 105.3,
             "open": 105.3,
             "volume": 443002900000
+        },
+        {
+            "change": 970.467836,
+            "close": 109.83,
+            "date": "2019-12-30",
+            "max": 109.9,
+            "min": 108.01,
+            "open": 108.86,
+            "volume": 347671300000
+        },
+        {
+            "change": 957.309942,
+            "close": 108.48,
+            "date": "2020-01-02",
+            "max": 109.35,
+            "min": 106.06,
+            "open": 109.35,
+            "volume": 290829200000
         },
         {
             "change": 959.746589,
@@ -20015,76 +20056,202 @@
             "min": 74.76,
             "open": 75.49,
             "volume": 79892680000
+        },
+        {
+            "change": 640.643275,
+            "close": 75.99,
+            "date": "2022-10-20",
+            "max": 76.0,
+            "min": 74.66,
+            "open": 74.93,
+            "volume": 73039410000
+        },
+        {
+            "change": 638.401559,
+            "close": 75.76,
+            "date": "2022-10-21",
+            "max": 76.2,
+            "min": 75.0,
+            "open": 76.19,
+            "volume": 72302230000
+        },
+        {
+            "change": 640.643275,
+            "close": 75.99,
+            "date": "2022-10-24",
+            "max": 75.99,
+            "min": 75.56,
+            "open": 75.76,
+            "volume": 86293500000
+        },
+        {
+            "change": 638.693957,
+            "close": 75.79,
+            "date": "2022-10-25",
+            "max": 75.99,
+            "min": 75.55,
+            "open": 75.98,
+            "volume": 54598730000
+        },
+        {
+            "change": 637.621832,
+            "close": 75.68,
+            "date": "2022-10-26",
+            "max": 75.98,
+            "min": 74.54,
+            "open": 75.79,
+            "volume": 40508980000
+        },
+        {
+            "change": 632.94347,
+            "close": 75.2,
+            "date": "2022-10-27",
+            "max": 75.93,
+            "min": 74.65,
+            "open": 75.93,
+            "volume": 70048670000
+        },
+        {
+            "change": 633.430799,
+            "close": 75.25,
+            "date": "2022-10-28",
+            "max": 75.62,
+            "min": 75.09,
+            "open": 75.2,
+            "volume": 65255450000
+        },
+        {
+            "change": 633.333333,
+            "close": 75.24,
+            "date": "2022-10-31",
+            "max": 75.79,
+            "min": 74.11,
+            "open": 75.25,
+            "volume": 55234360000
+        },
+        {
+            "change": 631.28655,
+            "close": 75.03,
+            "date": "2022-11-01",
+            "max": 75.22,
+            "min": 74.7,
+            "open": 75.22,
+            "volume": 44303860000
+        },
+        {
+            "change": 616.666667,
+            "close": 73.53,
+            "date": "2022-11-03",
+            "max": 76.0,
+            "min": 73.51,
+            "open": 75.03,
+            "volume": 60283720000
+        },
+        {
+            "change": 620.565302,
+            "close": 73.93,
+            "date": "2022-11-04",
+            "max": 74.42,
+            "min": 73.53,
+            "open": 73.53,
+            "volume": 48118120000
+        },
+        {
+            "change": 620.760234,
+            "close": 73.95,
+            "date": "2022-11-07",
+            "max": 74.83,
+            "min": 73.93,
+            "open": 73.94,
+            "volume": 81149910000
+        },
+        {
+            "change": 620.955166,
+            "close": 73.97,
+            "date": "2022-11-08",
+            "max": 74.99,
+            "min": 73.96,
+            "open": 74.47,
+            "volume": 61269500000
+        },
+        {
+            "change": 619.883041,
+            "close": 73.86,
+            "date": "2022-11-09",
+            "max": 74.5,
+            "min": 73.72,
+            "open": 73.72,
+            "volume": 42463650000
         }
     ],
     "propriedades": [
         {
-            "area": 69628.0,
-            "cidade": "Grand Plaza Shopping Avenida Industrial, 600, Centro, Santo Andr\u00e9SP \n                \u00c1rea (m2):\n                69.628,00 \n                N\u00ba de unidades ou lojas:\n                383 Shopping Center",
+            "area": 84660.79,
+            "cidade": "Grand Plaza Shopping Avenida Industrial, 600, Centro, Santo Andr\u00e9SP \n                \u00c1rea (m2):\n                84.660,79 \n                N\u00ba de unidades ou lojas:\n                386 Shopping Center",
             "endereco": "Avenida Industrial, 600, Centro, Santo Andr\u00e9",
             "estado": "SP",
-            "inadimplencia": 4.5,
+            "inadimplencia": 1.5339,
             "nome": "Grand Plaza Shopping",
-            "unidades": 383,
-            "vacancia": 14.4276
+            "unidades": 386,
+            "vacancia": 3.9483
         }
     ],
     "segmento": "Shoppings",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.06,
-            "cagr_ativo_1": 0.0,
-            "cagr_patrimonio_liquido": 0.0,
-            "cagr_vpa_1": 0.0,
+            "cagr_alugeis_1": -0.2,
+            "cagr_ativo_1": -0.0,
+            "cagr_patrimonio_liquido": -0.0,
+            "cagr_vpa_1": -0.0,
             "cagr_vpa_3": 0.03,
-            "cmgr_alugeis_6m": 0.0
+            "cmgr_alugeis_6m": 0.02
         },
         "dividends": {
-            "cagr_dividens_1": -0.48,
-            "cagr_dividens_3": -0.2,
-            "cagr_dy_1": -0.43,
-            "cagr_dy_3": -0.17,
-            "cagr_dy_5": -0.11,
-            "dy": 6.79
+            "cagr_dividens_1": -0.45,
+            "cagr_dividens_3": -0.18,
+            "cagr_dy_1": -0.4,
+            "cagr_dy_3": -0.16,
+            "cagr_dy_5": -0.13,
+            "dy": 6.76
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.16,
-                "dy": 5.16
+                "cagr_dy_3": -0.17,
+                "dy": 5.24
             },
             "mercado": {
-                "custo_adm_med": 236677.22,
-                "liquidez_med": 574772111428.57
+                "custo_adm_med": 237341.59,
+                "liquidez_med": 575574112380.95
             },
             "operacao": {
-                "patrimonio_liquido": 661924718.57,
-                "pl_cx": 2.02,
-                "vacancia": 7.89
+                "patrimonio_liquido": 663251512.39,
+                "pl_cx": 2.77,
+                "vacancia": 7.06
             },
             "valuation": {
-                "p_vpa_med": 0.78
+                "p_vpa_med": 0.74
             }
         },
         "mercado": {
-            "custo_adm_med": 86334.27,
+            "custo_adm_med": 86376.89,
             "ifix": 0,
-            "liquidez_med": 90978655000.0
+            "liquidez_med": 90098950000
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 1,
             "imoveis": 1,
-            "patrimonio_liquido": 1121743483.26,
-            "pl_cx": 1.78,
-            "vacancia": 14.43,
+            "patrimonio_liquido": 1122584730.69,
+            "pl_cx": 1.84,
+            "vacancia": 3.95,
             "vacancia_1": 0.9,
-            "vacancia_3m": 7.5
+            "vacancia_3m": 14.43
         },
         "valuation": {
-            "p_vpa": 0.82,
-            "p_vpa_med": 0.22,
-            "price": 74.93,
-            "valuation": 76.48
+            "p_vpa": 0.8,
+            "p_vpa_med": 0.21,
+            "price": 73.86,
+            "valuation": 74.29
         }
     },
     "ticker": "ABCP11",
@@ -20180,6 +20347,10 @@
         {
             "competencia": "02/2022",
             "total": 14.43
+        },
+        {
+            "competencia": "03/2022",
+            "total": 3.95
         }
     ]
 }

@@ -3,59 +3,59 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 4.9244
+            "precentual": 5.0576
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 2.8081
+            "precentual": 2.7432
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 2.3547
+            "precentual": 2.2636
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 3.9164
+            "precentual": 3.9482
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 2.4744
+            "precentual": 2.4465
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 3.0443
+            "precentual": 3.0411
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 3.1098
+            "precentual": 3.1122
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 3.7208
+            "precentual": 3.8172
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 3.3865
+            "precentual": 3.3575
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 3.1465
+            "precentual": 3.0773
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 2.4234
+            "precentual": 2.4484
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 6.1903
+            "precentual": 6.1454
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 37.7563
+            "precentual": 37.6396
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 20.7434
+            "precentual": 20.9022
         }
     ],
     "cri": [],
@@ -409,47 +409,32 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.74
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.75
         }
     ],
     "fii": [
         {
             "nome": "FII HTOPFOF3 -HFOF11",
-            "quantidade": 40265.0,
-            "valor": 2818952.65
+            "quantidade": 41496.0,
+            "valor": 3319265.04
         },
         {
-            "nome": "FII HSI MALL -HSML11",
-            "quantidade": 9217.0,
-            "valor": 718833.83
+            "nome": "FII MOGNO HG - MGCR11",
+            "quantidade": 9122.0,
+            "valor": 819064.38
         },
         {
-            "nome": "FII SHOPJSUL -JRDM11",
-            "quantidade": 191.0,
-            "valor": 14766.21
-        },
-        {
-            "nome": "FII MOGNO HG -MGCR11",
-            "quantidade": 14013.0,
-            "valor": 1191945.78
-        },
-        {
-            "nome": "FII MOGNO -MGFF11",
-            "quantidade": 319.0,
-            "valor": 18757.2
-        },
-        {
-            "nome": "FII RBRALPHA -RBRF11",
-            "quantidade": 132320.0,
-            "valor": 8985851.2
-        },
-        {
-            "nome": "FII HTOPFOF3 - HFOF11",
-            "quantidade": 1231.0,
-            "valor": 86182.31
+            "nome": "FII RBRALPHA - RBRF11",
+            "quantidade": 44595.0,
+            "valor": 3410179.65
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 1.747,
+    "ifix_participacao": 1.734,
     "imr": [
         {
             "ativo": 316636552.01,
@@ -1282,39 +1267,52 @@
             "patrimonio_liquido": 2030372281.01,
             "receita_aluguel": 30342296.33,
             "valor_patrimonio_cotas": 114.73471
+        },
+        {
+            "ativo": 2602763244.58,
+            "caixa": 36701545.69,
+            "competencia": "10/2022",
+            "cotas_emitidas": 17696234.0,
+            "cotistas": 232431,
+            "despesa_administracao": 2010199.28,
+            "dy": 0.6537,
+            "numero_cotas": 17696234.0,
+            "patrimonio_liquido": 2034614659.41,
+            "receita_aluguel": 32714623.98,
+            "valor_patrimonio_cotas": 114.974444
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 54.8308
+            "precentual": 54.5325
         },
         {
             "indexador": "INPC",
-            "precentual": 0.7386
+            "precentual": 0.7619
         },
         {
             "indexador": "IPCA",
-            "precentual": 2.5837
+            "precentual": 2.6286
         },
         {
             "indexador": "INCC",
-            "precentual": 0.6195
+            "precentual": 0.582
         },
         {
             "indexador": "IGP-DI",
-            "precentual": 40.6708
+            "precentual": 40.8676
         },
         {
             "indexador": "M\u00c9DIA (IGP-DI | IPCA)",
-            "precentual": 0.421
+            "precentual": 0.4852
         },
         {
             "indexador": "M\u00c9DIA (IGP-DI | IPCA e IPC)",
-            "precentual": 0.1352
+            "precentual": 0.1422
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRVISCCTF005",
     "lci": [],
     "mandato": "Renda",
@@ -6073,6 +6071,15 @@
             "volume": 16420335240000
         },
         {
+            "change": 29.411765,
+            "close": 132.0,
+            "date": "2019-12-26",
+            "max": 135.48,
+            "min": 131.4,
+            "open": 131.5,
+            "volume": 18421781380000
+        },
+        {
             "change": 34.754902,
             "close": 137.45,
             "date": "2019-12-27",
@@ -6080,6 +6087,24 @@
             "min": 133.39,
             "open": 133.39,
             "volume": 13252398460000
+        },
+        {
+            "change": 36.960784,
+            "close": 139.7,
+            "date": "2019-12-30",
+            "max": 140.75,
+            "min": 137.45,
+            "open": 137.45,
+            "volume": 6883211710000
+        },
+        {
+            "change": 40.294118,
+            "close": 143.1,
+            "date": "2020-01-02",
+            "max": 144.0,
+            "min": 141.51,
+            "open": 141.51,
+            "volume": 8349068580000
         },
         {
             "change": 41.666667,
@@ -12344,6 +12369,132 @@
             "min": 111.33,
             "open": 112.47,
             "volume": 3501112210000
+        },
+        {
+            "change": 10.04902,
+            "close": 112.25,
+            "date": "2022-10-20",
+            "max": 112.98,
+            "min": 111.61,
+            "open": 112.37,
+            "volume": 3265512790000
+        },
+        {
+            "change": 10.137255,
+            "close": 112.34,
+            "date": "2022-10-21",
+            "max": 112.98,
+            "min": 112.11,
+            "open": 112.79,
+            "volume": 2300385140000
+        },
+        {
+            "change": 11.27451,
+            "close": 113.5,
+            "date": "2022-10-24",
+            "max": 113.5,
+            "min": 112.34,
+            "open": 112.34,
+            "volume": 3112275760000
+        },
+        {
+            "change": 11.264706,
+            "close": 113.49,
+            "date": "2022-10-25",
+            "max": 113.5,
+            "min": 112.55,
+            "open": 113.5,
+            "volume": 3070289420000
+        },
+        {
+            "change": 11.568627,
+            "close": 113.8,
+            "date": "2022-10-26",
+            "max": 113.84,
+            "min": 113.01,
+            "open": 113.48,
+            "volume": 3771064520000
+        },
+        {
+            "change": 11.607843,
+            "close": 113.84,
+            "date": "2022-10-27",
+            "max": 113.84,
+            "min": 113.22,
+            "open": 113.65,
+            "volume": 2885442920000
+        },
+        {
+            "change": 11.176471,
+            "close": 113.4,
+            "date": "2022-10-28",
+            "max": 113.94,
+            "min": 113.23,
+            "open": 113.84,
+            "volume": 2888321730000
+        },
+        {
+            "change": 10.931373,
+            "close": 113.15,
+            "date": "2022-10-31",
+            "max": 113.29,
+            "min": 112.0,
+            "open": 113.18,
+            "volume": 2401574520000
+        },
+        {
+            "change": 10.558824,
+            "close": 112.77,
+            "date": "2022-11-01",
+            "max": 113.81,
+            "min": 112.4,
+            "open": 113.8,
+            "volume": 2983792810000
+        },
+        {
+            "change": 11.166667,
+            "close": 113.39,
+            "date": "2022-11-03",
+            "max": 113.39,
+            "min": 112.78,
+            "open": 113.0,
+            "volume": 2657811950000
+        },
+        {
+            "change": 10.931373,
+            "close": 113.15,
+            "date": "2022-11-04",
+            "max": 113.15,
+            "min": 112.76,
+            "open": 112.76,
+            "volume": 2031795010000
+        },
+        {
+            "change": 11.205882,
+            "close": 113.43,
+            "date": "2022-11-07",
+            "max": 113.45,
+            "min": 112.82,
+            "open": 113.1,
+            "volume": 3478106730000
+        },
+        {
+            "change": 11.372549,
+            "close": 113.6,
+            "date": "2022-11-08",
+            "max": 113.6,
+            "min": 113.0,
+            "open": 113.43,
+            "volume": 3124829180000
+        },
+        {
+            "change": 11.323529,
+            "close": 113.55,
+            "date": "2022-11-09",
+            "max": 113.57,
+            "min": 113.0,
+            "open": 113.0,
+            "volume": 2374545630000
         }
     ],
     "propriedades": [
@@ -12352,248 +12503,248 @@
             "cidade": "Rio de Janeiro",
             "endereco": "Estrada do Mendanha, 450 / 550 e 555",
             "estado": "RJ",
-            "inadimplencia": 4.7386,
+            "inadimplencia": 5.2843,
             "nome": "West Shopping",
             "unidades": 171,
-            "vacancia": 3.1641
+            "vacancia": 2.9493
         },
         {
             "area": 40166.56,
             "cidade": "Salvador",
             "endereco": "Avenida Luiz Viana, 8544",
             "estado": "BA",
-            "inadimplencia": 7.1781,
+            "inadimplencia": 6.0018,
             "nome": "Shopping Paralelaenida Luiz",
             "unidades": 275,
-            "vacancia": 9.5066
+            "vacancia": 7.4488
         },
         {
             "area": 15143.73,
             "cidade": "Rio de Janeiro",
             "endereco": "Avenida Geremario Dantas, 404",
             "estado": "RJ",
-            "inadimplencia": -3.9676,
+            "inadimplencia": 16.3695,
             "nome": "Center Shopping Rio",
             "unidades": 102,
-            "vacancia": 13.3279
+            "vacancia": 21.9426
         },
         {
             "area": 15139.52,
             "cidade": "Curitiba",
             "endereco": "Rua Comendador Araujo, 731",
             "estado": "PR",
-            "inadimplencia": 21.3155,
+            "inadimplencia": 6.3701,
             "nome": "Shopping Crystal",
             "unidades": 96,
-            "vacancia": 32.7023
+            "vacancia": 30.9092
         },
         {
             "area": 21933.04,
             "cidade": "Rio de Janeiro",
             "endereco": "Av. Maestro Paulo e Silva, 400",
             "estado": "RJ",
-            "inadimplencia": 11.1761,
+            "inadimplencia": -0.2966,
             "nome": "Ilha Plaza",
             "unidades": 127,
-            "vacancia": 6.1132
+            "vacancia": 5.3471
         },
         {
             "area": 21727.43,
             "cidade": "Bel\u00e9m",
             "endereco": "Trav. Padre Eut\u00edquio, 1078",
             "estado": "PA",
-            "inadimplencia": 4.2578,
+            "inadimplencia": 4.151,
             "nome": "P\u00e1tio Bel\u00e9m",
             "unidades": 189,
-            "vacancia": 0.5956
+            "vacancia": 1.0877
         },
         {
             "area": 30376.63,
             "cidade": "Lageadinho, Cotia",
             "endereco": "Vianna Rodovia Raposo Tavares, 23",
             "estado": "SP",
-            "inadimplencia": -2.2574,
+            "inadimplencia": -0.8426,
             "nome": "Shopping Granjanna",
             "unidades": 161,
-            "vacancia": 8.6247
+            "vacancia": 8.1122
         },
         {
             "area": 49897.57,
             "cidade": "Sto Amaro, Recife",
             "endereco": "Avenida Governador Agamenon Magalh\u00e3es, 153",
             "estado": "PE",
-            "inadimplencia": 3.3588,
+            "inadimplencia": -5.0456,
             "nome": "Shopping Tacaruna",
             "unidades": 259,
-            "vacancia": 4.4664
+            "vacancia": 4.1934
         },
         {
             "area": 89832.97,
             "cidade": "Edson Queiroz, Fortaleza",
             "endereco": "Av. Washington Soares, 85",
             "estado": "CE",
-            "inadimplencia": 3.4615,
+            "inadimplencia": -1.1902,
             "nome": "Shopping Iguatemi Fortaleza",
             "unidades": 432,
-            "vacancia": 7.0298
+            "vacancia": 4.9229
         },
         {
             "area": 45860.92,
             "cidade": "Uni\u00e3oBelo horizonte",
             "endereco": "Av. Cristiano Machado, 4000",
             "estado": "MG",
-            "inadimplencia": -1.3154,
+            "inadimplencia": -0.0971,
             "nome": "Minas Shopping",
             "unidades": 239,
-            "vacancia": 3.912
+            "vacancia": 0.7941
         },
         {
             "area": 31108.36,
             "cidade": "Jardim das RosasPresidente Prudente",
             "endereco": "Av. Manoel Goulart, 2400",
             "estado": "SP",
-            "inadimplencia": 2.7864,
+            "inadimplencia": 2.4832,
             "nome": "Prudenshopping",
             "unidades": 170,
-            "vacancia": 1.9737
+            "vacancia": 2.6172
         },
         {
             "area": 22438.81,
             "cidade": "Santa M\u00f4nica, TrindadeFlorian\u00f3polis",
             "endereco": "Av. Madre Benvenuta, 687",
             "estado": "SC",
-            "inadimplencia": 3.712,
+            "inadimplencia": 2.6253,
             "nome": "Villa Romana",
             "unidades": 160,
-            "vacancia": 3.503
+            "vacancia": 3.0566
         },
         {
             "area": 48017.36,
             "cidade": "Santo Andr\u00e9",
             "endereco": "Av. Pereira Barreto, 42",
             "estado": "SP",
-            "inadimplencia": 0.9731,
+            "inadimplencia": -1.0694,
             "nome": "Shopping ABC",
             "unidades": 270,
-            "vacancia": 4.8455
+            "vacancia": 5.9094
         },
         {
             "area": 74988.0,
             "cidade": "Ribeir\u00e3o Preto",
             "endereco": "Avenida Coronel Fernando Ferreira Leite n\u00ba 1",
             "estado": "SP",
-            "inadimplencia": 6.8993,
+            "inadimplencia": 3.8821,
             "nome": "Shopping Ribeir\u00e3o",
             "unidades": 340,
-            "vacancia": 8.2814
+            "vacancia": 4.3308
         },
         {
             "area": 39765.3,
             "cidade": "Praia da Costa, Vila Velha",
             "endereco": "Avenida Doutor Olivio Lira, 353",
             "estado": "ES",
-            "inadimplencia": 9.4296,
+            "inadimplencia": 7.739,
             "nome": "Shopping Praia da Costa",
             "unidades": 200,
-            "vacancia": 12.2381
+            "vacancia": 10.967
         },
         {
             "area": 28948.08,
             "cidade": "Rio de Janeiro",
             "endereco": "Rua Bar\u00e3o de S\u00e3o Francisco, 236",
             "estado": "RJ",
-            "inadimplencia": 2.7825,
+            "inadimplencia": -5.9845,
             "nome": "Shopping Boulevard",
             "unidades": 180,
-            "vacancia": 11.2158
+            "vacancia": 8.1522
         },
         {
             "area": 20001.81,
             "cidade": "Maracana\u00fa",
             "endereco": "Av. Carlos Jereissati, 100",
             "estado": "CE",
-            "inadimplencia": -2.6431,
+            "inadimplencia": 9.4444,
             "nome": "North Shopping Maracana\u00fa",
             "unidades": 114,
-            "vacancia": 9.749
+            "vacancia": 4.7888
         },
         {
             "area": 45222.15,
             "cidade": "Cuiab\u00e1",
             "endereco": "Av. Historiador Rubens de Mendon\u00e7a",
             "estado": "PA",
-            "inadimplencia": 0.5806,
+            "inadimplencia": 0.543,
             "nome": "Pantanal Shopping",
             "unidades": 219,
-            "vacancia": 6.0857
+            "vacancia": 3.5851
         },
         {
             "area": 44824.38,
             "cidade": "Porto Velho",
             "endereco": "Av. Prefeito Chiquilito Erse, 3288",
             "estado": "RO",
-            "inadimplencia": 4.4011,
+            "inadimplencia": -7.3988,
             "nome": "Porto Velho Shopping",
             "unidades": 218,
-            "vacancia": 10.2924
+            "vacancia": 7.1946
         }
     ],
     "segmento": "Shoppings",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.03,
+            "cagr_alugeis_1": 0.41,
             "cagr_ativo_1": -0.01,
             "cagr_patrimonio_liquido": -0.01,
             "cagr_vpa_1": -0.01,
-            "cagr_vpa_3": 0.24,
-            "cmgr_alugeis_6m": -0.02
+            "cagr_vpa_3": 0.18,
+            "cmgr_alugeis_6m": 0.0
         },
         "dividends": {
-            "cagr_dividens_1": -0.26,
-            "cagr_dividens_3": -0.1,
+            "cagr_dividens_1": -0.25,
+            "cagr_dividens_3": -0.09,
             "cagr_dy_1": -0.35,
-            "cagr_dy_3": -0.14,
-            "cagr_dy_5": 0,
-            "dy": 6.08
+            "cagr_dy_3": -0.13,
+            "cagr_dy_5": -0.08,
+            "dy": 6.21
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.16,
-                "dy": 5.16
+                "cagr_dy_3": -0.17,
+                "dy": 5.24
             },
             "mercado": {
-                "custo_adm_med": 236677.22,
-                "liquidez_med": 574772111428.57
+                "custo_adm_med": 237341.59,
+                "liquidez_med": 575574112380.95
             },
             "operacao": {
-                "patrimonio_liquido": 661924718.57,
-                "pl_cx": 2.02,
-                "vacancia": 7.89
+                "patrimonio_liquido": 663251512.39,
+                "pl_cx": 2.77,
+                "vacancia": 7.06
             },
             "valuation": {
-                "p_vpa_med": 0.78
+                "p_vpa_med": 0.74
             }
         },
         "mercado": {
-            "custo_adm_med": 1296142.58,
-            "ifix": 1.747,
-            "liquidez_med": 2551919560000
+            "custo_adm_med": 1297091.72,
+            "ifix": 1.734,
+            "liquidez_med": 2569052365000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 11,
             "imoveis": 19,
-            "patrimonio_liquido": 2030372281.01,
-            "pl_cx": 1.93,
-            "vacancia": 7.4,
-            "vacancia_1": 5.06,
+            "patrimonio_liquido": 2034614659.41,
+            "pl_cx": 1.8,
+            "vacancia": 5.92,
+            "vacancia_1": 4.98,
             "vacancia_3m": 7.4
         },
         "valuation": {
-            "p_vpa": 0.98,
+            "p_vpa": 0.99,
             "p_vpa_med": 0.93,
-            "price": 112.35,
-            "valuation": 95.32
+            "price": 113.55,
+            "valuation": 92.78
         }
     },
     "ticker": "VISC11",
@@ -12685,6 +12836,10 @@
         {
             "competencia": "02/2022",
             "total": 7.4
+        },
+        {
+            "competencia": "03/2022",
+            "total": 5.92
         }
     ]
 }

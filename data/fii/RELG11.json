@@ -3,19 +3,19 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 10.4248
+            "precentual": 6.6193
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 0.0
+            "precentual": 7.0141
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 5.1678
+            "precentual": 26.6849
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 23.708
+            "precentual": 0.0
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
@@ -31,15 +31,15 @@
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 0.0
+            "precentual": 10.9597
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 10.9844
+            "precentual": 5.701
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 5.3544
+            "precentual": 1.6473
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
@@ -51,11 +51,11 @@
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 37.5397
+            "precentual": 38.3584
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 6.8208
+            "precentual": 3.0153
         }
     ],
     "cri": [],
@@ -244,6 +244,11 @@
             "data_com": "2022-10-07T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.8
+        },
+        {
+            "data_com": "2022-11-08T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.2872
         }
     ],
     "fii": [],
@@ -574,12 +579,25 @@
             "patrimonio_liquido": 158621116.89,
             "receita_aluguel": 1283312.77,
             "valor_patrimonio_cotas": 118.856312
+        },
+        {
+            "ativo": 227799544.04,
+            "caixa": 5030865.01,
+            "competencia": "10/2022",
+            "cotas_emitidas": 1334562.0,
+            "cotistas": 7922,
+            "despesa_administracao": 104599.82,
+            "dy": 0.2416,
+            "numero_cotas": 1334562.0,
+            "patrimonio_liquido": 158725074.41,
+            "receita_aluguel": 1462770.33,
+            "valor_patrimonio_cotas": 118.934208
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 17.2818
+            "precentual": 5.4893
         },
         {
             "indexador": "INPC",
@@ -587,7 +605,7 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 79.3383
+            "precentual": 92.4917
         },
         {
             "indexador": "INCC",
@@ -602,7 +620,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRRELGCTF008",
     "lci": [],
     "mandato": "H\u00edbrido",
@@ -4702,6 +4720,132 @@
             "min": 81.65,
             "open": 81.74,
             "volume": 244438730000
+        },
+        {
+            "change": -31.75,
+            "close": 81.9,
+            "date": "2022-10-20",
+            "max": 82.48,
+            "min": 81.5,
+            "open": 82.01,
+            "volume": 299404200000
+        },
+        {
+            "change": -31.666667,
+            "close": 82.0,
+            "date": "2022-10-21",
+            "max": 82.5,
+            "min": 81.9,
+            "open": 81.96,
+            "volume": 249146070000
+        },
+        {
+            "change": -31.666667,
+            "close": 82.0,
+            "date": "2022-10-24",
+            "max": 82.25,
+            "min": 81.14,
+            "open": 82.0,
+            "volume": 269174040000
+        },
+        {
+            "change": -32.075,
+            "close": 81.51,
+            "date": "2022-10-25",
+            "max": 82.5,
+            "min": 81.25,
+            "open": 82.0,
+            "volume": 127925290000
+        },
+        {
+            "change": -31.666667,
+            "close": 82.0,
+            "date": "2022-10-26",
+            "max": 82.99,
+            "min": 81.51,
+            "open": 81.55,
+            "volume": 140165280000
+        },
+        {
+            "change": -31.683333,
+            "close": 81.98,
+            "date": "2022-10-27",
+            "max": 82.75,
+            "min": 81.46,
+            "open": 81.86,
+            "volume": 93976540000
+        },
+        {
+            "change": -31.841667,
+            "close": 81.79,
+            "date": "2022-10-28",
+            "max": 81.98,
+            "min": 81.41,
+            "open": 81.41,
+            "volume": 108298010000
+        },
+        {
+            "change": -32.258333,
+            "close": 81.29,
+            "date": "2022-10-31",
+            "max": 81.8,
+            "min": 80.41,
+            "open": 81.8,
+            "volume": 223039540000
+        },
+        {
+            "change": -31.616667,
+            "close": 82.06,
+            "date": "2022-11-01",
+            "max": 82.06,
+            "min": 81.03,
+            "open": 81.29,
+            "volume": 110528830000
+        },
+        {
+            "change": -32.316667,
+            "close": 81.22,
+            "date": "2022-11-03",
+            "max": 81.96,
+            "min": 80.91,
+            "open": 81.96,
+            "volume": 199298610000
+        },
+        {
+            "change": -32.716667,
+            "close": 80.74,
+            "date": "2022-11-04",
+            "max": 82.21,
+            "min": 80.4,
+            "open": 82.0,
+            "volume": 242111890000
+        },
+        {
+            "change": -32.775,
+            "close": 80.67,
+            "date": "2022-11-07",
+            "max": 81.6,
+            "min": 80.25,
+            "open": 81.6,
+            "volume": 201358550000
+        },
+        {
+            "change": -35.833333,
+            "close": 77.0,
+            "date": "2022-11-08",
+            "max": 81.0,
+            "min": 76.53,
+            "open": 80.71,
+            "volume": 522823200000
+        },
+        {
+            "change": -36.425,
+            "close": 76.29,
+            "date": "2022-11-09",
+            "max": 76.89,
+            "min": 72.5,
+            "open": 74.57,
+            "volume": 1005839100000
         }
     ],
     "propriedades": [
@@ -4733,7 +4877,7 @@
             "inadimplencia": 0.0,
             "nome": "Log Cama\u00e7ari",
             "unidades": 1,
-            "vacancia": 5.4961
+            "vacancia": 24.4668
         },
         {
             "area": 12335.0,
@@ -4743,7 +4887,7 @@
             "inadimplencia": 0.0,
             "nome": "Rec Log Queimados",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 12.3227
         },
         {
             "area": 8080.0,
@@ -4759,59 +4903,59 @@
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.06,
-            "cagr_ativo_1": 0.2,
-            "cagr_patrimonio_liquido": 0.25,
-            "cagr_vpa_1": 0.25,
+            "cagr_alugeis_1": 0.21,
+            "cagr_ativo_1": 0.01,
+            "cagr_patrimonio_liquido": -0.02,
+            "cagr_vpa_1": -0.02,
             "cagr_vpa_3": 0.88,
-            "cmgr_alugeis_6m": -0.03
+            "cmgr_alugeis_6m": 0.01
         },
         "dividends": {
-            "cagr_dividens_1": -0.2,
-            "cagr_dividens_3": -0.07,
-            "cagr_dy_1": -0.33,
+            "cagr_dividens_1": -0.71,
+            "cagr_dividens_3": -0.34,
+            "cagr_dy_1": -0.76,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 7.92
+            "dy": 7.3
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 106294.4,
+            "custo_adm_med": 105809.41,
             "ifix": 0,
-            "liquidez_med": 182846840000
+            "liquidez_med": 183663710000
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 4,
             "imoveis": 5,
-            "patrimonio_liquido": 158621116.89,
-            "pl_cx": 2.04,
-            "vacancia": 2.68,
+            "patrimonio_liquido": 158725074.41,
+            "pl_cx": 3.17,
+            "vacancia": 13.49,
             "vacancia_1": 0,
-            "vacancia_3m": 10.39
+            "vacancia_3m": 2.68
         },
         "valuation": {
-            "p_vpa": 0.69,
-            "p_vpa_med": 0.88,
-            "price": 82.01,
-            "valuation": 113.39
+            "p_vpa": 0.64,
+            "p_vpa_med": 0.87,
+            "price": 76.29,
+            "valuation": 103.07
         }
     },
     "ticker": "RELG11",
@@ -4843,6 +4987,10 @@
         {
             "competencia": "02/2022",
             "total": 2.68
+        },
+        {
+            "competencia": "03/2022",
+            "total": 13.49
         }
     ]
 }

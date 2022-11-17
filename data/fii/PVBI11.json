@@ -3,7 +3,7 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 0.7886
+            "precentual": 0.468
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
@@ -11,27 +11,27 @@
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 0.0
+            "precentual": 0.0573
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 0.0734
-        },
-        {
-            "prazo": "De 12 meses e 1 dia a 15 meses",
             "precentual": 0.0
         },
         {
+            "prazo": "De 12 meses e 1 dia a 15 meses",
+            "precentual": 2.0599
+        },
+        {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 3.2759
+            "precentual": 0.8991
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 1.4299
+            "precentual": 11.666
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 17.6849
+            "precentual": 0.0
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
@@ -43,15 +43,15 @@
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 0.0
+            "precentual": 1.8247
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 2.6274
+            "precentual": 3.4533
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 74.1198
+            "precentual": 79.5718
         },
         {
             "prazo": "Prazo indeterminado",
@@ -204,11 +204,16 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-07T00:00:00",
             "provento": 0.57
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-08T00:00:00",
+            "provento": 0.57
         }
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.848,
+    "ifix_participacao": 0.866,
     "imr": [
         {
             "ativo": 939820264.21,
@@ -560,12 +565,25 @@
             "patrimonio_liquido": 994529655.29,
             "receita_aluguel": 7490073.51,
             "valor_patrimonio_cotas": 99.061741
+        },
+        {
+            "ativo": 1256865087.85,
+            "caixa": 7868229.5,
+            "competencia": "10/2022",
+            "cotas_emitidas": 10039493.0,
+            "cotistas": 82696,
+            "despesa_administracao": 1399365.45,
+            "dy": 0.5692,
+            "numero_cotas": 10039493.0,
+            "patrimonio_liquido": 994573877.89,
+            "receita_aluguel": 7536854.47,
+            "valor_patrimonio_cotas": 99.066146
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 42.9652
+            "precentual": 43.097
         },
         {
             "indexador": "INPC",
@@ -573,14 +591,14 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 57.0348
+            "precentual": 56.903
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRPVBICTF003",
     "lci": [],
     "mandato": "Renda",
@@ -5571,27 +5589,153 @@
             "min": 96.0,
             "open": 96.45,
             "volume": 2473725320000
+        },
+        {
+            "change": -4.267624,
+            "close": 96.01,
+            "date": "2022-10-20",
+            "max": 96.49,
+            "min": 95.65,
+            "open": 96.1,
+            "volume": 1780906340000
+        },
+        {
+            "change": -3.76907,
+            "close": 96.51,
+            "date": "2022-10-21",
+            "max": 96.52,
+            "min": 95.87,
+            "open": 96.11,
+            "volume": 2062495480000
+        },
+        {
+            "change": -4.397248,
+            "close": 95.88,
+            "date": "2022-10-24",
+            "max": 96.5,
+            "min": 95.8,
+            "open": 96.5,
+            "volume": 1988451510000
+        },
+        {
+            "change": -4.457074,
+            "close": 95.82,
+            "date": "2022-10-25",
+            "max": 96.5,
+            "min": 95.67,
+            "open": 96.5,
+            "volume": 1632703550000
+        },
+        {
+            "change": -5.902882,
+            "close": 94.37,
+            "date": "2022-10-26",
+            "max": 96.31,
+            "min": 94.35,
+            "open": 96.18,
+            "volume": 2259003770000
+        },
+        {
+            "change": -7.767474,
+            "close": 92.5,
+            "date": "2022-10-27",
+            "max": 94.07,
+            "min": 92.17,
+            "open": 93.7,
+            "volume": 3154886580000
+        },
+        {
+            "change": -6.770366,
+            "close": 93.5,
+            "date": "2022-10-28",
+            "max": 94.58,
+            "min": 92.5,
+            "open": 92.65,
+            "volume": 1642763060000
+        },
+        {
+            "change": -4.277595,
+            "close": 96.0,
+            "date": "2022-10-31",
+            "max": 96.28,
+            "min": 92.81,
+            "open": 93.49,
+            "volume": 5815390230000
+        },
+        {
+            "change": -6.471233,
+            "close": 93.8,
+            "date": "2022-11-01",
+            "max": 95.99,
+            "min": 93.51,
+            "open": 95.43,
+            "volume": 2343792350000
+        },
+        {
+            "change": -6.610829,
+            "close": 93.66,
+            "date": "2022-11-03",
+            "max": 95.74,
+            "min": 93.07,
+            "open": 94.89,
+            "volume": 2332744320000
+        },
+        {
+            "change": -7.767474,
+            "close": 92.5,
+            "date": "2022-11-04",
+            "max": 94.0,
+            "min": 92.26,
+            "open": 93.21,
+            "volume": 2614200940000
+        },
+        {
+            "change": -7.508226,
+            "close": 92.76,
+            "date": "2022-11-07",
+            "max": 93.59,
+            "min": 92.71,
+            "open": 93.0,
+            "volume": 2366360130000
+        },
+        {
+            "change": -7.966896,
+            "close": 92.3,
+            "date": "2022-11-08",
+            "max": 93.31,
+            "min": 92.3,
+            "open": 92.8,
+            "volume": 1489660240000
+        },
+        {
+            "change": -7.209094,
+            "close": 93.06,
+            "date": "2022-11-09",
+            "max": 93.94,
+            "min": 92.3,
+            "open": 92.32,
+            "volume": 1425664590000
         }
     ],
     "propriedades": [
         {
             "area": 22111.73,
-            "cidade": "Edificio Faria Lima 4440  (VBI FL 4440) Avenida Brigadeiro Faria Lima, 4440, Itaim Bibi, S\u00e3o PauloSP, Brasil, 04538132 \n                \u00c1rea (m2):\n                22.111,73 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "cidade": "Edificio Faria Lima 4440  (VBI FL 4440) Avenida Brigadeiro Faria Lima, 4440, Itaim Bibi, S\u00e3o PauloSP, Brasil, 04538132 \n                \u00c1rea (m2):\n                22.111,73 \n                N\u00ba de unidades ou lojas:\n                20 Direito de propriedade",
             "endereco": "Avenida Brigadeiro Faria Lima, 4440, Itaim Bibi, S\u00e3o Paulo/SP, Brasil, 04538",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Edificio Faria Lima 4440  (VBI FL 4440)enida Brigadeiro Faria Lima, 4440, Itaim Bibi, S\u00e3o Paulo/SP, Brasil, 04538-132 \n                \u00c1rea (m2):\n                22.111,73 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "unidades": 1,
+            "nome": "Edificio Faria Lima 4440  (VBI FL 4440)enida Brigadeiro Faria Lima, 4440, Itaim Bibi, S\u00e3o Paulo/SP, Brasil, 04538-132 \n                \u00c1rea (m2):\n                22.111,73 \n                N\u00ba de unidades ou lojas:\n                20 Direito de propriedade",
+            "unidades": 20,
             "vacancia": 0.0
         },
         {
             "area": 16633.11,
-            "cidade": "Edificio Park Tower Avenida Brigadeiro Luis Antonio, 3521, Jardim Paulista, Sao PauloSP, Brasil, 01401001 \n                \u00c1rea (m2):\n                16.633,11 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "cidade": "Edificio Park Tower Avenida Brigadeiro Luis Antonio, 3521, Jardim Paulista, Sao PauloSP, Brasil, 01401001 \n                \u00c1rea (m2):\n                16.633,11 \n                N\u00ba de unidades ou lojas:\n                26 Direito de propriedade",
             "endereco": "Avenida Brigadeiro Luis Antonio, 3521, Jardim Paulista, Sao Paulo/SP, Brasil, 01401",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Edificio Park Tower",
-            "unidades": 1,
+            "unidades": 26,
             "vacancia": 0.0
         },
         {
@@ -5600,20 +5744,20 @@
             "endereco": "Avenida Presidente Juscelino Kubitschek, 2041, Vila Ol\u00edmpia, Sao Paulo/SP, Brasil, 04543",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Complexo JK - Torre Benida Presidente Juscelino Kubitschek, 2041, Ol\u00edmpia, Sao Paulo/SP, Brasil, 04543-011 \n                \u00c1rea (m2):\n                59.532,19 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "unidades": 1,
+            "nome": "Complexo JK - Torre Benida Presidente Juscelino Kubitschek, 2041, Ol\u00edmpia, Sao Paulo/SP, Brasil, 04543-011 \n                \u00c1rea (m2):\n                59.532,19 \n                N\u00ba de unidades ou lojas:\n                9 Direito de propriedade",
+            "unidades": 9,
             "vacancia": 0.0
         }
     ],
     "segmento": "Lajes",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.01,
+            "cagr_alugeis_1": 0.13,
             "cagr_ativo_1": -0.0,
             "cagr_patrimonio_liquido": -0.0,
             "cagr_vpa_1": -0.0,
             "cagr_vpa_3": 0.02,
-            "cmgr_alugeis_6m": 0.01
+            "cmgr_alugeis_6m": 0.02
         },
         "dividends": {
             "cagr_dividens_1": -0.43,
@@ -5621,46 +5765,46 @@
             "cagr_dy_1": -0.43,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 6.28
+            "dy": 6.31
         },
         "medias_segmento": {
             "dividends": {
                 "cagr_dy_3": -0.14,
-                "dy": 4.88
+                "dy": 4.91
             },
             "mercado": {
-                "custo_adm_med": 139044.06,
-                "liquidez_med": 330316845875.0
+                "custo_adm_med": 139745.11,
+                "liquidez_med": 330367024000.0
             },
             "operacao": {
-                "patrimonio_liquido": 358083792.65,
-                "pl_cx": 2.85,
-                "vacancia": 23.39
+                "patrimonio_liquido": 358671419.0,
+                "pl_cx": 3.23,
+                "vacancia": 23.51
             },
             "valuation": {
-                "p_vpa_med": 0.72
+                "p_vpa_med": 0.71
             }
         },
         "mercado": {
-            "custo_adm_med": 718255.97,
-            "ifix": 0.848,
-            "liquidez_med": 2316680970000.0
+            "custo_adm_med": 729597.365,
+            "ifix": 0.866,
+            "liquidez_med": 2315193815000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 1,
             "imoveis": 3,
-            "patrimonio_liquido": 994529655.29,
-            "pl_cx": 0.8,
+            "patrimonio_liquido": 994573877.89,
+            "pl_cx": 0.79,
             "vacancia": 0.0,
             "vacancia_1": 0,
-            "vacancia_3m": 0.57
+            "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.97,
+            "p_vpa": 0.94,
             "p_vpa_med": 0.96,
-            "price": 96.11,
-            "valuation": 70.43
+            "price": 93.06,
+            "valuation": 67.83
         }
     },
     "ticker": "PVBI11",
@@ -5691,6 +5835,10 @@
         },
         {
             "competencia": "2/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
             "total": 0.0
         }
     ]

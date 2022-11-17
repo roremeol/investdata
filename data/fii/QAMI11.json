@@ -5,52 +5,72 @@
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZA\u00c7\u00c3O",
             "quantidade": 5809.0,
-            "valor": 4468407.07
+            "valor": 4157444.4
         },
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZA\u00c7\u00c3O",
             "quantidade": 5809.0,
-            "valor": 4183605.85
+            "valor": 2214751.53
         },
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZA\u00c7\u00c3O",
             "quantidade": 5809.0,
-            "valor": 4183605.85
+            "valor": 2098213.16
         },
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZA\u00c7\u00c3O",
             "quantidade": 5809.0,
-            "valor": 4183605.85
+            "valor": 2624793.9
         },
         {
             "nome": "OPEA SECURITIZADORA S.A.",
             "quantidade": 7300.0,
-            "valor": 7728543.01
+            "valor": 7673140.7
         },
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZA\u00c7\u00c3O",
             "quantidade": 7655.0,
-            "valor": 7241957.31
+            "valor": 7194399.79
         },
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZA\u00c7\u00c3O",
             "quantidade": 7655.0,
-            "valor": 7178456.31
+            "valor": 7138679.43
         },
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZA\u00c7\u00c3O",
             "quantidade": 7655.0,
-            "valor": 7148319.55
+            "valor": 7112691.63
         },
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZA\u00c7\u00c3O",
             "quantidade": 3000.0,
-            "valor": 2818690.51
+            "valor": 2801994.94
         },
         {
             "nome": "VERT COMPANHIA SECURITIZADORA",
             "quantidade": 4371.0,
-            "valor": 4407937.01
+            "valor": 4415343.17
+        },
+        {
+            "nome": "VERT COMPANHIA SECURITIZADORA - 21L0329279",
+            "quantidade": 7210.0,
+            "valor": 7283145.16
+        },
+        {
+            "nome": "FORTE SECURITIZADORA - 21D0503168",
+            "quantidade": 11.0,
+            "valor": 7151.8
+        },
+        {
+            "nome": "FORTE SECURITIZADORA - 21D0503170",
+            "quantidade": 2509.0,
+            "valor": 1947278.79
+        },
+        {
+            "nome": "VIRGO COMPANHIA DE SECURITIZA\u00c7\u00c3O - 21H0926710",
+            "quantidade": 6267.0,
+            "valor": 6041230.09
         }
     ],
     "dividends": [
@@ -142,6 +162,11 @@
         {
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
+            "provento": 0.8
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
             "provento": 0.8
         }
     ],
@@ -382,10 +407,23 @@
             "patrimonio_liquido": 73958014.12,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 92.286247
+        },
+        {
+            "ativo": 75233350.74,
+            "caixa": 1617289.29,
+            "competencia": "10/2022",
+            "cotas_emitidas": 801398.0,
+            "cotistas": 1573,
+            "despesa_administracao": 59030.29,
+            "dy": 0.8669,
+            "numero_cotas": 801398.0,
+            "patrimonio_liquido": 74533196.45,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 93.003971
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRQAMICTF002",
     "lci": [],
     "mandato": "H\u00edbrido",
@@ -3747,6 +3785,132 @@
             "min": 84.04,
             "open": 84.87,
             "volume": 23546780000
+        },
+        {
+            "change": -15.845035,
+            "close": 84.5,
+            "date": "2022-10-20",
+            "max": 85.04,
+            "min": 84.12,
+            "open": 84.5,
+            "volume": 2531850000
+        },
+        {
+            "change": -14.928792,
+            "close": 85.42,
+            "date": "2022-10-21",
+            "max": 85.44,
+            "min": 84.12,
+            "open": 84.94,
+            "volume": 16422910000
+        },
+        {
+            "change": -14.799323,
+            "close": 85.55,
+            "date": "2022-10-24",
+            "max": 85.94,
+            "min": 85.01,
+            "open": 85.94,
+            "volume": 29629970000
+        },
+        {
+            "change": -14.928792,
+            "close": 85.42,
+            "date": "2022-10-25",
+            "max": 85.54,
+            "min": 85.42,
+            "open": 85.54,
+            "volume": 4442530000
+        },
+        {
+            "change": -15.944627,
+            "close": 84.4,
+            "date": "2022-10-26",
+            "max": 85.45,
+            "min": 84.31,
+            "open": 85.35,
+            "volume": 5761480000
+        },
+        {
+            "change": -14.978588,
+            "close": 85.37,
+            "date": "2022-10-27",
+            "max": 85.39,
+            "min": 84.21,
+            "open": 84.4,
+            "volume": 18803720000
+        },
+        {
+            "change": -15.06822,
+            "close": 85.28,
+            "date": "2022-10-28",
+            "max": 85.28,
+            "min": 84.23,
+            "open": 84.23,
+            "volume": 14169650000
+        },
+        {
+            "change": -15.157853,
+            "close": 85.19,
+            "date": "2022-10-31",
+            "max": 85.2,
+            "min": 84.19,
+            "open": 84.2,
+            "volume": 29532080000
+        },
+        {
+            "change": -16.362912,
+            "close": 83.98,
+            "date": "2022-11-01",
+            "max": 84.49,
+            "min": 83.13,
+            "open": 84.4,
+            "volume": 15824080000
+        },
+        {
+            "change": -16.472463,
+            "close": 83.87,
+            "date": "2022-11-03",
+            "max": 84.19,
+            "min": 83.01,
+            "open": 84.19,
+            "volume": 50700320000
+        },
+        {
+            "change": -16.75132,
+            "close": 83.59,
+            "date": "2022-11-04",
+            "max": 83.85,
+            "min": 83.01,
+            "open": 83.85,
+            "volume": 31262450000
+        },
+        {
+            "change": -16.74136,
+            "close": 83.6,
+            "date": "2022-11-07",
+            "max": 83.64,
+            "min": 83.07,
+            "open": 83.09,
+            "volume": 30510810000
+        },
+        {
+            "change": -17.328951,
+            "close": 83.01,
+            "date": "2022-11-08",
+            "max": 83.6,
+            "min": 83.01,
+            "open": 83.6,
+            "volume": 32248300000
+        },
+        {
+            "change": -17.189523,
+            "close": 83.15,
+            "date": "2022-11-09",
+            "max": 83.19,
+            "min": 83.01,
+            "open": 83.07,
+            "volume": 17945600000
         }
     ],
     "propriedades": [],
@@ -3754,58 +3918,58 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": 0.0,
-            "cagr_patrimonio_liquido": 0.01,
-            "cagr_vpa_1": 0.01,
+            "cagr_ativo_1": 0.01,
+            "cagr_patrimonio_liquido": 0.02,
+            "cagr_vpa_1": 0.02,
             "cagr_vpa_3": -0.01,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
-            "cagr_dividens_1": -0.43,
+            "cagr_dividens_1": -0.47,
             "cagr_dividens_3": -0.07,
-            "cagr_dy_1": -0.48,
+            "cagr_dy_1": -0.49,
             "cagr_dy_3": -0.05,
             "cagr_dy_5": -0.03,
-            "dy": 14.77
+            "dy": 13.96
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 58321.175,
+            "custo_adm_med": 58601.02,
             "ifix": 0,
-            "liquidez_med": 32663810000
+            "liquidez_med": 31595840000
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 73958014.12,
-            "pl_cx": 1.94,
+            "patrimonio_liquido": 74533196.45,
+            "pl_cx": 2.17,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.91,
+            "p_vpa": 0.89,
             "p_vpa_med": 1.02,
-            "price": 84.04,
-            "valuation": 169.46
+            "price": 83.15,
+            "valuation": 155.85
         }
     },
     "ticker": "QAMI11",

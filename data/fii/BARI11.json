@@ -5,142 +5,152 @@
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 9000.0,
-            "valor": 6436876.9
+            "valor": 6070642.99
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 2822.0,
-            "valor": 2018318.51
+            "valor": 1903483.83
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 9112.0,
-            "valor": 6516980.26
+            "valor": 6146188.77
         },
         {
             "nome": "HABITASEC SECURITIZADORA",
             "quantidade": 9659.0,
-            "valor": 10780709.06
+            "valor": 10624626.18
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 12000.0,
-            "valor": 12652319.04
+            "valor": 12302792.15
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 3000.0,
-            "valor": 3163079.76
+            "valor": 3075698.03
         },
         {
             "nome": "\u00c1PICE SECURITIZADORA",
             "quantidade": 7100.0,
-            "valor": 7226301.6
+            "valor": 7082648.99
         },
         {
             "nome": "\u00c1PICE SECURITIZADORA",
             "quantidade": 5000.0,
-            "valor": 5088944.79
+            "valor": 4987780.98
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 4449.0,
-            "valor": 34981869.86
+            "valor": 34580027.28
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 3142.0,
-            "valor": 24705110.16
+            "valor": 24421318.43
         },
         {
             "nome": "VIRGO SEC",
             "quantidade": 19687.0,
-            "valor": 14889953.31
+            "valor": 12017471.88
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 83747.0,
-            "valor": 67867416.9
+            "valor": 65756076.61
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 35256.0,
-            "valor": 32748704.36
+            "valor": 32138583.49
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 3917.0,
-            "valor": 4153488.49
+            "valor": 4071855.95
         },
         {
             "nome": "OURINVEST SECURITIZADORA",
             "quantidade": 5873.0,
-            "valor": 5189107.43
+            "valor": 4969865.19
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 24730.0,
-            "valor": 24680054.62
+            "valor": 22976147.46
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 4364.0,
-            "valor": 5367102.05
+            "valor": 4905254.03
         },
         {
             "nome": "CIBRASEC",
             "quantidade": 7439.0,
-            "valor": 8346466.8
+            "valor": 7776800.92
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 38636.0,
-            "valor": 32581116.26
+            "valor": 30364016.21
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 36507.0,
-            "valor": 32456452.23
+            "valor": 29157307.08
         },
         {
             "nome": "VIRGO SEC",
             "quantidade": 12000.0,
-            "valor": 12123232.42
+            "valor": 11976012.02
         },
         {
             "nome": "APICE SECURITIZADORA",
             "quantidade": 10000.0,
-            "valor": 7834803.93
+            "valor": 7013888.96
         },
         {
             "nome": "OURINVEST SECURITIZADORA",
             "quantidade": 8500.0,
-            "valor": 7292538.25
+            "valor": 6717853.69
         },
         {
             "nome": "APICE SECURITIZADORA",
             "quantidade": 7276.0,
-            "valor": 7762498.85
+            "valor": 7786047.83
         },
         {
             "nome": "APICE SECURITIZADORA",
             "quantidade": 16415.0,
-            "valor": 17252771.65
+            "valor": 17305081.89
         },
         {
             "nome": "BARIGUI SECURITIZADORA",
             "quantidade": 10000.0,
-            "valor": 9280630.4
+            "valor": 9115143.45
         },
         {
             "nome": "VERT COMPANHIA SECURITIZADORA",
             "quantidade": 6500.0,
-            "valor": 6512607.0
+            "valor": 6517271.02
         },
         {
             "nome": "VERT COMPANHIA SECURITIZADORA",
             "quantidade": 3000.0,
-            "valor": 3005990.24
+            "valor": 3008200.24
+        },
+        {
+            "nome": "BARIGUI SECURITIZADORA",
+            "quantidade": 20000.0,
+            "valor": 20029895.53
+        },
+        {
+            "nome": "BARIGUI SECURITIZADORA",
+            "quantidade": 1598.0,
+            "valor": 1601309.6
         }
     ],
     "dividends": [
@@ -368,11 +378,16 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-24T00:00:00",
             "provento": 1.0
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-23T00:00:00",
+            "provento": 1.0
         }
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.387,
+    "ifix_participacao": 0.392,
     "imr": [
         {
             "ativo": 74592411.97,
@@ -906,10 +921,23 @@
             "patrimonio_liquido": 467817979.96,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 100.949223
+        },
+        {
+            "ativo": 469760452.22,
+            "caixa": 23429298.28,
+            "competencia": "10/2022",
+            "cotas_emitidas": 4634191.0,
+            "cotistas": 39006,
+            "despesa_administracao": 18598.85,
+            "dy": 0.9906,
+            "numero_cotas": 4634191.0,
+            "patrimonio_liquido": 464971328.57,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 100.334951
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRBARICTF003",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -1762,6 +1790,15 @@
             "volume": 9537904250000
         },
         {
+            "change": 0.045994,
+            "close": 108.76,
+            "date": "2019-12-26",
+            "max": 109.5,
+            "min": 107.52,
+            "open": 109.45,
+            "volume": 36527828490000
+        },
+        {
             "change": 0.588722,
             "close": 109.35,
             "date": "2019-12-27",
@@ -1769,6 +1806,24 @@
             "min": 108.92,
             "open": 109.3,
             "volume": 8418442050000
+        },
+        {
+            "change": 1.094656,
+            "close": 109.9,
+            "date": "2019-12-30",
+            "max": 111.19,
+            "min": 109.03,
+            "open": 109.35,
+            "volume": 5188945450000
+        },
+        {
+            "change": 0.956674,
+            "close": 109.75,
+            "date": "2020-01-02",
+            "max": 109.9,
+            "min": 108.6,
+            "open": 109.0,
+            "volume": 1979714560000
         },
         {
             "change": 1.076258,
@@ -8033,6 +8088,132 @@
             "min": 94.17,
             "open": 94.39,
             "volume": 898994540000
+        },
+        {
+            "change": -12.740318,
+            "close": 94.86,
+            "date": "2022-10-20",
+            "max": 94.89,
+            "min": 94.17,
+            "open": 94.43,
+            "volume": 586331810000
+        },
+        {
+            "change": -12.151596,
+            "close": 95.5,
+            "date": "2022-10-21",
+            "max": 96.32,
+            "min": 94.61,
+            "open": 95.0,
+            "volume": 963142750000
+        },
+        {
+            "change": -11.691657,
+            "close": 96.0,
+            "date": "2022-10-24",
+            "max": 96.5,
+            "min": 95.3,
+            "open": 95.5,
+            "volume": 937947120000
+        },
+        {
+            "change": -11.489283,
+            "close": 96.22,
+            "date": "2022-10-25",
+            "max": 96.5,
+            "min": 95.8,
+            "open": 96.0,
+            "volume": 781077760000
+        },
+        {
+            "change": -11.323705,
+            "close": 96.4,
+            "date": "2022-10-26",
+            "max": 96.88,
+            "min": 96.03,
+            "open": 96.22,
+            "volume": 948955640000
+        },
+        {
+            "change": -11.277711,
+            "close": 96.45,
+            "date": "2022-10-27",
+            "max": 96.62,
+            "min": 96.22,
+            "open": 96.51,
+            "volume": 631241320000
+        },
+        {
+            "change": -11.121332,
+            "close": 96.62,
+            "date": "2022-10-28",
+            "max": 96.81,
+            "min": 96.44,
+            "open": 96.45,
+            "volume": 527852930000
+        },
+        {
+            "change": -11.51688,
+            "close": 96.19,
+            "date": "2022-10-31",
+            "max": 96.61,
+            "min": 95.3,
+            "open": 96.61,
+            "volume": 862836460000
+        },
+        {
+            "change": -12.611535,
+            "close": 95.0,
+            "date": "2022-11-01",
+            "max": 95.19,
+            "min": 94.04,
+            "open": 95.19,
+            "volume": 720098500000
+        },
+        {
+            "change": -12.611535,
+            "close": 95.0,
+            "date": "2022-11-03",
+            "max": 96.0,
+            "min": 94.78,
+            "open": 95.0,
+            "volume": 761296330000
+        },
+        {
+            "change": -12.832306,
+            "close": 94.76,
+            "date": "2022-11-04",
+            "max": 94.99,
+            "min": 94.71,
+            "open": 94.96,
+            "volume": 575727750000
+        },
+        {
+            "change": -12.436758,
+            "close": 95.19,
+            "date": "2022-11-07",
+            "max": 95.39,
+            "min": 94.48,
+            "open": 94.76,
+            "volume": 1025164750000
+        },
+        {
+            "change": -12.666728,
+            "close": 94.94,
+            "date": "2022-11-08",
+            "max": 95.18,
+            "min": 94.84,
+            "open": 95.18,
+            "volume": 605599090000
+        },
+        {
+            "change": -12.317174,
+            "close": 95.32,
+            "date": "2022-11-09",
+            "max": 95.49,
+            "min": 94.94,
+            "open": 95.0,
+            "volume": 584166740000
         }
     ],
     "propriedades": [],
@@ -8043,55 +8224,55 @@
             "cagr_ativo_1": -0.02,
             "cagr_patrimonio_liquido": -0.01,
             "cagr_vpa_1": -0.01,
-            "cagr_vpa_3": 0.28,
+            "cagr_vpa_3": 0.27,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
             "cagr_dividens_1": -0.13,
             "cagr_dividens_3": -0.04,
-            "cagr_dy_1": -0.17,
-            "cagr_dy_3": -0.01,
+            "cagr_dy_1": -0.25,
+            "cagr_dy_3": -0.0,
             "cagr_dy_5": -0.06,
-            "dy": 13.28
+            "dy": 13.09
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.04,
-                "dy": 10.73
+                "cagr_dy_3": -0.06,
+                "dy": 10.8
             },
             "mercado": {
-                "custo_adm_med": 231034.16,
-                "liquidez_med": 792177073119.66
+                "custo_adm_med": 232835.76,
+                "liquidez_med": 735204290847.46
             },
             "operacao": {
-                "patrimonio_liquido": 548089731.91,
-                "pl_cx": 8.01,
-                "vacancia": 0.72
+                "patrimonio_liquido": 555876695.52,
+                "pl_cx": 9.46,
+                "vacancia": 0.71
             },
             "valuation": {
-                "p_vpa_med": 1.01
+                "p_vpa_med": 0.84
             }
         },
         "mercado": {
-            "custo_adm_med": 43233.3,
-            "ifix": 0.387,
-            "liquidez_med": 911563650000
+            "custo_adm_med": 41864.07,
+            "ifix": 0.392,
+            "liquidez_med": 910140985000.0
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 467817979.96,
-            "pl_cx": 3.87,
+            "patrimonio_liquido": 464971328.57,
+            "pl_cx": 5.04,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.94,
+            "p_vpa": 0.95,
             "p_vpa_med": 1.03,
-            "price": 94.43,
-            "valuation": 167.81
+            "price": 95.32,
+            "valuation": 159.19
         }
     },
     "ticker": "BARI11",

@@ -364,57 +364,62 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.82
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.82
         }
     ],
     "fii": [
         {
             "nome": "SUCCESPAR VAREJO FII",
             "quantidade": 2581183.0,
-            "valor": 276374180.97
+            "valor": 276565219.0
         },
         {
             "nome": "FII CAMPUS FARIA LIMA",
-            "quantidade": 223110.0,
-            "valor": 25880760.0
+            "quantidade": 256234.0,
+            "valor": 31773016.0
         },
         {
             "nome": "KINEA INDICES PRECOS FUNDO INVESTIMENTO",
             "quantidade": 58328.0,
-            "valor": 5902210.32
+            "valor": 5331179.2
         },
         {
             "nome": "BB PROGRESSIVO II - FII",
             "quantidade": 74985.0,
-            "valor": 6017546.25
+            "valor": 6891121.5
         },
         {
             "nome": "FII MINT EDUCACIONAL",
             "quantidade": 58249.0,
-            "valor": 7022124.16
+            "valor": 7513784.15
         },
         {
             "nome": "JFL LIVING FII",
             "quantidade": 250000.0,
-            "valor": 17370000.0
+            "valor": 18072500.0
         },
         {
             "nome": "KINEA RENDIMENTOS IMOBILIARIOS FII",
-            "quantidade": 121198.0,
-            "valor": 12357348.08
+            "quantidade": 35252.0,
+            "valor": 3609804.8
         },
         {
             "nome": "RIO BRAVO RENDA EDUCACIONAL FII",
             "quantidade": 86780.0,
-            "valor": 10231362.0
+            "valor": 11872371.8
         },
         {
             "nome": "WHG REAL ESTATE FI IMOBILI\u00c1RIO FII",
             "quantidade": 95877.0,
-            "valor": 966632.43
+            "valor": 951946.78
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 2.013,
+    "ifix_participacao": 2.041,
     "imr": [
         {
             "ativo": 146190475.3,
@@ -1117,12 +1122,25 @@
             "patrimonio_liquido": 2194855088.36,
             "receita_aluguel": 13160546.9,
             "valor_patrimonio_cotas": 119.243751
+        },
+        {
+            "ativo": 2397352331.12,
+            "caixa": 119310451.61,
+            "competencia": "10/2022",
+            "cotas_emitidas": 18406458.0,
+            "cotistas": 188737,
+            "despesa_administracao": 1283702.95,
+            "dy": 0.6877,
+            "numero_cotas": 18406458.0,
+            "patrimonio_liquido": 2217103540.38,
+            "receita_aluguel": 13444717.97,
+            "valor_patrimonio_cotas": 120.452481
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 15.2808
+            "precentual": 7.9142
         },
         {
             "indexador": "INPC",
@@ -1130,14 +1148,14 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 84.7192
+            "precentual": 92.0858
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRHGRUCTF002",
     "lci": [],
     "mandato": "Renda",
@@ -4204,6 +4222,15 @@
             "volume": 2805533380000
         },
         {
+            "change": 23.718182,
+            "close": 136.09,
+            "date": "2019-12-26",
+            "max": 137.0,
+            "min": 134.9,
+            "open": 136.0,
+            "volume": 4839941180000
+        },
+        {
             "change": 24.581818,
             "close": 137.04,
             "date": "2019-12-27",
@@ -4213,13 +4240,22 @@
             "volume": 2890540260000
         },
         {
-            "change": 21.754539,
-            "close": 133.929993,
+            "change": 21.754545,
+            "close": 133.93,
             "date": "2019-12-30",
-            "max": 136.889999,
-            "min": 133.800003,
-            "open": 136.889999,
-            "volume": 43321000000
+            "max": 136.89,
+            "min": 133.8,
+            "open": 136.89,
+            "volume": 5842733800000
+        },
+        {
+            "change": 20.881818,
+            "close": 132.97,
+            "date": "2020-01-02",
+            "max": 132.97,
+            "min": 129.0,
+            "open": 129.01,
+            "volume": 34476892010000
         },
         {
             "change": 20.445455,
@@ -10484,6 +10520,132 @@
             "min": 124.9,
             "open": 125.23,
             "volume": 3097580900000
+        },
+        {
+            "change": 13.045455,
+            "close": 124.35,
+            "date": "2022-10-20",
+            "max": 125.48,
+            "min": 124.21,
+            "open": 124.97,
+            "volume": 3705793760000
+        },
+        {
+            "change": 13.109091,
+            "close": 124.42,
+            "date": "2022-10-21",
+            "max": 124.94,
+            "min": 124.01,
+            "open": 124.35,
+            "volume": 3590385880000
+        },
+        {
+            "change": 12.727273,
+            "close": 124.0,
+            "date": "2022-10-24",
+            "max": 124.63,
+            "min": 123.61,
+            "open": 124.42,
+            "volume": 3630562330000
+        },
+        {
+            "change": 12.454545,
+            "close": 123.7,
+            "date": "2022-10-25",
+            "max": 124.56,
+            "min": 122.93,
+            "open": 124.0,
+            "volume": 3363091630000
+        },
+        {
+            "change": 13.181818,
+            "close": 124.5,
+            "date": "2022-10-26",
+            "max": 124.94,
+            "min": 123.7,
+            "open": 123.7,
+            "volume": 3396429070000
+        },
+        {
+            "change": 13.509091,
+            "close": 124.86,
+            "date": "2022-10-27",
+            "max": 125.52,
+            "min": 124.5,
+            "open": 124.8,
+            "volume": 3113908480000
+        },
+        {
+            "change": 14.154545,
+            "close": 125.57,
+            "date": "2022-10-28",
+            "max": 125.72,
+            "min": 124.99,
+            "open": 125.48,
+            "volume": 3260049610000
+        },
+        {
+            "change": 15.363636,
+            "close": 126.9,
+            "date": "2022-10-31",
+            "max": 126.9,
+            "min": 123.04,
+            "open": 124.99,
+            "volume": 5673536960000
+        },
+        {
+            "change": 13.836364,
+            "close": 125.22,
+            "date": "2022-11-01",
+            "max": 125.99,
+            "min": 124.4,
+            "open": 125.99,
+            "volume": 4009411260000
+        },
+        {
+            "change": 13.390909,
+            "close": 124.73,
+            "date": "2022-11-03",
+            "max": 125.74,
+            "min": 122.52,
+            "open": 125.22,
+            "volume": 4487115420000
+        },
+        {
+            "change": 14.0,
+            "close": 125.4,
+            "date": "2022-11-04",
+            "max": 126.0,
+            "min": 123.93,
+            "open": 124.74,
+            "volume": 5237597910000
+        },
+        {
+            "change": 12.454545,
+            "close": 123.7,
+            "date": "2022-11-07",
+            "max": 125.5,
+            "min": 123.51,
+            "open": 125.4,
+            "volume": 4692181500000
+        },
+        {
+            "change": 13.345455,
+            "close": 124.68,
+            "date": "2022-11-08",
+            "max": 125.0,
+            "min": 123.4,
+            "open": 123.83,
+            "volume": 4110825270000
+        },
+        {
+            "change": 13.127273,
+            "close": 124.44,
+            "date": "2022-11-09",
+            "max": 125.29,
+            "min": 124.14,
+            "open": 124.68,
+            "volume": 3283621200000
         }
     ],
     "propriedades": [
@@ -10928,16 +11090,6 @@
             "vacancia": 0.0
         },
         {
-            "area": 1453.52,
-            "cidade": "Pernambucanas Lapa R. Bar\u00e3o Do Rio Branco, 1444, Lapa, PR \n                \u00c1rea (m2):\n                1.453,52 \n                N\u00ba de unidades ou lojas:\n                1",
-            "endereco": "Pernambucanas Lapa R. Bar\u00e3o Do Rio Branco, 1444, Lapa, PR \n                \u00c1rea (m2):\n                1.453,52 \n                N\u00ba de unidades ou lojas:\n                1 -",
-            "estado": "PR",
-            "inadimplencia": 0.0,
-            "nome": "Pernambucanas Lapa R. Bar\u00e3o Do Rio Branco, 1444, Lapa, PR \n                \u00c1rea (m2):\n                1.453,52 \n                N\u00ba de unidades ou lojas:\n                1 -",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
             "area": 1196.76,
             "cidade": "Pernambucanas Lins R. Vinte E Um De Abril, 162, Lins, SP \n                \u00c1rea (m2):\n                1.196,76 \n                N\u00ba de unidades ou lojas:\n                1",
             "endereco": "Pernambucanas Lins R. Vinte E Um De Abril, 162, Lins, SP \n                \u00c1rea (m2):\n                1.196,76 \n                N\u00ba de unidades ou lojas:\n                1 -",
@@ -10998,16 +11150,6 @@
             "vacancia": 0.0
         },
         {
-            "area": 1081.0,
-            "cidade": "Pernambucanas Mogi Das Cruzes R. Dr. Deodato Wertheimer, 1350, Mogi das Cruzes, SP \n                \u00c1rea (m2):\n                1.081,00 \n                N\u00ba de unidades ou lojas:\n                1",
-            "endereco": "Pernambucanas Mogi Das Cruzes R. Dr. Deodato Wertheimer, 1350, Mogi das Cruzes, SP \n                \u00c1rea (m2):\n                1.081,00 \n                N\u00ba de unidades ou lojas:\n                1 -",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Pernambucanas Mogi Das Cruzes R. Dr. Deodato Wertheimer, 1350, Mogi das Cruzes, SP \n                \u00c1rea (m2):\n                1.081,00 \n                N\u00ba de unidades ou lojas:\n                1 -",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
             "area": 952.15,
             "cidade": "Pernambucanas Monte Alto R. Nhonho Livramento, 1660, Monte Alto, SP \n                \u00c1rea (m2):\n                952,15 \n                N\u00ba de unidades ou lojas:\n                1",
             "endereco": "Pernambucanas Monte Alto R. Nhonho Livramento, 1660, Monte Alto, SP \n                \u00c1rea (m2):\n                952,15 \n                N\u00ba de unidades ou lojas:\n                1 -",
@@ -11038,16 +11180,6 @@
             "vacancia": 0.0
         },
         {
-            "area": 954.0,
-            "cidade": "Pernambucanas Ourinhos Pra\u00e7a Melo Peixoto, 130, Ourinhos, SP \n                \u00c1rea (m2):\n                954,00 \n                N\u00ba de unidades ou lojas:\n                1",
-            "endereco": "Pra\u00e7a Melo Peixoto, 130, Ourinhos, SP \n                \u00c1rea",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Pernambucanas Ourinhos",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
             "area": 892.62,
             "cidade": "Pernambucanas Palmas Pra\u00e7a Bom Jesus, 154, Palmas, PR \n                \u00c1rea (m2):\n                892,62 \n                N\u00ba de unidades ou lojas:\n                1",
             "endereco": "Pra\u00e7a Bom Jesus, 154, Palmas, PR \n                \u00c1rea",
@@ -11074,16 +11206,6 @@
             "estado": "MG",
             "inadimplencia": 0.0,
             "nome": "Pernambucanas Passos R. Presidente Antonio Carlos, 160, Passos, MG \n                \u00c1rea (m2):\n                985,15 \n                N\u00ba de unidades ou lojas:\n                1 -",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
-            "area": 1650.55,
-            "cidade": "Pernambucanas Pato Branco Av. Tupi, 2425, Pato Branco, PR \n                \u00c1rea (m2):\n                1.650,55 \n                N\u00ba de unidades ou lojas:\n                1",
-            "endereco": "Av. Tupi, 2425, Pato Branco, PR \n                \u00c1rea",
-            "estado": "PR",
-            "inadimplencia": 0.0,
-            "nome": "Pernambucanas Pato Branco",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -11168,16 +11290,6 @@
             "vacancia": 0.0
         },
         {
-            "area": 1649.58,
-            "cidade": "Pernambucanas Sete De Setembro R. Sete De Setembro, 180184, S\u00e3o Jos\u00e9 Dos Campos, SP \n                \u00c1rea (m2):\n                1.649,58 \n                N\u00ba de unidades ou lojas:\n                1",
-            "endereco": "Pernambucanas Sete De Setembro R. Sete De Setembro, 180/184, S\u00e3o Jos\u00e9 Dos Campos, SP \n                \u00c1rea (m2):\n                1.649,58 \n                N\u00ba de unidades ou lojas:\n                1 -",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Pernambucanas Sete De Setembro R. Sete De Setembro, 180/184, S\u00e3o Jos\u00e9 Dos Campos, SP \n                \u00c1rea (m2):\n                1.649,58 \n                N\u00ba de unidades ou lojas:\n                1 -",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
             "area": 510.0,
             "cidade": "Pernambucanas Taquarituba R. Dr. Ataliba Leonel, 671, Taquarituba, SP \n                \u00c1rea (m2):\n                510,00 \n                N\u00ba de unidades ou lojas:\n                1",
             "endereco": "Pernambucanas Taquarituba R. Dr. Ataliba Leonel, 671, Taquarituba, SP \n                \u00c1rea (m2):\n                510,00 \n                N\u00ba de unidades ou lojas:\n                1 -",
@@ -11214,26 +11326,6 @@
             "estado": "PR",
             "inadimplencia": 0.0,
             "nome": "Pernambucanas Tel\u00eamaco Borba",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
-            "area": 922.04,
-            "cidade": "Pernambucanas Videira R. Saul Brandalise, 180, Videira, SC \n                \u00c1rea (m2):\n                922,04 \n                N\u00ba de unidades ou lojas:\n                1",
-            "endereco": "Pernambucanas Videira R. Saul Brandalise, 180, Videira, SC \n                \u00c1rea (m2):\n                922,04 \n                N\u00ba de unidades ou lojas:\n                1 -",
-            "estado": "SC",
-            "inadimplencia": 0.0,
-            "nome": "Pernambucanas Videira R. Saul Brandalise, 180, Videira, SC \n                \u00c1rea (m2):\n                922,04 \n                N\u00ba de unidades ou lojas:\n                1 -",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
-            "area": 1412.94,
-            "cidade": "Pernambucanas Votuporanga R. Amazonas, 3395, Votuporanga, SP \n                \u00c1rea (m2):\n                1.412,94 \n                N\u00ba de unidades ou lojas:\n                1",
-            "endereco": "Pernambucanas Votuporanga R. Amazonas, 3395, Votuporanga, SP \n                \u00c1rea (m2):\n                1.412,94 \n                N\u00ba de unidades ou lojas:\n                1 -",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Pernambucanas Votuporanga R. Amazonas, 3395, Votuporanga, SP \n                \u00c1rea (m2):\n                1.412,94 \n                N\u00ba de unidades ou lojas:\n                1 -",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -11331,12 +11423,12 @@
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.07,
-            "cagr_ativo_1": 0.08,
+            "cagr_alugeis_1": -0.03,
+            "cagr_ativo_1": 0.04,
             "cagr_patrimonio_liquido": 0.01,
             "cagr_vpa_1": 0.01,
-            "cagr_vpa_3": 1.41,
-            "cmgr_alugeis_6m": -0.01
+            "cagr_vpa_3": 0.28,
+            "cmgr_alugeis_6m": 0.01
         },
         "dividends": {
             "cagr_dividens_1": -0.18,
@@ -11344,46 +11436,46 @@
             "cagr_dy_1": -0.31,
             "cagr_dy_3": -0.12,
             "cagr_dy_5": 0,
-            "dy": 7.69
+            "dy": 7.77
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 887560.655,
-            "ifix": 2.013,
-            "liquidez_med": 3781306335000.0
+            "custo_adm_med": 934618.72,
+            "ifix": 2.041,
+            "liquidez_med": 3787127110000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
-            "estados": 8,
-            "imoveis": 84,
-            "patrimonio_liquido": 2194855088.36,
-            "pl_cx": 5.07,
+            "estados": 7,
+            "imoveis": 77,
+            "patrimonio_liquido": 2217103540.38,
+            "pl_cx": 5.38,
             "vacancia": 0.0,
             "vacancia_1": 0.0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 1.05,
+            "p_vpa": 1.03,
             "p_vpa_med": 1.07,
-            "price": 124.95,
-            "valuation": 112.33
+            "price": 124.44,
+            "valuation": 108.75
         }
     },
     "ticker": "HGRU11",
@@ -11450,6 +11542,10 @@
         },
         {
             "competencia": "02/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
             "total": 0.0
         }
     ]

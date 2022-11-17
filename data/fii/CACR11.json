@@ -5,77 +5,92 @@
         {
             "nome": "HABITASEC",
             "quantidade": 10750.0,
-            "valor": 12012795.88
+            "valor": 11816161.37
         },
         {
             "nome": "HABITASEC",
             "quantidade": 6500.0,
-            "valor": 6987192.97
+            "valor": 7051740.6
         },
         {
             "nome": "HABITASEC",
             "quantidade": 3400.0,
-            "valor": 3821177.39
+            "valor": 3816644.52
         },
         {
             "nome": "HABITASEC",
             "quantidade": 10300.0,
-            "valor": 11209562.39
+            "valor": 10694013.15
         },
         {
             "nome": "HABITASEC",
             "quantidade": 6500.0,
-            "valor": 6998427.2
+            "valor": 7062335.74
         },
         {
             "nome": "HABITASEC",
             "quantidade": 10750.0,
-            "valor": 12012795.88
+            "valor": 11816161.37
         },
         {
             "nome": "HABITASEC",
-            "quantidade": 15000.0,
-            "valor": 14908693.89
-        },
-        {
-            "nome": "HABITASEC",
-            "quantidade": 12000.0,
-            "valor": 12531585.11
+            "quantidade": 5993.0,
+            "valor": 6229042.29
         },
         {
             "nome": "HABITASEC",
             "quantidade": 9600.0,
-            "valor": 9736099.46
+            "valor": 9832917.85
         },
         {
             "nome": "HABITASEC",
             "quantidade": 9600.0,
-            "valor": 9736099.46
+            "valor": 9832917.85
         },
         {
             "nome": "HABITASEC",
             "quantidade": 6703.0,
-            "valor": 7527583.16
+            "valor": 7608123.36
         },
         {
             "nome": "HABITASEC",
             "quantidade": 6703.0,
-            "valor": 7527583.16
+            "valor": 7608123.36
         },
         {
             "nome": "HABITASEC",
             "quantidade": 6703.0,
-            "valor": 7527583.16
+            "valor": 7608123.36
         },
         {
             "nome": "NEX GROUP PARTICIPA\u00c7\u00d5ES S.A.",
-            "quantidade": 20625.0,
-            "valor": 12430084.74
+            "quantidade": 19913.0,
+            "valor": 9408930.39
         },
         {
             "nome": "Colm\u00e9ia Palatium",
             "quantidade": 12000.0,
-            "valor": 9489738.81
+            "valor": 8831512.75
+        },
+        {
+            "nome": "BARI SECURITIZADORA",
+            "quantidade": 20750.0,
+            "valor": 20742190.26
+        },
+        {
+            "nome": "BARI SECURITIZADORA",
+            "quantidade": 16500.0,
+            "valor": 16430167.26
+        },
+        {
+            "nome": "HABITASEC",
+            "quantidade": 2500.0,
+            "valor": 2511645.98
+        },
+        {
+            "nome": "HABITASEC",
+            "quantidade": 7400.0,
+            "valor": 7457665.15
         }
     ],
     "dividends": [
@@ -298,11 +313,16 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-10T00:00:00",
             "provento": 1.56
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-09T00:00:00",
+            "provento": 1.44
         }
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.161,
+    "ifix_participacao": 0.164,
     "imr": [
         {
             "ativo": 66994090.53,
@@ -771,10 +791,23 @@
             "patrimonio_liquido": 187009335.32,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 103.466757
+        },
+        {
+            "ativo": 193847112.54,
+            "caixa": 26480999.96,
+            "competencia": "10/2022",
+            "cotas_emitidas": 1807434.0,
+            "cotistas": 6576,
+            "despesa_administracao": 17149.17,
+            "dy": 1.3811,
+            "numero_cotas": 1807434.0,
+            "patrimonio_liquido": 188452368.04,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 104.265145
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRCACRCTF004",
     "lci": [],
     "mandato": "H\u00edbrido",
@@ -2876,6 +2909,132 @@
             "min": 101.01,
             "open": 101.33,
             "volume": 633582000000
+        },
+        {
+            "change": -1.564626,
+            "close": 101.29,
+            "date": "2022-10-20",
+            "max": 101.3,
+            "min": 100.98,
+            "open": 101.3,
+            "volume": 841057100000
+        },
+        {
+            "change": -1.457726,
+            "close": 101.4,
+            "date": "2022-10-21",
+            "max": 101.48,
+            "min": 101.0,
+            "open": 101.48,
+            "volume": 751824820000
+        },
+        {
+            "change": -1.652089,
+            "close": 101.2,
+            "date": "2022-10-24",
+            "max": 101.4,
+            "min": 100.8,
+            "open": 101.4,
+            "volume": 1235382170000
+        },
+        {
+            "change": -1.48688,
+            "close": 101.37,
+            "date": "2022-10-25",
+            "max": 101.5,
+            "min": 101.1,
+            "open": 101.2,
+            "volume": 1130708910000
+        },
+        {
+            "change": -1.564626,
+            "close": 101.29,
+            "date": "2022-10-26",
+            "max": 101.55,
+            "min": 101.0,
+            "open": 101.28,
+            "volume": 754471340000
+        },
+        {
+            "change": -1.457726,
+            "close": 101.4,
+            "date": "2022-10-27",
+            "max": 101.77,
+            "min": 101.08,
+            "open": 101.54,
+            "volume": 481344480000
+        },
+        {
+            "change": -1.457726,
+            "close": 101.4,
+            "date": "2022-10-28",
+            "max": 101.45,
+            "min": 101.0,
+            "open": 101.4,
+            "volume": 842892490000
+        },
+        {
+            "change": -1.457726,
+            "close": 101.4,
+            "date": "2022-10-31",
+            "max": 101.9,
+            "min": 101.2,
+            "open": 101.69,
+            "volume": 2046680620000
+        },
+        {
+            "change": -2.429543,
+            "close": 100.4,
+            "date": "2022-11-01",
+            "max": 101.3,
+            "min": 100.24,
+            "open": 101.3,
+            "volume": 879042460000
+        },
+        {
+            "change": -2.517007,
+            "close": 100.31,
+            "date": "2022-11-03",
+            "max": 100.52,
+            "min": 100.16,
+            "open": 100.52,
+            "volume": 425258680000
+        },
+        {
+            "change": -2.439261,
+            "close": 100.39,
+            "date": "2022-11-04",
+            "max": 100.44,
+            "min": 100.18,
+            "open": 100.3,
+            "volume": 885062350000
+        },
+        {
+            "change": -2.526725,
+            "close": 100.3,
+            "date": "2022-11-07",
+            "max": 101.09,
+            "min": 100.3,
+            "open": 101.0,
+            "volume": 696264290000
+        },
+        {
+            "change": -2.478134,
+            "close": 100.35,
+            "date": "2022-11-08",
+            "max": 100.95,
+            "min": 100.3,
+            "open": 100.3,
+            "volume": 4806677750000
+        },
+        {
+            "change": -2.147716,
+            "close": 100.69,
+            "date": "2022-11-09",
+            "max": 100.89,
+            "min": 100.47,
+            "open": 100.89,
+            "volume": 525512140000
         }
     ],
     "propriedades": [],
@@ -2883,58 +3042,58 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": 0.22,
+            "cagr_ativo_1": 0.23,
             "cagr_patrimonio_liquido": 0.22,
             "cagr_vpa_1": 0.22,
             "cagr_vpa_3": 0.41,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
-            "cagr_dividens_1": 0.2,
-            "cagr_dividens_3": 0.16,
-            "cagr_dy_1": 0.01,
+            "cagr_dividens_1": -0.05,
+            "cagr_dividens_3": 0.13,
+            "cagr_dy_1": -0.12,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 13.65
+            "dy": 13.55
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 13680.115000000002,
-            "ifix": 0.161,
-            "liquidez_med": 272442800000
+            "custo_adm_med": 13860.54,
+            "ifix": 0.164,
+            "liquidez_med": 287597480000
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 187009335.32,
-            "pl_cx": 13.79,
+            "patrimonio_liquido": 188452368.04,
+            "pl_cx": 14.05,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.98,
-            "p_vpa_med": 1.03,
-            "price": 101.3,
-            "valuation": 149.43
+            "p_vpa": 0.97,
+            "p_vpa_med": 1.01,
+            "price": 100.69,
+            "valuation": 142.56
         }
     },
     "ticker": "CACR11",

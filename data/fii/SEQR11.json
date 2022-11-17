@@ -219,6 +219,11 @@
             "data_com": "2022-10-07T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.6652
+        },
+        {
+            "data_com": "2022-11-08T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.6652
         }
     ],
     "fii": [],
@@ -614,12 +619,25 @@
             "patrimonio_liquido": 154376831.45,
             "receita_aluguel": 1132797.53,
             "valor_patrimonio_cotas": 95.97253
+        },
+        {
+            "ativo": 155078438.68,
+            "caixa": 1014029.56,
+            "competencia": "10/2022",
+            "cotas_emitidas": 1608552.272,
+            "cotistas": 4540,
+            "despesa_administracao": 29358.02,
+            "dy": 0.6931,
+            "numero_cotas": 1608552.272,
+            "patrimonio_liquido": 154515912.65,
+            "receita_aluguel": 1390510.43,
+            "valor_patrimonio_cotas": 96.058994
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 15.15
+            "precentual": 14.3148
         },
         {
             "indexador": "INPC",
@@ -627,7 +645,7 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 84.85
+            "precentual": 85.6852
         },
         {
             "indexador": "INCC",
@@ -638,7 +656,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRSEQRCTF002",
     "lci": [],
     "mandato": "Renda",
@@ -4351,12 +4369,138 @@
             "min": 67.0,
             "open": 67.09,
             "volume": 112155860000
+        },
+        {
+            "change": -28.609483,
+            "close": 67.0,
+            "date": "2022-10-20",
+            "max": 67.38,
+            "min": 67.0,
+            "open": 67.37,
+            "volume": 337675740000
+        },
+        {
+            "change": -28.364411,
+            "close": 67.23,
+            "date": "2022-10-21",
+            "max": 67.4,
+            "min": 67.01,
+            "open": 67.29,
+            "volume": 89248530000
+        },
+        {
+            "change": -28.630794,
+            "close": 66.98,
+            "date": "2022-10-24",
+            "max": 67.3,
+            "min": 66.98,
+            "open": 67.23,
+            "volume": 160258880000
+        },
+        {
+            "change": -28.492275,
+            "close": 67.11,
+            "date": "2022-10-25",
+            "max": 67.29,
+            "min": 67.01,
+            "open": 67.25,
+            "volume": 156121360000
+        },
+        {
+            "change": -28.588173,
+            "close": 67.02,
+            "date": "2022-10-26",
+            "max": 67.24,
+            "min": 67.02,
+            "open": 67.12,
+            "volume": 39249540000
+        },
+        {
+            "change": -28.353756,
+            "close": 67.24,
+            "date": "2022-10-27",
+            "max": 67.3,
+            "min": 66.98,
+            "open": 67.2,
+            "volume": 234502690000
+        },
+        {
+            "change": -28.32179,
+            "close": 67.27,
+            "date": "2022-10-28",
+            "max": 67.3,
+            "min": 67.11,
+            "open": 67.28,
+            "volume": 31620340000
+        },
+        {
+            "change": -28.375067,
+            "close": 67.22,
+            "date": "2022-10-31",
+            "max": 67.3,
+            "min": 66.52,
+            "open": 67.27,
+            "volume": 266300510000
+        },
+        {
+            "change": -28.289824,
+            "close": 67.3,
+            "date": "2022-11-01",
+            "max": 67.3,
+            "min": 67.12,
+            "open": 67.3,
+            "volume": 90907860000
+        },
+        {
+            "change": -28.609483,
+            "close": 67.0,
+            "date": "2022-11-03",
+            "max": 67.3,
+            "min": 66.54,
+            "open": 67.3,
+            "volume": 130486180000
+        },
+        {
+            "change": -28.289824,
+            "close": 67.3,
+            "date": "2022-11-04",
+            "max": 67.3,
+            "min": 67.1,
+            "open": 67.29,
+            "volume": 108348620000
+        },
+        {
+            "change": -28.300479,
+            "close": 67.29,
+            "date": "2022-11-07",
+            "max": 67.48,
+            "min": 67.0,
+            "open": 67.3,
+            "volume": 148722550000
+        },
+        {
+            "change": -28.066063,
+            "close": 67.51,
+            "date": "2022-11-08",
+            "max": 67.55,
+            "min": 67.27,
+            "open": 67.29,
+            "volume": 125351610000
+        },
+        {
+            "change": -29.003729,
+            "close": 66.63,
+            "date": "2022-11-09",
+            "max": 67.2,
+            "min": 66.02,
+            "open": 66.85,
+            "volume": 162277150000
         }
     ],
     "propriedades": [
         {
             "area": 3416.0,
-            "cidade": "SP, 04560",
+            "cidade": "SP, CEP 04560",
             "endereco": "Rua Nova York, 245, S\u00e3o Paulo",
             "estado": "SP",
             "inadimplencia": 0.0,
@@ -4366,31 +4510,31 @@
         },
         {
             "area": 12201.0,
-            "cidade": "Madureira Rio de Janeiro, SP \n                \u00c1rea (m2):\n                12.201,00 \n                N\u00ba de unidades ou lojas:\n                1 na",
-            "endereco": "Madureira Rio de Janeiro, SP \n                \u00c1rea (m2):\n                12.201,00 \n                N\u00ba de unidades ou lojas:\n                1 n/a",
-            "estado": "SP",
+            "cidade": "Madureira Rua Jo\u00e3o Vicente, 187, Madureira, Rio de JaneiroRJ \n                \u00c1rea (m2):\n                12.201,00 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula NA",
+            "endereco": "Rua Jo\u00e3o Vicente, 187, Madureira, Rio de Janeiro",
+            "estado": "RJ",
             "inadimplencia": 0.0,
-            "nome": "Madureira Rio de Janeiro, SP \n                \u00c1rea (m2):\n                12.201,00 \n                N\u00ba de unidades ou lojas:\n                1 n/a",
+            "nome": "Madureira",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 10329.0,
-            "cidade": "Jandira Jandira, SP \n                \u00c1rea (m2):\n                10.329,00 \n                N\u00ba de unidades ou lojas:\n                1 na",
-            "endereco": "Jandira Jandira, SP \n                \u00c1rea (m2):\n                10.329,00 \n                N\u00ba de unidades ou lojas:\n                1 n/a",
+            "cidade": "Jandira Rua Jos\u00e9 Albino Pereira, sn, Polo Industrial Jandira II, S\u00e3o PauloSP \n                \u00c1rea (m2):\n                10.329,00 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula NA",
+            "endereco": "Rua Jos\u00e9 Albino Pereira, s/n, Polo Industrial Jandira II, S\u00e3o Paulo",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Jandira Jandira, SP \n                \u00c1rea (m2):\n                10.329,00 \n                N\u00ba de unidades ou lojas:\n                1 n/a",
+            "nome": "Jandira",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
-            "area": 11817.63,
-            "cidade": "SANT ANTONIO Rua Gelba, 500, Santo Ant\u00f4nio da PatrulaRS. \n                \u00c1rea (m2):\n                11.817,63 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula 20.788",
-            "endereco": "Rua Gelba, 500, Santo Ant\u00f4nio da Patrula",
+            "area": 11818.0,
+            "cidade": "Santo Ant\u00f4nio Rua Gleba, 500, Santo Ant\u00f4nio da Patrula, RS \n                \u00c1rea (m2):\n                11.818,00 \n                N\u00ba de unidades ou lojas:\n                1 Matr\u00edcula n\u00ba 20.788",
+            "endereco": "Rua Gleba, 500, Santo Ant\u00f4nio da Patrula, RS \n                \u00c1rea",
             "estado": "RS",
             "inadimplencia": 0.0,
-            "nome": "SANT ANTONIO",
+            "nome": "Santo Ant\u00f4nio",
             "unidades": 1,
             "vacancia": 0.0
         }
@@ -4398,12 +4542,12 @@
     "segmento": "Outros",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.16,
-            "cagr_ativo_1": -0.08,
-            "cagr_patrimonio_liquido": -0.08,
-            "cagr_vpa_1": -0.08,
+            "cagr_alugeis_1": 1.16,
+            "cagr_ativo_1": -0.0,
+            "cagr_patrimonio_liquido": 0.0,
+            "cagr_vpa_1": 0.0,
             "cagr_vpa_3": 0.16,
-            "cmgr_alugeis_6m": 0.01
+            "cmgr_alugeis_6m": 0.05
         },
         "dividends": {
             "cagr_dividens_1": -0.33,
@@ -4411,46 +4555,46 @@
             "cagr_dy_1": -0.31,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 7.19
+            "dy": 7.29
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.04,
-                "dy": 7.96
+                "cagr_dy_3": -0.02,
+                "dy": 8.08
             },
             "mercado": {
-                "custo_adm_med": 130816.61,
-                "liquidez_med": 448585663333.33
+                "custo_adm_med": 131960.85,
+                "liquidez_med": 432296910147.06
             },
             "operacao": {
-                "patrimonio_liquido": 317634116.94,
-                "pl_cx": 6.52,
-                "vacancia": 1.86
+                "patrimonio_liquido": 331225030.0,
+                "pl_cx": 6.79,
+                "vacancia": 2.48
             },
             "valuation": {
-                "p_vpa_med": 0.91
+                "p_vpa_med": 0.84
             }
         },
         "mercado": {
-            "custo_adm_med": 30844.699999999997,
+            "custo_adm_med": 30814.03,
             "ifix": 0,
-            "liquidez_med": 154149155000.0
+            "liquidez_med": 153422060000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
-            "estados": 2,
+            "estados": 3,
             "imoveis": 4,
-            "patrimonio_liquido": 154376831.45,
-            "pl_cx": 0.73,
+            "patrimonio_liquido": 154515912.65,
+            "pl_cx": 0.66,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.7,
-            "p_vpa_med": 0.71,
-            "price": 67.0,
-            "valuation": 88.57
+            "p_vpa": 0.69,
+            "p_vpa_med": 0.7,
+            "price": 66.63,
+            "valuation": 85.29
         }
     },
     "ticker": "SEQR11",
@@ -4473,6 +4617,10 @@
         },
         {
             "competencia": "2/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
             "total": 0.0
         }
     ]

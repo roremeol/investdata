@@ -134,11 +134,16 @@
             "data_com": "2022-09-23T00:00:00",
             "data_pagamento": "2022-09-30T00:00:00",
             "provento": 0.7
+        },
+        {
+            "data_com": "2022-10-24T00:00:00",
+            "data_pagamento": "2022-10-31T00:00:00",
+            "provento": 0.8
         }
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.268,
+    "ifix_participacao": 0.264,
     "imr": [
         {
             "ativo": 336368273.91,
@@ -347,6 +352,19 @@
             "patrimonio_liquido": 347696797.12,
             "receita_aluguel": 106051.59,
             "valor_patrimonio_cotas": 103.340972
+        },
+        {
+            "ativo": 378279012.46,
+            "caixa": 19530717.43,
+            "competencia": "10/2022",
+            "cotas_emitidas": 3364559.0,
+            "cotistas": 20523,
+            "despesa_administracao": 305852.99,
+            "dy": 0.9554,
+            "numero_cotas": 3364559.0,
+            "patrimonio_liquido": 346772101.97,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 103.066138
         }
     ],
     "indexador_reajuste_contrato": [
@@ -367,7 +385,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRBTRACTF000",
     "lci": [],
     "mandato": "Renda",
@@ -3144,16 +3162,142 @@
             "min": 90.72,
             "open": 91.26,
             "volume": 354682230000
+        },
+        {
+            "change": -8.409321,
+            "close": 90.4,
+            "date": "2022-10-20",
+            "max": 91.99,
+            "min": 90.13,
+            "open": 91.0,
+            "volume": 734277860000
+        },
+        {
+            "change": -9.260385,
+            "close": 89.56,
+            "date": "2022-10-21",
+            "max": 91.67,
+            "min": 89.04,
+            "open": 90.5,
+            "volume": 912755550000
+        },
+        {
+            "change": -9.270517,
+            "close": 89.55,
+            "date": "2022-10-24",
+            "max": 91.45,
+            "min": 89.52,
+            "open": 89.56,
+            "volume": 482876210000
+        },
+        {
+            "change": -9.93921,
+            "close": 88.89,
+            "date": "2022-10-25",
+            "max": 90.0,
+            "min": 88.11,
+            "open": 89.3,
+            "volume": 499876910000
+        },
+        {
+            "change": -13.302938,
+            "close": 85.57,
+            "date": "2022-10-26",
+            "max": 89.29,
+            "min": 85.5,
+            "open": 89.29,
+            "volume": 1476491630000
+        },
+        {
+            "change": -13.049645,
+            "close": 85.82,
+            "date": "2022-10-27",
+            "max": 86.97,
+            "min": 85.75,
+            "open": 85.86,
+            "volume": 483521460000
+        },
+        {
+            "change": -12.765957,
+            "close": 86.1,
+            "date": "2022-10-28",
+            "max": 87.36,
+            "min": 86.0,
+            "open": 86.12,
+            "volume": 465002210000
+        },
+        {
+            "change": -11.762918,
+            "close": 87.09,
+            "date": "2022-10-31",
+            "max": 87.44,
+            "min": 86.1,
+            "open": 86.95,
+            "volume": 353362340000
+        },
+        {
+            "change": -11.813576,
+            "close": 87.04,
+            "date": "2022-11-01",
+            "max": 87.09,
+            "min": 85.75,
+            "open": 87.09,
+            "volume": 491071200000
+        },
+        {
+            "change": -11.600811,
+            "close": 87.25,
+            "date": "2022-11-03",
+            "max": 87.52,
+            "min": 86.52,
+            "open": 87.08,
+            "volume": 304038390000
+        },
+        {
+            "change": -9.848024,
+            "close": 88.98,
+            "date": "2022-11-04",
+            "max": 89.0,
+            "min": 87.68,
+            "open": 87.68,
+            "volume": 587031510000
+        },
+        {
+            "change": -9.827761,
+            "close": 89.0,
+            "date": "2022-11-07",
+            "max": 89.0,
+            "min": 87.98,
+            "open": 88.11,
+            "volume": 302936100000
+        },
+        {
+            "change": -10.699088,
+            "close": 88.14,
+            "date": "2022-11-08",
+            "max": 89.0,
+            "min": 88.1,
+            "open": 88.95,
+            "volume": 479168940000
+        },
+        {
+            "change": -12.553191,
+            "close": 86.31,
+            "date": "2022-11-09",
+            "max": 89.0,
+            "min": 86.01,
+            "open": 88.23,
+            "volume": 645974330000
         }
     ],
     "propriedades": [
         {
-            "area": 14.99,
+            "area": 149900.0,
             "cidade": "Rui Prado Rodovia Br 364, Km 888, Sem Complemento, , Campo Novo Do ParecisMT, Brasil, 78360",
             "endereco": "Fazenda Cachoeirinha",
             "estado": "MT",
             "inadimplencia": 0.0,
-            "nome": " Cachoeirinha - Rui Prado Br 364, Km 888, Sem Complemento, , Campo Novo Do Parecis/MT, Brasil, 78360-000 \n                \u00c1rea (m2):\n                14,99 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": " Cachoeirinha - Rui Prado Br 364, Km 888, Sem Complemento, , Campo Novo Do Parecis/MT, Brasil, 78360-000 \n                \u00c1rea (m2):\n                149.900,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -3199,11 +3343,11 @@
         },
         {
             "area": 31480000.0,
-            "cidade": "Milton Cella  Area Rural, Sn, Sem Complemento, Na, Nova MaringaMT, Brasil, 78445",
-            "endereco": "Fazenda Vianmancel",
+            "cidade": "Fazenda Milton Cella  Area Rural, Sn, Sem Complemento, Na, Nova MaringaMT, Brasil, 78445000 \n                \u00c1rea (m2):\n                31.480.000,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Fazenda Milton Cella  Area Rural, Sn, Sem Complemento, N/a, Nova Maringa/MT, Brasil, 78445",
             "estado": "MT",
             "inadimplencia": 100.0,
-            "nome": "",
+            "nome": " Milton Cella  Area Rural, Sn, Sem Complemento, N/a, Nova Maringa/MT, Brasil, 78445-000 \n                \u00c1rea (m2):\n                31.480.000,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         }
@@ -3212,58 +3356,58 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": -0.2,
-            "cagr_patrimonio_liquido": 0.03,
-            "cagr_vpa_1": 0.03,
+            "cagr_ativo_1": -0.15,
+            "cagr_patrimonio_liquido": -0.0,
+            "cagr_vpa_1": -0.0,
             "cagr_vpa_3": 0.01,
-            "cmgr_alugeis_6m": 0.07
+            "cmgr_alugeis_6m": 0
         },
         "dividends": {
-            "cagr_dividens_1": -0.3,
-            "cagr_dividens_3": -0.11,
-            "cagr_dy_1": -0.37,
-            "cagr_dy_3": -0.13,
-            "cagr_dy_5": -0.08,
-            "dy": 9.07
+            "cagr_dividens_1": -0.2,
+            "cagr_dividens_3": -0.07,
+            "cagr_dy_1": -0.04,
+            "cagr_dy_3": -0.02,
+            "cagr_dy_5": -0.01,
+            "dy": 8.98
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.04,
-                "dy": 7.96
+                "cagr_dy_3": -0.02,
+                "dy": 8.08
             },
             "mercado": {
-                "custo_adm_med": 130816.61,
-                "liquidez_med": 448585663333.33
+                "custo_adm_med": 131960.85,
+                "liquidez_med": 432296910147.06
             },
             "operacao": {
-                "patrimonio_liquido": 317634116.94,
-                "pl_cx": 6.52,
-                "vacancia": 1.86
+                "patrimonio_liquido": 331225030.0,
+                "pl_cx": 6.79,
+                "vacancia": 2.48
             },
             "valuation": {
-                "p_vpa_med": 0.91
+                "p_vpa_med": 0.84
             }
         },
         "mercado": {
-            "custo_adm_med": 341759.2,
-            "ifix": 0.268,
-            "liquidez_med": 667052335000.0
+            "custo_adm_med": 341755.88,
+            "ifix": 0.264,
+            "liquidez_med": 647139090000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 2,
             "imoveis": 6,
-            "patrimonio_liquido": 347696797.12,
-            "pl_cx": 6.14,
+            "patrimonio_liquido": 346772101.97,
+            "pl_cx": 5.63,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.89,
+            "p_vpa": 0.84,
             "p_vpa_med": 0.9,
-            "price": 91.85,
-            "valuation": 110.57
+            "price": 86.31,
+            "valuation": 108.65
         }
     },
     "ticker": "BTRA11",
@@ -3282,6 +3426,10 @@
         },
         {
             "competencia": "2/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
             "total": 0.0
         }
     ]

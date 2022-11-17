@@ -299,13 +299,18 @@
             "data_com": "2022-10-13T00:00:00",
             "data_pagamento": "2022-10-20T00:00:00",
             "provento": 0.65
+        },
+        {
+            "data_com": "2022-11-11T00:00:00",
+            "data_pagamento": "2022-11-21T00:00:00",
+            "provento": 0.65
         }
     ],
     "fii": [
         {
             "nome": "FII IRIDIUM RECEBIVEIS IMOBILIARIOS",
             "quantidade": 216.0,
-            "valor": 22010.4
+            "valor": 22250.16
         }
     ],
     "gestao": "",
@@ -752,6 +757,19 @@
             "patrimonio_liquido": 112827000.75,
             "receita_aluguel": 306788.47,
             "valor_patrimonio_cotas": 85.879415
+        },
+        {
+            "ativo": 130217345.5,
+            "caixa": 3571365.9,
+            "competencia": "10/2022",
+            "cotas_emitidas": 1313784.0,
+            "cotistas": 1853,
+            "despesa_administracao": 122357.5,
+            "dy": 1.1179,
+            "numero_cotas": 1313784.0,
+            "patrimonio_liquido": 112980146.81,
+            "receita_aluguel": 613576.94,
+            "valor_patrimonio_cotas": 85.995983
         }
     ],
     "indexador_reajuste_contrato": [
@@ -772,7 +790,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRMGHTCTF005",
     "lci": [],
     "mandato": "Segmento",
@@ -5763,16 +5781,142 @@
             "min": 63.0,
             "open": 66.25,
             "volume": 169524720000
+        },
+        {
+            "change": -25.894118,
+            "close": 62.99,
+            "date": "2022-10-20",
+            "max": 65.35,
+            "min": 58.99,
+            "open": 64.11,
+            "volume": 396495430000
+        },
+        {
+            "change": -26.0,
+            "close": 62.9,
+            "date": "2022-10-21",
+            "max": 63.88,
+            "min": 62.26,
+            "open": 62.98,
+            "volume": 37325530000
+        },
+        {
+            "change": -26.176471,
+            "close": 62.75,
+            "date": "2022-10-24",
+            "max": 62.8,
+            "min": 59.7,
+            "open": 62.8,
+            "volume": 107897010000
+        },
+        {
+            "change": -26.258824,
+            "close": 62.68,
+            "date": "2022-10-25",
+            "max": 62.9,
+            "min": 60.1,
+            "open": 62.78,
+            "volume": 71214570000
+        },
+        {
+            "change": -28.341176,
+            "close": 60.91,
+            "date": "2022-10-26",
+            "max": 62.69,
+            "min": 60.51,
+            "open": 62.69,
+            "volume": 118047010000
+        },
+        {
+            "change": -28.976471,
+            "close": 60.37,
+            "date": "2022-10-27",
+            "max": 62.17,
+            "min": 59.55,
+            "open": 61.96,
+            "volume": 111650820000
+        },
+        {
+            "change": -29.717647,
+            "close": 59.74,
+            "date": "2022-10-28",
+            "max": 61.79,
+            "min": 59.7,
+            "open": 60.36,
+            "volume": 274145810000
+        },
+        {
+            "change": -28.705882,
+            "close": 60.6,
+            "date": "2022-10-31",
+            "max": 61.11,
+            "min": 59.61,
+            "open": 60.0,
+            "volume": 57633890000
+        },
+        {
+            "change": -28.470588,
+            "close": 60.8,
+            "date": "2022-11-01",
+            "max": 62.1,
+            "min": 60.1,
+            "open": 60.6,
+            "volume": 30971420000
+        },
+        {
+            "change": -28.588235,
+            "close": 60.7,
+            "date": "2022-11-03",
+            "max": 62.02,
+            "min": 60.65,
+            "open": 60.83,
+            "volume": 28600450000
+        },
+        {
+            "change": -28.352941,
+            "close": 60.9,
+            "date": "2022-11-04",
+            "max": 60.9,
+            "min": 60.7,
+            "open": 60.9,
+            "volume": 83354780000
+        },
+        {
+            "change": -28.376471,
+            "close": 60.88,
+            "date": "2022-11-07",
+            "max": 61.95,
+            "min": 60.0,
+            "open": 60.89,
+            "volume": 90561340000
+        },
+        {
+            "change": -27.976471,
+            "close": 61.22,
+            "date": "2022-11-08",
+            "max": 62.0,
+            "min": 60.02,
+            "open": 61.9,
+            "volume": 19343870000
+        },
+        {
+            "change": -27.458824,
+            "close": 61.66,
+            "date": "2022-11-09",
+            "max": 61.89,
+            "min": 60.12,
+            "open": 61.22,
+            "volume": 56280690000
         }
     ],
     "propriedades": [
         {
             "area": 3467.7,
-            "cidade": "Hotel Viila Madalena Rua Aspicuelta, 237, 245, 251 e 259, Vila Madalena, Sao PauloSP, Brasil, 05433010 \n                \u00c1rea (m2):\n                3.467,70 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Rua Aspicuelta, 237, 245, 251 e 259, Vila Madalena, Sao Paulo/SP, Brasil, 05433",
+            "cidade": "Hotel Vila Madalena Rua Aspicuelta, 237, 245, 251 e 259, Vila Madalena, Sao PauloSP, Brasil, 05433010 \n                \u00c1rea (m2):\n                3.467,70 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Vila Madalena Rua Aspicuelta, 237, 245, 251 e 259, Vila Madalena, Sao Paulo/SP, Brasil, 05433",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Hotel Viila Madalena",
+            "nome": "Hotel Madalena",
             "unidades": 1,
             "vacancia": 0.0
         }
@@ -5780,59 +5924,59 @@
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.23,
-            "cagr_ativo_1": -0.03,
+            "cagr_alugeis_1": 1.45,
+            "cagr_ativo_1": -0.18,
             "cagr_patrimonio_liquido": -0.14,
             "cagr_vpa_1": -0.14,
             "cagr_vpa_3": 0.34,
-            "cmgr_alugeis_6m": 0.03
+            "cmgr_alugeis_6m": 0.16
         },
         "dividends": {
             "cagr_dividens_1": -0.35,
             "cagr_dividens_3": -0.13,
-            "cagr_dy_1": -0.28,
+            "cagr_dy_1": 0.12,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 9.21
+            "dy": 9.52
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 111171.745,
+            "custo_adm_med": 111762.41,
             "ifix": 0,
-            "liquidez_med": 8368985000.0
+            "liquidez_med": 8957150000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 1,
             "imoveis": 1,
-            "patrimonio_liquido": 112827000.75,
-            "pl_cx": 3.15,
+            "patrimonio_liquido": 112980146.81,
+            "pl_cx": 3.16,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.75,
-            "p_vpa_med": 0.95,
-            "price": 64.02,
-            "valuation": 107.88
+            "p_vpa": 0.72,
+            "p_vpa_med": 0.94,
+            "price": 61.66,
+            "valuation": 101.75
         }
     },
     "ticker": "MGHT11",
@@ -5863,6 +6007,10 @@
         },
         {
             "competencia": "2/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
             "total": 0.0
         }
     ]

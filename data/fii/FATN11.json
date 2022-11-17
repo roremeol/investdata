@@ -35,23 +35,23 @@
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 0.0
+            "precentual": 2.4491
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 2.9043
+            "precentual": 2.7207
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 3.2263
+            "precentual": 3.1916
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 7.4116
+            "precentual": 10.5148
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 86.4577
+            "precentual": 81.1239
         },
         {
             "prazo": "Prazo indeterminado",
@@ -219,6 +219,11 @@
             "data_com": "2022-10-06T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.89
+        },
+        {
+            "data_com": "2022-11-07T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.9
         }
     ],
     "fii": [],
@@ -653,12 +658,25 @@
             "patrimonio_liquido": 112607476.18,
             "receita_aluguel": 973378.68,
             "valor_patrimonio_cotas": 101.122035
+        },
+        {
+            "ativo": 164254698.42,
+            "caixa": 7060423.84,
+            "competencia": "10/2022",
+            "cotas_emitidas": 1113580.0,
+            "cotistas": 732,
+            "despesa_administracao": 22500.68,
+            "dy": 0.89,
+            "numero_cotas": 1113580.0,
+            "patrimonio_liquido": 112503382.16,
+            "receita_aluguel": 1122183.25,
+            "valor_patrimonio_cotas": 101.028558
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 84.5349
+            "precentual": 86.7176
         },
         {
             "indexador": "INPC",
@@ -666,14 +684,14 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 15.4651
+            "precentual": 13.2824
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRFATNCTF000",
     "lci": [],
     "mandato": "Renda",
@@ -4649,13 +4667,13 @@
             "volume": 15267010000
         },
         {
-            "change": -2.058674,
-            "close": 98.480003,
+            "change": -2.058677,
+            "close": 98.48,
             "date": "2022-10-06",
-            "max": 98.599998,
+            "max": 98.6,
             "min": 98.0,
-            "open": 98.489998,
-            "volume": 248000000
+            "open": 98.49,
+            "volume": 24363440000
         },
         {
             "change": -2.536052,
@@ -4728,6 +4746,132 @@
             "min": 96.0,
             "open": 96.77,
             "volume": 20205860000
+        },
+        {
+            "change": -3.480855,
+            "close": 97.05,
+            "date": "2022-10-20",
+            "max": 97.06,
+            "min": 96.1,
+            "open": 97.06,
+            "volume": 28277330000
+        },
+        {
+            "change": -3.550472,
+            "close": 96.98,
+            "date": "2022-10-21",
+            "max": 97.05,
+            "min": 96.5,
+            "open": 97.05,
+            "volume": 33916760000
+        },
+        {
+            "change": -3.540527,
+            "close": 96.99,
+            "date": "2022-10-24",
+            "max": 97.19,
+            "min": 96.51,
+            "open": 97.19,
+            "volume": 30511600000
+        },
+        {
+            "change": -4.763799,
+            "close": 95.76,
+            "date": "2022-10-25",
+            "max": 97.0,
+            "min": 95.48,
+            "open": 96.96,
+            "volume": 193685170000
+        },
+        {
+            "change": -5.987071,
+            "close": 94.53,
+            "date": "2022-10-26",
+            "max": 95.99,
+            "min": 94.15,
+            "open": 95.99,
+            "volume": 270070790000
+        },
+        {
+            "change": -6.016907,
+            "close": 94.5,
+            "date": "2022-10-27",
+            "max": 96.44,
+            "min": 94.5,
+            "open": 96.44,
+            "volume": 117309040000
+        },
+        {
+            "change": -5.022377,
+            "close": 95.5,
+            "date": "2022-10-28",
+            "max": 95.97,
+            "min": 95.5,
+            "open": 95.97,
+            "volume": 2589020000
+        },
+        {
+            "change": -6.524117,
+            "close": 93.99,
+            "date": "2022-10-31",
+            "max": 95.89,
+            "min": 93.99,
+            "open": 95.0,
+            "volume": 680074910000
+        },
+        {
+            "change": -5.60915,
+            "close": 94.91,
+            "date": "2022-11-01",
+            "max": 95.55,
+            "min": 93.92,
+            "open": 94.9,
+            "volume": 144951310000
+        },
+        {
+            "change": -5.768274,
+            "close": 94.75,
+            "date": "2022-11-03",
+            "max": 94.91,
+            "min": 94.6,
+            "open": 94.89,
+            "volume": 67973830000
+        },
+        {
+            "change": -5.728493,
+            "close": 94.79,
+            "date": "2022-11-04",
+            "max": 94.8,
+            "min": 94.56,
+            "open": 94.8,
+            "volume": 52027030000
+        },
+        {
+            "change": -6.514172,
+            "close": 94.0,
+            "date": "2022-11-07",
+            "max": 94.31,
+            "min": 93.93,
+            "open": 94.31,
+            "volume": 412205460000
+        },
+        {
+            "change": -6.255594,
+            "close": 94.26,
+            "date": "2022-11-08",
+            "max": 96.5,
+            "min": 92.69,
+            "open": 93.11,
+            "volume": 483695290000
+        },
+        {
+            "change": -6.016907,
+            "close": 94.5,
+            "date": "2022-11-09",
+            "max": 94.8,
+            "min": 94.18,
+            "open": 94.65,
+            "volume": 58973100000
         }
     ],
     "propriedades": [
@@ -4789,7 +4933,7 @@
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Atrium I",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 66.6667
         },
         {
             "area": 288.88,
@@ -4979,7 +5123,7 @@
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Aeroporto II",
             "unidades": 1,
-            "vacancia": 15.5556
+            "vacancia": 0.0
         },
         {
             "area": 288.07,
@@ -5009,7 +5153,7 @@
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Maximum",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 27.7778
         },
         {
             "area": 214.1,
@@ -5070,64 +5214,134 @@
             "nome": "Edif\u00edcio Manhattan",
             "unidades": 2,
             "vacancia": 0.0
+        },
+        {
+            "area": 244.58,
+            "cidade": "Edif\u00edcio Maximum Av. Dr. Cardoso de Melo, 1608 \n                \u00c1rea (m2):\n                244,58 \n                N\u00ba de unidades ou lojas:\n                1 cj. 71",
+            "endereco": "Av. Dr",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Maximum",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 229.44,
+            "cidade": "Edif\u00edcio Maximum Av. Dr. Cardoso de Melo, 1608 \n                \u00c1rea (m2):\n                229,44 \n                N\u00ba de unidades ou lojas:\n                1 cj. 72",
+            "endereco": "Av. Dr",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Maximum",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 334.81,
+            "cidade": "Edif\u00edcio Paulista Av. Paulista, 2022 \n                \u00c1rea (m2):\n                334,81 \n                N\u00ba de unidades ou lojas:\n                2 cj 91 ao 94",
+            "endereco": "Av. Paulista, 2022 \n                \u00c1rea",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Paulista",
+            "unidades": 2,
+            "vacancia": 0.0
+        },
+        {
+            "area": 227.9,
+            "cidade": "Edif\u00edcio Paulista Av. Paulista, 2022 \n                \u00c1rea (m2):\n                227,90 \n                N\u00ba de unidades ou lojas:\n                4 cjs.95 ao 96",
+            "endereco": "Av. Paulista, 2022 \n                \u00c1rea",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Paulista",
+            "unidades": 4,
+            "vacancia": 0.0
+        },
+        {
+            "area": 278.92,
+            "cidade": "Edif\u00edcio Fortaleza Av. Luiz Carlos Berrini, 1461 \n                \u00c1rea (m2):\n                278,92 \n                N\u00ba de unidades ou lojas:\n                1 cj. 101",
+            "endereco": "Av. Luiz Carlos Berrini, 1461 \n                \u00c1rea",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Fortaleza",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 152.08,
+            "cidade": "Edif\u00edcio Lafayette Rua Tabapu\u00e3, 500 \n                \u00c1rea (m2):\n                152,08 \n                N\u00ba de unidades ou lojas:\n                2 cjs. 111 e 112",
+            "endereco": "Rua Tabapu\u00e3, 500 \n                \u00c1rea",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Lafayette",
+            "unidades": 2,
+            "vacancia": 0.0
+        },
+        {
+            "area": 151.2,
+            "cidade": "Edif\u00edcio Lafayette Rua Tabapu\u00e3, 500 \n                \u00c1rea (m2):\n                151,20 \n                N\u00ba de unidades ou lojas:\n                2 cjs. 113 e 114",
+            "endereco": "Rua Tabapu\u00e3, 500 \n                \u00c1rea",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Lafayette",
+            "unidades": 2,
+            "vacancia": 0.0
         }
     ],
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.93,
-            "cagr_ativo_1": 0.41,
-            "cagr_patrimonio_liquido": 0.39,
-            "cagr_vpa_1": 0.39,
+            "cagr_alugeis_1": -0.92,
+            "cagr_ativo_1": 0.4,
+            "cagr_patrimonio_liquido": 0.37,
+            "cagr_vpa_1": 0.37,
             "cagr_vpa_3": 0.51,
             "cmgr_alugeis_6m": 0.05
         },
         "dividends": {
-            "cagr_dividens_1": -0.11,
-            "cagr_dividens_3": -0.04,
-            "cagr_dy_1": -0.09,
+            "cagr_dividens_1": -0.1,
+            "cagr_dividens_3": -0.03,
+            "cagr_dy_1": -0.11,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 9.1
+            "dy": 9.29
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 24728.96,
+            "custo_adm_med": 24720.835,
             "ifix": 0,
-            "liquidez_med": 7829920000.0
+            "liquidez_med": 8896560000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 1,
-            "imoveis": 34,
-            "patrimonio_liquido": 112607476.18,
-            "pl_cx": 6.54,
-            "vacancia": 0.33,
+            "imoveis": 41,
+            "patrimonio_liquido": 112503382.16,
+            "pl_cx": 6.28,
+            "vacancia": 3.12,
             "vacancia_1": 0,
-            "vacancia_3m": 1.31
+            "vacancia_3m": 0.33
         },
         "valuation": {
-            "p_vpa": 0.95,
+            "p_vpa": 0.94,
             "p_vpa_med": 1.0,
-            "price": 96.05,
-            "valuation": 109.82
+            "price": 94.5,
+            "valuation": 107.0
         }
     },
     "ticker": "FATN11",
@@ -5171,6 +5385,10 @@
         {
             "competencia": "02/2022",
             "total": 0.33
+        },
+        {
+            "competencia": "03/2022",
+            "total": 3.12
         }
     ]
 }

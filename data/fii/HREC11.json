@@ -5,62 +5,67 @@
         {
             "nome": "OPEA SECURITIZADORA S.A.",
             "quantidade": 51012.0,
-            "valor": 54095394.71
+            "valor": 54658112.58
         },
         {
             "nome": "HABITASEC SECURITIZADORA S.A.",
             "quantidade": 30000.0,
-            "valor": 28062566.5
+            "valor": 27949254.16
         },
         {
             "nome": "HABITASEC SECURITIZADORA S.A.",
             "quantidade": 30000.0,
-            "valor": 28062566.5
+            "valor": 27949254.16
         },
         {
             "nome": "HABITASEC SECURITIZADORA S.A.",
             "quantidade": 30000.0,
-            "valor": 28062566.5
+            "valor": 27949254.17
         },
         {
             "nome": "TRUE SECURITIZADORA S.A.",
             "quantidade": 52258.0,
-            "valor": 50100140.77
+            "valor": 49945525.73
         },
         {
             "nome": "TRUE SECURITIZADORA S.A.",
             "quantidade": 54133.0,
-            "valor": 51897717.53
+            "valor": 51737554.97
         },
         {
             "nome": "TRUE SECURITIZADORA S.A.",
             "quantidade": 54133.0,
-            "valor": 51897717.54
+            "valor": 51737554.96
         },
         {
             "nome": "VIRGO II COMPANHIA DE SECURITIZACAO",
             "quantidade": 15000.0,
-            "valor": 15566983.95
+            "valor": 15533081.17
         },
         {
             "nome": "TRUE SECURITIZADORA S.A.",
             "quantidade": 17208.0,
-            "valor": 17415010.03
+            "valor": 17256116.13
         },
         {
             "nome": "TRUE SECURITIZADORA S.A.",
-            "quantidade": 34416.0,
-            "valor": 34830020.07
+            "quantidade": 34680.0,
+            "valor": 34776970.45
         },
         {
             "nome": "TRUE SECURITIZADORA S.A.",
-            "quantidade": 34416.0,
-            "valor": 34830020.07
+            "quantidade": 34680.0,
+            "valor": 34776970.45
         },
         {
             "nome": "OPEA SECURITIZADORA S.A.",
             "quantidade": 4850.0,
-            "valor": 5031772.52
+            "valor": 5045128.98
+        },
+        {
+            "nome": "HABITASEC SECURITIZADORA S.A.",
+            "quantidade": 13325.0,
+            "valor": 13327448.66
         }
     ],
     "dividends": [
@@ -233,6 +238,11 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.66
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.9
         }
     ],
     "fii": [],
@@ -550,10 +560,23 @@
             "patrimonio_liquido": 424777529.08,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 91.218808
+        },
+        {
+            "ativo": 476573846.35,
+            "caixa": 59602020.11,
+            "competencia": "10/2022",
+            "cotas_emitidas": 5156765.0,
+            "cotistas": 972,
+            "despesa_administracao": 295198.28,
+            "dy": 0.9866,
+            "numero_cotas": 5156765.0,
+            "patrimonio_liquido": 470810658.96,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 91.299615
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRHRECCTF005",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -4248,6 +4271,132 @@
             "min": 90.17,
             "open": 90.47,
             "volume": 34929840000
+        },
+        {
+            "change": -10.156096,
+            "close": 90.94,
+            "date": "2022-10-20",
+            "max": 90.95,
+            "min": 90.1,
+            "open": 90.1,
+            "volume": 25981790000
+        },
+        {
+            "change": -11.084766,
+            "close": 90.0,
+            "date": "2022-10-21",
+            "max": 90.9,
+            "min": 89.0,
+            "open": 90.9,
+            "volume": 22331530000
+        },
+        {
+            "change": -11.084766,
+            "close": 90.0,
+            "date": "2022-10-24",
+            "max": 90.0,
+            "min": 90.0,
+            "open": 90.0,
+            "volume": 90000000
+        },
+        {
+            "change": -11.084766,
+            "close": 90.0,
+            "date": "2022-10-25",
+            "max": 90.0,
+            "min": 90.0,
+            "open": 90.0,
+            "volume": 450000000
+        },
+        {
+            "change": -7.626951,
+            "close": 93.5,
+            "date": "2022-10-26",
+            "max": 93.5,
+            "min": 89.01,
+            "open": 89.99,
+            "volume": 27808980000
+        },
+        {
+            "change": -9.918988,
+            "close": 91.18,
+            "date": "2022-10-27",
+            "max": 91.29,
+            "min": 91.18,
+            "open": 91.29,
+            "volume": 1368040000
+        },
+        {
+            "change": -9.810314,
+            "close": 91.29,
+            "date": "2022-10-28",
+            "max": 91.29,
+            "min": 88.44,
+            "open": 91.14,
+            "volume": 192543010000
+        },
+        {
+            "change": -9.820194,
+            "close": 91.28,
+            "date": "2022-10-31",
+            "max": 91.28,
+            "min": 90.61,
+            "open": 90.61,
+            "volume": 545000000
+        },
+        {
+            "change": -10.946453,
+            "close": 90.14,
+            "date": "2022-11-01",
+            "max": 90.14,
+            "min": 90.14,
+            "open": 90.14,
+            "volume": 540840000
+        },
+        {
+            "change": -11.055127,
+            "close": 90.03,
+            "date": "2022-11-03",
+            "max": 90.1,
+            "min": 89.5,
+            "open": 90.1,
+            "volume": 1439290000
+        },
+        {
+            "change": -10.995851,
+            "close": 90.09,
+            "date": "2022-11-04",
+            "max": 90.09,
+            "min": 90.0,
+            "open": 90.0,
+            "volume": 1080180000
+        },
+        {
+            "change": -11.094645,
+            "close": 89.99,
+            "date": "2022-11-07",
+            "max": 90.0,
+            "min": 88.0,
+            "open": 90.0,
+            "volume": 40088340000
+        },
+        {
+            "change": -11.104525,
+            "close": 89.98,
+            "date": "2022-11-08",
+            "max": 90.0,
+            "min": 88.14,
+            "open": 90.0,
+            "volume": 982530000
+        },
+        {
+            "change": -12.072713,
+            "close": 89.0,
+            "date": "2022-11-09",
+            "max": 89.99,
+            "min": 89.0,
+            "open": 89.98,
+            "volume": 895180000
         }
     ],
     "propriedades": [],
@@ -4255,58 +4404,58 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": 0.75,
-            "cagr_patrimonio_liquido": 0.58,
-            "cagr_vpa_1": 0.58,
-            "cagr_vpa_3": 0.68,
+            "cagr_ativo_1": 0.09,
+            "cagr_patrimonio_liquido": 0.77,
+            "cagr_vpa_1": 0.77,
+            "cagr_vpa_3": 0.74,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
-            "cagr_dividens_1": -0.34,
-            "cagr_dividens_3": -0.13,
-            "cagr_dy_1": -0.23,
+            "cagr_dividens_1": -0.14,
+            "cagr_dividens_3": -0.03,
+            "cagr_dy_1": -0.11,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 12.18
+            "dy": 12.03
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.04,
-                "dy": 10.73
+                "cagr_dy_3": -0.06,
+                "dy": 10.8
             },
             "mercado": {
-                "custo_adm_med": 231034.16,
-                "liquidez_med": 792177073119.66
+                "custo_adm_med": 232835.76,
+                "liquidez_med": 735204290847.46
             },
             "operacao": {
-                "patrimonio_liquido": 548089731.91,
-                "pl_cx": 8.01,
-                "vacancia": 0.72
+                "patrimonio_liquido": 555876695.52,
+                "pl_cx": 9.46,
+                "vacancia": 0.71
             },
             "valuation": {
-                "p_vpa_med": 1.01
+                "p_vpa_med": 0.84
             }
         },
         "mercado": {
-            "custo_adm_med": 167072.715,
+            "custo_adm_med": 169149.93,
             "ifix": 0,
-            "liquidez_med": 4925380000.0
+            "liquidez_med": 4645500000.0
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 424777529.08,
-            "pl_cx": 14.58,
+            "patrimonio_liquido": 470810658.96,
+            "pl_cx": 12.66,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.99,
+            "p_vpa": 0.97,
             "p_vpa_med": 1.04,
-            "price": 90.17,
-            "valuation": 118.38
+            "price": 89.0,
+            "valuation": 118.6
         }
     },
     "ticker": "HREC11",

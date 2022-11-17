@@ -3,55 +3,55 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 4.3863
+            "precentual": 2.5787
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 2.5195
+            "precentual": 0.0643
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 0.0179
+            "precentual": 1.3169
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 2.2051
+            "precentual": 0.2755
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 4.302
+            "precentual": 0.0
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 0.0
+            "precentual": 2.0654
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 2.1004
+            "precentual": 4.6431
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 4.6665
+            "precentual": 3.355
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 3.3865
-        },
-        {
-            "prazo": "De 27 meses e 1 dia a 30 meses",
             "precentual": 0.0
         },
         {
+            "prazo": "De 27 meses e 1 dia a 30 meses",
+            "precentual": 12.727
+        },
+        {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 12.9432
+            "precentual": 0.4207
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 0.3459
+            "precentual": 2.1725
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 63.1267
+            "precentual": 70.3807
         },
         {
             "prazo": "Prazo indeterminado",
@@ -424,23 +424,28 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.49
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.49
         }
     ],
     "fii": [
         {
             "nome": "FII BM Edificio (EDGA11)",
             "quantidade": 354373.0,
-            "valor": 6350364.16
+            "valor": 6385801.46
         },
         {
             "nome": "FII CSHG JHBPW (HGPO11)",
-            "quantidade": 293088.0,
-            "valor": 76138400.64
+            "quantidade": 277613.0,
+            "valor": 72734606.0
         },
         {
             "nome": "FII P VARGAS (PRSV11)",
             "quantidade": 4516.0,
-            "valor": 433536.0
+            "valor": 550952.0
         },
         {
             "nome": "FII - FII TB Office (TBOF11)",
@@ -450,16 +455,16 @@
         {
             "nome": "FII Bluemacaw Office Fund II (BLMO11)",
             "quantidade": 381.0,
-            "valor": 9443408.85
+            "valor": 8382000.0
         },
         {
             "nome": "FDO INV IMOB RIO BRAVO RENDA CORPORATIVA (RCRB11)",
-            "quantidade": 76699.0,
-            "valor": 9677879.82
+            "quantidade": 53425.0,
+            "valor": 7851872.25
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 1.601,
+    "ifix_participacao": 1.469,
     "imr": [
         {
             "ativo": 708403732.21,
@@ -1396,12 +1401,25 @@
             "patrimonio_liquido": 2357913671.4,
             "receita_aluguel": 9172439.39,
             "valor_patrimonio_cotas": 113.539579
+        },
+        {
+            "ativo": 2528717231.4,
+            "caixa": 2890944.23,
+            "competencia": "10/2022",
+            "cotas_emitidas": 20767328.0,
+            "cotistas": 82729,
+            "despesa_administracao": 1422631.71,
+            "dy": 0.4315,
+            "numero_cotas": 20767328.0,
+            "patrimonio_liquido": 2355350509.3,
+            "receita_aluguel": 9082044.18,
+            "valor_patrimonio_cotas": 113.416156
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 32.3916
+            "precentual": 31.9163
         },
         {
             "indexador": "INPC",
@@ -1409,14 +1427,18 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 66.1737
+            "precentual": 66.5796
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
+        },
+        {
+            "indexador": "IGP-DI",
+            "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRJSRECTF007",
     "lci": [],
     "mandato": "H\u00edbrido",
@@ -14682,6 +14704,15 @@
         {
             "change": -85.942857,
             "close": 123.0,
+            "date": "2019-12-26",
+            "max": 123.0,
+            "min": 118.56,
+            "open": 119.6,
+            "volume": 7314025840000
+        },
+        {
+            "change": -85.942857,
+            "close": 123.0,
             "date": "2019-12-27",
             "max": 124.0,
             "min": 122.35,
@@ -14690,12 +14721,21 @@
         },
         {
             "change": -85.965714,
-            "close": 122.800003,
+            "close": 122.8,
             "date": "2019-12-30",
-            "max": 123.470001,
+            "max": 123.47,
             "min": 122.0,
-            "open": 122.989998,
-            "volume": 21319000000
+            "open": 122.99,
+            "volume": 2616122040000
+        },
+        {
+            "change": -86.154286,
+            "close": 121.15,
+            "date": "2020-01-02",
+            "max": 124.94,
+            "min": 118.0,
+            "open": 122.34,
+            "volume": 14635396700000
         },
         {
             "change": -86.285714,
@@ -20960,6 +21000,132 @@
             "min": 84.79,
             "open": 85.21,
             "volume": 2998395090000
+        },
+        {
+            "change": -89.987429,
+            "close": 87.61,
+            "date": "2022-10-20",
+            "max": 88.19,
+            "min": 86.59,
+            "open": 86.79,
+            "volume": 3501558200000
+        },
+        {
+            "change": -90.034286,
+            "close": 87.2,
+            "date": "2022-10-21",
+            "max": 87.8,
+            "min": 86.55,
+            "open": 87.8,
+            "volume": 2825442640000
+        },
+        {
+            "change": -90.146286,
+            "close": 86.22,
+            "date": "2022-10-24",
+            "max": 87.28,
+            "min": 86.04,
+            "open": 86.72,
+            "volume": 2689174970000
+        },
+        {
+            "change": -90.187429,
+            "close": 85.86,
+            "date": "2022-10-25",
+            "max": 86.92,
+            "min": 85.86,
+            "open": 86.37,
+            "volume": 3150327110000
+        },
+        {
+            "change": -90.177143,
+            "close": 85.95,
+            "date": "2022-10-26",
+            "max": 86.31,
+            "min": 85.56,
+            "open": 85.9,
+            "volume": 2518626440000
+        },
+        {
+            "change": -90.154286,
+            "close": 86.15,
+            "date": "2022-10-27",
+            "max": 86.47,
+            "min": 85.06,
+            "open": 85.95,
+            "volume": 3153101430000
+        },
+        {
+            "change": -90.206857,
+            "close": 85.69,
+            "date": "2022-10-28",
+            "max": 86.0,
+            "min": 84.81,
+            "open": 85.89,
+            "volume": 2523535680000
+        },
+        {
+            "change": -90.154286,
+            "close": 86.15,
+            "date": "2022-10-31",
+            "max": 86.15,
+            "min": 84.45,
+            "open": 85.69,
+            "volume": 2388414260000
+        },
+        {
+            "change": -90.171429,
+            "close": 86.0,
+            "date": "2022-11-01",
+            "max": 86.0,
+            "min": 85.06,
+            "open": 85.98,
+            "volume": 2475274860000
+        },
+        {
+            "change": -90.180571,
+            "close": 85.92,
+            "date": "2022-11-03",
+            "max": 85.97,
+            "min": 85.15,
+            "open": 85.97,
+            "volume": 2028038770000
+        },
+        {
+            "change": -90.24,
+            "close": 85.4,
+            "date": "2022-11-04",
+            "max": 85.99,
+            "min": 85.0,
+            "open": 85.92,
+            "volume": 2689195840000
+        },
+        {
+            "change": -90.44,
+            "close": 83.65,
+            "date": "2022-11-07",
+            "max": 85.0,
+            "min": 83.0,
+            "open": 85.0,
+            "volume": 4971801300000
+        },
+        {
+            "change": -90.528,
+            "close": 82.88,
+            "date": "2022-11-08",
+            "max": 83.64,
+            "min": 82.88,
+            "open": 83.64,
+            "volume": 3162157800000
+        },
+        {
+            "change": -90.542857,
+            "close": 82.75,
+            "date": "2022-11-09",
+            "max": 83.19,
+            "min": 82.0,
+            "open": 82.88,
+            "volume": 3595277510000
         }
     ],
     "propriedades": [
@@ -20991,7 +21157,7 @@
             "inadimplencia": 0.0,
             "nome": "Ed. Paulista Paulista, 2064, Bela Vista, S\u00e3o Paulo - SP \n                \u00c1rea (m2):\n                26.206,20 \n                N\u00ba de unidades ou lojas:\n                22 Reajuste anual por indexador de infla\u00e7\u00e3o (IGP-M ou IPC-A), aviso pr\u00e9vio e multa proporcional ao per\u00edodo de cumprimento do contrato, direito de prefer\u00eancia e multa caso haja descumprimento do contrato.",
             "unidades": 22,
-            "vacancia": 30.8626
+            "vacancia": 30.9
         },
         {
             "area": 56447.68,
@@ -21001,7 +21167,7 @@
             "inadimplencia": 0.0,
             "nome": "Ed. Tower Bridge Corporate Jornalista Roberto Marinho, 85, Cidade Mon\u00e7\u00f5es, Sao Paulo - SP \n                \u00c1rea (m2):\n                56.447,68 \n                N\u00ba de unidades ou lojas:\n                76 Reajuste anual por indexador de infla\u00e7\u00e3o (IGP-M ou IPC-A), aviso pr\u00e9vio e multa proporcional ao per\u00edodo de cumprimento do contrato, direito de prefer\u00eancia e multa caso haja descumprimento do contrato.",
             "unidades": 76,
-            "vacancia": 7.5013
+            "vacancia": 5.7
         },
         {
             "area": 11346.42,
@@ -21011,7 +21177,7 @@
             "inadimplencia": 0.0,
             "nome": "Torre Ebony",
             "unidades": 66,
-            "vacancia": 25.4757
+            "vacancia": 16.8561
         },
         {
             "area": 11351.26,
@@ -21021,18 +21187,18 @@
             "inadimplencia": 0.0,
             "nome": "Torre Marble",
             "unidades": 66,
-            "vacancia": 26.2892
+            "vacancia": 37.6703
         }
     ],
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.27,
+            "cagr_alugeis_1": -0.23,
             "cagr_ativo_1": -0.01,
-            "cagr_patrimonio_liquido": 0.0,
-            "cagr_vpa_1": 0.0,
-            "cagr_vpa_3": 0.16,
-            "cmgr_alugeis_6m": 0.02
+            "cagr_patrimonio_liquido": -0.0,
+            "cagr_vpa_1": -0.0,
+            "cagr_vpa_3": 0.14,
+            "cmgr_alugeis_6m": 0.03
         },
         "dividends": {
             "cagr_dividens_1": -0.51,
@@ -21040,46 +21206,46 @@
             "cagr_dy_1": -0.57,
             "cagr_dy_3": -0.24,
             "cagr_dy_5": -0.15,
-            "dy": 4.88
+            "dy": 4.85
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 973779.7949999999,
-            "ifix": 1.601,
-            "liquidez_med": 1251487760000
+            "custo_adm_med": 1164094.17,
+            "ifix": 1.469,
+            "liquidez_med": 1261317750000
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 2,
             "imoveis": 6,
-            "patrimonio_liquido": 2357913671.4,
-            "pl_cx": 0.07,
-            "vacancia": 14.92,
+            "patrimonio_liquido": 2355350509.3,
+            "pl_cx": 0.12,
+            "vacancia": 14.36,
             "vacancia_1": 0.0,
-            "vacancia_3m": 14.74
+            "vacancia_3m": 14.92
         },
         "valuation": {
-            "p_vpa": 0.77,
+            "p_vpa": 0.73,
             "p_vpa_med": 0.88,
-            "price": 87.0,
-            "valuation": 69.39
+            "price": 82.75,
+            "valuation": 66.07
         }
     },
     "ticker": "JSRE11",
@@ -21175,6 +21341,10 @@
         {
             "competencia": "2/2022",
             "total": 14.92
+        },
+        {
+            "competencia": "3/2022",
+            "total": 14.36
         }
     ]
 }

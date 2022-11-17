@@ -279,6 +279,11 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-07T00:00:00",
             "provento": 0.901719638
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-08T00:00:00",
+            "provento": 0.906856097
         }
     ],
     "fii": [],
@@ -1181,6 +1186,19 @@
             "patrimonio_liquido": 188283438.93,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 125.160662
+        },
+        {
+            "ativo": 201245350.47,
+            "caixa": 9275450.12,
+            "competencia": "10/2022",
+            "cotas_emitidas": 1504334.0,
+            "cotistas": 25678,
+            "despesa_administracao": 176027.77,
+            "dy": 0.7246,
+            "numero_cotas": 1504334.0,
+            "patrimonio_liquido": 198676940.23,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 132.0697
         }
     ],
     "indexador_reajuste_contrato": [
@@ -1201,7 +1219,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRHTMXCTF000",
     "lci": [],
     "mandato": "Renda",
@@ -7112,6 +7130,15 @@
             "volume": 537986570000
         },
         {
+            "change": 51.854839,
+            "close": 188.3,
+            "date": "2019-12-26",
+            "max": 189.49,
+            "min": 187.71,
+            "open": 187.77,
+            "volume": 680201260000
+        },
+        {
             "change": 51.274194,
             "close": 187.58,
             "date": "2019-12-27",
@@ -7121,13 +7148,22 @@
             "volume": 501085700000
         },
         {
-            "change": 51.596771,
-            "close": 187.979996,
+            "change": 51.596774,
+            "close": 187.98,
             "date": "2019-12-30",
-            "max": 188.600006,
-            "min": 187.580002,
-            "open": 187.580002,
-            "volume": 2163000000
+            "max": 188.6,
+            "min": 187.58,
+            "open": 187.58,
+            "volume": 406771600000
+        },
+        {
+            "change": 47.580645,
+            "close": 183.0,
+            "date": "2020-01-02",
+            "max": 187.4,
+            "min": 179.25,
+            "open": 187.4,
+            "volume": 706150830000
         },
         {
             "change": 47.540323,
@@ -13392,13 +13428,139 @@
             "min": 117.3,
             "open": 119.8,
             "volume": 424206110000
+        },
+        {
+            "change": -4.475806,
+            "close": 118.45,
+            "date": "2022-10-20",
+            "max": 118.99,
+            "min": 117.71,
+            "open": 118.98,
+            "volume": 172314350000
+        },
+        {
+            "change": -5.508065,
+            "close": 117.17,
+            "date": "2022-10-21",
+            "max": 119.63,
+            "min": 117.17,
+            "open": 118.94,
+            "volume": 359020910000
+        },
+        {
+            "change": -4.572581,
+            "close": 118.33,
+            "date": "2022-10-24",
+            "max": 118.47,
+            "min": 115.5,
+            "open": 117.0,
+            "volume": 404411170000
+        },
+        {
+            "change": -5.016129,
+            "close": 117.78,
+            "date": "2022-10-25",
+            "max": 119.47,
+            "min": 115.55,
+            "open": 118.32,
+            "volume": 223245050000
+        },
+        {
+            "change": -3.637097,
+            "close": 119.49,
+            "date": "2022-10-26",
+            "max": 119.7,
+            "min": 114.0,
+            "open": 117.78,
+            "volume": 408311810000
+        },
+        {
+            "change": -4.064516,
+            "close": 118.96,
+            "date": "2022-10-27",
+            "max": 119.0,
+            "min": 116.0,
+            "open": 119.0,
+            "volume": 164531250000
+        },
+        {
+            "change": -4.435484,
+            "close": 118.5,
+            "date": "2022-10-28",
+            "max": 119.25,
+            "min": 116.02,
+            "open": 117.01,
+            "volume": 191476810000
+        },
+        {
+            "change": -5.556452,
+            "close": 117.11,
+            "date": "2022-10-31",
+            "max": 118.0,
+            "min": 116.0,
+            "open": 118.0,
+            "volume": 330877170000
+        },
+        {
+            "change": -5.862903,
+            "close": 116.73,
+            "date": "2022-11-01",
+            "max": 118.99,
+            "min": 116.0,
+            "open": 117.0,
+            "volume": 503931290000
+        },
+        {
+            "change": -5.895161,
+            "close": 116.69,
+            "date": "2022-11-03",
+            "max": 116.7,
+            "min": 115.0,
+            "open": 116.7,
+            "volume": 266562840000
+        },
+        {
+            "change": -7.25,
+            "close": 115.01,
+            "date": "2022-11-04",
+            "max": 116.73,
+            "min": 115.01,
+            "open": 116.73,
+            "volume": 291800250000
+        },
+        {
+            "change": -6.975806,
+            "close": 115.35,
+            "date": "2022-11-07",
+            "max": 116.0,
+            "min": 115.03,
+            "open": 115.03,
+            "volume": 208563530000
+        },
+        {
+            "change": -7.08871,
+            "close": 115.21,
+            "date": "2022-11-08",
+            "max": 116.0,
+            "min": 114.61,
+            "open": 114.61,
+            "volume": 264389090000
+        },
+        {
+            "change": -6.991935,
+            "close": 115.33,
+            "date": "2022-11-09",
+            "max": 115.59,
+            "min": 114.25,
+            "open": 115.21,
+            "volume": 182357210000
         }
     ],
     "propriedades": [
         {
             "area": 1360.86,
-            "cidade": "Ibis Styles Faria Lima Rua Tavares Cabral 61,  S\u00e3o Paulo, SP, 54223030 \n                \u00c1rea (m2):\n                1.360,86 \n                N\u00ba de unidades ou lojas:\n                74 Direito de Propriedade",
-            "endereco": "Rua Tavares Cabral 61,  S\u00e3o Paulo, SP, 54223",
+            "cidade": "Ibis Styles Faria Lima Rua Tavares Cabral 61, 107, S\u00e3o Paulo, SP, 54223030 \n                \u00c1rea (m2):\n                1.360,86 \n                N\u00ba de unidades ou lojas:\n                74 Direito de Propriedade",
+            "endereco": "Rua Tavares Cabral 61, 107, S\u00e3o Paulo, SP, 54223",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Ibis Styles Faria Lima",
@@ -13407,7 +13569,7 @@
         },
         {
             "area": 1008.0,
-            "cidade": "Ibis S\u00e3o Paulo Morumbi Av Roque Petroni Jr. 801, S\u00e3o Paulo, SP, 04707055 \n                \u00c1rea (m2):\n                1.008,00 \n                N\u00ba de unidades ou lojas:\n                56 Direito de Propriedade",
+            "cidade": "Ibis S\u00e3o Paulo Morumbi Av Roque Petroni Jr. 801, 107, S\u00e3o Paulo, SP, 04707055 \n                \u00c1rea (m2):\n                1.008,00 \n                N\u00ba de unidades ou lojas:\n                56 Direito de Propriedade",
             "endereco": "Av Roque Petroni Jr",
             "estado": "SP",
             "inadimplencia": 0.0,
@@ -13417,38 +13579,38 @@
         },
         {
             "area": 456.0,
-            "cidade": "Double Tree by Hilton S\u00e3o Paulo Itaim R. Manuel Guedes 320, S\u00e3o Paulo, SP, 04536070 \n                \u00c1rea (m2):\n                456,00 \n                N\u00ba de unidades ou lojas:\n                2 Direito de Propriedade",
-            "endereco": "Double Tree by Hilton S\u00e3o Paulo Itaim R. Manuel Guedes 320, S\u00e3o Paulo, SP, 04536-070 \n                \u00c1rea (m2):\n                456,00 \n                N\u00ba de unidades ou lojas:\n                2 Direito de Propriedade",
+            "cidade": "Double Tree by Hilton S\u00e3o Paulo Itaim R. Manuel Guedes 320, 107, S\u00e3o Paulo, SP, 04536070 \n                \u00c1rea (m2):\n                456,00 \n                N\u00ba de unidades ou lojas:\n                2 Direito de Propriedade",
+            "endereco": "Double Tree by Hilton S\u00e3o Paulo Itaim R. Manuel Guedes 320, 107, S\u00e3o Paulo, SP, 04536-070 \n                \u00c1rea (m2):\n                456,00 \n                N\u00ba de unidades ou lojas:\n                2 Direito de Propriedade",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Double Tree by Hilton S\u00e3o Paulo Itaim R. Manuel Guedes 320, S\u00e3o Paulo, SP, 04536-070 \n                \u00c1rea (m2):\n                456,00 \n                N\u00ba de unidades ou lojas:\n                2 Direito de Propriedade",
+            "nome": "Double Tree by Hilton S\u00e3o Paulo Itaim R. Manuel Guedes 320, 107, S\u00e3o Paulo, SP, 04536-070 \n                \u00c1rea (m2):\n                456,00 \n                N\u00ba de unidades ou lojas:\n                2 Direito de Propriedade",
             "unidades": 2,
             "vacancia": 0.0
         },
         {
             "area": 790.37,
-            "cidade": "Estanplaza Funchal R. Funchal 281, S\u00e3o Paulo, SP, 04551060 \n                \u00c1rea (m2):\n                790,37 \n                N\u00ba de unidades ou lojas:\n                25 Direito de Propriedade",
-            "endereco": "Estanplaza Funchal R. Funchal 281, S\u00e3o Paulo, SP, 04551-060 \n                \u00c1rea (m2):\n                790,37 \n                N\u00ba de unidades ou lojas:\n                25 Direito de Propriedade",
+            "cidade": "Estanplaza Funchal R. Funchal 281, 107, S\u00e3o Paulo, SP, 04551060 \n                \u00c1rea (m2):\n                790,37 \n                N\u00ba de unidades ou lojas:\n                25 Direito de Propriedade",
+            "endereco": "Estanplaza Funchal R. Funchal 281, 107, S\u00e3o Paulo, SP, 04551-060 \n                \u00c1rea (m2):\n                790,37 \n                N\u00ba de unidades ou lojas:\n                25 Direito de Propriedade",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Estanplaza Funchal R. Funchal 281, S\u00e3o Paulo, SP, 04551-060 \n                \u00c1rea (m2):\n                790,37 \n                N\u00ba de unidades ou lojas:\n                25 Direito de Propriedade",
+            "nome": "Estanplaza Funchal R. Funchal 281, 107, S\u00e3o Paulo, SP, 04551-060 \n                \u00c1rea (m2):\n                790,37 \n                N\u00ba de unidades ou lojas:\n                25 Direito de Propriedade",
             "unidades": 25,
             "vacancia": 0.0
         },
         {
-            "area": 273.4,
-            "cidade": "Nobile Paulista Prime Alameda Campinas 540,, S\u00e3o Paulo, SP, 01404000 \n                \u00c1rea (m2):\n                273,40 \n                N\u00ba de unidades ou lojas:\n                10 Direito de Propriedade",
-            "endereco": "Alameda Campinas 540,, S\u00e3o Paulo, SP, 01404",
+            "area": 946.56,
+            "cidade": "Wyndham S\u00e3o Paulo Paulista Alameda Campinas 540, 107, S\u00e3o Paulo, SP, 01404000 \n                \u00c1rea (m2):\n                946,56 \n                N\u00ba de unidades ou lojas:\n                10 Direito de Propriedade",
+            "endereco": "Alameda Campinas 540, 107, S\u00e3o Paulo, SP, 01404",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Nobile Paulista Prime",
+            "nome": "Wyndham S\u00e3o Paulo Paulista",
             "unidades": 10,
             "vacancia": 0.0
         },
         {
-            "area": 94656.0,
-            "cidade": "Comfort Nova Paulista Rua Vergueiro 2740,S\u00e3o Paulo, SP, 04102001 \n                \u00c1rea (m2):\n                94.656,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
-            "endereco": "Rua Vergueiro 2740,S\u00e3o Paulo, SP, 04102",
+            "area": 273.4,
+            "cidade": "Comfort Nova Paulista Rua Vergueiro 2740, 107, S\u00e3o Paulo, SP, 04102001 \n                \u00c1rea (m2):\n                273,40 \n                N\u00ba de unidades ou lojas:\n                1 Direito de Propriedade",
+            "endereco": "Rua Vergueiro 2740, 107, S\u00e3o Paulo, SP, 04102",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Comfort Nova Paulista",
@@ -13457,8 +13619,8 @@
         },
         {
             "area": 230.96,
-            "cidade": "Meli\u00e1 Jardim Europa Rua Jo\u00e3o Cachoeira 111,  S\u00e3o Paulo, SP, 04535010 \n                \u00c1rea (m2):\n                230,96 \n                N\u00ba de unidades ou lojas:\n                3 Direito de Propriedade",
-            "endereco": "Rua Jo\u00e3o Cachoeira 111,  S\u00e3o Paulo, SP, 04535",
+            "cidade": "Meli\u00e1 Jardim Europa Rua Jo\u00e3o Cachoeira 111, 107, S\u00e3o Paulo, SP, 04535010 \n                \u00c1rea (m2):\n                230,96 \n                N\u00ba de unidades ou lojas:\n                3 Direito de Propriedade",
+            "endereco": "Rua Jo\u00e3o Cachoeira 111, 107, S\u00e3o Paulo, SP, 04535",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Meli\u00e1 Jardim Europa",
@@ -13467,8 +13629,8 @@
         },
         {
             "area": 141.6,
-            "cidade": "Ibis S\u00e3o Paulo Paulista Av. Paulista 2355,  S\u00e3o Paulo, SP, 01311300 \n                \u00c1rea (m2):\n                141,60 \n                N\u00ba de unidades ou lojas:\n                5 Direito de Propriedade",
-            "endereco": "Av. Paulista 2355,  S\u00e3o Paulo, SP, 01311",
+            "cidade": "Ibis S\u00e3o Paulo Paulista Av. Paulista 2355, 107, S\u00e3o Paulo, SP, 01311300 \n                \u00c1rea (m2):\n                141,60 \n                N\u00ba de unidades ou lojas:\n                5 Direito de Propriedade",
+            "endereco": "Av. Paulista 2355, 107, S\u00e3o Paulo, SP, 01311",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Ibis S\u00e3o Paulo Paulista",
@@ -13477,8 +13639,8 @@
         },
         {
             "area": 354.26,
-            "cidade": "Blue Tree Faria Lima Av. Briga Faria Lima 3989, S\u00e3o Paulo, SP, 04538133 \n                \u00c1rea (m2):\n                354,26 \n                N\u00ba de unidades ou lojas:\n                8 Direito de Propriedade",
-            "endereco": "Av. Briga Faria Lima 3989, S\u00e3o Paulo, SP, 04538",
+            "cidade": "Blue Tree Faria Lima Av. Briga Faria Lima 3989, 107, S\u00e3o Paulo, SP, 04538133 \n                \u00c1rea (m2):\n                354,26 \n                N\u00ba de unidades ou lojas:\n                8 Direito de Propriedade",
+            "endereco": "Av. Briga Faria Lima 3989, 107, S\u00e3o Paulo, SP, 04538",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Blue Tree Faria Lima",
@@ -13486,9 +13648,9 @@
             "vacancia": 0.0
         },
         {
-            "area": 203.52,
-            "cidade": "Ibis Budget Paulista Rua da Consola\u00e7\u00e3o 2303, S\u00e3o Paulo, SP, 01301100 \n                \u00c1rea (m2):\n                203,52 \n                N\u00ba de unidades ou lojas:\n                6 Direito de Propriedade",
-            "endereco": "Rua da Consola\u00e7\u00e3o 2303, S\u00e3o Paulo, SP, 01301",
+            "area": 197.47,
+            "cidade": "Ibis Budget Paulista Rua da Consola\u00e7\u00e3o 2303, 107, S\u00e3o Paulo, SP, 01301100 \n                \u00c1rea (m2):\n                197,47 \n                N\u00ba de unidades ou lojas:\n                6 Direito de Propriedade",
+            "endereco": "Rua da Consola\u00e7\u00e3o 2303, 107, S\u00e3o Paulo, SP, 01301",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Ibis Budget Paulista",
@@ -13497,38 +13659,38 @@
         },
         {
             "area": 197.47,
-            "cidade": "Tryp Berrini Rua Quintana 963, S\u00e3o Paulo, SP, 04569011 \n                \u00c1rea (m2):\n                197,47 \n                N\u00ba de unidades ou lojas:\n                8 Direito de Propriedade",
-            "endereco": "Rua Quintana 963, S\u00e3o Paulo, SP, 04569",
+            "cidade": "Park Inn by Radisson Berrini Rua Quintana 963, 107, S\u00e3o Paulo, SP, 04569011 \n                \u00c1rea (m2):\n                197,47 \n                N\u00ba de unidades ou lojas:\n                6 Direito de Propriedade",
+            "endereco": "Rua Quintana 963, 107, S\u00e3o Paulo, SP, 04569",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Tryp Berrini",
-            "unidades": 8,
-            "vacancia": 0.0
-        },
-        {
-            "area": 259.02,
-            "cidade": "Innside by Meli\u00e1 S\u00e3o Paulo Iguatemi Rua Iguatemi 150, S\u00e3o Paulo, SP, 01451010 \n                \u00c1rea (m2):\n                259,02 \n                N\u00ba de unidades ou lojas:\n                7 Direito de Propriedade",
-            "endereco": "Rua Iguatemi 150, S\u00e3o Paulo, SP, 01451",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Innside by Meli\u00e1 S\u00e3o Paulo Iguatemi",
-            "unidades": 7,
-            "vacancia": 0.0
-        },
-        {
-            "area": 261.27,
-            "cidade": "Wyndham Berrini Rua Heinrich Hertz 14, S\u00e3o Paulo, SP, 04575000 \n                \u00c1rea (m2):\n                261,27 \n                N\u00ba de unidades ou lojas:\n                6 Direito de Propriedade",
-            "endereco": "Rua Heinrich Hertz 14, S\u00e3o Paulo, SP, 04575",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Wyndham Berrini",
+            "nome": "Park Inn by Radisson Berrini",
             "unidades": 6,
             "vacancia": 0.0
         },
         {
+            "area": 259.02,
+            "cidade": "Innside By Melia Iguatemi Rua Iguatemi 150, 107, S\u00e3o Paulo, SP, 01451010 \n                \u00c1rea (m2):\n                259,02 \n                N\u00ba de unidades ou lojas:\n                9 Direito de Propriedade",
+            "endereco": "Rua Iguatemi 150, 107, S\u00e3o Paulo, SP, 01451",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Innside By Melia Iguatemi",
+            "unidades": 9,
+            "vacancia": 0.0
+        },
+        {
+            "area": 261.27,
+            "cidade": "Wyndham Berrini Rua Heinrich Hertz 14, 107, S\u00e3o Paulo, SP, 04575000 \n                \u00c1rea (m2):\n                261,27 \n                N\u00ba de unidades ou lojas:\n                9 Direito de Propriedade",
+            "endereco": "Rua Heinrich Hertz 14, 107, S\u00e3o Paulo, SP, 04575",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Wyndham Berrini",
+            "unidades": 9,
+            "vacancia": 0.0
+        },
+        {
             "area": 266.0,
-            "cidade": "Intercity Premium Ibirapuera Av. Ibirapuera 2577, S\u00e3o Paulo, SP, 04029200 \n                \u00c1rea (m2):\n                266,00 \n                N\u00ba de unidades ou lojas:\n                4 Direito de Propriedade",
-            "endereco": "Av. Ibirapuera 2577, S\u00e3o Paulo, SP, 04029",
+            "cidade": "Intercity Premium Ibirapuera Av. Ibirapuera 2577, 107, S\u00e3o Paulo, SP, 04029200 \n                \u00c1rea (m2):\n                266,00 \n                N\u00ba de unidades ou lojas:\n                4 Direito de Propriedade",
+            "endereco": "Av. Ibirapuera 2577, 107, S\u00e3o Paulo, SP, 04029",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Intercity Premium Ibirapuera",
@@ -13537,8 +13699,8 @@
         },
         {
             "area": 262.98,
-            "cidade": "Ibis Budget Jardins Av. Nove de Julho 3957, S\u00e3o Paulo, SP, 01407000 \n                \u00c1rea (m2):\n                262,98 \n                N\u00ba de unidades ou lojas:\n                10 Direito de Propriedade",
-            "endereco": "Av. Nove de Julho 3957, S\u00e3o Paulo, SP, 01407",
+            "cidade": "Ibis Budget Jardins Av. Nove de Julho 3957, 107, S\u00e3o Paulo, SP, 01407000 \n                \u00c1rea (m2):\n                262,98 \n                N\u00ba de unidades ou lojas:\n                10 Direito de Propriedade",
+            "endereco": "Av. Nove de Julho 3957, 107, S\u00e3o Paulo, SP, 01407",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Ibis Budget Jardins",
@@ -13547,8 +13709,8 @@
         },
         {
             "area": 199.91,
-            "cidade": "Estanplaza Na\u00e7\u00f5es Unidas Rua Guararapes 1889, S\u00e3o Paulo, SP, 04561004 \n                \u00c1rea (m2):\n                199,91 \n                N\u00ba de unidades ou lojas:\n                5 Direito de Propriedade",
-            "endereco": "Rua Guararapes 1889, S\u00e3o Paulo, SP, 04561",
+            "cidade": "Estanplaza Na\u00e7\u00f5es Unidas Rua Guararapes 1889, 107, S\u00e3o Paulo, SP, 04561004 \n                \u00c1rea (m2):\n                199,91 \n                N\u00ba de unidades ou lojas:\n                5 Direito de Propriedade",
+            "endereco": "Rua Guararapes 1889, 107, S\u00e3o Paulo, SP, 04561",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Estanplaza Na\u00e7\u00f5es Unidas",
@@ -13557,8 +13719,8 @@
         },
         {
             "area": 399.5,
-            "cidade": "Estanplaza Ibirapuera Av. Jandira 501, S\u00e3o Paulo, SP, 04080001 \n                \u00c1rea (m2):\n                399,50 \n                N\u00ba de unidades ou lojas:\n                13 Direito de Propriedade",
-            "endereco": "Av. Jandira 501, S\u00e3o Paulo, SP, 04080",
+            "cidade": "Estanplaza Ibirapuera Av. Jandira 501, 107, S\u00e3o Paulo, SP, 04080001 \n                \u00c1rea (m2):\n                399,50 \n                N\u00ba de unidades ou lojas:\n                13 Direito de Propriedade",
+            "endereco": "Av. Jandira 501, 107, S\u00e3o Paulo, SP, 04080",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Estanplaza Ibirapuera",
@@ -13567,18 +13729,18 @@
         },
         {
             "area": 422.09,
-            "cidade": "Intercity Na\u00e7\u00f5es Unidas Rua Fernandes Moreira 1371,, S\u00e3o Paulo, SP, 04716003 \n                \u00c1rea (m2):\n                422,09 \n                N\u00ba de unidades ou lojas:\n                10 Direito de Propriedade",
-            "endereco": "Rua Fernandes Moreira 1371,, S\u00e3o Paulo, SP, 04716",
+            "cidade": "Intercity Na\u00e7\u00f5es Unidas Rua Fernandes Moreira 1371, 107, S\u00e3o Paulo, SP, 04716003 \n                \u00c1rea (m2):\n                422,09 \n                N\u00ba de unidades ou lojas:\n                9 Direito de Propriedade",
+            "endereco": "Rua Fernandes Moreira 1371, 107, S\u00e3o Paulo, SP, 04716",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Intercity Na\u00e7\u00f5es Unidas",
-            "unidades": 10,
+            "unidades": 9,
             "vacancia": 0.0
         },
         {
             "area": 885.18,
-            "cidade": "Gran Estanplaza Rua Arizona 1517,  S\u00e3o Paulo, SP, 04567010 \n                \u00c1rea (m2):\n                885,18 \n                N\u00ba de unidades ou lojas:\n                51 Direito de Propriedade",
-            "endereco": "Rua Arizona 1517,  S\u00e3o Paulo, SP, 04567",
+            "cidade": "Gran Estanplaza Rua Arizona 1517, 107, S\u00e3o Paulo, SP, 04567010 \n                \u00c1rea (m2):\n                885,18 \n                N\u00ba de unidades ou lojas:\n                51 Direito de Propriedade",
+            "endereco": "Rua Arizona 1517, 107, S\u00e3o Paulo, SP, 04567",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Gran Estanplaza",
@@ -13587,17 +13749,17 @@
         },
         {
             "area": 632.7,
-            "cidade": "Tryp Paulista Rua Haddok Lobo 294,  S\u00e3o Paulo, SP, 01414000 \n                \u00c1rea (m2):\n                632,70 \n                N\u00ba de unidades ou lojas:\n                21 Direito de Propriedade",
-            "endereco": "Rua Haddok Lobo 294,  S\u00e3o Paulo, SP, 01414",
+            "cidade": "Intercity Paulista Rua Haddok Lobo 294, 107, S\u00e3o Paulo, SP, 01414000 \n                \u00c1rea (m2):\n                632,70 \n                N\u00ba de unidades ou lojas:\n                21 Direito de Propriedade",
+            "endereco": "Rua Haddok Lobo 294, 107, S\u00e3o Paulo, SP, 01414",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Tryp Paulista",
+            "nome": "Intercity Paulista",
             "unidades": 21,
             "vacancia": 0.0
         },
         {
             "area": 578.52,
-            "cidade": "Estanplaza Berrini Av. Eng. Lu\u00eds Carlos Berrini 853, , S\u00e3o Paulo, SP, 04571000 \n                \u00c1rea (m2):\n                578,52 \n                N\u00ba de unidades ou lojas:\n                20 Direito de Propriedade",
+            "cidade": "Estanplaza Berrini Av. Eng. Lu\u00eds Carlos Berrini 853, 107, S\u00e3o Paulo, SP, 04571000 \n                \u00c1rea (m2):\n                578,52 \n                N\u00ba de unidades ou lojas:\n                20 Direito de Propriedade",
             "endereco": "Av. Eng",
             "estado": "SP",
             "inadimplencia": 0.0,
@@ -13607,8 +13769,8 @@
         },
         {
             "area": 1112.74,
-            "cidade": "Estanplaza International Rua Fernandes Moreira 1293, S\u00e3o Paulo, SP, 04716003 \n                \u00c1rea (m2):\n                1.112,74 \n                N\u00ba de unidades ou lojas:\n                40 Direito de Propriedade",
-            "endereco": "Rua Fernandes Moreira 1293, S\u00e3o Paulo, SP, 04716",
+            "cidade": "Estanplaza International Rua Fernandes Moreira 1293, 107, S\u00e3o Paulo, SP, 04716003 \n                \u00c1rea (m2):\n                1.112,74 \n                N\u00ba de unidades ou lojas:\n                40 Direito de Propriedade",
+            "endereco": "Rua Fernandes Moreira 1293, 107, S\u00e3o Paulo, SP, 04716",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Estanplaza International",
@@ -13616,23 +13778,13 @@
             "vacancia": 0.0
         },
         {
-            "area": 2261697.0,
-            "cidade": "Staybridge Suites S\u00e3o Paulo Rua Bandeira Paulista 555, S\u00e3o Paulo, SP, 04532011 \n                \u00c1rea (m2):\n                2.261.697,00 \n                N\u00ba de unidades ou lojas:\n                61 Direito de Propriedade",
-            "endereco": "Rua Bandeira Paulista 555, S\u00e3o Paulo, SP, 04532",
+            "area": 22616.97,
+            "cidade": "Staybridge Suites S\u00e3o Paulo Rua Bandeira Paulista 555, 107, S\u00e3o Paulo, SP, 04532011 \n                \u00c1rea (m2):\n                22.616,97 \n                N\u00ba de unidades ou lojas:\n                61 Direito de Propriedade",
+            "endereco": "Rua Bandeira Paulista 555, 107, S\u00e3o Paulo, SP, 04532",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Staybridge Suites S\u00e3o Paulo",
             "unidades": 61,
-            "vacancia": 0.0
-        },
-        {
-            "area": 101.5,
-            "cidade": "Double Tree By Hilton Rua Manuel Guedes, 320, S\u00e3o Paulo, SP, 0456070 \n                \u00c1rea (m2):\n                101,50 \n                N\u00ba de unidades ou lojas:\n                2 Direito de Propriedade",
-            "endereco": "Rua Manuel Guedes, 320, S\u00e3o Paulo, SP, 0456",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Double Tree By Hilton",
-            "unidades": 2,
             "vacancia": 0.0
         }
     ],
@@ -13640,32 +13792,32 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": 0.29,
-            "cagr_patrimonio_liquido": 0.15,
-            "cagr_vpa_1": 0.15,
-            "cagr_vpa_3": 0.03,
+            "cagr_ativo_1": 0.28,
+            "cagr_patrimonio_liquido": 0.26,
+            "cagr_vpa_1": 0.26,
+            "cagr_vpa_3": 0.02,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
-            "cagr_dividens_1": -0.1,
-            "cagr_dividens_3": -0.05,
+            "cagr_dividens_1": -0.09,
+            "cagr_dividens_3": -0.03,
             "cagr_dy_1": -0.28,
             "cagr_dy_3": -0.1,
             "cagr_dy_5": -0.06,
-            "dy": 3.04
+            "dy": 3.74
         },
         "medias_segmento": {
             "dividends": {
                 "cagr_dy_3": -0.05,
-                "dy": 1.98
+                "dy": 2.6
             },
             "mercado": {
-                "custo_adm_med": 92278.92,
-                "liquidez_med": 137622655000.0
+                "custo_adm_med": 92310.3,
+                "liquidez_med": 139066482500.0
             },
             "operacao": {
-                "patrimonio_liquido": 273211172.76,
-                "pl_cx": 9.04,
+                "patrimonio_liquido": 278657069.91,
+                "pl_cx": 3.5,
                 "vacancia": 29.37
             },
             "valuation": {
@@ -13673,25 +13825,25 @@
             }
         },
         "mercado": {
-            "custo_adm_med": 149394.42,
+            "custo_adm_med": 149460.39500000002,
             "ifix": 0,
-            "liquidez_med": 260643545000.0
+            "liquidez_med": 261985855000.0
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 1,
-            "imoveis": 24,
-            "patrimonio_liquido": 188283438.93,
-            "pl_cx": 15.87,
+            "imoveis": 23,
+            "patrimonio_liquido": 198676940.23,
+            "pl_cx": 4.67,
             "vacancia": 0.0,
             "vacancia_1": 0.0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.94,
+            "p_vpa": 0.87,
             "p_vpa_med": 0.88,
-            "price": 117.71,
-            "valuation": 96.66
+            "price": 115.33,
+            "valuation": 96.51
         }
     },
     "ticker": "HTMX11",
@@ -13786,6 +13938,10 @@
         },
         {
             "competencia": "2/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
             "total": 0.0
         }
     ]

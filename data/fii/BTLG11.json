@@ -3,15 +3,15 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 1.3699
+            "precentual": 2.4745
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 2.9449
+            "precentual": 2.7995
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 2.5676
+            "precentual": 0.0
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
@@ -19,27 +19,27 @@
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 0.0
+            "precentual": 1.5181
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 6.4153
+            "precentual": 1.5375
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 1.6991
+            "precentual": 2.2744
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 1.0471
+            "precentual": 5.0209
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 12.5359
+            "precentual": 0.0
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 0.3839
+            "precentual": 0.0
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
@@ -47,11 +47,11 @@
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 0.9208
+            "precentual": 2.375
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 70.1156
+            "precentual": 82.0002
         },
         {
             "prazo": "Prazo indeterminado",
@@ -494,27 +494,16 @@
             "data_com": "2022-10-14T00:00:00",
             "data_pagamento": "2022-10-25T00:00:00",
             "provento": 0.74
-        }
-    ],
-    "fii": [
-        {
-            "nome": "KINEA INDICES DE PRECOS FI IMOBILIA",
-            "quantidade": 359797.0,
-            "valor": 36407858.43
         },
         {
-            "nome": "MOGNO SUNO LOGISTICA FII",
-            "quantidade": 64000.0,
-            "valor": 2926720.0
-        },
-        {
-            "nome": "PARQUE ANHANGUERA FUNDO DE INVESTIM",
-            "quantidade": 1150690.0,
-            "valor": 65715905.9
+            "data_com": "2022-11-14T00:00:00",
+            "data_pagamento": "2022-11-25T00:00:00",
+            "provento": 0.74
         }
     ],
+    "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 1.509,
+    "ifix_participacao": 1.512,
     "imr": [
         {
             "ativo": 149781078.15,
@@ -1425,12 +1414,25 @@
             "patrimonio_liquido": 1860854582.4,
             "receita_aluguel": 9669865.25,
             "valor_patrimonio_cotas": 97.820261
+        },
+        {
+            "ativo": 2380634797.0,
+            "caixa": 96854291.34,
+            "competencia": "10/2022",
+            "cotas_emitidas": 21066892.0,
+            "cotistas": 199550,
+            "despesa_administracao": 1681252.24,
+            "dy": 1.9975,
+            "numero_cotas": 21066892.0,
+            "patrimonio_liquido": 2112125931.01,
+            "receita_aluguel": 11881762.03,
+            "valor_patrimonio_cotas": 100.25807
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 27.865
+            "precentual": 9.0694
         },
         {
             "indexador": "INPC",
@@ -1438,14 +1440,14 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 72.135
+            "precentual": 90.9306
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRBTLGCTF000",
     "lci": [],
     "mandato": "Renda",
@@ -1596,6 +1598,15 @@
             "volume": 801269580000
         },
         {
+            "change": 16.964717,
+            "close": 121.0,
+            "date": "2019-12-26",
+            "max": 124.5,
+            "min": 118.6,
+            "open": 120.0,
+            "volume": 989036330000
+        },
+        {
             "change": 16.955051,
             "close": 120.99,
             "date": "2019-12-27",
@@ -1603,6 +1614,24 @@
             "min": 120.0,
             "open": 123.0,
             "volume": 746268970000
+        },
+        {
+            "change": 18.366361,
+            "close": 122.45,
+            "date": "2019-12-30",
+            "max": 123.43,
+            "min": 120.98,
+            "open": 120.99,
+            "volume": 303186990000
+        },
+        {
+            "change": 17.834703,
+            "close": 121.9,
+            "date": "2020-01-02",
+            "max": 128.2,
+            "min": 119.5,
+            "open": 122.45,
+            "volume": 528803210000
         },
         {
             "change": 25.181247,
@@ -7867,156 +7896,372 @@
             "min": 102.45,
             "open": 102.7,
             "volume": 4725486330000
+        },
+        {
+            "change": -0.850652,
+            "close": 102.57,
+            "date": "2022-10-20",
+            "max": 102.77,
+            "min": 102.4,
+            "open": 102.7,
+            "volume": 3518173750000
+        },
+        {
+            "change": -0.77332,
+            "close": 102.65,
+            "date": "2022-10-21",
+            "max": 102.76,
+            "min": 102.52,
+            "open": 102.59,
+            "volume": 2823524040000
+        },
+        {
+            "change": -0.077332,
+            "close": 103.37,
+            "date": "2022-10-24",
+            "max": 103.4,
+            "min": 102.5,
+            "open": 102.62,
+            "volume": 3847931280000
+        },
+        {
+            "change": -0.251329,
+            "close": 103.19,
+            "date": "2022-10-25",
+            "max": 103.21,
+            "min": 102.5,
+            "open": 103.21,
+            "volume": 3727749090000
+        },
+        {
+            "change": -0.686322,
+            "close": 102.74,
+            "date": "2022-10-26",
+            "max": 103.2,
+            "min": 102.5,
+            "open": 103.19,
+            "volume": 2899577810000
+        },
+        {
+            "change": -0.99565,
+            "close": 102.42,
+            "date": "2022-10-27",
+            "max": 103.0,
+            "min": 102.41,
+            "open": 102.89,
+            "volume": 2811625790000
+        },
+        {
+            "change": -1.02465,
+            "close": 102.39,
+            "date": "2022-10-28",
+            "max": 102.94,
+            "min": 101.99,
+            "open": 102.42,
+            "volume": 18647042320000
+        },
+        {
+            "change": -1.02465,
+            "close": 102.39,
+            "date": "2022-10-31",
+            "max": 102.49,
+            "min": 101.89,
+            "open": 102.39,
+            "volume": 18922077790000
+        },
+        {
+            "change": -1.691638,
+            "close": 101.7,
+            "date": "2022-11-01",
+            "max": 102.9,
+            "min": 101.0,
+            "open": 102.39,
+            "volume": 6603935690000
+        },
+        {
+            "change": -1.981634,
+            "close": 101.4,
+            "date": "2022-11-03",
+            "max": 102.1,
+            "min": 101.15,
+            "open": 101.86,
+            "volume": 3851466210000
+        },
+        {
+            "change": -1.585307,
+            "close": 101.81,
+            "date": "2022-11-04",
+            "max": 101.82,
+            "min": 101.3,
+            "open": 101.49,
+            "volume": 3176948910000
+        },
+        {
+            "change": -0.918318,
+            "close": 102.5,
+            "date": "2022-11-07",
+            "max": 102.5,
+            "min": 101.4,
+            "open": 101.78,
+            "volume": 3685078130000
+        },
+        {
+            "change": -1.391977,
+            "close": 102.01,
+            "date": "2022-11-08",
+            "max": 102.6,
+            "min": 102.01,
+            "open": 102.5,
+            "volume": 3370465640000
+        },
+        {
+            "change": -1.401643,
+            "close": 102.0,
+            "date": "2022-11-09",
+            "max": 102.75,
+            "min": 101.51,
+            "open": 102.65,
+            "volume": 3459877830000
         }
     ],
     "propriedades": [
         {
             "area": 9794.0,
-            "cidade": "Koch Navegantes Rodovia Br470, 04, Sem Complemento, Machados, NavegantesSC, Brasil, 88373",
-            "endereco": "Rodovia Br470, 04, Sem Complemento, Machados, Navegantes/SC, Brasil, 88373",
+            "cidade": " Navegantes | SC Rodovia Br470, 04,  Machados, NavegantesSC, Brasil, 88373",
+            "endereco": "Rodovia Br470, 04,  Machados, Navegantes/SC, Brasil, 88373",
             "estado": "SC",
-            "inadimplencia": 100.0,
-            "nome": "Galpao Insdustrial - Koch Navegantes Br470, 04, Sem Complemento, Machados, Navegantes/SC, Brasil, 88373-330 \n                \u00c1rea (m2):\n                9.794,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "inadimplencia": 0.0,
+            "nome": "BTLG -  Navegantes | SC Br470, 04,  Machados, Navegantes/SC, Brasil, 88373-330 \n                \u00c1rea (m2):\n                9.794,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 19415.0,
-            "cidade": "Femsa Parque Novo Mundo Largo De Santana, 780, Sem Complemento, Santana, Sao PauloSP, Brasil, 02402",
-            "endereco": "Galpao Industrial - Femsa Parque Novo Mundo Largo De Santana, 780, Sem Complemento, Santana, Sao Paulo/SP, Brasil, 02402-003 \n                \u00c1rea (m2):\n                19.415,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "cidade": "Dutra | SP Largo De Santana, 780, Santana, Sao PauloSP, Brasil, 02402",
+            "endereco": "BTLG - Dutra | SP Largo De Santana, 780, Santana, Sao Paulo/SP, Brasil, 02402-003 \n                \u00c1rea (m2):\n                19.415,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Galpao Industrial - Femsa Parque Novo Mundo Largo De Santana, 780, Sem Complemento, Santana, Sao Paulo/SP, Brasil, 02402-003 \n                \u00c1rea (m2):\n                19.415,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "BTLG - Dutra | SP Largo De Santana, 780, Santana, Sao Paulo/SP, Brasil, 02402-003 \n                \u00c1rea (m2):\n                19.415,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 17244.0,
-            "cidade": "Supermarket Pavuna Estrada Rio Douro. 800, Sem Complemento, Mantiquira, Duque De CaxiasRJ, Brasil, 25245",
-            "endereco": "Estrada Rio Douro",
+            "cidade": "Dutra | RJ Estrada Rio Douro, 800, Mantiquira, Duque De CaxiasRJ, Brasil, 25245",
+            "endereco": "Estrada Rio Douro, 800, Mantiquira, Duque De Caxias/RJ, Brasil, 25245",
             "estado": "RJ",
             "inadimplencia": 0.0,
-            "nome": "Galpao Industrial - Supermarket Pavuna Rio Douro. 800, Sem Complemento, Mantiquira, Duque De Caxias/RJ, Brasil, 25245-810 \n                \u00c1rea (m2):\n                17.244,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "BTLG - Dutra | RJ Rio Douro, 800, Mantiquira, Duque De Caxias/RJ, Brasil, 25245-810 \n                \u00c1rea (m2):\n                17.244,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 23274.0,
-            "cidade": "BRF Fortaleza Br 116, 2271, Sem Complemento, Verife, ItaitingaCE, Brasil, 61880",
-            "endereco": "Galpao Itaitinga - BRF Fortaleza Br 116, 2271, Sem Complemento, Verife, Itaitinga/CE, Brasil, 61880-000 \n                \u00c1rea (m2):\n                23.274,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "cidade": "BRF Fortaleza | CE Br 116, 2271, Verife, ItaitingaCE, Brasil, 61880000 \n                \u00c1rea (m2):\n                23.274,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "BRF Fortaleza | CE Br 116, 2271, Verife, Itaitinga/CE, Brasil, 61880-000 \n                \u00c1rea (m2):\n                23.274,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "estado": "CE",
             "inadimplencia": 0.0,
-            "nome": "Galpao Itaitinga - BRF Fortaleza Br 116, 2271, Sem Complemento, Verife, Itaitinga/CE, Brasil, 61880-000 \n                \u00c1rea (m2):\n                23.274,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "BRF Fortaleza | CE Br 116, 2271, Verife, Itaitinga/CE, Brasil, 61880-000 \n                \u00c1rea (m2):\n                23.274,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
-            "area": 100028.0,
-            "cidade": "Jundiai Avenida Francisco Roveri, Sn, Sem Complemento, Parque Almerinda Pereira Chaves, JundiaiSP, Brasil, 13212",
-            "endereco": "Avenida Francisco Roveri, S/n, Sem Complemento, Parque Almerinda Pereira Chaves, Jundiai/SP, Brasil, 13212",
+            "area": 88894.76,
+            "cidade": "Jundiai | SP Avenida Francisco Roveri, Parque Almerinda Pereira Chaves, JundiaiSP, Brasil, 13212",
+            "endereco": "Avenida Francisco Roveri, Parque Almerinda Pereira Chaves, Jundiai/SP, Brasil, 13212",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "BTLG - Jundiaienida Francisco Roveri, S/n, Sem Complemento, Parque Almerinda Pereira Chaves, Jundiai/SP, Brasil, 13212-541 \n                \u00c1rea (m2):\n                100.028,00 \n                N\u00ba de unidades ou lojas:\n                17 Direito de propriedade",
+            "nome": "BTLG - Jundiai | SPenida Francisco Roveri, Parque Almerinda Pereira Chaves, Jundiai/SP, Brasil, 13212-541 \n                \u00c1rea (m2):\n                88.894,76 \n                N\u00ba de unidades ou lojas:\n                17 Direito de propriedade",
             "unidades": 17,
             "vacancia": 0.0
         },
         {
             "area": 18940.0,
-            "cidade": "Galpao Castelo Branco Avenida Charles Goodyear. Sn, Sem Complemento, Cururuquara, Santana De ParnaibaSP, Brasil, 06524115 \n                \u00c1rea (m2):\n                18.940,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Avenida Charles Goodyear",
+            "cidade": "Santana de Parna\u00edba | SP Avenida Charles Goodyear, Sn, Cururuquara, Santana De ParnaibaSP, Brasil, 06524",
+            "endereco": "Avenida Charles Goodyear, S/n, Cururuquara, Santana De Parnaiba/SP, Brasil, 06524",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Galpao Castelo Branco",
+            "nome": "BTLG - Santana de Parna\u00edba | SPenida Charles Goodyear, S/n, Cururuquara, Santana De Parnaiba/SP, Brasil, 06524-115 \n                \u00c1rea (m2):\n                18.940,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 100.0
         },
         {
             "area": 26783.0,
-            "cidade": "Galpao Aracatuba Rodovia Marechal Rondon, Km 536, 21500, Sem Complemento, Avenida, AracatubaSP, Brasil, 16027231 \n                \u00c1rea (m2):\n                26.783,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Rodovia Marechal Rondon, Km 536, 21500, Sem Complemento, Avenida, Aracatuba/SP, Brasil, 16027",
+            "cidade": "Aracatuba | SP Rodovia Marechal Rondon, Km 536, 21500, Avenida, AracatubaSP, Brasil, 16027",
+            "endereco": "Rodovia Marechal Rondon, Km 536, 21500, Avenida, Aracatuba/SP, Brasil, 16027",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Galpao Aracatuba",
+            "nome": "BTLG - Aracatuba | SP Marechal Rondon, Km 536, 21500,enida, Aracatuba/SP, Brasil, 16027-231 \n                \u00c1rea (m2):\n                26.783,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 57143.0,
-            "cidade": "Claritas Rodovia Anhanguera, Sn, Km 308, Parque Residencial Candido Portinari, Ribeirao PretoSP, Brasil, 14093",
+            "cidade": "Ribeir\u00e3o Preto | SP Rodovia Anhanguera, Sn, Km 308, Parque Residencial Candido Portinari, Ribeirao PretoSP, Brasil, 14093",
             "endereco": "Rodovia Anhanguera, S/n, Km 308, Parque Residencial Candido Portinari, Ribeirao Preto/SP, Brasil, 14093",
             "estado": "SP",
-            "inadimplencia": 30.4491,
-            "nome": "Ribeirao Preto - Claritas Anhanguera, S/n, Km 308, Parque Residencial Candido Portinari, Ribeirao Preto/SP, Brasil, 14093-500 \n                \u00c1rea (m2):\n                57.143,00 \n                N\u00ba de unidades ou lojas:\n                15 Direito de propriedade",
+            "inadimplencia": 23.8959,
+            "nome": "BLTG - Ribeir\u00e3o Preto | SP Anhanguera, S/n, Km 308, Parque Residencial Candido Portinari, Ribeirao Preto/SP, Brasil, 14093-500 \n                \u00c1rea (m2):\n                57.143,00 \n                N\u00ba de unidades ou lojas:\n                15 Direito de propriedade",
             "unidades": 15,
+            "vacancia": 5.0
+        },
+        {
+            "area": 36024.0,
+            "cidade": "Hortol\u00e2ndia | SP Rua Perola, 350, Na, Jardim Santa Esmeralda, HortolandiaSP, Brasil, 13186",
+            "endereco": "Rua Perola, 350, N/a, Jardim Santa Esmeralda, Hortolandia/SP, Brasil, 13186",
+            "estado": "SP",
+            "inadimplencia": 43.0136,
+            "nome": "BTLG - Hortol\u00e2ndia | SP Perola, 350, N/a, Jardim Santa Esmeralda, Hortolandia/SP, Brasil, 13186-546 \n                \u00c1rea (m2):\n                36.024,00 \n                N\u00ba de unidades ou lojas:\n                22 Direito de propriedade",
+            "unidades": 22,
+            "vacancia": 0.0
+        },
+        {
+            "area": 20247.6,
+            "cidade": "Guarulhos | SP Rua Dona Catharina Maria De Jesus, 400, Sem Complemento, Bonsucesso, GuarulhosSP, Brasil, 07175",
+            "endereco": "Rua Dona Catharina Maria De Jesus, 400, Sem Complemento, Bonsucesso, Guarulhos/SP, Brasil, 07175",
+            "estado": "SP",
+            "inadimplencia": 28.7025,
+            "nome": "BTLG - Guarulhos | SP Dona Catharina Maria De Jesus, 400, Sem Complemento, Bonsucesso, Guarulhos/SP, Brasil, 07175-500 \n                \u00c1rea (m2):\n                20.247,60 \n                N\u00ba de unidades ou lojas:\n                10 Direito de propriedade",
+            "unidades": 10,
             "vacancia": 0.0
         },
         {
             "area": 30592.23,
-            "cidade": "GR Regis Estrada Ferreira Guedes, 784, Sem Complemento, Potuvera, Itapecerica Da SerraSP, Brasil, 06885150 \n                \u00c1rea (m2):\n                30.592,23 \n                N\u00ba de unidades ou lojas:\n                16 Direito de propriedade",
+            "cidade": "Embu | SP Estrada Ferreira Guedes, 784, Sem Complemento, Potuvera, Itapecerica Da SerraSP, Brasil, 06885",
             "endereco": "Estrada Ferreira Guedes, 784, Sem Complemento, Potuvera, Itapecerica Da Serra/SP, Brasil, 06885",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "GR Regis",
+            "nome": "BTLG - Embu | SP Ferreira Guedes, 784, Sem Complemento, Potuvera, Itapecerica Da Serra/SP, Brasil, 06885-150 \n                \u00c1rea (m2):\n                30.592,23 \n                N\u00ba de unidades ou lojas:\n                16 Direito de propriedade",
             "unidades": 16,
+            "vacancia": 0.0
+        },
+        {
+            "area": 88774.0,
+            "cidade": "Maua | SP Avenida Alberto Soares Sampaio, Sn, Sem Complemento, Capuava, MauaSP, Brasil, 09380",
+            "endereco": "Avenida Alberto Soares Sampaio, S/n, Sem Complemento, Capuava, Maua/SP, Brasil, 09380",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "BTLG - Maua | SPenida Alberto Soares Sampaio, S/n, Sem Complemento, Capuava, Maua/SP, Brasil, 09380-000 \n                \u00c1rea (m2):\n                88.774,00 \n                N\u00ba de unidades ou lojas:\n                14 Direito de propriedade",
+            "unidades": 14,
+            "vacancia": 0.0
+        },
+        {
+            "area": 1999.0,
+            "cidade": "Campinas | SP Rua Ronald Cladstone Negri, 557, Sem Complemento, Polo De Alta Tecnologia De Campinas  Polo I, CampinasSP, Brasil, 13069",
+            "endereco": "Rua Ronald Cladstone Negri, 557, Sem Complemento, Polo De Alta Tecnologia De Campinas  Polo I, Campinas/SP, Brasil, 13069",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "BTLG - Campinas | SP Ronald Cladstone Negri, 557, Sem Complemento, Polo De Alta Tecnologia De Campinas  Polo I, Campinas/SP, Brasil, 13069-472 \n                \u00c1rea (m2):\n                1.999,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 11295.0,
+            "cidade": "Feira de Santana | BA  Estrada De Sao Goncalo, SN\u00ba, Altura Aproximada Do Km 530, Humildes , Feira De SantanaBA, Brasil, 44135",
+            "endereco": "Estrada De Sao Goncalo, S/ N\u00ba, Altura Aproximada Do Km 530, Humildes , Feira De Santana/BA, Brasil, 44135",
+            "estado": "BA",
+            "inadimplencia": 0.0,
+            "nome": "BTLG - Feira de Santana | BA De Sao Goncalo, S/ N\u00ba, Altura Aproximada Do Km 530, Humildes , Feira De Santana/BA, Brasil, 44135-000 \n                \u00c1rea (m2):\n                11.295,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 16120.5,
+            "cidade": "Santa Luzia | MG Avenida Beirario, 5777, Sem Complemento, Distrito Industrial Deputado Simao Da Cunha, Santa LuziaMG, Brasil, 33040",
+            "endereco": "Avenida Beirario, 5777, Sem Complemento, Distrito Industrial Deputado Simao Da Cunha, Santa Luzia/MG, Brasil, 33040",
+            "estado": "MG",
+            "inadimplencia": 0.0,
+            "nome": "BTLG - Santa Luzia | MGenida Beirario, 5777, Sem Complemento, Distrito Industrial Deputado Simao Da Cunha, Santa Luzia/MG, Brasil, 33040-260 \n                \u00c1rea (m2):\n                16.120,50 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 1499.0,
+            "cidade": "Faria Lima| SP Avenida Brigadeiro Faria Lima, 186, Sem Complemento, Pinheiros, Sao PauloSP, Brasil, 05426",
+            "endereco": "Avenida Brigadeiro Faria Lima, 186, Sem Complemento, Pinheiros, Sao Paulo/SP, Brasil, 05426",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "BTLG - Faria Lima| SPenida Brigadeiro Faria Lima, 186, Sem Complemento, Pinheiros, Sao Paulo/SP, Brasil, 05426-200 \n                \u00c1rea (m2):\n                1.499,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 4415.29,
+            "cidade": "Cam\u00e7ari | BA Rodovia Ba535 Via Parafuso, Km 14, Cep 42849000, Sn, Cep Correto: 42849000, Polo Log\u00edstico, CamacariBA, Brasil, 42800",
+            "endereco": "Rodovia Ba535 Via Parafuso, Km 14, Cep 42849",
+            "estado": "BA",
+            "inadimplencia": 0.0,
+            "nome": "BTLG - Cam\u00e7ari | BA Ba535 Parafuso, Km 14, Cep 42849-000, S/n, Cep Correto: 42849-000, Polo Log\u00edstico, Camacari/BA, Brasil, 42800-331 \n                \u00c1rea (m2):\n                4.415,29 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 7538.31,
+            "cidade": "Cotia | SP Estrada Do Capuava, 1000, Chacara Ondas Verdes, CotiaSP, Brasil, 06715",
+            "endereco": "Estrada Do Capuava, 1000, Chacara Ondas Verdes, Cotia/SP, Brasil, 06715",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "BTLG - Cotia | SP Do Capuava, 1000, Chacara Ondas Verdes, Cotia/SP, Brasil, 06715-725 \n                \u00c1rea (m2):\n                7.538,31 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
             "vacancia": 0.0
         }
     ],
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.11,
-            "cagr_ativo_1": 0.19,
-            "cagr_patrimonio_liquido": 0.22,
-            "cagr_vpa_1": 0.22,
-            "cagr_vpa_3": 1.13,
-            "cmgr_alugeis_6m": 0.07
+            "cagr_alugeis_1": 0.38,
+            "cagr_ativo_1": 0.28,
+            "cagr_patrimonio_liquido": 0.39,
+            "cagr_vpa_1": 0.39,
+            "cagr_vpa_3": 1.18,
+            "cmgr_alugeis_6m": 0.06
         },
         "dividends": {
             "cagr_dividens_1": -0.26,
             "cagr_dividens_3": -0.1,
-            "cagr_dy_1": 2.16,
-            "cagr_dy_3": 0.47,
-            "cagr_dy_5": 0.26,
-            "dy": 10.56
+            "cagr_dy_1": 1.0,
+            "cagr_dy_3": 0.18,
+            "cagr_dy_5": 0.15,
+            "dy": 12.11
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 162652.43,
-            "ifix": 1.509,
-            "liquidez_med": 3939888340000
+            "custo_adm_med": 170467.38,
+            "ifix": 1.512,
+            "liquidez_med": 3915759895000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
-            "estados": 4,
-            "imoveis": 9,
-            "patrimonio_liquido": 1860854582.4,
-            "pl_cx": 5.44,
-            "vacancia": 6.25,
+            "estados": 6,
+            "imoveis": 18,
+            "patrimonio_liquido": 2112125931.01,
+            "pl_cx": 4.59,
+            "vacancia": 4.54,
             "vacancia_1": 0.0,
-            "vacancia_3m": 3.81
+            "vacancia_3m": 6.25
         },
         "valuation": {
-            "p_vpa": 1.05,
+            "p_vpa": 1.02,
             "p_vpa_med": 1.06,
-            "price": 102.6,
-            "valuation": 100.65
+            "price": 102.0,
+            "valuation": 96.68
         }
     },
     "ticker": "BTLG11",
@@ -8112,6 +8357,10 @@
         {
             "competencia": "2/2022",
             "total": 6.25
+        },
+        {
+            "competencia": "3/2022",
+            "total": 4.54
         }
     ]
 }

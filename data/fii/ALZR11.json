@@ -403,38 +403,28 @@
     ],
     "fii": [
         {
-            "nome": "AF INVEST FUNDO DE INVESTIMENTO IMO",
-            "quantidade": 8449.0,
-            "valor": 882920.5
-        },
-        {
             "nome": "ALIANZA DIGITAL REALTY FII",
             "quantidade": 520000.0,
-            "valor": 50725713.02
+            "valor": 50672337.99
         },
         {
-            "nome": "DEVANT PROPERTIES FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
-            "quantidade": 50000.0,
-            "valor": 5000000.0
+            "nome": "DAYCOVAL D235 FUNDO DE INVESTIMENT",
+            "quantidade": 100000.0,
+            "valor": 9999000.0
         },
         {
-            "nome": "MORE RECEBIVEIS IMOBILIARIOS FII",
-            "quantidade": 56614.0,
-            "valor": 5520431.14
+            "nome": "MORE RECEBIVEIS IMOBILIARIOS FII -",
+            "quantidade": 17856.0,
+            "valor": 1674357.12
         },
         {
             "nome": "SIG CAPITAL REC PUL FII",
             "quantidade": 20750.0,
             "valor": 2075000.0
-        },
-        {
-            "nome": "TISHMAN SPEYER RENDA CORPORATIVA FU",
-            "quantidade": 3120.0,
-            "valor": 327600.0
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 0.86,
+    "ifix_participacao": 0.876,
     "imr": [
         {
             "ativo": 95672677.83,
@@ -1189,6 +1179,19 @@
             "patrimonio_liquido": 740045968.09,
             "receita_aluguel": 4554442.78,
             "valor_patrimonio_cotas": 106.899975
+        },
+        {
+            "ativo": 920606636.22,
+            "caixa": 189623710.97,
+            "competencia": "10/2022",
+            "cotas_emitidas": 6922906.0,
+            "cotistas": 118301,
+            "despesa_administracao": 646500.93,
+            "dy": 0.6334,
+            "numero_cotas": 6922906.0,
+            "patrimonio_liquido": 740550891.02,
+            "receita_aluguel": 3358457.5,
+            "valor_patrimonio_cotas": 106.971103
         }
     ],
     "indexador_reajuste_contrato": [
@@ -1209,7 +1212,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRALZRCTF006",
     "lci": [],
     "mandato": "Renda",
@@ -5608,6 +5611,15 @@
             "volume": 1362309790000
         },
         {
+            "change": 30.882061,
+            "close": 132.06,
+            "date": "2019-12-26",
+            "max": 133.58,
+            "min": 127.58,
+            "open": 128.15,
+            "volume": 1468792480000
+        },
+        {
             "change": 36.04559,
             "close": 137.27,
             "date": "2019-12-27",
@@ -5615,6 +5627,24 @@
             "min": 133.59,
             "open": 133.59,
             "volume": 915173150000
+        },
+        {
+            "change": 43.597621,
+            "close": 144.89,
+            "date": "2019-12-30",
+            "max": 144.89,
+            "min": 137.27,
+            "open": 137.27,
+            "volume": 1383823810000
+        },
+        {
+            "change": 43.359762,
+            "close": 144.65,
+            "date": "2020-01-02",
+            "max": 145.0,
+            "min": 134.57,
+            "open": 144.89,
+            "volume": 1918746760000
         },
         {
             "change": 47.661051,
@@ -11879,6 +11909,132 @@
             "min": 117.55,
             "open": 118.1,
             "volume": 1314676000000
+        },
+        {
+            "change": 16.620416,
+            "close": 117.67,
+            "date": "2022-10-20",
+            "max": 119.23,
+            "min": 115.73,
+            "open": 117.6,
+            "volume": 1908178390000
+        },
+        {
+            "change": 16.253717,
+            "close": 117.3,
+            "date": "2022-10-21",
+            "max": 117.6,
+            "min": 116.2,
+            "open": 117.0,
+            "volume": 1927352170000
+        },
+        {
+            "change": 16.025768,
+            "close": 117.07,
+            "date": "2022-10-24",
+            "max": 117.48,
+            "min": 116.87,
+            "open": 117.29,
+            "volume": 1250826940000
+        },
+        {
+            "change": 16.283449,
+            "close": 117.33,
+            "date": "2022-10-25",
+            "max": 117.48,
+            "min": 117.1,
+            "open": 117.4,
+            "volume": 1027142410000
+        },
+        {
+            "change": 15.946482,
+            "close": 116.99,
+            "date": "2022-10-26",
+            "max": 117.48,
+            "min": 116.95,
+            "open": 117.33,
+            "volume": 920429500000
+        },
+        {
+            "change": 16.154609,
+            "close": 117.2,
+            "date": "2022-10-27",
+            "max": 117.35,
+            "min": 117.0,
+            "open": 117.0,
+            "volume": 749417060000
+        },
+        {
+            "change": 17.175421,
+            "close": 118.23,
+            "date": "2022-10-28",
+            "max": 118.49,
+            "min": 117.15,
+            "open": 117.23,
+            "volume": 978896480000
+        },
+        {
+            "change": 17.115956,
+            "close": 118.17,
+            "date": "2022-10-31",
+            "max": 118.22,
+            "min": 116.65,
+            "open": 118.0,
+            "volume": 1083177980000
+        },
+        {
+            "change": 16.372646,
+            "close": 117.42,
+            "date": "2022-11-01",
+            "max": 118.17,
+            "min": 117.05,
+            "open": 118.17,
+            "volume": 1082009410000
+        },
+        {
+            "change": 16.729435,
+            "close": 117.78,
+            "date": "2022-11-03",
+            "max": 117.99,
+            "min": 117.42,
+            "open": 117.42,
+            "volume": 949048700000
+        },
+        {
+            "change": 16.818632,
+            "close": 117.87,
+            "date": "2022-11-04",
+            "max": 118.0,
+            "min": 117.62,
+            "open": 117.78,
+            "volume": 989255890000
+        },
+        {
+            "change": 16.91774,
+            "close": 117.97,
+            "date": "2022-11-07",
+            "max": 118.0,
+            "min": 117.5,
+            "open": 117.87,
+            "volume": 863064720000
+        },
+        {
+            "change": 16.798811,
+            "close": 117.85,
+            "date": "2022-11-08",
+            "max": 118.0,
+            "min": 117.8,
+            "open": 117.96,
+            "volume": 700380890000
+        },
+        {
+            "change": 16.660059,
+            "close": 117.71,
+            "date": "2022-11-09",
+            "max": 118.0,
+            "min": 117.71,
+            "open": 117.85,
+            "volume": 753574980000
         }
     ],
     "propriedades": [
@@ -11964,11 +12120,11 @@
         },
         {
             "area": 3815.52,
-            "cidade": "Jardim Botanico Rua Pacheco Leao, 70, Jardim Bot\u00e2nico, Rio De JaneiroRJ, Brasil, 22460",
+            "cidade": "Jardim Bot\u00e2nico Rua Pacheco Leao, 70, Jardim Bot\u00e2nico, Rio De JaneiroRJ, Brasil, 22460",
             "endereco": "Rua Pacheco Leao, 70, Jardim Bot\u00e2nico, Rio De Janeiro/RJ, Brasil, 22460",
             "estado": "RJ",
             "inadimplencia": 0.0,
-            "nome": "Im\u00f3vel Globo - Jardim Botanico Pacheco Leao, 70, Jardim Bot\u00e2nico, Rio De Janeiro/RJ, Brasil, 22460-030 \n                \u00c1rea (m2):\n                3.815,52 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Im\u00f3vel Globo - Jardim Bot\u00e2nico Pacheco Leao, 70, Jardim Bot\u00e2nico, Rio De Janeiro/RJ, Brasil, 22460-030 \n                \u00c1rea (m2):\n                3.815,52 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -11993,16 +12149,6 @@
             "vacancia": 0.0
         },
         {
-            "area": 29463.0,
-            "cidade": "Na\u00e7\u00f5es Unidas Avenida das Na\u00e7\u00f5es Unidas, 18001, Santo Amaro, Sao PauloSP, Brasil, 04795",
-            "endereco": "Avenida das Na\u00e7\u00f5es Unidas, 18001, Santo Amaro, Sao Paulo/SP, Brasil, 04795",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Imov\u00e9l Clariant - Na\u00e7\u00f5es Unidasenida das Na\u00e7\u00f5es Unidas, 18001, Santo Amaro, Sao Paulo/SP, Brasil, 04795-900 \n                \u00c1rea (m2):\n                29.463,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
             "area": 11832.59,
             "cidade": "Bauducco Rua Fritz Reiman, 628, Itapegica, Guarulhos, SP, 02236",
             "endereco": "Rua Fritz Reiman, 628, Itapegica, Guarulhos, SP, 02236",
@@ -12016,50 +12162,50 @@
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.1,
-            "cagr_ativo_1": -0.03,
+            "cagr_alugeis_1": -0.16,
+            "cagr_ativo_1": 0.01,
             "cagr_patrimonio_liquido": 0.15,
             "cagr_vpa_1": 0.15,
             "cagr_vpa_3": 0.4,
-            "cmgr_alugeis_6m": 0.0
+            "cmgr_alugeis_6m": -0.05
         },
         "dividends": {
             "cagr_dividens_1": -0.78,
             "cagr_dividens_3": -0.4,
-            "cagr_dy_1": 3.56,
-            "cagr_dy_3": 0.66,
-            "cagr_dy_5": 0.35,
-            "dy": 10.32
+            "cagr_dy_1": -0.37,
+            "cagr_dy_3": -0.14,
+            "cagr_dy_5": -0.09,
+            "dy": 10.35
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 148172.35,
-            "ifix": 0.86,
-            "liquidez_med": 1043009990000
+            "custo_adm_med": 149173.22,
+            "ifix": 0.876,
+            "liquidez_med": 1042778885000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 2,
-            "imoveis": 13,
-            "patrimonio_liquido": 740045968.09,
-            "pl_cx": 25.28,
+            "imoveis": 12,
+            "patrimonio_liquido": 740550891.02,
+            "pl_cx": 25.61,
             "vacancia": 0.0,
             "vacancia_1": 0.0,
             "vacancia_3m": 0.0
@@ -12067,8 +12213,8 @@
         "valuation": {
             "p_vpa": 1.1,
             "p_vpa_med": 1.16,
-            "price": 117.85,
-            "valuation": 94.6
+            "price": 117.71,
+            "valuation": 90.67
         }
     },
     "ticker": "ALZR11",
@@ -12143,6 +12289,10 @@
         },
         {
             "competencia": "2/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
             "total": 0.0
         }
     ]

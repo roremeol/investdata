@@ -7,35 +7,35 @@
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 0.0
+            "precentual": 0.5776
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 0.6834
+            "precentual": 1.5323
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 1.2085
+            "precentual": 1.334
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 1.0361
+            "precentual": 1.6558
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 1.306
+            "precentual": 7.3021
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 5.7594
+            "precentual": 8.9236
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 6.366
+            "precentual": 0.0
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 0.9543
+            "precentual": 0.0
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
@@ -43,15 +43,15 @@
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 0.2338
-        },
-        {
-            "prazo": "De 33 meses e 1 dia a 36 meses",
             "precentual": 0.0
         },
         {
+            "prazo": "De 33 meses e 1 dia a 36 meses",
+            "precentual": 4.7067
+        },
+        {
             "prazo": "Acima de 36 meses",
-            "precentual": 82.4526
+            "precentual": 73.9679
         },
         {
             "prazo": "Prazo indeterminado",
@@ -299,11 +299,16 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-07T00:00:00",
             "provento": 0.75
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-08T00:00:00",
+            "provento": 0.75
         }
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 1.176,
+    "ifix_participacao": 1.104,
     "imr": [
         {
             "ativo": 296918484.66,
@@ -915,12 +920,25 @@
             "patrimonio_liquido": 1359913468.58,
             "receita_aluguel": 10287948.44,
             "valor_patrimonio_cotas": 115.489854
+        },
+        {
+            "ativo": 1649145095.06,
+            "caixa": 44758889.48,
+            "competencia": "10/2022",
+            "cotas_emitidas": 11775177.0,
+            "cotistas": 63837,
+            "despesa_administracao": 1175489.23,
+            "dy": 0.6389,
+            "numero_cotas": 11775177.0,
+            "patrimonio_liquido": 1360519943.04,
+            "receita_aluguel": 10749512.49,
+            "valor_patrimonio_cotas": 115.541358
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 57.2909
+            "precentual": 50.0122
         },
         {
             "indexador": "INPC",
@@ -928,7 +946,7 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 33.018
+            "precentual": 41.7965
         },
         {
             "indexador": "INCC",
@@ -936,10 +954,10 @@
         },
         {
             "indexador": "IPC",
-            "precentual": 9.691
+            "precentual": 8.1913
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRLVBICTF002",
     "lci": [],
     "mandato": "Renda",
@@ -3178,6 +3196,15 @@
             "volume": 7035548640000
         },
         {
+            "change": 26.9,
+            "close": 126.9,
+            "date": "2019-12-26",
+            "max": 127.0,
+            "min": 125.8,
+            "open": 126.89,
+            "volume": 4828379830000
+        },
+        {
             "change": 30.01,
             "close": 130.01,
             "date": "2019-12-27",
@@ -3185,6 +3212,24 @@
             "min": 126.16,
             "open": 127.9,
             "volume": 5126622830000
+        },
+        {
+            "change": 34.1,
+            "close": 134.1,
+            "date": "2019-12-30",
+            "max": 135.7,
+            "min": 129.0,
+            "open": 130.0,
+            "volume": 2648100100000
+        },
+        {
+            "change": 36.78,
+            "close": 136.78,
+            "date": "2020-01-02",
+            "max": 140.0,
+            "min": 133.43,
+            "open": 133.43,
+            "volume": 4781058840000
         },
         {
             "change": 38.4,
@@ -9449,6 +9494,132 @@
             "min": 113.58,
             "open": 114.9,
             "volume": 1831071700000
+        },
+        {
+            "change": 13.53,
+            "close": 113.53,
+            "date": "2022-10-20",
+            "max": 114.93,
+            "min": 113.5,
+            "open": 114.27,
+            "volume": 2557597920000
+        },
+        {
+            "change": 13.5,
+            "close": 113.5,
+            "date": "2022-10-21",
+            "max": 114.78,
+            "min": 113.5,
+            "open": 114.45,
+            "volume": 3077463350000
+        },
+        {
+            "change": 13.0,
+            "close": 113.0,
+            "date": "2022-10-24",
+            "max": 114.0,
+            "min": 112.88,
+            "open": 113.85,
+            "volume": 2438345660000
+        },
+        {
+            "change": 11.77,
+            "close": 111.77,
+            "date": "2022-10-25",
+            "max": 113.92,
+            "min": 111.05,
+            "open": 113.32,
+            "volume": 2849566560000
+        },
+        {
+            "change": 10.15,
+            "close": 110.15,
+            "date": "2022-10-26",
+            "max": 111.87,
+            "min": 110.0,
+            "open": 111.87,
+            "volume": 4291127890000
+        },
+        {
+            "change": 10.37,
+            "close": 110.37,
+            "date": "2022-10-27",
+            "max": 111.49,
+            "min": 110.16,
+            "open": 111.0,
+            "volume": 1738288790000
+        },
+        {
+            "change": 11.26,
+            "close": 111.26,
+            "date": "2022-10-28",
+            "max": 111.93,
+            "min": 110.36,
+            "open": 110.52,
+            "volume": 2225265010000
+        },
+        {
+            "change": 10.8,
+            "close": 110.8,
+            "date": "2022-10-31",
+            "max": 112.78,
+            "min": 109.57,
+            "open": 111.26,
+            "volume": 2472325550000
+        },
+        {
+            "change": 8.19,
+            "close": 108.19,
+            "date": "2022-11-01",
+            "max": 111.4,
+            "min": 108.0,
+            "open": 111.0,
+            "volume": 2067096040000
+        },
+        {
+            "change": 8.0,
+            "close": 108.0,
+            "date": "2022-11-03",
+            "max": 109.92,
+            "min": 107.9,
+            "open": 108.19,
+            "volume": 1754898680000
+        },
+        {
+            "change": 6.99,
+            "close": 106.99,
+            "date": "2022-11-04",
+            "max": 108.23,
+            "min": 106.5,
+            "open": 108.0,
+            "volume": 2758745920000
+        },
+        {
+            "change": 6.3,
+            "close": 106.3,
+            "date": "2022-11-07",
+            "max": 106.9,
+            "min": 105.45,
+            "open": 106.79,
+            "volume": 5144405200000
+        },
+        {
+            "change": 5.71,
+            "close": 105.71,
+            "date": "2022-11-08",
+            "max": 106.81,
+            "min": 105.53,
+            "open": 106.3,
+            "volume": 2958505790000
+        },
+        {
+            "change": 6.02,
+            "close": 106.02,
+            "date": "2022-11-09",
+            "max": 106.39,
+            "min": 105.71,
+            "open": 106.0,
+            "volume": 2608825180000
         }
     ],
     "propriedades": [
@@ -9470,15 +9641,15 @@
             "inadimplencia": 0.0,
             "nome": "Galp\u00e3o - Extrema Fern\u00e3o Dias, KM 947.5, Extrema, MG, 37640-000 \n                \u00c1rea (m2):\n                122.459,00 \n                N\u00ba de unidades ou lojas:\n                5 Direito de propriedade",
             "unidades": 5,
-            "vacancia": 0.0
+            "vacancia": 3.0
         },
         {
             "area": 12340.0,
-            "cidade": "Galpao Pirituba Avenida Mutinga 4935, 4935, Bairro Pirituba, Pirituba, Sao PauloSP, Brasil, 05110903 \n                \u00c1rea (m2):\n                12.340,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "cidade": "Galp\u00e3o Pirituba Avenida Mutinga 4935, 4935, Bairro Pirituba, Pirituba, Sao PauloSP, Brasil, 05110903 \n                \u00c1rea (m2):\n                12.340,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "endereco": "Avenida Mutinga 4935, 4935, Bairro Pirituba, Pirituba, Sao Paulo/SP, Brasil, 05110",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Galpao Pirituba",
+            "nome": "Galp\u00e3o Pirituba",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -9504,21 +9675,21 @@
         },
         {
             "area": 42697.0,
-            "cidade": "Arauc\u00e1ria Rua Pedro de Alcantara Meira, 1001, Fazenda Velha, AraucariaPR, Brasil, 83704",
-            "endereco": "Rua Pedro de Alcantara Meira, 1001, Fazenda Velha, Araucaria/PR, Brasil, 83704",
+            "cidade": "Galpao Araucaria Rua Pedro De Alcantara Meira, 1001, Sem Complemento, Fazenda Velha, AraucariaPR, Brasil, 83704530 \n                \u00c1rea (m2):\n                42.697,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Rua Pedro De Alcantara Meira, 1001, Sem Complemento, Fazenda Velha, Araucaria/PR, Brasil, 83704",
             "estado": "PR",
             "inadimplencia": 0.0,
-            "nome": "Galp\u00e3o - Arauc\u00e1ria Pedro de Alcantara Meira, 1001, Velha, Araucaria/PR, Brasil, 83704-530 \n                \u00c1rea (m2):\n                42.697,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Galpao Araucaria",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 34922.0,
-            "cidade": "Itapevi Avenida Portugal, 400, Itaqui, ItapeviSP, Brasil, 06696",
-            "endereco": "Avenida Portugal, 400, Itaqui, Itapevi/SP, Brasil, 06696",
+            "cidade": "Itapevi Avenida Portugal, 400, Sem Complemento, Itaqui, ItapeviSP, Brasil, 06696",
+            "endereco": "Avenida Portugal, 400, Sem Complemento, Itaqui, Itapevi/SP, Brasil, 06696",
             "estado": "SP",
-            "inadimplencia": 6.0,
-            "nome": "Galpao A e B - Itapevienida Portugal, 400, Itaqui, Itapevi/SP, Brasil, 06696-060 \n                \u00c1rea (m2):\n                34.922,00 \n                N\u00ba de unidades ou lojas:\n                20 Direito de propriedade",
+            "inadimplencia": 0.0,
+            "nome": "Galpao A e B - Itapevienida Portugal, 400, Sem Complemento, Itaqui, Itapevi/SP, Brasil, 06696-060 \n                \u00c1rea (m2):\n                34.922,00 \n                N\u00ba de unidades ou lojas:\n                20 Direito de propriedade",
             "unidades": 20,
             "vacancia": 6.0
         },
@@ -9536,7 +9707,7 @@
     "segmento": "Log\u00edstica",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.18,
+            "cagr_alugeis_1": 0.23,
             "cagr_ativo_1": -0.01,
             "cagr_patrimonio_liquido": 0.01,
             "cagr_vpa_1": 0.01,
@@ -9546,49 +9717,49 @@
         "dividends": {
             "cagr_dividens_1": -0.25,
             "cagr_dividens_3": -0.09,
-            "cagr_dy_1": -0.32,
-            "cagr_dy_3": -0.12,
+            "cagr_dy_1": -0.36,
+            "cagr_dy_3": -0.14,
             "cagr_dy_5": 0,
-            "dy": 7.2
+            "dy": 7.23
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06,
-                "dy": 5.86
+                "cagr_dy_3": -0.07,
+                "dy": 5.85
             },
             "mercado": {
-                "custo_adm_med": 338717.33,
-                "liquidez_med": 804838015416.67
+                "custo_adm_med": 345057.52,
+                "liquidez_med": 801298095625.0
             },
             "operacao": {
-                "patrimonio_liquido": 1006893449.01,
-                "pl_cx": 4.5,
-                "vacancia": 3.82
+                "patrimonio_liquido": 1006636839.66,
+                "pl_cx": 4.06,
+                "vacancia": 5.76
             },
             "valuation": {
-                "p_vpa_med": 0.83
+                "p_vpa_med": 0.76
             }
         },
         "mercado": {
-            "custo_adm_med": 957312.77,
-            "ifix": 1.176,
-            "liquidez_med": 1948614490000
+            "custo_adm_med": 962266.7150000001,
+            "ifix": 1.104,
+            "liquidez_med": 1995742255000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 3,
             "imoveis": 8,
-            "patrimonio_liquido": 1359913468.58,
+            "patrimonio_liquido": 1360519943.04,
             "pl_cx": 3.29,
-            "vacancia": 0.57,
+            "vacancia": 1.58,
             "vacancia_1": 0.0,
-            "vacancia_3m": 0.0
+            "vacancia_3m": 0.57
         },
         "valuation": {
-            "p_vpa": 0.99,
+            "p_vpa": 0.92,
             "p_vpa_med": 1.0,
-            "price": 114.0,
-            "valuation": 99.14
+            "price": 106.02,
+            "valuation": 95.9
         }
     },
     "ticker": "LVBI11",
@@ -9652,6 +9823,10 @@
         {
             "competencia": "2/2022",
             "total": 0.57
+        },
+        {
+            "competencia": "3/2022",
+            "total": 1.58
         }
     ]
 }

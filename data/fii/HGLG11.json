@@ -3,55 +3,55 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 0.494
+            "precentual": 0.8864
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 0.8183
+            "precentual": 0.1667
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 0.5369
+            "precentual": 0.2054
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 0.0
+            "precentual": 0.1953
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 0.1172
+            "precentual": 1.1828
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 1.0265
+            "precentual": 2.4657
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 1.8258
+            "precentual": 0.929
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 0.9584
+            "precentual": 1.3541
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 1.4199
+            "precentual": 7.0294
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 6.3295
+            "precentual": 7.4401
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 7.7906
+            "precentual": 1.0237
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 0.5893
+            "precentual": 1.4078
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 63.5597
+            "precentual": 70.8128
         },
         {
             "prazo": "Prazo indeterminado",
@@ -444,127 +444,107 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 1.1
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 1.1
         }
     ],
     "fii": [
         {
             "nome": "BRESCO LOG\u00cdSTICA FII",
             "quantidade": 176097.0,
-            "valor": 17352598.38
+            "valor": 19106524.5
+        },
+        {
+            "nome": "BTG PACTUAL LOG\u00cdSTICA FII",
+            "quantidade": 228142.0,
+            "valor": 23498626.0
         },
         {
             "nome": "FII INDUSTRIAL BRASIL",
             "quantidade": 107842.0,
-            "valor": 45832850.0
+            "valor": 52087686.0
         },
         {
             "nome": "GTIS BRAZIL LOGISTICS FII",
             "quantidade": 1020000.0,
-            "valor": 101949000.0
+            "valor": 99949800.0
         },
         {
             "nome": "HEDGE LOGISTICA FII",
             "quantidade": 228193.0,
-            "valor": 19955477.85
+            "valor": 22157540.3
         },
         {
             "nome": "HSI LOG\u00cdSTICA FII",
-            "quantidade": 7416.0,
-            "valor": 926241.72
-        },
-        {
-            "nome": "HSI MALLS FII",
-            "quantidade": 14046.0,
-            "valor": 1095447.54
+            "quantidade": 11028.0,
+            "valor": 1078758.96
         },
         {
             "nome": "KINEA RENDIMENTOS IMOBILIARIOS FII",
-            "quantidade": 57893.0,
-            "valor": 5902770.28
+            "quantidade": 16840.0,
+            "valor": 1724416.0
         },
         {
             "nome": "KINEA HIGH YIELD CRI FII",
             "quantidade": 70000.0,
-            "valor": 7280000.0
+            "valor": 6794200.0
         },
         {
             "nome": "LOGCP INTER FII",
-            "quantidade": 48470.0,
-            "valor": 2387734.5
+            "quantidade": 205081.0,
+            "valor": 17339598.55
         },
         {
             "nome": "PATRIA LOGISTICA FII",
             "quantidade": 26314.0,
-            "valor": 2031440.8
+            "valor": 2210376.0
         },
         {
             "nome": "PANORAMA DESENVOLVIMENTO LOG\u00cdSTICO FII",
-            "quantidade": 1350.0,
-            "valor": 863774.8
-        },
-        {
-            "nome": "PANORAMA DESENVOLVIMENTO LOG\u00cdSTICO FII REC 13",
-            "quantidade": 1072.0,
-            "valor": 685901.17
-        },
-        {
-            "nome": "PANORAMA DESENVOLVIMENTO LOG\u00cdSTICO FII REC 14",
-            "quantidade": 416.0,
-            "valor": 266170.6
-        },
-        {
-            "nome": "PANORAMA DESENVOLVIMENTO LOG\u00cdSTICO FII REC 15",
-            "quantidade": 1028.0,
-            "valor": 657748.51
-        },
-        {
-            "nome": "PANORAMA DESENVOLVIMENTO LOG\u00cdSTICO FII REC 16",
-            "quantidade": 3826.0,
-            "valor": 2448001.77
+            "quantidade": 7692.0,
+            "valor": 4797441.47
         },
         {
             "nome": "RBR LOG FII",
-            "quantidade": 99355.0,
-            "valor": 8439213.7
+            "quantidade": 101454.0,
+            "valor": 9504210.72
         },
         {
             "nome": "SDI RIO BRAVO RENDA LOGISTICA FII",
-            "quantidade": 269961.0,
-            "valor": 26079115.02
+            "quantidade": 228494.0,
+            "valor": 22392412.0
         },
         {
             "nome": "FATOR VERITA FII REC",
-            "quantidade": 122977.0,
-            "valor": 12027150.6
-        },
-        {
-            "nome": "FII - V2 PROPERTIES",
-            "quantidade": 229289.0,
-            "valor": 22266254.79
+            "quantidade": 40608.0,
+            "valor": 3879688.32
         },
         {
             "nome": "WHG REAL ESTATE FII",
-            "quantidade": 96878.0,
-            "valor": 966642.51
+            "quantidade": 95878.0,
+            "valor": 951956.7
         },
         {
             "nome": "XP INDUSTRIAL FII",
             "quantidade": 733697.0,
-            "valor": 53706620.4
+            "valor": 60823481.3
         },
         {
             "nome": "XP LOG FII",
             "quantidade": 272473.0,
-            "valor": 25522545.91
+            "valor": 29936608.51
         },
         {
             "nome": "SUCCESPAR VAREJO FII",
             "quantidade": 319914.0,
-            "valor": 34367329.9
+            "valor": 34277726.71
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 3.436,
+    "ifix_participacao": 3.499,
     "imr": [
         {
             "ativo": 382751104.29,
@@ -1462,12 +1442,25 @@
             "patrimonio_liquido": 3451634033.37,
             "receita_aluguel": 25076783.09,
             "valor_patrimonio_cotas": 147.149331
+        },
+        {
+            "ativo": 3924002025.03,
+            "caixa": 237076939.87,
+            "competencia": "10/2022",
+            "cotas_emitidas": 23456675.0,
+            "cotistas": 334883,
+            "despesa_administracao": 1861852.74,
+            "dy": 0.7475,
+            "numero_cotas": 23456675.0,
+            "patrimonio_liquido": 3454272241.76,
+            "receita_aluguel": 20607523.08,
+            "valor_patrimonio_cotas": 147.261803
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 19.5224
+            "precentual": 20.9611
         },
         {
             "indexador": "INPC",
@@ -1475,14 +1468,14 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 65.9437
+            "precentual": 74.1381
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRHGLGCTF004",
     "lci": [],
     "mandato": "Renda",
@@ -14791,6 +14784,15 @@
             "volume": 9584574910000
         },
         {
+            "change": -82.511644,
+            "close": 199.0,
+            "date": "2019-12-26",
+            "max": 199.01,
+            "min": 195.6,
+            "open": 195.75,
+            "volume": 6142670810000
+        },
+        {
             "change": -82.212848,
             "close": 202.4,
             "date": "2019-12-27",
@@ -14801,12 +14803,21 @@
         },
         {
             "change": -81.883294,
-            "close": 206.149994,
+            "close": 206.15,
             "date": "2019-12-30",
-            "max": 209.949997,
+            "max": 209.95,
             "min": 202.5,
             "open": 202.5,
-            "volume": 29634000000
+            "volume": 6119302330000
+        },
+        {
+            "change": -81.369189,
+            "close": 212.0,
+            "date": "2020-01-02",
+            "max": 213.0,
+            "min": 206.0,
+            "open": 206.01,
+            "volume": 8436232320000
         },
         {
             "change": -80.565955,
@@ -21071,6 +21082,132 @@
             "min": 166.0,
             "open": 167.71,
             "volume": 7507854710000
+        },
+        {
+            "change": -85.367783,
+            "close": 166.5,
+            "date": "2022-10-20",
+            "max": 168.15,
+            "min": 165.98,
+            "open": 166.76,
+            "volume": 5351488020000
+        },
+        {
+            "change": -85.415239,
+            "close": 165.96,
+            "date": "2022-10-21",
+            "max": 167.68,
+            "min": 165.36,
+            "open": 166.9,
+            "volume": 7454916340000
+        },
+        {
+            "change": -85.569031,
+            "close": 164.21,
+            "date": "2022-10-24",
+            "max": 166.56,
+            "min": 164.0,
+            "open": 166.0,
+            "volume": 8861178780000
+        },
+        {
+            "change": -85.541788,
+            "close": 164.52,
+            "date": "2022-10-25",
+            "max": 165.9,
+            "min": 164.0,
+            "open": 164.69,
+            "volume": 7571765540000
+        },
+        {
+            "change": -85.508393,
+            "close": 164.9,
+            "date": "2022-10-26",
+            "max": 165.0,
+            "min": 164.21,
+            "open": 164.63,
+            "volume": 5632469750000
+        },
+        {
+            "change": -85.455664,
+            "close": 165.5,
+            "date": "2022-10-27",
+            "max": 165.91,
+            "min": 164.52,
+            "open": 164.9,
+            "volume": 4394263670000
+        },
+        {
+            "change": -85.375692,
+            "close": 166.41,
+            "date": "2022-10-28",
+            "max": 166.95,
+            "min": 165.04,
+            "open": 165.5,
+            "volume": 4481087420000
+        },
+        {
+            "change": -85.465331,
+            "close": 165.39,
+            "date": "2022-10-31",
+            "max": 166.39,
+            "min": 163.51,
+            "open": 166.0,
+            "volume": 6281493210000
+        },
+        {
+            "change": -85.41436,
+            "close": 165.97,
+            "date": "2022-11-01",
+            "max": 166.1,
+            "min": 164.29,
+            "open": 164.29,
+            "volume": 4811980540000
+        },
+        {
+            "change": -85.379207,
+            "close": 166.37,
+            "date": "2022-11-03",
+            "max": 166.97,
+            "min": 165.08,
+            "open": 165.97,
+            "volume": 4987667150000
+        },
+        {
+            "change": -85.113806,
+            "close": 169.39,
+            "date": "2022-11-04",
+            "max": 169.78,
+            "min": 166.2,
+            "open": 166.6,
+            "volume": 6310259710000
+        },
+        {
+            "change": -85.440724,
+            "close": 165.67,
+            "date": "2022-11-07",
+            "max": 169.0,
+            "min": 165.5,
+            "open": 168.98,
+            "volume": 6350508200000
+        },
+        {
+            "change": -85.424906,
+            "close": 165.85,
+            "date": "2022-11-08",
+            "max": 166.91,
+            "min": 165.67,
+            "open": 165.67,
+            "volume": 4495543060000
+        },
+        {
+            "change": -85.455664,
+            "close": 165.5,
+            "date": "2022-11-09",
+            "max": 166.4,
+            "min": 165.07,
+            "open": 165.85,
+            "volume": 4710687970000
         }
     ],
     "propriedades": [
@@ -21182,7 +21319,7 @@
             "inadimplencia": 0.0,
             "nome": "HGLG Itupeva",
             "unidades": 1,
-            "vacancia": 23.62
+            "vacancia": 23.6273
         },
         {
             "area": 62587.38,
@@ -21202,7 +21339,7 @@
             "inadimplencia": 0.0,
             "nome": "HGLG Louveira",
             "unidades": 1,
-            "vacancia": 3.69
+            "vacancia": 3.6897
         },
         {
             "area": 15732.38,
@@ -21211,16 +21348,6 @@
             "estado": "PE",
             "inadimplencia": 0.0,
             "nome": "HGLG CONE G06",
-            "unidades": 1,
-            "vacancia": 9.09
-        },
-        {
-            "area": 35781.82,
-            "cidade": "Lojas Americanas Uberl\u00e2ndia BR497, Km 1480, Uberl\u00e2ndia, MG \n                \u00c1rea (m2):\n                35.781,82 \n                N\u00ba de unidades ou lojas:\n                1",
-            "endereco": "Lojas Americanas Uberl\u00e2ndia BR-497, Km 1480, Uberl\u00e2ndia, MG \n                \u00c1rea (m2):\n                35.781,82 \n                N\u00ba de unidades ou lojas:\n                1 -",
-            "estado": "MG",
-            "inadimplencia": 0.0,
-            "nome": "Lojas Americanas Uberl\u00e2ndia BR-497, Km 1480, Uberl\u00e2ndia, MG \n                \u00c1rea (m2):\n                35.781,82 \n                N\u00ba de unidades ou lojas:\n                1 -",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -21242,7 +21369,7 @@
             "inadimplencia": 0.0,
             "nome": "HGLG Washington Luiz",
             "unidades": 1,
-            "vacancia": 24.24
+            "vacancia": 26.837
         },
         {
             "area": 59874.7,
@@ -21262,65 +21389,75 @@
             "inadimplencia": 0.0,
             "nome": "HGLG CONE 04",
             "unidades": 1,
-            "vacancia": 14.34
+            "vacancia": 14.3376
+        },
+        {
+            "area": 95730.0,
+            "cidade": "Meli Rua da HarmoniaParque Industrial de Betim, Betim",
+            "endereco": "Rua da Harmonia",
+            "estado": "MG",
+            "inadimplencia": 0.0,
+            "nome": "HGLG Betim BTS - Meli da Harmonia \u2013 Parque Industrial de Betim, Betim - MG \n                \u00c1rea (m2):\n                95.730,00 \n                N\u00ba de unidades ou lojas:\n                1 -",
+            "unidades": 1,
+            "vacancia": 0.0
         }
     ],
     "segmento": "Log\u00edstica",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.15,
-            "cagr_ativo_1": 0.11,
-            "cagr_patrimonio_liquido": 0.1,
-            "cagr_vpa_1": 0.1,
-            "cagr_vpa_3": 0.31,
-            "cmgr_alugeis_6m": 0.03
+            "cagr_alugeis_1": -0.15,
+            "cagr_ativo_1": 0.12,
+            "cagr_patrimonio_liquido": 0.09,
+            "cagr_vpa_1": 0.09,
+            "cagr_vpa_3": 0.29,
+            "cmgr_alugeis_6m": -0.04
         },
         "dividends": {
             "cagr_dividens_1": 0.0,
             "cagr_dividens_3": 0.03,
-            "cagr_dy_1": -0.25,
+            "cagr_dy_1": -0.37,
             "cagr_dy_3": -0.09,
             "cagr_dy_5": -0.06,
             "dy": 10.11
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06,
-                "dy": 5.86
+                "cagr_dy_3": -0.07,
+                "dy": 5.85
             },
             "mercado": {
-                "custo_adm_med": 338717.33,
-                "liquidez_med": 804838015416.67
+                "custo_adm_med": 345057.52,
+                "liquidez_med": 801298095625.0
             },
             "operacao": {
-                "patrimonio_liquido": 1006893449.01,
-                "pl_cx": 4.5,
-                "vacancia": 3.82
+                "patrimonio_liquido": 1006636839.66,
+                "pl_cx": 4.06,
+                "vacancia": 5.76
             },
             "valuation": {
-                "p_vpa_med": 0.83
+                "p_vpa_med": 0.76
             }
         },
         "mercado": {
-            "custo_adm_med": 963723.75,
-            "ifix": 3.436,
-            "liquidez_med": 1895309610000.0
+            "custo_adm_med": 970221.3049999999,
+            "ifix": 3.499,
+            "liquidez_med": 1960462530000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 6,
             "imoveis": 19,
-            "patrimonio_liquido": 3451634033.37,
-            "pl_cx": 11.88,
-            "vacancia": 7.82,
+            "patrimonio_liquido": 3454272241.76,
+            "pl_cx": 6.86,
+            "vacancia": 7.27,
             "vacancia_1": 3.81,
-            "vacancia_3m": 9.34
+            "vacancia_3m": 7.82
         },
         "valuation": {
-            "p_vpa": 1.13,
+            "p_vpa": 1.12,
             "p_vpa_med": 1.3,
-            "price": 166.49,
-            "valuation": 173.06
+            "price": 165.5,
+            "valuation": 158.75
         }
     },
     "ticker": "HGLG11",
@@ -21416,6 +21553,10 @@
         {
             "competencia": "2/2022",
             "total": 7.82
+        },
+        {
+            "competencia": "3/2022",
+            "total": 7.27
         }
     ]
 }

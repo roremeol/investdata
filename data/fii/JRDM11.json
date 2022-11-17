@@ -3,7 +3,7 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 0.0
+            "precentual": 0.0814
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
@@ -15,47 +15,47 @@
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 0.0586
+            "precentual": 0.3686
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 1.6589
+            "precentual": 2.6163
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 11.2985
+            "precentual": 1.5402
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 4.1968
+            "precentual": 0.7897
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 1.4988
+            "precentual": 1.834
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 2.3987
+            "precentual": 1.5
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 5.8542
+            "precentual": 4.8124
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 3.8541
+            "precentual": 2.1378
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 5.5485
+            "precentual": 0.9688
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 63.6328
+            "precentual": 81.0564
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 0.0
+            "precentual": 2.2945
         }
     ],
     "cri": [],
@@ -374,6 +374,11 @@
             "data_com": "2022-10-07T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.723285321
+        },
+        {
+            "data_com": "2022-11-08T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.474017106
         }
     ],
     "fii": [],
@@ -1315,12 +1320,25 @@
             "patrimonio_liquido": 220434659.42,
             "receita_aluguel": 2642757.57,
             "valor_patrimonio_cotas": 87.371167
+        },
+        {
+            "ativo": 222957743.93,
+            "caixa": 5133415.29,
+            "competencia": "10/2022",
+            "cotas_emitidas": 2522968.0,
+            "cotistas": 4335,
+            "despesa_administracao": 83830.4,
+            "dy": 0.0,
+            "numero_cotas": 2522968.0,
+            "patrimonio_liquido": 219451318.92,
+            "receita_aluguel": 2928009.45,
+            "valor_patrimonio_cotas": 86.981412
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 91.0145
+            "precentual": 90.7038
         },
         {
             "indexador": "INPC",
@@ -1336,10 +1354,10 @@
         },
         {
             "indexador": "Outros",
-            "precentual": 8.9855
+            "precentual": 9.2962
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRJRDMCTF002",
     "lci": [],
     "mandato": "Renda",
@@ -7250,6 +7268,15 @@
             "volume": 191902040000
         },
         {
+            "change": 17.370892,
+            "close": 100.0,
+            "date": "2019-12-26",
+            "max": 100.0,
+            "min": 97.61,
+            "open": 97.61,
+            "volume": 326818340000
+        },
+        {
             "change": 21.607981,
             "close": 103.61,
             "date": "2019-12-27",
@@ -7257,6 +7284,24 @@
             "min": 99.9,
             "open": 100.0,
             "volume": 254636730000
+        },
+        {
+            "change": 25.997653,
+            "close": 107.35,
+            "date": "2019-12-30",
+            "max": 109.5,
+            "min": 103.62,
+            "open": 103.62,
+            "volume": 156109980000
+        },
+        {
+            "change": 30.575117,
+            "close": 111.25,
+            "date": "2020-01-02",
+            "max": 114.23,
+            "min": 109.0,
+            "open": 109.0,
+            "volume": 137887610000
         },
         {
             "change": 35.856808,
@@ -13521,76 +13566,202 @@
             "min": 86.01,
             "open": 86.12,
             "volume": 77180580000
+        },
+        {
+            "change": 0.950704,
+            "close": 86.01,
+            "date": "2022-10-20",
+            "max": 86.74,
+            "min": 86.01,
+            "open": 86.74,
+            "volume": 18128720000
+        },
+        {
+            "change": 1.255869,
+            "close": 86.27,
+            "date": "2022-10-21",
+            "max": 86.91,
+            "min": 86.03,
+            "open": 86.05,
+            "volume": 12621470000
+        },
+        {
+            "change": 0.974178,
+            "close": 86.03,
+            "date": "2022-10-24",
+            "max": 87.01,
+            "min": 85.39,
+            "open": 86.28,
+            "volume": 55206510000
+        },
+        {
+            "change": 1.091549,
+            "close": 86.13,
+            "date": "2022-10-25",
+            "max": 87.2,
+            "min": 86.03,
+            "open": 87.0,
+            "volume": 96524900000
+        },
+        {
+            "change": 1.103286,
+            "close": 86.14,
+            "date": "2022-10-26",
+            "max": 86.51,
+            "min": 86.05,
+            "open": 86.12,
+            "volume": 24473730000
+        },
+        {
+            "change": 1.349765,
+            "close": 86.35,
+            "date": "2022-10-27",
+            "max": 86.9,
+            "min": 86.14,
+            "open": 86.15,
+            "volume": 171663920000
+        },
+        {
+            "change": 1.549296,
+            "close": 86.52,
+            "date": "2022-10-28",
+            "max": 87.19,
+            "min": 86.35,
+            "open": 87.19,
+            "volume": 21099660000
+        },
+        {
+            "change": 1.549296,
+            "close": 86.52,
+            "date": "2022-10-31",
+            "max": 87.2,
+            "min": 86.35,
+            "open": 87.19,
+            "volume": 27363380000
+        },
+        {
+            "change": 2.323944,
+            "close": 87.18,
+            "date": "2022-11-01",
+            "max": 87.2,
+            "min": 86.62,
+            "open": 87.2,
+            "volume": 17703230000
+        },
+        {
+            "change": 2.394366,
+            "close": 87.24,
+            "date": "2022-11-03",
+            "max": 89.2,
+            "min": 87.17,
+            "open": 87.17,
+            "volume": 11330930000
+        },
+        {
+            "change": 3.204225,
+            "close": 87.93,
+            "date": "2022-11-04",
+            "max": 89.22,
+            "min": 87.24,
+            "open": 87.24,
+            "volume": 5920910000
+        },
+        {
+            "change": 1.420188,
+            "close": 86.41,
+            "date": "2022-11-07",
+            "max": 87.93,
+            "min": 86.4,
+            "open": 87.93,
+            "volume": 155028530000
+        },
+        {
+            "change": -0.046948,
+            "close": 85.16,
+            "date": "2022-11-08",
+            "max": 86.99,
+            "min": 85.16,
+            "open": 86.41,
+            "volume": 27281800000
+        },
+        {
+            "change": -2.922535,
+            "close": 82.71,
+            "date": "2022-11-09",
+            "max": 84.78,
+            "min": 77.51,
+            "open": 84.78,
+            "volume": 136524320000
         }
     ],
     "propriedades": [
         {
-            "area": 28620.09,
-            "cidade": "Shopping Jardim Sul Av. Giovanni Gronchi 5819, Shopping, S\u00e3o Paulo, SP, 05724003 \n                \u00c1rea (m2):\n                28.620,09 \n                N\u00ba de unidades ou lojas:\n                187 Direito de propriedade",
-            "endereco": "Av. Giovanni Gronchi 5819, Shopping, S\u00e3o Paulo, SP, 05724",
+            "area": 29182.95,
+            "cidade": "Shopping Jardim Sul Avenida Giovanni Gronchi, 5819,  Vila Andrade, Sao PauloSP, Brasil, 05724003 \n                \u00c1rea (m2):\n                29.182,95 \n                N\u00ba de unidades ou lojas:\n                229 Direito de propriedade",
+            "endereco": "Avenida Giovanni Gronchi, 5819,  Vila Andrade, Sao Paulo/SP, Brasil, 05724",
             "estado": "SP",
-            "inadimplencia": 8.04,
+            "inadimplencia": 3.14,
             "nome": "Shopping Jardim Sul",
-            "unidades": 187,
-            "vacancia": 3.19
+            "unidades": 229,
+            "vacancia": 1.03
         }
     ],
     "segmento": "Shoppings",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.15,
+            "cagr_alugeis_1": -0.1,
             "cagr_ativo_1": -0.01,
-            "cagr_patrimonio_liquido": -0.01,
-            "cagr_vpa_1": -0.01,
-            "cagr_vpa_3": 0.02,
-            "cmgr_alugeis_6m": 0.01
+            "cagr_patrimonio_liquido": -0.0,
+            "cagr_vpa_1": -0.0,
+            "cagr_vpa_3": -0.01,
+            "cmgr_alugeis_6m": 0.02
         },
         "dividends": {
-            "cagr_dividens_1": -0.28,
-            "cagr_dividens_3": -0.1,
-            "cagr_dy_1": -0.46,
-            "cagr_dy_3": -0.18,
-            "cagr_dy_5": -0.11,
-            "dy": 6.33
+            "cagr_dividens_1": -0.53,
+            "cagr_dividens_3": -0.22,
+            "cagr_dy_1": 0,
+            "cagr_dy_3": 0,
+            "cagr_dy_5": 0,
+            "dy": 5.65
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.16,
-                "dy": 5.16
+                "cagr_dy_3": -0.17,
+                "dy": 5.24
             },
             "mercado": {
-                "custo_adm_med": 236677.22,
-                "liquidez_med": 574772111428.57
+                "custo_adm_med": 237341.59,
+                "liquidez_med": 575574112380.95
             },
             "operacao": {
-                "patrimonio_liquido": 661924718.57,
-                "pl_cx": 2.02,
-                "vacancia": 7.89
+                "patrimonio_liquido": 663251512.39,
+                "pl_cx": 2.77,
+                "vacancia": 7.06
             },
             "valuation": {
-                "p_vpa_med": 0.78
+                "p_vpa_med": 0.74
             }
         },
         "mercado": {
             "custo_adm_med": 61551.89,
             "ifix": 0,
-            "liquidez_med": 99546980000
+            "liquidez_med": 99357535000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 1,
             "imoveis": 1,
-            "patrimonio_liquido": 220434659.42,
-            "pl_cx": 2.71,
-            "vacancia": 3.19,
-            "vacancia_1": 2.3,
-            "vacancia_3m": 3.15
+            "patrimonio_liquido": 219451318.92,
+            "pl_cx": 2.34,
+            "vacancia": 1.03,
+            "vacancia_1": 1.57,
+            "vacancia_3m": 3.19
         },
         "valuation": {
-            "p_vpa": 0.99,
+            "p_vpa": 0.95,
             "p_vpa_med": 0.88,
-            "price": 86.07,
-            "valuation": 73.33
+            "price": 82.71,
+            "valuation": 71.81
         }
     },
     "ticker": "JRDM11",
@@ -13686,6 +13857,10 @@
         {
             "competencia": "2/2022",
             "total": 3.19
+        },
+        {
+            "competencia": "3/2022",
+            "total": 1.03
         }
     ]
 }

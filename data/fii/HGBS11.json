@@ -3,59 +3,59 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 2.9382
+            "precentual": 8.8645
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 9.1136
+            "precentual": 3.1203
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 6.2838
+            "precentual": 3.5595
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 3.9841
+            "precentual": 5.6894
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 2.9478
+            "precentual": 13.9715
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 6.0323
+            "precentual": 1.5815
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 7.3693
+            "precentual": 4.6865
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 3.175
+            "precentual": 6.0129
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 4.3544
+            "precentual": 3.9829
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 7.8089
+            "precentual": 2.8738
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 3.033
+            "precentual": 1.6687
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 1.8249
+            "precentual": 1.8838
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 37.6921
+            "precentual": 39.7863
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 3.4426
+            "precentual": 2.3184
         }
     ],
     "cri": [],
@@ -439,87 +439,92 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 1.35
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 1.35
         }
     ],
     "fii": [
         {
             "nome": "FDO INV IMOB GRAND PLAZA SHOPPING",
             "quantidade": 922997.0,
-            "valor": 64332890.9
+            "valor": 67941809.17
         },
         {
             "nome": "HEDGE ATRIUM SHOPPING SANTO ANDRE FII",
             "quantidade": 2719.0,
-            "valor": 241175.3
+            "valor": 217601.57
         },
         {
             "nome": "FDO INV IMOB - FII BTG PACTUAL FUNDO DE CRI",
             "quantidade": 170185.0,
-            "valor": 14772058.0
+            "valor": 15044354.0
         },
         {
             "nome": "GENERAL SHOPPING ATIVO E RENDA FII",
             "quantidade": 156041.0,
-            "valor": 7391662.17
+            "valor": 8831920.6
         },
         {
             "nome": "FDO INV IMOB - FII FLORIPA SHOPPING",
-            "quantidade": 40179.0,
-            "valor": 57456371.79
+            "quantidade": 35743.0,
+            "valor": 56794912.14
         },
         {
             "nome": "FDO INV IMOB VIA PARQUE SHOPPING - FII",
             "quantidade": 347208.0,
-            "valor": 40046970.72
+            "valor": 41102483.04
         },
         {
             "nome": "HABITAT II - FDO INV IMOB",
             "quantidade": 1852.0,
-            "valor": 188718.8
+            "valor": 174143.56
         },
         {
             "nome": "CSHG RECEB\u00cdVEIS IMOBILI\u00c1RIOS FII - FII",
             "quantidade": 600654.0,
-            "valor": 63356983.92
+            "valor": 62894480.34
         },
         {
             "nome": "HEDGE SHOPPING PARQUE DOM PEDRO FII",
             "quantidade": 2853316.0,
-            "valor": 235284437.36
+            "valor": 236197498.48
         },
         {
             "nome": "FDO INV IMOB - FII SHOPPING JARDIM SUL",
-            "quantidade": 1010694.0,
-            "valor": 78136753.14
+            "quantidade": 1087762.0,
+            "valor": 94058780.14
         },
         {
             "nome": "KINEA RENDIMENTOS IMOBILI\u00c1RIOS FII - FII",
-            "quantidade": 104501.0,
-            "valor": 10654921.96
+            "quantidade": 12822.0,
+            "valor": 1312972.8
         },
         {
             "nome": "FDO INV. MAUA CAPITAL RECEBIVEIS IMOB. - FII",
             "quantidade": 434601.0,
-            "valor": 42503977.8
+            "valor": 42330137.4
         },
         {
             "nome": "FII - FII PARQUE D. PEDRO SHOPPING CENTER",
-            "quantidade": 194.0,
-            "valor": 387612.0
+            "quantidade": 203.0,
+            "valor": 481516.0
         },
         {
             "nome": "SANTANDER PAPEIS IMOB CDI FDO INV IMOB",
             "quantidade": 33110.0,
-            "valor": 3021949.7
+            "valor": 3009699.0
         },
         {
             "nome": "SHOPPING WEST PLAZA FDO INV IMOB",
-            "quantidade": 643587.0,
-            "valor": 46331828.13
+            "quantidade": 643616.0,
+            "valor": 49391091.84
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 1.842,
+    "ifix_participacao": 1.78,
     "imr": [
         {
             "ativo": 1182927187.09,
@@ -1417,20 +1422,33 @@
             "patrimonio_liquido": 2183678333.71,
             "receita_aluguel": 13193266.88,
             "valor_patrimonio_cotas": 218.367833
+        },
+        {
+            "ativo": 2214939159.15,
+            "caixa": 26560010.79,
+            "competencia": "10/2022",
+            "cotas_emitidas": 10000000.0,
+            "cotistas": 91718,
+            "despesa_administracao": 1002209.1,
+            "dy": 0.6182,
+            "numero_cotas": 10000000.0,
+            "patrimonio_liquido": 2183462086.61,
+            "receita_aluguel": 13583510.01,
+            "valor_patrimonio_cotas": 218.346209
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 30.9069
+            "precentual": 28.7354
         },
         {
             "indexador": "INPC",
-            "precentual": 0.1142
+            "precentual": 0.1334
         },
         {
             "indexador": "IPCA",
-            "precentual": 44.6564
+            "precentual": 35.5845
         },
         {
             "indexador": "INCC",
@@ -1438,14 +1456,14 @@
         },
         {
             "indexador": "IPC",
-            "precentual": 1.9847
+            "precentual": 2.0657
         },
         {
             "indexador": "IGP-DI",
-            "precentual": 22.3378
+            "precentual": 33.481
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRHGBSCTF000",
     "lci": [],
     "mandato": "Renda",
@@ -14763,6 +14781,15 @@
             "volume": 9202076890000
         },
         {
+            "change": -81.459561,
+            "close": 295.72,
+            "date": "2019-12-26",
+            "max": 298.65,
+            "min": 295.17,
+            "open": 297.97,
+            "volume": 11700780760000
+        },
+        {
             "change": -81.418809,
             "close": 296.37,
             "date": "2019-12-27",
@@ -14773,12 +14800,21 @@
         },
         {
             "change": -81.19185,
-            "close": 299.98999,
+            "close": 299.99,
             "date": "2019-12-30",
-            "max": 299.98999,
-            "min": 296.700012,
+            "max": 299.99,
+            "min": 296.7,
             "open": 297.5,
-            "volume": 18343000000
+            "volume": 5468216970000
+        },
+        {
+            "change": -81.128527,
+            "close": 301.0,
+            "date": "2020-01-02",
+            "max": 306.99,
+            "min": 299.0,
+            "open": 299.97,
+            "volume": 7353869680000
         },
         {
             "change": -81.104075,
@@ -21043,6 +21079,132 @@
             "min": 209.01,
             "open": 209.69,
             "volume": 1487014300000
+        },
+        {
+            "change": -86.873981,
+            "close": 209.36,
+            "date": "2022-10-20",
+            "max": 210.88,
+            "min": 209.01,
+            "open": 210.76,
+            "volume": 2170119740000
+        },
+        {
+            "change": -86.865831,
+            "close": 209.49,
+            "date": "2022-10-21",
+            "max": 210.3,
+            "min": 209.02,
+            "open": 209.6,
+            "volume": 1640492970000
+        },
+        {
+            "change": -87.021944,
+            "close": 207.0,
+            "date": "2022-10-24",
+            "max": 211.95,
+            "min": 207.0,
+            "open": 209.19,
+            "volume": 2750460230000
+        },
+        {
+            "change": -86.941693,
+            "close": 208.28,
+            "date": "2022-10-25",
+            "max": 210.99,
+            "min": 206.7,
+            "open": 207.1,
+            "volume": 1562286380000
+        },
+        {
+            "change": -86.895925,
+            "close": 209.01,
+            "date": "2022-10-26",
+            "max": 210.12,
+            "min": 208.42,
+            "open": 208.5,
+            "volume": 2024480250000
+        },
+        {
+            "change": -86.840125,
+            "close": 209.9,
+            "date": "2022-10-27",
+            "max": 211.94,
+            "min": 207.6,
+            "open": 209.1,
+            "volume": 2039040980000
+        },
+        {
+            "change": -86.827586,
+            "close": 210.1,
+            "date": "2022-10-28",
+            "max": 210.84,
+            "min": 208.03,
+            "open": 209.9,
+            "volume": 1085650130000
+        },
+        {
+            "change": -86.929781,
+            "close": 208.47,
+            "date": "2022-10-31",
+            "max": 210.0,
+            "min": 207.12,
+            "open": 210.0,
+            "volume": 2013022020000
+        },
+        {
+            "change": -86.959875,
+            "close": 207.99,
+            "date": "2022-11-01",
+            "max": 208.4,
+            "min": 206.22,
+            "open": 207.5,
+            "volume": 1958445900000
+        },
+        {
+            "change": -86.990596,
+            "close": 207.5,
+            "date": "2022-11-03",
+            "max": 208.36,
+            "min": 206.7,
+            "open": 207.99,
+            "volume": 1141309040000
+        },
+        {
+            "change": -86.99185,
+            "close": 207.48,
+            "date": "2022-11-04",
+            "max": 208.0,
+            "min": 206.25,
+            "open": 207.99,
+            "volume": 1753643420000
+        },
+        {
+            "change": -87.109091,
+            "close": 205.61,
+            "date": "2022-11-07",
+            "max": 207.6,
+            "min": 205.55,
+            "open": 207.48,
+            "volume": 2048615990000
+        },
+        {
+            "change": -87.208777,
+            "close": 204.02,
+            "date": "2022-11-08",
+            "max": 206.24,
+            "min": 202.25,
+            "open": 205.61,
+            "volume": 1457492880000
+        },
+        {
+            "change": -87.272727,
+            "close": 203.0,
+            "date": "2022-11-09",
+            "max": 205.0,
+            "min": 203.0,
+            "open": 204.02,
+            "volume": 1480508030000
         }
     ],
     "propriedades": [
@@ -21051,178 +21213,178 @@
             "cidade": "87,5628% R Dr. Jo\u00e3o Ribeiro, 304Penha de Fran\u00e7a, S\u00e3o Paulo",
             "endereco": "Shopping Center Penha - 87,5628% R Dr. Jo\u00e3o Ribeiro, 304 - Penha de Fran\u00e7a, S\u00e3o Paulo - SP \n                \u00c1rea (m2):\n                29.898,72 \n                N\u00ba de unidades ou lojas:\n                169 -",
             "estado": "SP",
-            "inadimplencia": 6.0055,
+            "inadimplencia": 1.4236,
             "nome": "Shopping Center Penha - 87,5628% R Dr. Jo\u00e3o Ribeiro, 304 - Penha de Fran\u00e7a, S\u00e3o Paulo - SP \n                \u00c1rea (m2):\n                29.898,72 \n                N\u00ba de unidades ou lojas:\n                169 -",
             "unidades": 169,
-            "vacancia": 4.6811
+            "vacancia": 4.9585
         },
         {
             "area": 25665.21,
             "cidade": "59% Av. Santa Barbara, 777Vila Mollon IV, Santa B\u00e1rbara D'Oeste",
             "endereco": "Av. Santa Barbara, 777",
             "estado": "SP",
-            "inadimplencia": 1.5285,
+            "inadimplencia": -0.0257,
             "nome": "Tivoli Shopping - 59% Santa Barbara, 777 - Mollon IV, Santa B\u00e1rbara D'Oeste - SP \n                \u00c1rea (m2):\n                25.665,21 \n                N\u00ba de unidades ou lojas:\n                143 -",
             "unidades": 143,
-            "vacancia": 0.9633
+            "vacancia": 0.7064
         },
         {
             "area": 42066.42,
             "cidade": "20% Rua Cap. Pacheco e Chaves, 313Mooca, S\u00e3o Paulo",
             "endereco": "Rua Cap",
             "estado": "SP",
-            "inadimplencia": -1.4579,
+            "inadimplencia": -2.5487,
             "nome": "Mooca Plaza Shopping - 20% Cap. Pacheco e Chaves, 313 - Mooca, S\u00e3o Paulo - SP \n                \u00c1rea (m2):\n                42.066,42 \n                N\u00ba de unidades ou lojas:\n                217 -",
             "unidades": 217,
-            "vacancia": 1.9922
+            "vacancia": 1.4031
         },
         {
             "area": 42859.0,
             "cidade": "35% Av. Rotary, 624Centro, S\u00e3o Bernardo do Campo",
             "endereco": "Av. Rotary, 624",
             "estado": "SP",
-            "inadimplencia": 5.0108,
+            "inadimplencia": 5.0447,
             "nome": "S\u00e3o Bernardo Plaza Shopping - 35% Rotary, 624 - Centro, S\u00e3o Bernardo do Campo - SP \n                \u00c1rea (m2):\n                42.859,00 \n                N\u00ba de unidades ou lojas:\n                188 -",
             "unidades": 188,
-            "vacancia": 3.3976
+            "vacancia": 3.9695
         },
         {
             "area": 20048.41,
             "cidade": "49% BR116, 236Rio Branco, Novo Hamburgo",
             "endereco": "I Fashion Outlet - 49% BR-116, 236 - Rio Branco, Novo Hamburgo - RS \n                \u00c1rea (m2):\n                20.048,41 \n                N\u00ba de unidades ou lojas:\n                92 -",
             "estado": "RS",
-            "inadimplencia": 2.3039,
+            "inadimplencia": 1.3354,
             "nome": "I Fashion Outlet - 49% BR-116, 236 - Rio Branco, Novo Hamburgo - RS \n                \u00c1rea (m2):\n                20.048,41 \n                N\u00ba de unidades ou lojas:\n                92 -",
             "unidades": 92,
-            "vacancia": 1.6832
+            "vacancia": 5.1083
         },
         {
             "area": 26292.0,
             "cidade": "53,99% Av. Jos\u00e9 Monteiro Figueiredo, 500Duque de Caxias, Cuiab\u00e1",
             "endereco": "Av. Jos\u00e9 Monteiro Figueiredo, 500",
             "estado": "MT",
-            "inadimplencia": 32.6445,
+            "inadimplencia": 33.7676,
             "nome": "Goiabeiras Shopping - 53,99% Jos\u00e9 Monteiro Figueiredo, 500 - Duque de Caxias, Cuiab\u00e1 - MT \n                \u00c1rea (m2):\n                26.292,00 \n                N\u00ba de unidades ou lojas:\n                193 -",
             "unidades": 193,
-            "vacancia": 24.9429
+            "vacancia": 24.1236
         },
         {
             "area": 26565.45,
             "cidade": "15% Rua Conselheiro Moreira de Barros, 2.780, S\u00e3o Paulo",
             "endereco": "Rua Conselheiro Moreira de Barros, 2",
             "estado": "SP",
-            "inadimplencia": 3.6477,
-            "nome": "Santana Parque Shopping - 15% Conselheiro Moreira de Barros, 2.780, S\u00e3o Paulo - SP \n                \u00c1rea (m2):\n                26.565,45 \n                N\u00ba de unidades ou lojas:\n                163 -",
-            "unidades": 163,
-            "vacancia": 4.9835
+            "inadimplencia": 1.767,
+            "nome": "Santana Parque Shopping - 15% Conselheiro Moreira de Barros, 2.780, S\u00e3o Paulo - SP \n                \u00c1rea (m2):\n                26.565,45 \n                N\u00ba de unidades ou lojas:\n                165 -",
+            "unidades": 165,
+            "vacancia": 5.0818
         },
         {
-            "area": 24537.56,
-            "cidade": "15% Rua Sete de Setembro, 555Suzano",
-            "endereco": "Rua Sete de Setembro, 555",
+            "area": 24533.39,
+            "cidade": "15% Rua Sete de Setembro, 555 , Suzano",
+            "endereco": "Rua Sete de Setembro, 555 , Suzano",
             "estado": "SP",
-            "inadimplencia": 2.9086,
-            "nome": "Suzano Shopping - 15% Sete de Setembro, 555 - Suzano - SP \n                \u00c1rea (m2):\n                24.537,56 \n                N\u00ba de unidades ou lojas:\n                131 -",
-            "unidades": 131,
-            "vacancia": 2.5127
+            "inadimplencia": -2.722,
+            "nome": "Suzano Shopping - 15% Sete de Setembro, 555 , Suzano - SP \n                \u00c1rea (m2):\n                24.533,39 \n                N\u00ba de unidades ou lojas:\n                130 -",
+            "unidades": 130,
+            "vacancia": 2.2608
         },
         {
             "area": 36780.27,
-            "cidade": "70% Av. Francisco Matarazzo s",
-            "endereco": "Av. Francisco Matarazzo s/n, Bloco B, S\u00e3o Paulo, SP \n                \u00c1rea",
+            "cidade": "70% Av. Francisco Matarazzo sn, Bloco B, S\u00e3o Paulo",
+            "endereco": "Av. Francisco Matarazzo s/n, Bloco B, S\u00e3o Paulo",
             "estado": "SP",
-            "inadimplencia": 16.7886,
-            "nome": "Shopping West Plaza - 70% Francisco Matarazzo s/n, Bloco B, S\u00e3o Paulo, SP \n                \u00c1rea (m2):\n                36.780,27 \n                N\u00ba de unidades ou lojas:\n                173 -",
+            "inadimplencia": 11.7672,
+            "nome": "Shopping West Plaza - 70% Francisco Matarazzo s/n, Bloco B, S\u00e3o Paulo - SP \n                \u00c1rea (m2):\n                36.780,27 \n                N\u00ba de unidades ou lojas:\n                173 -",
             "unidades": 173,
-            "vacancia": 11.6191
+            "vacancia": 11.57
         },
         {
-            "area": 28285.98,
+            "area": 28228.98,
             "cidade": "15% Av. das Na\u00e7\u00f5es Unidas, 4777, S\u00e3o Paulo",
             "endereco": "Av. das Na\u00e7\u00f5es Unidas, 4777, S\u00e3o Paulo",
             "estado": "SP",
-            "inadimplencia": 4.2789,
-            "nome": "Shopping Villa Lobos - 15% das Na\u00e7\u00f5es Unidas, 4777, S\u00e3o Paulo - SP \n                \u00c1rea (m2):\n                28.285,98 \n                N\u00ba de unidades ou lojas:\n                216 -",
-            "unidades": 216,
-            "vacancia": 2.1058
+            "inadimplencia": 1.8787,
+            "nome": "Shopping Villa Lobos - 15% das Na\u00e7\u00f5es Unidas, 4777, S\u00e3o Paulo - SP \n                \u00c1rea (m2):\n                28.228,98 \n                N\u00ba de unidades ou lojas:\n                218 -",
+            "unidades": 218,
+            "vacancia": 2.5281
         },
         {
             "area": 18651.32,
             "cidade": "0,3673897836% Av. Rio Negro, 1.100, Franca",
             "endereco": "Av. Rio Negro, 1",
             "estado": "SP",
-            "inadimplencia": 4.7305,
-            "nome": "Franca Shopping - 0,3673897836% Rio Negro, 1.100, Franca - SP \n                \u00c1rea (m2):\n                18.651,32 \n                N\u00ba de unidades ou lojas:\n                97 -",
-            "unidades": 97,
-            "vacancia": 0.7774
+            "inadimplencia": 3.2885,
+            "nome": "Franca Shopping - 0,3673897836% Rio Negro, 1.100, Franca - SP \n                \u00c1rea (m2):\n                18.651,32 \n                N\u00ba de unidades ou lojas:\n                96 -",
+            "unidades": 96,
+            "vacancia": 0.5517
         },
         {
             "area": 30127.77,
             "cidade": "23,06% Rua Manoel da Nobrega, 712, Centro, Diadema",
             "endereco": "Pra\u00e7a da Mo\u00e7a",
             "estado": "SP",
-            "inadimplencia": 3.3129,
+            "inadimplencia": 2.9848,
             "nome": "Shopping",
             "unidades": 138,
-            "vacancia": 1.1544
+            "vacancia": 1.1973
         }
     ],
     "segmento": "Shoppings",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.11,
-            "cagr_ativo_1": 0.04,
-            "cagr_patrimonio_liquido": 0.03,
-            "cagr_vpa_1": 0.03,
-            "cagr_vpa_3": -0.01,
-            "cmgr_alugeis_6m": 0.01
+            "cagr_alugeis_1": -0.31,
+            "cagr_ativo_1": 0.02,
+            "cagr_patrimonio_liquido": 0.02,
+            "cagr_vpa_1": 0.02,
+            "cagr_vpa_3": -0.03,
+            "cmgr_alugeis_6m": -0.03
         },
         "dividends": {
-            "cagr_dividens_1": 0.35,
+            "cagr_dividens_1": 0.29,
             "cagr_dividens_3": -0.01,
-            "cagr_dy_1": -0.39,
+            "cagr_dy_1": -0.38,
             "cagr_dy_3": -0.15,
             "cagr_dy_5": -0.09,
-            "dy": 6.22
+            "dy": 6.34
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.16,
-                "dy": 5.16
+                "cagr_dy_3": -0.17,
+                "dy": 5.24
             },
             "mercado": {
-                "custo_adm_med": 236677.22,
-                "liquidez_med": 574772111428.57
+                "custo_adm_med": 237341.59,
+                "liquidez_med": 575574112380.95
             },
             "operacao": {
-                "patrimonio_liquido": 661924718.57,
-                "pl_cx": 2.02,
-                "vacancia": 7.89
+                "patrimonio_liquido": 663251512.39,
+                "pl_cx": 2.77,
+                "vacancia": 7.06
             },
             "valuation": {
-                "p_vpa_med": 0.78
+                "p_vpa_med": 0.74
             }
         },
         "mercado": {
-            "custo_adm_med": 942990.26,
-            "ifix": 1.842,
-            "liquidez_med": 1261506400000
+            "custo_adm_med": 944387.79,
+            "ifix": 1.78,
+            "liquidez_med": 1266958130000
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 3,
             "imoveis": 12,
-            "patrimonio_liquido": 2183678333.71,
-            "pl_cx": 1.09,
-            "vacancia": 5.16,
-            "vacancia_1": 5.09,
-            "vacancia_3m": 5.17
+            "patrimonio_liquido": 2183462086.61,
+            "pl_cx": 1.22,
+            "vacancia": 5.31,
+            "vacancia_1": 4.48,
+            "vacancia_3m": 5.16
         },
         "valuation": {
-            "p_vpa": 0.96,
+            "p_vpa": 0.93,
             "p_vpa_med": 1.29,
-            "price": 209.5,
-            "valuation": 163.24
+            "price": 203.0,
+            "valuation": 161.38
         }
     },
     "ticker": "HGBS11",
@@ -21318,6 +21480,10 @@
         {
             "competencia": "02/2022",
             "total": 5.16
+        },
+        {
+            "competencia": "03/2022",
+            "total": 5.31
         }
     ]
 }

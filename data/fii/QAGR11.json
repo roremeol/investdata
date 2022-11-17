@@ -47,11 +47,11 @@
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 0.0
+            "precentual": 36.3069
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 100.0
+            "precentual": 63.6931
         },
         {
             "prazo": "Prazo indeterminado",
@@ -229,22 +229,27 @@
             "data_com": "2022-10-03T00:00:00",
             "data_pagamento": "2022-10-10T00:00:00",
             "provento": 0.41
+        },
+        {
+            "data_com": "2022-11-01T00:00:00",
+            "data_pagamento": "2022-11-09T00:00:00",
+            "provento": 0.41
         }
     ],
     "fii": [
         {
             "nome": "FATOR VERITA FUNDO DE INVESTIMENTO",
             "quantidade": 2710.0,
-            "valor": 265038.0
+            "valor": 258913.4
         },
         {
             "nome": "KINEA INDICES DE PRECOS FI IMOBILIA",
             "quantidade": 73450.0,
-            "valor": 7432405.5
+            "valor": 6713330.0
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 0.207,
+    "ifix_participacao": 0.211,
     "imr": [
         {
             "ativo": 485166359.61,
@@ -739,6 +744,19 @@
             "patrimonio_liquido": 281414121.0,
             "receita_aluguel": 1492078.86,
             "valor_patrimonio_cotas": 55.836135
+        },
+        {
+            "ativo": 288689346.88,
+            "caixa": 4336100.07,
+            "competencia": "10/2022",
+            "cotas_emitidas": 5040000.0,
+            "cotistas": 25359,
+            "despesa_administracao": 197205.4,
+            "dy": 0.7093,
+            "numero_cotas": 5040000.0,
+            "patrimonio_liquido": 281721999.7,
+            "receita_aluguel": 1669681.62,
+            "valor_patrimonio_cotas": 55.897222
         }
     ],
     "indexador_reajuste_contrato": [
@@ -759,7 +777,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRQAGRCTF005",
     "lci": [],
     "mandato": "Renda",
@@ -1018,6 +1036,15 @@
             "volume": 5767283640000
         },
         {
+            "change": 7.421875,
+            "close": 110.0,
+            "date": "2019-12-26",
+            "max": 111.99,
+            "min": 109.01,
+            "open": 110.11,
+            "volume": 5205876790000
+        },
+        {
             "change": 12.597656,
             "close": 115.3,
             "date": "2019-12-27",
@@ -1025,6 +1052,24 @@
             "min": 110.0,
             "open": 110.41,
             "volume": 3236395680000
+        },
+        {
+            "change": 20.117187,
+            "close": 123.0,
+            "date": "2019-12-30",
+            "max": 123.0,
+            "min": 111.03,
+            "open": 116.0,
+            "volume": 4147126880000
+        },
+        {
+            "change": 15.869141,
+            "close": 118.65,
+            "date": "2020-01-02",
+            "max": 122.5,
+            "min": 116.0,
+            "open": 122.0,
+            "volume": 3248041290000
         },
         {
             "change": 14.746094,
@@ -7289,12 +7334,138 @@
             "min": 46.76,
             "open": 46.77,
             "volume": 276936600000
+        },
+        {
+            "change": -54.306641,
+            "close": 46.79,
+            "date": "2022-10-20",
+            "max": 47.0,
+            "min": 46.61,
+            "open": 46.89,
+            "volume": 285398750000
+        },
+        {
+            "change": -54.316406,
+            "close": 46.78,
+            "date": "2022-10-21",
+            "max": 46.88,
+            "min": 46.5,
+            "open": 46.79,
+            "volume": 394458020000
+        },
+        {
+            "change": -53.935547,
+            "close": 47.17,
+            "date": "2022-10-24",
+            "max": 47.28,
+            "min": 46.55,
+            "open": 46.86,
+            "volume": 416766700000
+        },
+        {
+            "change": -54.121094,
+            "close": 46.98,
+            "date": "2022-10-25",
+            "max": 47.39,
+            "min": 46.83,
+            "open": 47.17,
+            "volume": 249297360000
+        },
+        {
+            "change": -54.130859,
+            "close": 46.97,
+            "date": "2022-10-26",
+            "max": 47.14,
+            "min": 46.56,
+            "open": 46.89,
+            "volume": 335232380000
+        },
+        {
+            "change": -54.101563,
+            "close": 47.0,
+            "date": "2022-10-27",
+            "max": 47.2,
+            "min": 46.56,
+            "open": 46.96,
+            "volume": 316855920000
+        },
+        {
+            "change": -54.101563,
+            "close": 47.0,
+            "date": "2022-10-28",
+            "max": 47.49,
+            "min": 46.7,
+            "open": 47.0,
+            "volume": 363429840000
+        },
+        {
+            "change": -53.417969,
+            "close": 47.7,
+            "date": "2022-10-31",
+            "max": 47.7,
+            "min": 46.52,
+            "open": 46.71,
+            "volume": 394752470000
+        },
+        {
+            "change": -53.466797,
+            "close": 47.65,
+            "date": "2022-11-01",
+            "max": 47.69,
+            "min": 46.81,
+            "open": 47.56,
+            "volume": 379578300000
+        },
+        {
+            "change": -54.101563,
+            "close": 47.0,
+            "date": "2022-11-03",
+            "max": 47.24,
+            "min": 46.52,
+            "open": 47.24,
+            "volume": 1971403600000
+        },
+        {
+            "change": -54.423828,
+            "close": 46.67,
+            "date": "2022-11-04",
+            "max": 47.09,
+            "min": 46.65,
+            "open": 46.99,
+            "volume": 210409030000
+        },
+        {
+            "change": -54.101563,
+            "close": 47.0,
+            "date": "2022-11-07",
+            "max": 47.0,
+            "min": 46.67,
+            "open": 46.68,
+            "volume": 273398740000
+        },
+        {
+            "change": -54.101563,
+            "close": 47.0,
+            "date": "2022-11-08",
+            "max": 47.22,
+            "min": 46.69,
+            "open": 46.98,
+            "volume": 271071200000
+        },
+        {
+            "change": -54.042969,
+            "close": 47.06,
+            "date": "2022-11-09",
+            "max": 47.22,
+            "min": 46.67,
+            "open": 46.79,
+            "volume": 326177510000
         }
     ],
     "propriedades": [
         {
             "area": 12873.36,
-            "cidade": "Silo Bela Vista do Paraiso Rodovia Pr 537, Km 0.3,  Bela Vista Do ParaisoPR, Brasil, 86130000 \n                \u00c1rea (m2):\n                12.873,36 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "cidade": "Silo Bela Vista do Paraiso Rodovia Pr 537, Km 0.3, Sem Complemento, , Bela Vista Do ParaisoPR, Brasil, 86130000 \n                \u00c1rea (m2):\n                12.873,36 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "endereco": "Rodovia Pr 537, Km 0",
             "estado": "PR",
             "inadimplencia": 0.0,
@@ -7304,18 +7475,18 @@
         },
         {
             "area": 8927.91,
-            "cidade": "Seccao Balsamo Km 186, Sn, AssaiPR, Brasil, 86220",
-            "endereco": "Silo Assai - Seccao Balsamo Km 186, S/n, Assai/PR, Brasil, 86220-000 \n                \u00c1rea (m2):\n                8.927,91 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "cidade": "Seccao Balsamo Km 186, Sn, Sem Complemento, , AssaiPR, Brasil, 86220",
+            "endereco": "Silo Assai - Seccao Balsamo Km 186, S/n, Sem Complemento, , Assai/PR, Brasil, 86220-000 \n                \u00c1rea (m2):\n                8.927,91 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "estado": "PR",
             "inadimplencia": 0.0,
-            "nome": "Silo Assai - Seccao Balsamo Km 186, S/n, Assai/PR, Brasil, 86220-000 \n                \u00c1rea (m2):\n                8.927,91 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Silo Assai - Seccao Balsamo Km 186, S/n, Sem Complemento, , Assai/PR, Brasil, 86220-000 \n                \u00c1rea (m2):\n                8.927,91 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 3051.51,
-            "cidade": "Silo Sabaudia Rodovia Pr 218, Km 12,  Gleba Patr. Sab\u00e1udia, SabaudiaPR, Brasil, 86720000 \n                \u00c1rea (m2):\n                3.051,51 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Rodovia Pr 218, Km 12,  Gleba Patr",
+            "cidade": "Silo Sabaudia Rodovia Pr 218, Km 12, Sem Complemento, Gleba Patr. Sab\u00e1udia, SabaudiaPR, Brasil, 86720000 \n                \u00c1rea (m2):\n                3.051,51 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Rodovia Pr 218, Km 12, Sem Complemento, Gleba Patr",
             "estado": "PR",
             "inadimplencia": 0.0,
             "nome": "Silo Sabaudia",
@@ -7324,8 +7495,8 @@
         },
         {
             "area": 14071.98,
-            "cidade": "Silo Cambe Avenida Jose Bonifacio, 769,  Vila Atalaia, CambePR, Brasil, 86181570 \n                \u00c1rea (m2):\n                14.071,98 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Avenida Jose Bonifacio, 769,  Vila Atalaia, Cambe/PR, Brasil, 86181",
+            "cidade": "Silo Cambe Avenida Jose Bonifacio, 769, Sem Complemento, Vila Atalaia, CambePR, Brasil, 86181570 \n                \u00c1rea (m2):\n                14.071,98 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Avenida Jose Bonifacio, 769, Sem Complemento, Vila Atalaia, Cambe/PR, Brasil, 86181",
             "estado": "PR",
             "inadimplencia": 0.0,
             "nome": "Silo Cambe",
@@ -7334,11 +7505,11 @@
         },
         {
             "area": 4793.5,
-            "cidade": "Silo Campo Ere Linha Agroisa, Sn, Nas Margens Da Rodovia Sc 305, Sn,  Campo EreSC, Brasil, 89980000 \n                \u00c1rea (m2):\n                4.793,50 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Rodovia Sc 305, S/n,  Campo Ere/SC, Brasil, 89980",
+            "cidade": "Silo Campo Ere Linha Agroisa, Sn, Nas Margens Da Rodovia Sc 305, Sn, Sem Complemento, , Campo EreSC, Brasil, 89980000 \n                \u00c1rea (m2):\n                4.793,50 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Rodovia Sc 305, S/n, Sem Complemento, , Campo Ere/SC, Brasil, 89980",
             "estado": "SC",
             "inadimplencia": 0.0,
-            "nome": "Silo Campo Ere Linha Agroisa, S/n, Nas Margens Da Sc 305, S/n,  Campo Ere/SC, Brasil, 89980-000 \n                \u00c1rea (m2):\n                4.793,50 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Silo Campo Ere Linha Agroisa, S/n, Nas Margens Da Sc 305, S/n, Sem Complemento, , Campo Ere/SC, Brasil, 89980-000 \n                \u00c1rea (m2):\n                4.793,50 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -7354,8 +7525,8 @@
         },
         {
             "area": 5933.78,
-            "cidade": "Filial Medianeira Rua Goias, 540,  Nazar\u00e9, MedianeiraPR, Brasil, 85884000 \n                \u00c1rea (m2):\n                5.933,78 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Rua Goias, 540,  Nazar\u00e9, Medianeira/PR, Brasil, 85884",
+            "cidade": "Filial Medianeira Rua Goias, 540, Sem Complemento, Nazar\u00e9, MedianeiraPR, Brasil, 85884000 \n                \u00c1rea (m2):\n                5.933,78 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Rua Goias, 540, Sem Complemento, Nazar\u00e9, Medianeira/PR, Brasil, 85884",
             "estado": "PR",
             "inadimplencia": 0.0,
             "nome": "Filial Medianeira",
@@ -7364,8 +7535,8 @@
         },
         {
             "area": 9112.0,
-            "cidade": "Filial Francisco Beltrao Rua Barra Mansa, Sn, Pinheirinho, Francisco BeltraoPR, Brasil, 85603260 \n                \u00c1rea (m2):\n                9.112,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Rua Barra Mansa, S/n, Pinheirinho, Francisco Beltrao/PR, Brasil, 85603",
+            "cidade": "Filial Francisco Beltrao Rua Barra Mansa, Sn, Sem Complemento, Pinheirinho, Francisco BeltraoPR, Brasil, 85603260 \n                \u00c1rea (m2):\n                9.112,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Rua Barra Mansa, S/n, Sem Complemento, Pinheirinho, Francisco Beltrao/PR, Brasil, 85603",
             "estado": "PR",
             "inadimplencia": 0.0,
             "nome": "Filial Francisco Beltrao",
@@ -7374,8 +7545,8 @@
         },
         {
             "area": 8386.77,
-            "cidade": "Silo Uberlandia Anel Viario Ayrton Senna, 2000, Distrito Industrial, UberlandiaMG, Brasil, 38402329 \n                \u00c1rea (m2):\n                8.386,77 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Viario Ayrton Senna, 2000, Distrito Industrial, Uberlandia/MG, Brasil, 38402",
+            "cidade": "Silo Uberlandia Anel Viario Ayrton Senna, 2000, Sem Complemento, Distrito Industrial, UberlandiaMG, Brasil, 38402329 \n                \u00c1rea (m2):\n                8.386,77 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Viario Ayrton Senna, 2000, Sem Complemento, Distrito Industrial, Uberlandia/MG, Brasil, 38402",
             "estado": "MG",
             "inadimplencia": 0.0,
             "nome": "Silo Uberlandia Anel",
@@ -7384,8 +7555,8 @@
         },
         {
             "area": 1842.27,
-            "cidade": "Silo Jatai Rodovia Br364, Km 203,  Setor Francisco Antonio, JataiGO, Brasil, 75801615 \n                \u00c1rea (m2):\n                1.842,27 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Rodovia Br364, Km 203,  Setor Francisco Antonio, Jatai/GO, Brasil, 75801",
+            "cidade": "Silo Jatai Rodovia Br364, Km 203, Sem Complemento, Setor Francisco Antonio, JataiGO, Brasil, 75801615 \n                \u00c1rea (m2):\n                1.842,27 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Rodovia Br364, Km 203, Sem Complemento, Setor Francisco Antonio, Jatai/GO, Brasil, 75801",
             "estado": "GO",
             "inadimplencia": 0.0,
             "nome": "Silo Jatai",
@@ -7394,8 +7565,8 @@
         },
         {
             "area": 1985.27,
-            "cidade": "Silo Nova Ponte Rodovia Mg 190, Km 72,  Nova PonteMG, Brasil, 38160000 \n                \u00c1rea (m2):\n                1.985,27 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Rodovia Mg 190, Km 72,  Nova Ponte/MG, Brasil, 38160",
+            "cidade": "Silo Nova Ponte Rodovia Mg 190, Km 72, Sem Complemento, , Nova PonteMG, Brasil, 38160000 \n                \u00c1rea (m2):\n                1.985,27 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Rodovia Mg 190, Km 72, Sem Complemento, , Nova Ponte/MG, Brasil, 38160",
             "estado": "MG",
             "inadimplencia": 0.0,
             "nome": "Silo Nova Ponte",
@@ -7404,11 +7575,11 @@
         },
         {
             "area": 8398.0,
-            "cidade": "PR Avenida Senador Attilio Fontana, 1989,  Parque Sao Joao, ParanaguaPR, Brasil, 83212",
-            "endereco": "Avenida Senador Attilio Fontana, 1989,  Parque Sao Joao, Paranagua/PR, Brasil, 83212",
+            "cidade": "PR Avenida Senador Attilio Fontana, 1989, Sem Complemento, Parque Sao Joao, ParanaguaPR, Brasil, 83212",
+            "endereco": "Avenida Senador Attilio Fontana, 1989, Sem Complemento, Parque Sao Joao, Paranagua/PR, Brasil, 83212",
             "estado": "PR",
             "inadimplencia": 0.0,
-            "nome": "Silo Paranagua - PRenida Senador Attilio Fontana, 1989,  Parque Sao Joao, Paranagua/PR, Brasil, 83212-250 \n                \u00c1rea (m2):\n                8.398,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Silo Paranagua - PRenida Senador Attilio Fontana, 1989, Sem Complemento, Parque Sao Joao, Paranagua/PR, Brasil, 83212-250 \n                \u00c1rea (m2):\n                8.398,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         }
@@ -7416,59 +7587,59 @@
     "segmento": "Outros",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.3,
+            "cagr_alugeis_1": 1.66,
             "cagr_ativo_1": -0.06,
             "cagr_patrimonio_liquido": -0.06,
             "cagr_vpa_1": -0.06,
-            "cagr_vpa_3": -0.17,
-            "cmgr_alugeis_6m": 0.04
+            "cagr_vpa_3": -0.16,
+            "cmgr_alugeis_6m": 0.02
         },
         "dividends": {
             "cagr_dividens_1": -0.59,
             "cagr_dividens_3": -0.26,
-            "cagr_dy_1": -0.24,
-            "cagr_dy_3": 0,
+            "cagr_dy_1": -0.29,
+            "cagr_dy_3": -0.11,
             "cagr_dy_5": 0,
-            "dy": 7.6
+            "dy": 7.63
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.04,
-                "dy": 7.96
+                "cagr_dy_3": -0.02,
+                "dy": 8.08
             },
             "mercado": {
-                "custo_adm_med": 130816.61,
-                "liquidez_med": 448585663333.33
+                "custo_adm_med": 131960.85,
+                "liquidez_med": 432296910147.06
             },
             "operacao": {
-                "patrimonio_liquido": 317634116.94,
-                "pl_cx": 6.52,
-                "vacancia": 1.86
+                "patrimonio_liquido": 331225030.0,
+                "pl_cx": 6.79,
+                "vacancia": 2.48
             },
             "valuation": {
-                "p_vpa_med": 0.91
+                "p_vpa_med": 0.84
             }
         },
         "mercado": {
-            "custo_adm_med": 197531.54499999998,
-            "ifix": 0.207,
-            "liquidez_med": 696461990000
+            "custo_adm_med": 197205.4,
+            "ifix": 0.211,
+            "liquidez_med": 680673830000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 4,
             "imoveis": 12,
-            "patrimonio_liquido": 281414121.0,
-            "pl_cx": 1.62,
+            "patrimonio_liquido": 281721999.7,
+            "pl_cx": 1.54,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
         },
         "valuation": {
             "p_vpa": 0.84,
-            "p_vpa_med": 0.89,
-            "price": 46.86,
-            "valuation": 53.82
+            "p_vpa_med": 0.88,
+            "price": 47.06,
+            "valuation": 51.91
         }
     },
     "ticker": "QAGR11",
@@ -7511,6 +7682,10 @@
         },
         {
             "competencia": "2/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
             "total": 0.0
         }
     ]

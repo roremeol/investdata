@@ -5,27 +5,22 @@
         {
             "nome": "Brazilian Securities",
             "quantidade": 12.0,
-            "valor": 897998.66
+            "valor": 890965.89
         },
         {
             "nome": "Gaia",
             "quantidade": 7.0,
-            "valor": 500819.96
-        },
-        {
-            "nome": "True",
-            "quantidade": 298.0,
-            "valor": 221189.01
+            "valor": 476395.12
         },
         {
             "nome": "RB Capital",
             "quantidade": 28.0,
-            "valor": 29168.27
+            "valor": 28616.81
         },
         {
             "nome": "Barigui",
             "quantidade": 488.0,
-            "valor": 315829.4
+            "valor": 302250.75
         }
     ],
     "dividends": [
@@ -188,6 +183,11 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.36
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.39
         }
     ],
     "fii": [],
@@ -1129,10 +1129,23 @@
             "patrimonio_liquido": 6234245.99,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 99.374289
+        },
+        {
+            "ativo": 6684061.71,
+            "caixa": 4529528.91,
+            "competencia": "10/2022",
+            "cotas_emitidas": 62735.0,
+            "cotistas": 67,
+            "despesa_administracao": 3471.92,
+            "dy": 0.3925,
+            "numero_cotas": 62735.0,
+            "patrimonio_liquido": 6233254.75,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 99.358488
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRVSECCTF004",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -3745,40 +3758,40 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": -0.02,
+            "cagr_ativo_1": -0.01,
             "cagr_patrimonio_liquido": -0.0,
             "cagr_vpa_1": -0.0,
             "cagr_vpa_3": -0.68,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
-            "cagr_dividens_1": -0.64,
-            "cagr_dividens_3": -0.29,
-            "cagr_dy_1": -0.03,
-            "cagr_dy_3": -0.26,
-            "cagr_dy_5": -0.28,
-            "dy": 3.82
+            "cagr_dividens_1": -0.61,
+            "cagr_dividens_3": -0.27,
+            "cagr_dy_1": -0.61,
+            "cagr_dy_3": -0.27,
+            "cagr_dy_5": 0,
+            "dy": 4.18
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.04,
-                "dy": 10.73
+                "cagr_dy_3": -0.06,
+                "dy": 10.8
             },
             "mercado": {
-                "custo_adm_med": 231034.16,
-                "liquidez_med": 792177073119.66
+                "custo_adm_med": 232835.76,
+                "liquidez_med": 735204290847.46
             },
             "operacao": {
-                "patrimonio_liquido": 548089731.91,
-                "pl_cx": 8.01,
-                "vacancia": 0.72
+                "patrimonio_liquido": 555876695.52,
+                "pl_cx": 9.46,
+                "vacancia": 0.71
             },
             "valuation": {
-                "p_vpa_med": 1.01
+                "p_vpa_med": 0.84
             }
         },
         "mercado": {
-            "custo_adm_med": 112797.26000000001,
+            "custo_adm_med": 112658.0,
             "ifix": 0,
             "liquidez_med": 3470000000
         },
@@ -3786,8 +3799,8 @@
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 6234245.99,
-            "pl_cx": 53.1,
+            "patrimonio_liquido": 6233254.75,
+            "pl_cx": 72.67,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
@@ -3796,7 +3809,7 @@
             "p_vpa": 0.5,
             "p_vpa_med": 0.08,
             "price": 50.01,
-            "valuation": 51.6
+            "valuation": 50.44
         }
     },
     "ticker": "VSEC11",

@@ -239,11 +239,16 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.3
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.3
         }
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.28,
+    "ifix_participacao": 0.25,
     "imr": [
         {
             "ativo": 718511295.9,
@@ -686,6 +691,19 @@
             "patrimonio_liquido": 553458369.85,
             "receita_aluguel": 4765913.6,
             "valor_patrimonio_cotas": 75.648638
+        },
+        {
+            "ativo": 1005921441.4,
+            "caixa": 7930776.38,
+            "competencia": "10/2022",
+            "cotas_emitidas": 7316171.0,
+            "cotistas": 70082,
+            "despesa_administracao": 241110.21,
+            "dy": 0.3966,
+            "numero_cotas": 7316171.0,
+            "patrimonio_liquido": 546735173.05,
+            "receita_aluguel": 1753967.72,
+            "valor_patrimonio_cotas": 74.729688
         }
     ],
     "indexador_reajuste_contrato": [
@@ -704,13 +722,9 @@
         {
             "indexador": "INCC",
             "precentual": 0.0
-        },
-        {
-            "indexador": "Vago",
-            "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRXPPRCTF000",
     "lci": [],
     "mandato": "Renda",
@@ -816,6 +830,15 @@
             "volume": 5819434500000
         },
         {
+            "change": 14.222222,
+            "close": 118.22,
+            "date": "2019-12-26",
+            "max": 120.0,
+            "min": 116.2,
+            "open": 116.2,
+            "volume": 5902435270000
+        },
+        {
             "change": 15.458937,
             "close": 119.5,
             "date": "2019-12-27",
@@ -823,6 +846,24 @@
             "min": 118.9,
             "open": 119.59,
             "volume": 4646602720000
+        },
+        {
+            "change": 15.748792,
+            "close": 119.8,
+            "date": "2019-12-30",
+            "max": 121.99,
+            "min": 119.58,
+            "open": 119.98,
+            "volume": 4435386960000
+        },
+        {
+            "change": 16.521739,
+            "close": 120.6,
+            "date": "2020-01-02",
+            "max": 121.0,
+            "min": 119.0,
+            "open": 119.0,
+            "volume": 4948678660000
         },
         {
             "change": 23.323671,
@@ -7087,13 +7128,139 @@
             "min": 43.6,
             "open": 43.6,
             "volume": 437230200000
+        },
+        {
+            "change": -58.0,
+            "close": 43.47,
+            "date": "2022-10-20",
+            "max": 43.7,
+            "min": 43.2,
+            "open": 43.61,
+            "volume": 715629800000
+        },
+        {
+            "change": -58.26087,
+            "close": 43.2,
+            "date": "2022-10-21",
+            "max": 43.56,
+            "min": 42.9,
+            "open": 43.48,
+            "volume": 749728760000
+        },
+        {
+            "change": -58.115942,
+            "close": 43.35,
+            "date": "2022-10-24",
+            "max": 43.5,
+            "min": 43.07,
+            "open": 43.19,
+            "volume": 504328790000
+        },
+        {
+            "change": -58.425121,
+            "close": 43.03,
+            "date": "2022-10-25",
+            "max": 43.35,
+            "min": 42.95,
+            "open": 43.35,
+            "volume": 645520470000
+        },
+        {
+            "change": -58.463768,
+            "close": 42.99,
+            "date": "2022-10-26",
+            "max": 43.14,
+            "min": 42.3,
+            "open": 43.03,
+            "volume": 658572060000
+        },
+        {
+            "change": -58.869565,
+            "close": 42.57,
+            "date": "2022-10-27",
+            "max": 43.03,
+            "min": 42.44,
+            "open": 42.44,
+            "volume": 475630260000
+        },
+        {
+            "change": -59.130435,
+            "close": 42.3,
+            "date": "2022-10-28",
+            "max": 43.0,
+            "min": 42.16,
+            "open": 42.59,
+            "volume": 754535990000
+        },
+        {
+            "change": -59.806763,
+            "close": 41.6,
+            "date": "2022-10-31",
+            "max": 42.44,
+            "min": 41.17,
+            "open": 42.31,
+            "volume": 804060080000
+        },
+        {
+            "change": -59.980676,
+            "close": 41.42,
+            "date": "2022-11-01",
+            "max": 41.89,
+            "min": 40.62,
+            "open": 41.89,
+            "volume": 569303890000
+        },
+        {
+            "change": -60.628019,
+            "close": 40.75,
+            "date": "2022-11-03",
+            "max": 41.35,
+            "min": 40.75,
+            "open": 41.3,
+            "volume": 869946810000
+        },
+        {
+            "change": -61.15942,
+            "close": 40.2,
+            "date": "2022-11-04",
+            "max": 40.74,
+            "min": 40.01,
+            "open": 40.7,
+            "volume": 704489730000
+        },
+        {
+            "change": -61.333333,
+            "close": 40.02,
+            "date": "2022-11-07",
+            "max": 40.27,
+            "min": 39.99,
+            "open": 40.2,
+            "volume": 780065650000
+        },
+        {
+            "change": -61.73913,
+            "close": 39.6,
+            "date": "2022-11-08",
+            "max": 40.1,
+            "min": 39.56,
+            "open": 40.02,
+            "volume": 686663940000
+        },
+        {
+            "change": -62.10628,
+            "close": 39.22,
+            "date": "2022-11-09",
+            "max": 39.69,
+            "min": 39.0,
+            "open": 39.56,
+            "volume": 781493940000
         }
     ],
     "propriedades": [
         {
             "area": 1053.0,
-            "cidade": "Edif\u00edcio M\u00f3dulo Rebou\u00e7as Rua Capote Valente, n\u00ba 39S\u00e3o Paulo (SP) \n                \u00c1rea (m2):\n                1.053,00 \n                N\u00ba de unidades ou lojas:\n                4 Matr\u00edcula n\u00ba 98.323. Pr\u00e9dio locado ao Nubank.",
-            "endereco": "Rua Capote Valente, n\u00ba 39",
+            "cidade": "Edif\u00edcio M\u00f3dulo Rebou\u00e7as Rua Capote Valente, 39, S\u00e3o PauloSP. \n                \u00c1rea (m2):\n                1.053,00 \n                N\u00ba de unidades ou lojas:\n                4 Matr\u00edcula n\u00ba 98.323. Pr\u00e9dio locao ao Nubank",
+            "endereco": "Rua Capote Valente, 39, S\u00e3o Paulo",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio M\u00f3dulo Rebou\u00e7as Capote",
@@ -7101,19 +7268,19 @@
             "vacancia": 0.0
         },
         {
-            "area": 886.0,
-            "cidade": "Condom\u00ednio Edif\u00edcio Fidalga Rua Wisard, n\u00ba 298S\u00e3o Paulo (SP) \n                \u00c1rea (m2):\n                886,00 \n                N\u00ba de unidades ou lojas:\n                4 Matr\u00edcula n\u00ba 136.118.",
-            "endereco": "Rua Wisard, n\u00ba 298",
+            "area": 896.0,
+            "cidade": "Cond\u00edminio Edif\u00edcio Fidalga Rua Wisard, 298, S\u00e3o PauloSP. \n                \u00c1rea (m2):\n                896,00 \n                N\u00ba de unidades ou lojas:\n                4 Matr\u00edcula n\u00ba 136.118.",
+            "endereco": "Rua Wisard, 298, S\u00e3o Paulo",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Condom\u00ednio Edif\u00edcio Fidalga",
+            "nome": "Cond\u00edminio Edif\u00edcio Fidalga",
             "unidades": 4,
             "vacancia": 100.0
         },
         {
             "area": 33610.0,
-            "cidade": "Edif\u00edcio Corporate Evolution Alameda Xingu, n\u00ba 512Barueri (SP) \n                \u00c1rea (m2):\n                33.610,00 \n                N\u00ba de unidades ou lojas:\n                25 Matr\u00edcula n\u00ba 174.709 . Complexo empresarial com loca\u00e7\u00e3o para CIELO, ELOPAR, DHL, STEFANINI, QUALICORP e SGS.",
-            "endereco": "Alameda Xingu, n\u00ba 512",
+            "cidade": "Edif\u00edcio Corporate Evolution Alameda Xingu, 512, BarueriSP. \n                \u00c1rea (m2):\n                33.610,00 \n                N\u00ba de unidades ou lojas:\n                25 Matr\u00edcula n\u00ba 174.709. Complexo empresarial com loca\u00e7\u00e3o para CIELO, ELOPAR, DHL, STEFANINI, QUALICORP e SGS.",
+            "endereco": "Alameda Xingu, 512, Barueri",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Corporate Evolution",
@@ -7122,8 +7289,8 @@
         },
         {
             "area": 1032.0,
-            "cidade": "Edif\u00edcio Santa Catarina Avenida Paulista, 287S\u00e3o Paulo (SP) \n                \u00c1rea (m2):\n                1.032,00 \n                N\u00ba de unidades ou lojas:\n                2 Matr\u00edcula n\u00ba 103.685. Complexo empresarial com loca\u00e7\u00e3o para Ocean",
-            "endereco": "Avenida Paulista, 287",
+            "cidade": "Edif\u00edcio Santa Catarina Avenida Paulista, 287, S\u00e3o PauloSP. \n                \u00c1rea (m2):\n                1.032,00 \n                N\u00ba de unidades ou lojas:\n                2 Matr\u00edcula n\u00ba 103.685. Complexo empresarial com loca\u00e7\u00e3o para Ocean",
+            "endereco": "Avenida Paulista, 287, S\u00e3o Paulo",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Santa Catarina",
@@ -7132,8 +7299,8 @@
         },
         {
             "area": 23548.0,
-            "cidade": "Edif\u00edcio Itower Alameda Xingu, n\u00ba 350Barueri (SP) \n                \u00c1rea (m2):\n                23.548,00 \n                N\u00ba de unidades ou lojas:\n                26 Matr\u00edcula n\u00ba 161.223. Complexo empresarial com loca\u00e7\u00e3o para B3, DIASE, HP, KANTAR, LOS GATOS, MERCK e NETFLIX.",
-            "endereco": "Alameda Xingu, n\u00ba 350",
+            "cidade": "Edif\u00edcio Itower Alameda Xingu, 350, BarueriSP.  \n                \u00c1rea (m2):\n                23.548,00 \n                N\u00ba de unidades ou lojas:\n                26 Matr\u00edcula n\u00ba 161.223. Complexo empresarial com loca\u00e7\u00e3o para B3, DIASE, HP, KATAR, LOS GATOS, MERCK e NETFLIX.",
+            "endereco": "Alameda Xingu, 350, Barueri",
             "estado": "SP",
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Itower",
@@ -7144,12 +7311,12 @@
     "segmento": "Outros",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.53,
-            "cagr_ativo_1": -0.03,
-            "cagr_patrimonio_liquido": -0.09,
-            "cagr_vpa_1": -0.09,
+            "cagr_alugeis_1": -0.37,
+            "cagr_ativo_1": 0.06,
+            "cagr_patrimonio_liquido": -0.06,
+            "cagr_vpa_1": -0.06,
             "cagr_vpa_3": 0.1,
-            "cmgr_alugeis_6m": -0.03
+            "cmgr_alugeis_6m": -0.2
         },
         "dividends": {
             "cagr_dividens_1": -0.7,
@@ -7157,46 +7324,46 @@
             "cagr_dy_1": -0.6,
             "cagr_dy_3": -0.48,
             "cagr_dy_5": -0.32,
-            "dy": 5.85
+            "dy": 5.59
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.04,
-                "dy": 7.96
+                "cagr_dy_3": -0.02,
+                "dy": 8.08
             },
             "mercado": {
-                "custo_adm_med": 130816.61,
-                "liquidez_med": 448585663333.33
+                "custo_adm_med": 131960.85,
+                "liquidez_med": 432296910147.06
             },
             "operacao": {
-                "patrimonio_liquido": 317634116.94,
-                "pl_cx": 6.52,
-                "vacancia": 1.86
+                "patrimonio_liquido": 331225030.0,
+                "pl_cx": 6.79,
+                "vacancia": 2.48
             },
             "valuation": {
-                "p_vpa_med": 0.91
+                "p_vpa_med": 0.84
             }
         },
         "mercado": {
-            "custo_adm_med": 377965.57,
-            "ifix": 0.28,
-            "liquidez_med": 1245299210000.0
+            "custo_adm_med": 373233.19,
+            "ifix": 0.25,
+            "liquidez_med": 1232297290000
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 1,
             "imoveis": 5,
-            "patrimonio_liquido": 553458369.85,
-            "pl_cx": 1.83,
-            "vacancia": 44.31,
-            "vacancia_1": 0,
+            "patrimonio_liquido": 546735173.05,
+            "pl_cx": 1.45,
+            "vacancia": 44.32,
+            "vacancia_1": 0.0,
             "vacancia_3m": 44.31
         },
         "valuation": {
-            "p_vpa": 0.58,
+            "p_vpa": 0.52,
             "p_vpa_med": 0.79,
-            "price": 43.72,
-            "valuation": 59.36
+            "price": 39.22,
+            "valuation": 54.16
         }
     },
     "ticker": "XPPR11",
@@ -7244,6 +7411,10 @@
         {
             "competencia": "2/2022",
             "total": 44.31
+        },
+        {
+            "competencia": "3/2022",
+            "total": 44.32
         }
     ]
 }

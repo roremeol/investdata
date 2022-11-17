@@ -3,59 +3,59 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 0.0
+            "precentual": 0.8545
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 0.686
+            "precentual": 0.1153
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 0.0
+            "precentual": 0.6873
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 0.9549
+            "precentual": 3.9345
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 4.2601
+            "precentual": 0.2233
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 1.3664
+            "precentual": 0.4984
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 0.5726
+            "precentual": 0.4278
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 0.4637
+            "precentual": 5.1482
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 5.7828
+            "precentual": 1.8394
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 2.0572
+            "precentual": 3.0638
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 4.0264
+            "precentual": 3.5389
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 3.8893
+            "precentual": 1.2411
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 75.1907
+            "precentual": 77.951
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 0.7499
+            "precentual": 0.4765
         }
     ],
     "cri": [],
@@ -489,11 +489,16 @@
             "data_com": "2022-09-30T00:00:00",
             "data_pagamento": "2022-10-17T00:00:00",
             "provento": 0.91
+        },
+        {
+            "data_com": "2022-10-31T00:00:00",
+            "data_pagamento": "2022-11-16T00:00:00",
+            "provento": 0.91
         }
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 3.213,
+    "ifix_participacao": 3.052,
     "imr": [
         {
             "ativo": 2212954246.34,
@@ -1380,7 +1385,7 @@
             "valor_patrimonio_cotas": 159.882618
         },
         {
-            "ativo": 4217678206.97,
+            "ativo": 4215569631.22,
             "caixa": 76041640.23,
             "competencia": "09/2022",
             "cotas_emitidas": 24157121.0,
@@ -1391,12 +1396,25 @@
             "patrimonio_liquido": 3867197746.84,
             "receita_aluguel": 23954152.76,
             "valor_patrimonio_cotas": 160.085208
+        },
+        {
+            "ativo": 4249459636.48,
+            "caixa": 94839339.63,
+            "competencia": "10/2022",
+            "cotas_emitidas": 24157121.0,
+            "cotistas": 240799,
+            "despesa_administracao": 3608367.26,
+            "dy": 0.5684,
+            "numero_cotas": 24157121.0,
+            "patrimonio_liquido": 3871638686.32,
+            "receita_aluguel": 25525030.76,
+            "valor_patrimonio_cotas": 160.269044
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 37.339
+            "precentual": 32.2151
         },
         {
             "indexador": "INPC",
@@ -1404,7 +1422,7 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 62.661
+            "precentual": 67.7849
         },
         {
             "indexador": "INCC",
@@ -1415,7 +1433,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRKNRICTF007",
     "lci": [],
     "mandato": "Renda",
@@ -14733,6 +14751,15 @@
             "volume": 14270951000000
         },
         {
+            "change": -84.440843,
+            "close": 192.0,
+            "date": "2019-12-26",
+            "max": 192.0,
+            "min": 189.7,
+            "open": 190.0,
+            "volume": 14085053030000
+        },
+        {
             "change": -84.453809,
             "close": 191.84,
             "date": "2019-12-27",
@@ -14742,13 +14769,22 @@
             "volume": 10142296280000
         },
         {
-            "change": -83.940033,
-            "close": 198.179993,
+            "change": -83.940032,
+            "close": 198.18,
             "date": "2019-12-30",
-            "max": 199.990005,
+            "max": 199.99,
             "min": 191.5,
             "open": 192.0,
-            "volume": 56408000000
+            "volume": 11009697820000
+        },
+        {
+            "change": -83.824959,
+            "close": 199.6,
+            "date": "2020-01-02",
+            "max": 200.0,
+            "min": 198.15,
+            "open": 198.16,
+            "volume": 13714508320000
         },
         {
             "change": -83.824959,
@@ -21013,6 +21049,132 @@
             "min": 150.45,
             "open": 150.45,
             "volume": 2693068610000
+        },
+        {
+            "change": -87.747164,
+            "close": 151.2,
+            "date": "2022-10-20",
+            "max": 151.89,
+            "min": 150.66,
+            "open": 151.31,
+            "volume": 2308667720000
+        },
+        {
+            "change": -87.786872,
+            "close": 150.71,
+            "date": "2022-10-21",
+            "max": 151.96,
+            "min": 150.11,
+            "open": 151.9,
+            "volume": 3370858550000
+        },
+        {
+            "change": -87.905186,
+            "close": 149.25,
+            "date": "2022-10-24",
+            "max": 151.39,
+            "min": 148.65,
+            "open": 151.39,
+            "volume": 5603299310000
+        },
+        {
+            "change": -87.897893,
+            "close": 149.34,
+            "date": "2022-10-25",
+            "max": 149.98,
+            "min": 148.8,
+            "open": 149.26,
+            "volume": 2644136910000
+        },
+        {
+            "change": -87.908428,
+            "close": 149.21,
+            "date": "2022-10-26",
+            "max": 149.97,
+            "min": 148.8,
+            "open": 149.41,
+            "volume": 1921523100000
+        },
+        {
+            "change": -87.937601,
+            "close": 148.85,
+            "date": "2022-10-27",
+            "max": 149.3,
+            "min": 148.8,
+            "open": 149.19,
+            "volume": 1944834620000
+        },
+        {
+            "change": -87.907618,
+            "close": 149.22,
+            "date": "2022-10-28",
+            "max": 149.39,
+            "min": 149.0,
+            "open": 149.02,
+            "volume": 1782430480000
+        },
+        {
+            "change": -88.02269,
+            "close": 147.8,
+            "date": "2022-10-31",
+            "max": 149.21,
+            "min": 147.01,
+            "open": 149.2,
+            "volume": 3664554880000
+        },
+        {
+            "change": -88.21718,
+            "close": 145.4,
+            "date": "2022-11-01",
+            "max": 147.78,
+            "min": 145.15,
+            "open": 147.15,
+            "volume": 3497028090000
+        },
+        {
+            "change": -88.265802,
+            "close": 144.8,
+            "date": "2022-11-03",
+            "max": 146.5,
+            "min": 144.8,
+            "open": 145.4,
+            "volume": 2907342980000
+        },
+        {
+            "change": -88.289303,
+            "close": 144.51,
+            "date": "2022-11-04",
+            "max": 144.6,
+            "min": 143.8,
+            "open": 144.5,
+            "volume": 4309438280000
+        },
+        {
+            "change": -88.338736,
+            "close": 143.9,
+            "date": "2022-11-07",
+            "max": 145.0,
+            "min": 143.77,
+            "open": 143.8,
+            "volume": 2964156670000
+        },
+        {
+            "change": -88.316856,
+            "close": 144.17,
+            "date": "2022-11-08",
+            "max": 145.0,
+            "min": 143.8,
+            "open": 143.8,
+            "volume": 2362581960000
+        },
+        {
+            "change": -88.419773,
+            "close": 142.9,
+            "date": "2022-11-09",
+            "max": 144.29,
+            "min": 142.8,
+            "open": 144.17,
+            "volume": 2782588810000
         }
     ],
     "propriedades": [
@@ -21024,7 +21186,7 @@
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Lagoa Corporate",
             "unidades": 26,
-            "vacancia": 0.8523
+            "vacancia": 1.1057
         },
         {
             "area": 8083.0,
@@ -21034,7 +21196,7 @@
             "inadimplencia": 0.0,
             "nome": "Botafogo Trade Center",
             "unidades": 13,
-            "vacancia": 1.718
+            "vacancia": 1.5365
         },
         {
             "area": 6886.88,
@@ -21044,7 +21206,7 @@
             "inadimplencia": 0.0,
             "nome": "Buenos Aires Corporate",
             "unidades": 11,
-            "vacancia": 2.1725
+            "vacancia": 1.943
         },
         {
             "area": 64860.17,
@@ -21074,27 +21236,27 @@
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Bela Paulista",
             "unidades": 14,
-            "vacancia": 0.314
+            "vacancia": 0.0
         },
         {
             "area": 6280.1,
             "cidade": "Edif\u00edcio Athenas Rua Dr. Fernandes Coelho, 64, Pinheiros, S\u00e3o PauloSP \n                \u00c1rea (m2):\n                6.280,10 \n                N\u00ba de unidades ou lojas:\n                25 Propriet\u00e1rio de 25 conjuntos",
             "endereco": "Rua Dr",
             "estado": "SP",
-            "inadimplencia": 4.4889,
+            "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Athenas",
             "unidades": 25,
-            "vacancia": 0.1474
+            "vacancia": 0.1319
         },
         {
             "area": 3898.63,
             "cidade": "Edif\u00edcio Joaquim Floriano Rua Joaquim Floriano, 913, Itaim Bibi, S\u00e3o PauloSP \n                \u00c1rea (m2):\n                3.898,63 \n                N\u00ba de unidades ou lojas:\n                16 Propriet\u00e1rio de 16 conjuntos",
             "endereco": "Rua Joaquim Floriano, 913, Itaim Bibi, S\u00e3o Paulo",
             "estado": "SP",
-            "inadimplencia": 14.5848,
+            "inadimplencia": 10.1041,
             "nome": "Edif\u00edcio Joaquim Floriano",
             "unidades": 16,
-            "vacancia": 0.2152
+            "vacancia": 0.1201
         },
         {
             "area": 99278.63,
@@ -21174,7 +21336,7 @@
             "inadimplencia": 0.0,
             "nome": "Boulevard Corporate Tower",
             "unidades": 68,
-            "vacancia": 0.8943
+            "vacancia": 0.7999
         },
         {
             "area": 12104.57,
@@ -21197,12 +21359,12 @@
             "vacancia": 0.0
         },
         {
-            "area": 56734.38,
+            "area": 56734.33,
             "cidade": "Torres Ebony e Marble Av. Na\u00e7\u00f5es Unidas, 14.171 , S\u00e3o Paulo",
             "endereco": "Av. Na\u00e7\u00f5es Unidas, 14",
             "estado": "SP",
             "inadimplencia": 0.0,
-            "nome": "Edif\u00edcio Rochaver\u00e1 - Torres Ebony e Marble Na\u00e7\u00f5es Unidas, 14.171 , S\u00e3o Paulo - SP \n                \u00c1rea (m2):\n                56.734,38 \n                N\u00ba de unidades ou lojas:\n                132 Propriet\u00e1rio de 20% do ativo",
+            "nome": "Edif\u00edcio Rochaver\u00e1 - Torres Ebony e Marble Na\u00e7\u00f5es Unidas, 14.171 , S\u00e3o Paulo - SP \n                \u00c1rea (m2):\n                56.734,33 \n                N\u00ba de unidades ou lojas:\n                132 Propriet\u00e1rio de 20% do ativo",
             "unidades": 132,
             "vacancia": 0.0
         },
@@ -21220,7 +21382,7 @@
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.01,
+            "cagr_alugeis_1": 0.25,
             "cagr_ativo_1": 0.09,
             "cagr_patrimonio_liquido": 0.02,
             "cagr_vpa_1": 0.02,
@@ -21233,46 +21395,46 @@
             "cagr_dy_1": -0.43,
             "cagr_dy_3": -0.17,
             "cagr_dy_5": -0.11,
-            "dy": 5.91
+            "dy": 5.98
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 7.67
+                "cagr_dy_3": -0.04,
+                "dy": 7.81
             },
             "mercado": {
-                "custo_adm_med": 168661.47,
-                "liquidez_med": 877110167928.57
+                "custo_adm_med": 171682.31,
+                "liquidez_med": 860986384027.78
             },
             "operacao": {
-                "patrimonio_liquido": 446948248.15,
-                "pl_cx": 8.37,
-                "vacancia": 6.35
+                "patrimonio_liquido": 443163947.54,
+                "pl_cx": 7.43,
+                "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.86
+                "p_vpa_med": 0.8
             }
         },
         "mercado": {
-            "custo_adm_med": 3327448.09,
-            "ifix": 3.213,
-            "liquidez_med": 2606566180000
+            "custo_adm_med": 3357711.1399999997,
+            "ifix": 3.052,
+            "liquidez_med": 2611691340000
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 4,
             "imoveis": 20,
-            "patrimonio_liquido": 3867197746.84,
-            "pl_cx": 1.97,
+            "patrimonio_liquido": 3871638686.32,
+            "pl_cx": 2.45,
             "vacancia": 0.07,
-            "vacancia_1": 0.15,
-            "vacancia_3m": 0.11
+            "vacancia_1": 0.2,
+            "vacancia_3m": 0.07
         },
         "valuation": {
-            "p_vpa": 0.95,
+            "p_vpa": 0.89,
             "p_vpa_med": 0.98,
-            "price": 151.31,
-            "valuation": 115.3
+            "price": 142.9,
+            "valuation": 112.04
         }
     },
     "ticker": "KNRI11",
@@ -21367,6 +21529,10 @@
         },
         {
             "competencia": "02/2022",
+            "total": 0.07
+        },
+        {
+            "competencia": "03/2022",
             "total": 0.07
         }
     ]

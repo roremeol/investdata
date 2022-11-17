@@ -3,59 +3,59 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 0.0
+            "precentual": 0.1886
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 0.0
+            "precentual": 0.7507
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 0.0
+            "precentual": 0.7709
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 2.3562
+            "precentual": 0.9029
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 1.0271
+            "precentual": 0.0285
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 1.76
+            "precentual": 0.5635
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 1.2855
+            "precentual": 9.8363
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 0.0
+            "precentual": 6.795
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 0.1369
+            "precentual": 13.1834
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 55.0729
+            "precentual": 1.9457
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 0.0
+            "precentual": 2.7522
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 3.6247
+            "precentual": 0.4991
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 33.6321
+            "precentual": 46.8091
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 1.1045
+            "precentual": 14.9742
         }
     ],
     "cri": [],
@@ -1291,6 +1291,19 @@
             "patrimonio_liquido": 112758044.56,
             "receita_aluguel": 1403168.13,
             "valor_patrimonio_cotas": 1728.569484
+        },
+        {
+            "ativo": 113736294.97,
+            "caixa": 2151243.05,
+            "competencia": "10/2022",
+            "cotas_emitidas": 65232.0,
+            "cotistas": 841,
+            "despesa_administracao": 58183.15,
+            "dy": 0.5683,
+            "numero_cotas": 65232.0,
+            "patrimonio_liquido": 112758044.56,
+            "receita_aluguel": 1403168.13,
+            "valor_patrimonio_cotas": 1728.569484
         }
     ],
     "indexador_reajuste_contrato": [
@@ -1304,18 +1317,22 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 3.4817
+            "precentual": 2.5705
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
         },
         {
-            "indexador": "Outros indicadores",
-            "precentual": 85.5741
+            "indexador": "Outros",
+            "precentual": 82.4266
+        },
+        {
+            "indexador": "IGP-DI",
+            "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRFLRPCTF006",
     "lci": [],
     "mandato": "Renda",
@@ -2265,15 +2282,6 @@
             "min": 1085.0,
             "open": 1086.01,
             "volume": 53177110000
-        },
-        {
-            "change": -0.917431,
-            "close": 1080.0,
-            "date": "2017-11-23",
-            "max": 1080.0,
-            "min": 1080.0,
-            "open": 1080.0,
-            "volume": 0
         },
         {
             "change": 0.917431,
@@ -6281,6 +6289,15 @@
             "volume": 19184680000
         },
         {
+            "change": 54.587156,
+            "close": 1685.0,
+            "date": "2019-12-26",
+            "max": 1689.0,
+            "min": 1610.0,
+            "open": 1610.0,
+            "volume": 23299980000
+        },
+        {
             "change": 58.256881,
             "close": 1725.0,
             "date": "2019-12-27",
@@ -6288,6 +6305,24 @@
             "min": 1695.0,
             "open": 1695.0,
             "volume": 20670000000
+        },
+        {
+            "change": 58.256881,
+            "close": 1725.0,
+            "date": "2019-12-30",
+            "max": 1726.11,
+            "min": 1724.5,
+            "open": 1724.5,
+            "volume": 29326710000
+        },
+        {
+            "change": 60.550459,
+            "close": 1750.0,
+            "date": "2020-01-02",
+            "max": 1750.0,
+            "min": 1725.0,
+            "open": 1725.01,
+            "volume": 48473000000
         },
         {
             "change": 60.458716,
@@ -11940,29 +11975,137 @@
             "min": 1530.53,
             "open": 1530.53,
             "volume": 37561180000
+        },
+        {
+            "change": 43.119266,
+            "close": 1560.0,
+            "date": "2022-10-20",
+            "max": 1560.0,
+            "min": 1526.0,
+            "open": 1530.0,
+            "volume": 693324230000
+        },
+        {
+            "change": 42.313761,
+            "close": 1551.22,
+            "date": "2022-10-24",
+            "max": 1647.99,
+            "min": 1550.17,
+            "open": 1550.17,
+            "volume": 20367750000
+        },
+        {
+            "change": 45.688073,
+            "close": 1588.0,
+            "date": "2022-10-25",
+            "max": 1588.0,
+            "min": 1525.1,
+            "open": 1530.22,
+            "volume": 21734850000
+        },
+        {
+            "change": 44.036697,
+            "close": 1570.0,
+            "date": "2022-10-26",
+            "max": 1600.0,
+            "min": 1570.0,
+            "open": 1600.0,
+            "volume": 25298000000
+        },
+        {
+            "change": 46.422018,
+            "close": 1596.0,
+            "date": "2022-10-27",
+            "max": 1596.0,
+            "min": 1524.0,
+            "open": 1551.01,
+            "volume": 21515140000
+        },
+        {
+            "change": 42.934862,
+            "close": 1557.99,
+            "date": "2022-10-28",
+            "max": 1557.99,
+            "min": 1557.99,
+            "open": 1557.99,
+            "volume": 3115980000
+        },
+        {
+            "change": 40.366972,
+            "close": 1530.0,
+            "date": "2022-10-31",
+            "max": 1589.0,
+            "min": 1522.23,
+            "open": 1589.0,
+            "volume": 24536850000
+        },
+        {
+            "change": 40.094495,
+            "close": 1527.03,
+            "date": "2022-11-01",
+            "max": 1527.03,
+            "min": 1525.0,
+            "open": 1525.0,
+            "volume": 9160150000
+        },
+        {
+            "change": 42.291743,
+            "close": 1550.98,
+            "date": "2022-11-03",
+            "max": 1550.98,
+            "min": 1550.0,
+            "open": 1550.0,
+            "volume": 3100980000
+        },
+        {
+            "change": 40.000917,
+            "close": 1526.01,
+            "date": "2022-11-04",
+            "max": 1550.98,
+            "min": 1526.0,
+            "open": 1550.98,
+            "volume": 19922790000
+        },
+        {
+            "change": 41.284404,
+            "close": 1540.0,
+            "date": "2022-11-07",
+            "max": 1600.0,
+            "min": 1540.0,
+            "open": 1540.47,
+            "volume": 1034581240000
+        },
+        {
+            "change": 41.513761,
+            "close": 1542.5,
+            "date": "2022-11-09",
+            "max": 1542.5,
+            "min": 1542.5,
+            "open": 1542.5,
+            "volume": 1002625000000
         }
     ],
     "propriedades": [
         {
-            "area": 42133.78,
-            "cidade": "Floripa Shopping Rodovia Jose Carlos Daux, 3116, Floripa Shopping, Saco Grande, FlorianopolisSC, Brasil, 88032005 \n                \u00c1rea (m2):\n                42.133,78 \n                N\u00ba de unidades ou lojas:\n                147 Direito de propriedade",
+            "area": 42166.0,
+            "cidade": "Floripa Shopping Rodovia Jose Carlos Daux, 3116, Floripa Shopping, Saco Grande, FlorianopolisSC, Brasil, 88032005 \n                \u00c1rea (m2):\n                42.166,00 \n                N\u00ba de unidades ou lojas:\n                208 Direito de propriedade",
             "endereco": "Rodovia Jose Carlos Daux, 3116, Floripa Shopping, Saco Grande, Florianopolis/SC, Brasil, 88032",
             "estado": "SC",
-            "inadimplencia": 2.0,
+            "inadimplencia": 4.96,
             "nome": "Floripa Shopping",
-            "unidades": 147,
-            "vacancia": 2.72
+            "unidades": 208,
+            "vacancia": 4.93
         }
     ],
     "segmento": "Shoppings",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.33,
-            "cagr_ativo_1": 0.04,
-            "cagr_patrimonio_liquido": 0.04,
-            "cagr_vpa_1": 0.04,
-            "cagr_vpa_3": 0.12,
-            "cmgr_alugeis_6m": 0.08
+            "cagr_alugeis_1": 0.15,
+            "cagr_ativo_1": 0.0,
+            "cagr_patrimonio_liquido": 0.0,
+            "cagr_vpa_1": 0.0,
+            "cagr_vpa_3": 0.06,
+            "cmgr_alugeis_6m": 0.05
         },
         "dividends": {
             "cagr_dividens_1": 0.64,
@@ -11970,46 +12113,46 @@
             "cagr_dy_1": -0.43,
             "cagr_dy_3": -0.17,
             "cagr_dy_5": -0.11,
-            "dy": 6.44
+            "dy": 6.55
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.16,
-                "dy": 5.16
+                "cagr_dy_3": -0.17,
+                "dy": 5.24
             },
             "mercado": {
-                "custo_adm_med": 236677.22,
-                "liquidez_med": 574772111428.57
+                "custo_adm_med": 237341.59,
+                "liquidez_med": 575574112380.95
             },
             "operacao": {
-                "patrimonio_liquido": 661924718.57,
-                "pl_cx": 2.02,
-                "vacancia": 7.89
+                "patrimonio_liquido": 663251512.39,
+                "pl_cx": 2.77,
+                "vacancia": 7.06
             },
             "valuation": {
-                "p_vpa_med": 0.78
+                "p_vpa_med": 0.74
             }
         },
         "mercado": {
-            "custo_adm_med": 37049.28,
+            "custo_adm_med": 37058.35,
             "ifix": 0,
-            "liquidez_med": 16754905000.0
+            "liquidez_med": 16933990000.0
         },
         "operacao": {
-            "contratos_vencimento": 30,
+            "contratos_vencimento": 37,
             "estados": 1,
             "imoveis": 1,
             "patrimonio_liquido": 112758044.56,
             "pl_cx": 1.91,
-            "vacancia": 2.72,
-            "vacancia_1": 0.77,
-            "vacancia_3m": 1.6
+            "vacancia": 4.93,
+            "vacancia_1": 1.26,
+            "vacancia_3m": 2.72
         },
         "valuation": {
-            "p_vpa": 0.91,
-            "p_vpa_med": 0.89,
-            "price": 1574.57,
-            "valuation": 1282.35
+            "p_vpa": 0.89,
+            "p_vpa_med": 0.87,
+            "price": 1542.5,
+            "valuation": 1229.03
         }
     },
     "ticker": "FLRP11",
@@ -12105,6 +12248,10 @@
         {
             "competencia": "2/2022",
             "total": 2.72
+        },
+        {
+            "competencia": "3/2022",
+            "total": 4.93
         }
     ]
 }
