@@ -4,7 +4,7 @@ import moment from 'moment';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowUp, faArrowDown } from '@fortawesome/free-solid-svg-icons';
 
-import { parseData } from './parse'
+import { parseData } from '../../lib/parse_acao'
 
 import Navbar from '../../components/Navbar';
 import DataSearch from '../../components/DataSearch';
@@ -34,6 +34,20 @@ export async function getStaticProps() {
       },
     };
 }
+
+// export async function getStaticPaths() {
+//   const acoes = getData('acao');
+//   const data = [...getData('fii'), ...acoes]
+  
+//   // Get the paths we want to pre-render based on posts
+//   const paths = data.map( ({ticker}) => ({
+//     params: { ticker },
+//   }))
+
+//   // We'll pre-render only these paths at build time.
+//   // { fallback: false } means other routes should 404.
+//   return { paths, fallback: false }
+// }
 
 export default function AcaoPage({ search_list=[], acoes=[], config={} }) {
     const { snowflake={} } = config;
