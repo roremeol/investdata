@@ -969,7 +969,7 @@
             "tipo": "DIVIDENDO"
         }
     ],
-    "ibov_participacao": 0.277,
+    "ibov_participacao": 0.313,
     "indicadores": [
         {
             "alavancagem": 4.39026,
@@ -2061,7 +2061,7 @@
             "caixa": 16971984.0,
             "capital_circulante_liquido": 0.369492,
             "capital_de_giro": 10936416.0,
-            "cotacao": 21.6,
+            "cotacao": 24.24,
             "custos": -20062672.0,
             "div_bru__pl": 0.361352,
             "div_liq__ebitda": 29.981939,
@@ -2071,13 +2071,13 @@
             "divida_liquida__ebit": 21.34967,
             "divida_liquida__ebitida": 29.981939,
             "divida_liquida__patrimonio_liquido": -1.687125,
-            "dividend_yield": 0.003261,
+            "dividend_yield": 0.002906,
             "ebit": -654723.0,
             "ebit__ativos_totais": -0.02212,
             "ebitda": -466218.0,
-            "ev": 27580753920.0,
-            "ev__ebit": -42.125835,
-            "ev__ebitida": -59.158493,
+            "ev": 30953441280.0,
+            "ev__ebit": -47.277157,
+            "ev__ebitida": -66.392632,
             "expectativa_de_crescimento_anual": 0.039244,
             "fcf": 1390979.0,
             "fci": -228431.0,
@@ -2086,7 +2086,7 @@
             "fct": -113428.0,
             "fluxo_de_caixa_operacional__divida_bruta": -0.426197,
             "fluxo_de_caixa_operacional__divida_liquida": 0.091284,
-            "free_float": 0.66705,
+            "free_float": 0.66789,
             "giro_de_estoque": 0.0,
             "giro_dos_ativos": 0.713243,
             "liquidez_corrente": 2.303141,
@@ -2102,13 +2102,13 @@
             "necessidade_de_capital_de_giro": -5468556.0,
             "nopat": 19913552.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": 2.523197,
-            "p__capital_de_giro": 2.523197,
-            "p__ebit": -42.147182,
-            "p__ebitida": -59.188473,
-            "p__l": 66.934937,
-            "p__sr": 1.307129,
-            "p__vpa": 3.330617,
+            "p__ativo_circ_liq": 2.831587,
+            "p__capital_de_giro": 2.831587,
+            "p__ebit": -47.298504,
+            "p__ebitida": -66.422615,
+            "p__l": 75.115868,
+            "p__sr": 1.466889,
+            "p__vpa": 3.737692,
             "passivo": 29598510.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 8392348.0,
@@ -2116,7 +2116,7 @@
             "patrimonio_liquido": 8285171.0,
             "patrimonio_liquido__ativos": 0.279919,
             "payout": 0.218308,
-            "peg_ratio": 1705.614014,
+            "peg_ratio": 1914.077759,
             "pl__ativo": 0.279919,
             "poder_de_ganho_basico": -0.015751,
             "prazo_medio_de_recebimento": 54.080051,
@@ -2129,7 +2129,7 @@
             "roic": 0.228353,
             "saldo_de_tesouraria": 16404972.0,
             "total_de_acoes": 1277533824.0,
-            "valor_de_mercado__passivos_totais": 932.301392,
+            "valor_de_mercado__passivos_totais": 1046.249268,
             "valor_intrinseco_de_graham": 6.862088,
             "vpa": 6.485285
         }
@@ -15450,7 +15450,16 @@
             "volume": 122738759.0
         },
         {
-            "change": 2.857640703955394,
+            "change": 1.3416971597839276,
+            "close": 58.16,
+            "date": "2019-12-26T00:00:00",
+            "high": 58.35,
+            "low": 56.79,
+            "open": 57.38,
+            "volume": 112704327.0
+        },
+        {
+            "change": 1.4958734525447122,
             "close": 59.03,
             "date": "2019-12-27T00:00:00",
             "high": 59.03,
@@ -15459,7 +15468,25 @@
             "volume": 148395261.0
         },
         {
-            "change": 9.859393528714202,
+            "change": 1.5077079451126556,
+            "close": 59.92,
+            "date": "2019-12-30T00:00:00",
+            "high": 60.94,
+            "low": 58.49,
+            "open": 58.98,
+            "volume": 199901038.0
+        },
+        {
+            "change": 4.0220293724966565,
+            "close": 62.33,
+            "date": "2020-01-02T00:00:00",
+            "high": 63.71,
+            "low": 59.07,
+            "open": 60.06,
+            "volume": 237836505.0
+        },
+        {
+            "change": 4.042996951708641,
             "close": 64.85,
             "date": "2020-01-03T00:00:00",
             "high": 64.85,
@@ -21723,13 +21750,130 @@
             "volume": 127046434.0
         },
         {
-            "change": -0.9541117673784681,
+            "change": -0.8632439800090925,
+            "close": 21.82,
+            "date": "2022-10-20T00:00:00",
+            "high": 22.3,
+            "low": 21.4,
+            "open": 22.3,
+            "volume": 94791949.0
+        },
+        {
+            "change": 2.6122823098075174,
+            "close": 22.39,
+            "date": "2022-10-21T00:00:00",
+            "high": 22.53,
+            "low": 21.41,
+            "open": 21.72,
+            "volume": 93872101.0
+        },
+        {
+            "change": -2.635104957570343,
             "close": 21.8,
             "date": "2022-10-24T00:00:00",
             "high": 22.4,
             "low": 21.8,
             "open": 22.39,
             "volume": 102063472.0
+        },
+        {
+            "change": -0.9174311926605472,
+            "close": 21.6,
+            "date": "2022-10-25T00:00:00",
+            "high": 22.18,
+            "low": 21.3,
+            "open": 21.78,
+            "volume": 47024584.0
+        },
+        {
+            "change": -4.074074074074086,
+            "close": 20.72,
+            "date": "2022-10-26T00:00:00",
+            "high": 21.43,
+            "low": 20.62,
+            "open": 21.43,
+            "volume": 67710343.0
+        },
+        {
+            "change": 4.24710424710426,
+            "close": 21.6,
+            "date": "2022-10-27T00:00:00",
+            "high": 22.45,
+            "low": 20.75,
+            "open": 20.87,
+            "volume": 177573658.0
+        },
+        {
+            "change": 4.398148148148144,
+            "close": 22.55,
+            "date": "2022-10-28T00:00:00",
+            "high": 22.55,
+            "low": 21.53,
+            "open": 21.56,
+            "volume": 49299998.0
+        },
+        {
+            "change": 5.720620842572058,
+            "close": 23.84,
+            "date": "2022-10-31T00:00:00",
+            "high": 23.91,
+            "low": 21.86,
+            "open": 22.47,
+            "volume": 79922838.0
+        },
+        {
+            "change": 3.1879194630872547,
+            "close": 24.6,
+            "date": "2022-11-01T00:00:00",
+            "high": 24.94,
+            "low": 23.28,
+            "open": 23.83,
+            "volume": 71779715.0
+        },
+        {
+            "change": 0.1219512195121853,
+            "close": 24.63,
+            "date": "2022-11-03T00:00:00",
+            "high": 25.1,
+            "low": 24.0,
+            "open": 24.06,
+            "volume": 77860765.0
+        },
+        {
+            "change": 0.1624035728786143,
+            "close": 24.67,
+            "date": "2022-11-04T00:00:00",
+            "high": 25.49,
+            "low": 24.49,
+            "open": 25.12,
+            "volume": 61700980.0
+        },
+        {
+            "change": -1.9051479529793367,
+            "close": 24.2,
+            "date": "2022-11-07T00:00:00",
+            "high": 24.91,
+            "low": 24.0,
+            "open": 24.35,
+            "volume": 100904089.0
+        },
+        {
+            "change": 0.7438016528925608,
+            "close": 24.38,
+            "date": "2022-11-08T00:00:00",
+            "high": 25.1,
+            "low": 24.15,
+            "open": 24.21,
+            "volume": 83903385.0
+        },
+        {
+            "change": -0.5742411812961468,
+            "close": 24.24,
+            "date": "2022-11-09T00:00:00",
+            "high": 24.73,
+            "low": 23.9,
+            "open": 24.21,
+            "volume": 86765248.0
         }
     ],
     "setor": "Financeiro > Previd\u00eancia e Seguros > Seguradoras",
@@ -21748,12 +21892,12 @@
         },
         "dividends": {
             "cagr_dy_1": -1.0,
-            "cagr_dy_5": -0.68,
-            "dy": 0.003261,
+            "cagr_dy_5": -0.69,
+            "dy": 0.002906,
             "payout": 0.218308
         },
         "general": {
-            "free_float": 0.66705,
+            "free_float": 0.66789,
             "seguimento": 0,
             "tag_along": 0
         },
@@ -21826,56 +21970,19 @@
             "liquidez_corrente": 2.303141,
             "liquidez_corrente_3": 2.257637,
             "liquidez_corrente_5": 1.893763,
-            "risco_falencia": 0.43087104183575103
+            "risco_falencia": 0.3760861726326956
         },
         "valuation": {
-            "cagr_peg_ratio_3": 1.51,
-            "cagr_peg_ratio_5": 0.39,
-            "p__l_med": 34.16438471428572,
+            "cagr_peg_ratio_3": 1.61,
+            "cagr_peg_ratio_5": 0.42,
+            "p__l_med": 34.74873692857143,
             "p__l_median": 25.4991615,
             "price": 0,
             "valuation": 6.862082700074556,
             "valuation_med": 6.4936507306700175
         }
     },
-    "splits": [
-        {
-            "data_com": "2021-03-29T00:00:00",
-            "fator": 6.04575212,
-            "isin": "BRSULAACNOR2",
-            "tipo": "BONIFICACAO"
-        },
-        {
-            "data_com": "2021-03-29T00:00:00",
-            "fator": 6.04575212,
-            "isin": "BRSULAACNPR9",
-            "tipo": "BONIFICACAO"
-        },
-        {
-            "data_com": "2021-03-29T00:00:00",
-            "fator": 6.04575212,
-            "isin": "BRSULACDAM12",
-            "tipo": "BONIFICACAO"
-        },
-        {
-            "data_com": "2010-07-28T00:00:00",
-            "fator": 200.0,
-            "isin": "BRSULAACNOR2",
-            "tipo": "DESDOBRAMENTO"
-        },
-        {
-            "data_com": "2010-07-28T00:00:00",
-            "fator": 200.0,
-            "isin": "BRSULAACNPR9",
-            "tipo": "DESDOBRAMENTO"
-        },
-        {
-            "data_com": "2010-07-28T00:00:00",
-            "fator": 200.0,
-            "isin": "BRSULACDAM12",
-            "tipo": "DESDOBRAMENTO"
-        }
-    ],
+    "splits": [],
     "subscriptions": [],
     "ticker": "SULA11",
     "tickers": [

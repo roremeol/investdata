@@ -1123,7 +1123,7 @@
             "caixa": 2763671.0,
             "capital_circulante_liquido": 0.168878,
             "capital_de_giro": 1827192.0,
-            "cotacao": 15.76,
+            "cotacao": 17.450001,
             "custos": -1820889.0,
             "div_bru__pl": 0.727374,
             "div_liq__ebitda": 0.289002,
@@ -1137,9 +1137,9 @@
             "ebit": -120789.0,
             "ebit__ativos_totais": -0.011164,
             "ebitda": 880465.0,
-            "ev": 9238675456.0,
-            "ev__ebit": -76.486061,
-            "ev__ebitida": 10.49295,
+            "ev": 10229344256.0,
+            "ev__ebit": -84.687714,
+            "ev__ebitida": 11.618115,
             "expectativa_de_crescimento_anual": 0.0,
             "fcf": 3154207.0,
             "fci": -2643545.0,
@@ -1164,13 +1164,13 @@
             "necessidade_de_capital_de_giro": -528355.0,
             "nopat": 1710126.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": 5.056076,
-            "p__capital_de_giro": 5.056076,
-            "p__ebit": -76.483963,
-            "p__ebitida": 10.492662,
-            "p__l": -21.095127,
-            "p__sr": 4.011548,
-            "p__vpa": 2.226475,
+            "p__ativo_circ_liq": 5.598257,
+            "p__capital_de_giro": 5.598257,
+            "p__ebit": -84.685608,
+            "p__ebitida": 11.617827,
+            "p__l": -23.357233,
+            "p__sr": 4.44172,
+            "p__vpa": 2.465228,
             "passivo": 10819612.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 1442203.0,
@@ -1191,7 +1191,7 @@
             "roic": 0.012437,
             "saldo_de_tesouraria": 2355547.0,
             "total_de_acoes": 586194240.0,
-            "valor_de_mercado__passivos_totais": 853.858826,
+            "valor_de_mercado__passivos_totais": 945.421204,
             "valor_intrinseco_de_graham": NaN,
             "vpa": 7.078453
         }
@@ -4063,7 +4063,25 @@
             "volume": 6059808.0
         },
         {
-            "change": -3.254067584480598,
+            "change": 0.12515644555694352,
+            "close": 16.0,
+            "date": "2022-10-20T00:00:00",
+            "high": 16.53,
+            "low": 15.5,
+            "open": 16.08,
+            "volume": 47822648.0
+        },
+        {
+            "change": 2.187500000000009,
+            "close": 16.35,
+            "date": "2022-10-21T00:00:00",
+            "high": 16.79,
+            "low": 15.84,
+            "open": 15.94,
+            "volume": 32676861.0
+        },
+        {
+            "change": -5.443425076452602,
             "close": 15.46,
             "date": "2022-10-24T00:00:00",
             "high": 16.13,
@@ -4075,10 +4093,100 @@
             "change": 1.9404915912030978,
             "close": 15.76,
             "date": "2022-10-25T00:00:00",
-            "high": 16.290001,
+            "high": 16.29,
             "low": 15.25,
             "open": 15.37,
-            "volume": 1951800.0
+            "volume": 30970013.0
+        },
+        {
+            "change": -2.1573604060913696,
+            "close": 15.42,
+            "date": "2022-10-26T00:00:00",
+            "high": 15.97,
+            "low": 15.24,
+            "open": 15.51,
+            "volume": 19329282.0
+        },
+        {
+            "change": 5.642023346303496,
+            "close": 16.29,
+            "date": "2022-10-27T00:00:00",
+            "high": 16.46,
+            "low": 15.4,
+            "open": 15.53,
+            "volume": 10620751.0
+        },
+        {
+            "change": 2.2713321055862554,
+            "close": 16.66,
+            "date": "2022-10-28T00:00:00",
+            "high": 16.68,
+            "low": 15.99,
+            "open": 16.17,
+            "volume": 12632453.0
+        },
+        {
+            "change": 4.0216086434573715,
+            "close": 17.33,
+            "date": "2022-10-31T00:00:00",
+            "high": 17.86,
+            "low": 16.2,
+            "open": 16.2,
+            "volume": 33028319.0
+        },
+        {
+            "change": 2.712060011540695,
+            "close": 17.8,
+            "date": "2022-11-01T00:00:00",
+            "high": 18.07,
+            "low": 17.05,
+            "open": 17.57,
+            "volume": 27730889.0
+        },
+        {
+            "change": 1.1235955056179734,
+            "close": 18.0,
+            "date": "2022-11-03T00:00:00",
+            "high": 18.56,
+            "low": 17.26,
+            "open": 17.55,
+            "volume": 38348465.0
+        },
+        {
+            "change": -0.6666666666666722,
+            "close": 17.88,
+            "date": "2022-11-04T00:00:00",
+            "high": 18.52,
+            "low": 17.66,
+            "open": 18.23,
+            "volume": 19233125.0
+        },
+        {
+            "change": -5.425055928411627,
+            "close": 16.91,
+            "date": "2022-11-07T00:00:00",
+            "high": 18.0,
+            "low": 16.58,
+            "open": 18.0,
+            "volume": 24079178.0
+        },
+        {
+            "change": 2.12891780011827,
+            "close": 17.27,
+            "date": "2022-11-08T00:00:00",
+            "high": 17.32,
+            "low": 16.4,
+            "open": 16.76,
+            "volume": 24245574.0
+        },
+        {
+            "change": 1.0422698320787476,
+            "close": 17.45,
+            "date": "2022-11-09T00:00:00",
+            "high": 17.75,
+            "low": 17.08,
+            "open": 17.22,
+            "volume": 17185551.0
         }
     ],
     "setor": "",
@@ -4175,12 +4283,12 @@
             "liquidez_corrente": 2.266945,
             "liquidez_corrente_3": 1.208795,
             "liquidez_corrente_5": 0.999199,
-            "risco_falencia": 0.36297948203771835
+            "risco_falencia": 0.3217850903833298
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,
             "cagr_peg_ratio_5": 0,
-            "p__l_med": -2.561966285714286,
+            "p__l_med": -2.7235452857142857,
             "p__l_median": 0.0,
             "price": 0,
             "valuation": 0,

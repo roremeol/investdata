@@ -1116,7 +1116,7 @@
             "caixa": 1309223.0,
             "capital_circulante_liquido": 0.466866,
             "capital_de_giro": 1211906.0,
-            "cotacao": 5.97,
+            "cotacao": 6.23,
             "custos": -369642.0,
             "div_bru__pl": 0.02299,
             "div_liq__ebitda": -4.6089,
@@ -1130,9 +1130,9 @@
             "ebit": 61361.0,
             "ebit__ativos_totais": 0.023638,
             "ebitda": 273278.0,
-            "ev": 3173768704.0,
-            "ev__ebit": 51.722897,
-            "ev__ebitida": 11.6137,
+            "ev": 3314531072.0,
+            "ev__ebit": 54.016903,
+            "ev__ebitida": 12.128788,
             "expectativa_de_crescimento_anual": 0.120523,
             "fcf": -91866.0,
             "fci": -377440.0,
@@ -1146,7 +1146,7 @@
             "giro_dos_ativos": 0.322404,
             "liquidez_corrente": 5.135647,
             "liquidez_seco": 5.135647,
-            "lpa": 0.474631,
+            "lpa": 0.474275,
             "lucro_bruto": 467265.0,
             "lucro_liquido": 252423.0,
             "lucros_retidos__ativos_totais": 0.081331,
@@ -1157,13 +1157,13 @@
             "necessidade_de_capital_de_giro": -58246.0,
             "nopat": 355980.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": 2.619864,
-            "p__capital_de_giro": 2.619864,
-            "p__ebit": 51.743427,
-            "p__ebitida": 11.618309,
-            "p__l": 12.578205,
-            "p__sr": 3.793765,
-            "p__vpa": 1.46831,
+            "p__ativo_circ_liq": 2.736013,
+            "p__capital_de_giro": 2.736013,
+            "p__ebit": 54.03743,
+            "p__ebitida": 12.133398,
+            "p__l": 13.135849,
+            "p__sr": 3.961958,
+            "p__vpa": 1.533406,
             "passivo": 2595830.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 293039.0,
@@ -1171,7 +1171,7 @@
             "patrimonio_liquido": 2162369.0,
             "patrimonio_liquido__ativos": 0.833016,
             "payout": 0.0,
-            "peg_ratio": 104.363701,
+            "peg_ratio": 108.990578,
             "pl__ativo": 0.833016,
             "poder_de_ganho_basico": 0.105276,
             "prazo_medio_de_recebimento": 64.740524,
@@ -1183,10 +1183,10 @@
             "roe": 0.120523,
             "roic": 0.0,
             "saldo_de_tesouraria": 1270152.0,
-            "total_de_acoes": 531830560.0,
-            "valor_de_mercado__passivos_totais": 1223.126465,
-            "valor_intrinseco_de_graham": 6.589423,
-            "vpa": 4.065898
+            "total_de_acoes": 532229632.0,
+            "valor_de_mercado__passivos_totais": 1277.352783,
+            "valor_intrinseco_de_graham": 6.584481,
+            "vpa": 4.06285
         }
     ],
     "isin": "BRBOASACNOR6",
@@ -5784,7 +5784,25 @@
             "volume": 9066475.0
         },
         {
-            "change": 1.2237762237762289,
+            "change": -2.447552447552442,
+            "close": 5.58,
+            "date": "2022-10-20T00:00:00",
+            "high": 5.8,
+            "low": 5.52,
+            "open": 5.75,
+            "volume": 10281776.0
+        },
+        {
+            "change": 4.659498207885301,
+            "close": 5.84,
+            "date": "2022-10-21T00:00:00",
+            "high": 5.95,
+            "low": 5.37,
+            "open": 5.57,
+            "volume": 8657024.0
+        },
+        {
+            "change": -0.8561643835616408,
             "close": 5.79,
             "date": "2022-10-24T00:00:00",
             "high": 5.91,
@@ -5799,7 +5817,97 @@
             "high": 6.04,
             "low": 5.63,
             "open": 5.75,
-            "volume": 1116000.0
+            "volume": 6616541.0
+        },
+        {
+            "change": -3.182579564489104,
+            "close": 5.78,
+            "date": "2022-10-26T00:00:00",
+            "high": 6.03,
+            "low": 5.68,
+            "open": 5.97,
+            "volume": 8918636.0
+        },
+        {
+            "change": 6.574394463667818,
+            "close": 6.16,
+            "date": "2022-10-27T00:00:00",
+            "high": 6.19,
+            "low": 5.78,
+            "open": 5.83,
+            "volume": 8251429.0
+        },
+        {
+            "change": -0.48701298701299106,
+            "close": 6.13,
+            "date": "2022-10-28T00:00:00",
+            "high": 6.19,
+            "low": 5.99,
+            "open": 6.12,
+            "volume": 5878010.0
+        },
+        {
+            "change": 2.773246329526916,
+            "close": 6.3,
+            "date": "2022-10-31T00:00:00",
+            "high": 6.47,
+            "low": 5.99,
+            "open": 5.99,
+            "volume": 10334076.0
+        },
+        {
+            "change": -2.063492063492062,
+            "close": 6.17,
+            "date": "2022-11-01T00:00:00",
+            "high": 6.41,
+            "low": 6.02,
+            "open": 6.36,
+            "volume": 7673879.0
+        },
+        {
+            "change": 6.645056726094006,
+            "close": 6.58,
+            "date": "2022-11-03T00:00:00",
+            "high": 6.61,
+            "low": 5.74,
+            "open": 6.08,
+            "volume": 13971342.0
+        },
+        {
+            "change": -3.6474164133738634,
+            "close": 6.34,
+            "date": "2022-11-04T00:00:00",
+            "high": 6.72,
+            "low": 6.33,
+            "open": 6.68,
+            "volume": 7390249.0
+        },
+        {
+            "change": -3.943217665615142,
+            "close": 6.09,
+            "date": "2022-11-07T00:00:00",
+            "high": 6.51,
+            "low": 6.0,
+            "open": 6.34,
+            "volume": 10318167.0
+        },
+        {
+            "change": 4.926108374384234,
+            "close": 6.39,
+            "date": "2022-11-08T00:00:00",
+            "high": 6.39,
+            "low": 5.88,
+            "open": 6.03,
+            "volume": 6402363.0
+        },
+        {
+            "change": -2.5039123630672813,
+            "close": 6.23,
+            "date": "2022-11-09T00:00:00",
+            "high": 6.46,
+            "low": 6.16,
+            "open": 6.36,
+            "volume": 4858895.0
         }
     ],
     "setor": "Financeiro > Servi\u00e7os Financeiros Diversos > Servi\u00e7os Financeiros Diversos",
@@ -5896,16 +6004,16 @@
             "liquidez_corrente": 5.135647,
             "liquidez_corrente_3": 7.240414,
             "liquidez_corrente_5": 0.0,
-            "risco_falencia": 0.32849739310777476
+            "risco_falencia": 0.30503358571160794
         },
         "valuation": {
-            "cagr_peg_ratio_3": -0.74,
+            "cagr_peg_ratio_3": -0.73,
             "cagr_peg_ratio_5": 0,
-            "p__l_med": 12.966693428571428,
+            "p__l_med": 13.006525142857143,
             "p__l_median": 0.0,
             "price": 0,
-            "valuation": 6.589425449677309,
-            "valuation_med": 5.826010391266801
+            "valuation": 6.584484348403829,
+            "valuation_med": 5.823529494980364
         }
     },
     "splits": [],
