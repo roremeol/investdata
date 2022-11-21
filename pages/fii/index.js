@@ -4,7 +4,7 @@ import moment from 'moment'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowUp, faArrowDown } from '@fortawesome/free-solid-svg-icons'
 
-import { parseData } from './parse'
+import { parseData } from '../../lib/parse_fii'
 
 import Navbar from '../../components/Navbar'
 import DataSearch from '../../components/DataSearch'
@@ -29,6 +29,20 @@ export async function getStaticProps() {
       },
     };
 }
+
+// export async function getStaticPaths() {
+//   const fiis = getData('fii');
+//   const data = [...fiis,...getData('acao')]
+
+//   // Get the paths we want to pre-render based on posts
+//   const paths = data.map( ({ticker}) => ({
+//     params: { ticker },
+//   }))
+
+//   // We'll pre-render only these paths at build time.
+//   // { fallback: false } means other routes should 404.
+//   return { paths, fallback: false }
+// }
 
 export default function FiisPage({ search_list=[], fiis=[], config={} }) {
   const { snowflake={} } = config;
