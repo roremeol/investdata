@@ -1094,7 +1094,7 @@
             "caixa": 236296.0,
             "capital_circulante_liquido": -0.136314,
             "capital_de_giro": -47528.0,
-            "cotacao": 1.92,
+            "cotacao": 1.75,
             "custos": -13818.0,
             "div_bru__pl": -0.45442,
             "div_liq__ebitda": 2.222463,
@@ -1108,9 +1108,9 @@
             "ebit": -100534.0,
             "ebit__ativos_totais": -0.28834,
             "ebitda": -80373.0,
-            "ev": 254145760.0,
-            "ev__ebit": -2.527958,
-            "ev__ebitida": -3.162079,
+            "ev": 231627456.0,
+            "ev__ebit": -2.303972,
+            "ev__ebitida": -2.881906,
             "expectativa_de_crescimento_anual": 0.0,
             "fcf": 247575.0,
             "fci": -31641.0,
@@ -1135,13 +1135,13 @@
             "necessidade_de_capital_de_giro": -236598.0,
             "nopat": -87815.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": -5.351043,
-            "p__capital_de_giro": -5.351043,
-            "p__ebit": -2.529735,
-            "p__ebitida": -3.164301,
-            "p__l": -2.726404,
-            "p__sr": 2.036452,
-            "p__vpa": -2.00399,
+            "p__ativo_circ_liq": -4.877253,
+            "p__capital_de_giro": -4.877253,
+            "p__ebit": -2.305748,
+            "p__ebitida": -2.884129,
+            "p__l": -2.485003,
+            "p__sr": 1.856141,
+            "p__vpa": -1.826553,
             "passivo": 348665.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 326579.0,
@@ -1162,7 +1162,7 @@
             "roic": 0.0,
             "saldo_de_tesouraria": 189070.0,
             "total_de_acoes": 132460616.0,
-            "valor_de_mercado__passivos_totais": 729.42334,
+            "valor_de_mercado__passivos_totais": 664.838989,
             "valor_intrinseco_de_graham": 3.896275,
             "vpa": -0.958089
         }
@@ -4428,6 +4428,60 @@
             "low": 1.9,
             "open": 1.95,
             "volume": 30848.0
+        },
+        {
+            "change": -6.770833333333328,
+            "close": 1.79,
+            "date": "2022-11-11T00:00:00",
+            "high": 1.84,
+            "low": 1.79,
+            "open": 1.84,
+            "volume": 49927.0
+        },
+        {
+            "change": -2.234636871508382,
+            "close": 1.75,
+            "date": "2022-11-14T00:00:00",
+            "high": 1.82,
+            "low": 1.75,
+            "open": 1.8,
+            "volume": 29815.0
+        },
+        {
+            "change": -2.285714285714288,
+            "close": 1.71,
+            "date": "2022-11-16T00:00:00",
+            "high": 1.83,
+            "low": 1.66,
+            "open": 1.82,
+            "volume": 54534.0
+        },
+        {
+            "change": 6.432748538011702,
+            "close": 1.82,
+            "date": "2022-11-17T00:00:00",
+            "high": 1.82,
+            "low": 1.65,
+            "open": 1.66,
+            "volume": 53261.0
+        },
+        {
+            "change": -2.7472527472527495,
+            "close": 1.77,
+            "date": "2022-11-18T00:00:00",
+            "high": 1.87,
+            "low": 1.73,
+            "open": 1.87,
+            "volume": 34667.0
+        },
+        {
+            "change": 0.0,
+            "close": 1.77,
+            "date": "2022-11-21T00:00:00",
+            "high": 1.85,
+            "low": 1.75,
+            "open": 1.75,
+            "volume": 48398.0
         }
     ],
     "setor": "",
@@ -4524,12 +4578,12 @@
             "liquidez_corrente": 0.854467,
             "liquidez_corrente_3": 0.429255,
             "liquidez_corrente_5": 0.0,
-            "risco_falencia": 0.20505249068027945
+            "risco_falencia": 0.22691010914965745
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,
             "cagr_peg_ratio_5": 0,
-            "p__l_med": -0.4929828571428571,
+            "p__l_med": -0.47573992857142855,
             "p__l_median": 0.0,
             "price": 0,
             "valuation": 0,

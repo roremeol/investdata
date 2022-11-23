@@ -2790,6 +2790,24 @@
             "min": 120.0,
             "open": 120.0,
             "volume": 480000000
+        },
+        {
+            "change": 9.090909,
+            "close": 120.0,
+            "date": "2022-11-14",
+            "max": 120.0,
+            "min": 120.0,
+            "open": 120.0,
+            "volume": 3120000000
+        },
+        {
+            "change": 9.090909,
+            "close": 120.0,
+            "date": "2022-11-17",
+            "max": 120.0,
+            "min": 120.0,
+            "open": 120.0,
+            "volume": 120000000
         }
     ],
     "propriedades": [
@@ -2975,19 +2993,19 @@
         "medias_segmento": {
             "dividends": {
                 "cagr_dy_3": -0.04,
-                "dy": 7.81
+                "dy": 7.79
             },
             "mercado": {
-                "custo_adm_med": 171682.31,
-                "liquidez_med": 860986384027.78
+                "custo_adm_med": 171695.71,
+                "liquidez_med": 746805345000.0
             },
             "operacao": {
-                "patrimonio_liquido": 443163947.54,
+                "patrimonio_liquido": 442824712.48,
                 "pl_cx": 7.43,
                 "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.8
+                "p_vpa_med": 0.55
             }
         },
         "mercado": {

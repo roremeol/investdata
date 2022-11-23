@@ -1340,7 +1340,7 @@
             "caixa": 3738399.0,
             "capital_circulante_liquido": 0.078865,
             "capital_de_giro": 2201477.0,
-            "cotacao": 2.8,
+            "cotacao": 2.3,
             "custos": -1965393.0,
             "div_bru__pl": 0.699691,
             "div_liq__ebitda": 4.957436,
@@ -1354,9 +1354,9 @@
             "ebit": 254257.0,
             "ebit__ativos_totais": 0.009108,
             "ebitda": 1172409.0,
-            "ev": 5260308992.0,
-            "ev__ebit": 20.688946,
-            "ev__ebitida": 4.486753,
+            "ev": 4322006016.0,
+            "ev__ebit": 16.998571,
+            "ev__ebitida": 3.686432,
             "expectativa_de_crescimento_anual": 0.0,
             "fcf": -862777.0,
             "fci": -317663.0,
@@ -1381,13 +1381,13 @@
             "necessidade_de_capital_de_giro": 1236662.0,
             "nopat": 2261748.0,
             "operacoes_descontinuadas": 3695.0,
-            "p__ativo_circ_liq": 2.386806,
-            "p__capital_de_giro": 2.386806,
-            "p__ebit": 20.666086,
-            "p__ebitida": 4.481795,
-            "p__l": -11.902436,
-            "p__sr": 1.082963,
-            "p__vpa": 0.384955,
+            "p__ativo_circ_liq": 1.96059,
+            "p__capital_de_giro": 1.96059,
+            "p__ebit": 16.975714,
+            "p__ebitida": 3.681475,
+            "p__l": -9.777001,
+            "p__sr": 0.889577,
+            "p__vpa": 0.316213,
             "passivo": 27914550.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 4534875.0,
@@ -1408,7 +1408,7 @@
             "roic": 1.661828,
             "saldo_de_tesouraria": 964815.0,
             "total_de_acoes": 1876606208.0,
-            "valor_de_mercado__passivos_totais": 188.235077,
+            "valor_de_mercado__passivos_totais": 154.621674,
             "valor_intrinseco_de_graham": NaN,
             "vpa": 7.273583
         }
@@ -1419,6 +1419,69 @@
     "prices": [
         {
             "change": 0.0,
+            "close": 5.78125,
+            "date": "2012-12-28T00:00:00",
+            "high": 5.78125,
+            "low": 5.625,
+            "open": 5.6375,
+            "volume": 4268800.0
+        },
+        {
+            "change": 67.95675675675677,
+            "close": 9.71,
+            "date": "2013-12-27T00:00:00",
+            "high": 9.7125,
+            "low": 9.63,
+            "open": 9.64,
+            "volume": 1918000.0
+        },
+        {
+            "change": 69.51595262615858,
+            "close": 16.459999,
+            "date": "2014-12-29T00:00:00",
+            "high": 16.690001,
+            "low": 16.26,
+            "open": 16.57,
+            "volume": 6821100.0
+        },
+        {
+            "change": -39.732681636250405,
+            "close": 9.92,
+            "date": "2015-12-29T00:00:00",
+            "high": 10.1,
+            "low": 9.87,
+            "open": 9.88,
+            "volume": 3467300.0
+        },
+        {
+            "change": 34.375,
+            "close": 13.33,
+            "date": "2016-12-29T00:00:00",
+            "high": 13.33,
+            "low": 12.95,
+            "open": 13.3,
+            "volume": 4741200.0
+        },
+        {
+            "change": 38.034508627156775,
+            "close": 18.4,
+            "date": "2017-12-29T00:00:00",
+            "high": 18.4,
+            "low": 18.4,
+            "open": 18.4,
+            "volume": 0.0
+        },
+        {
+            "change": -51.79347826086956,
+            "close": 8.87,
+            "date": "2018-12-28T00:00:00",
+            "high": 9.0,
+            "low": 8.8,
+            "open": 8.84,
+            "volume": 7636300.0
+        },
+        {
+            "change": 20.06764374295379,
             "close": 10.65,
             "date": "2019-10-11T00:00:00",
             "high": 10.75,
@@ -8292,6 +8355,60 @@
             "low": 2.76,
             "open": 2.88,
             "volume": 138998191.0
+        },
+        {
+            "change": -11.071428571428559,
+            "close": 2.49,
+            "date": "2022-11-11T00:00:00",
+            "high": 2.7,
+            "low": 2.45,
+            "open": 2.63,
+            "volume": 176369897.0
+        },
+        {
+            "change": -1.2048192771084436,
+            "close": 2.46,
+            "date": "2022-11-14T00:00:00",
+            "high": 2.55,
+            "low": 2.41,
+            "open": 2.51,
+            "volume": 96352662.0
+        },
+        {
+            "change": -2.4390243902439046,
+            "close": 2.4,
+            "date": "2022-11-16T00:00:00",
+            "high": 2.46,
+            "low": 2.35,
+            "open": 2.44,
+            "volume": 118477937.0
+        },
+        {
+            "change": -2.083333333333326,
+            "close": 2.35,
+            "date": "2022-11-17T00:00:00",
+            "high": 2.38,
+            "low": 2.25,
+            "open": 2.36,
+            "volume": 129328943.0
+        },
+        {
+            "change": -3.829787234042566,
+            "close": 2.26,
+            "date": "2022-11-18T00:00:00",
+            "high": 2.45,
+            "low": 2.25,
+            "open": 2.4,
+            "volume": 107736257.0
+        },
+        {
+            "change": 2.2123893805309853,
+            "close": 2.31,
+            "date": "2022-11-21T00:00:00",
+            "high": 2.34,
+            "low": 2.22,
+            "open": 2.27,
+            "volume": 72679050.0
         }
     ],
     "setor": "Consumo C\u00edclico > Diversos > Servi\u00e7os Educacionais",
@@ -8388,12 +8505,12 @@
             "liquidez_corrente": 1.485455,
             "liquidez_corrente_3": 1.762099,
             "liquidez_corrente_5": 2.168495,
-            "risco_falencia": 0.6627910832443659
+            "risco_falencia": 0.6776480231748541
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,
             "cagr_peg_ratio_5": 0,
-            "p__l_med": 11.203321071428572,
+            "p__l_med": 11.355137857142857,
             "p__l_median": 6.369739,
             "price": 0,
             "valuation": 0,

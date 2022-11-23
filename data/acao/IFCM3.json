@@ -1094,7 +1094,7 @@
             "caixa": 223965.0,
             "capital_circulante_liquido": -0.038467,
             "capital_de_giro": -118172.0,
-            "cotacao": 5.95,
+            "cotacao": 4.78,
             "custos": -377320.0,
             "div_bru__pl": 0.494369,
             "div_liq__ebitda": 22.7306,
@@ -1108,9 +1108,9 @@
             "ebit": -60641.0,
             "ebit__ativos_totais": -0.019739,
             "ebitda": 15876.0,
-            "ev": 2169453824.0,
-            "ev__ebit": -35.775364,
-            "ev__ebitida": 136.649902,
+            "ev": 1742926336.0,
+            "ev__ebit": -28.741714,
+            "ev__ebitida": 109.783722,
             "expectativa_de_crescimento_anual": 0.0,
             "fcf": 976858.0,
             "fci": -769423.0,
@@ -1135,13 +1135,13 @@
             "necessidade_de_capital_de_giro": -186795.0,
             "nopat": 314421.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": -18.355389,
-            "p__capital_de_giro": -18.355389,
-            "p__ebit": -35.769413,
-            "p__ebitida": 136.627167,
-            "p__l": -14.570675,
-            "p__sr": 3.164176,
-            "p__vpa": 1.833562,
+            "p__ativo_circ_liq": -14.74601,
+            "p__capital_de_giro": -14.74601,
+            "p__ebit": -28.735765,
+            "p__ebitida": 109.760994,
+            "p__l": -11.705518,
+            "p__sr": 2.541976,
+            "p__vpa": 1.473013,
             "passivo": 3072066.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 1127483.0,
@@ -1162,7 +1162,7 @@
             "roic": 0.0,
             "saldo_de_tesouraria": 68623.0,
             "total_de_acoes": 364553440.0,
-            "valor_de_mercado__passivos_totais": 706.069763,
+            "valor_de_mercado__passivos_totais": 567.229187,
             "valor_intrinseco_de_graham": NaN,
             "vpa": 3.24505
         }
@@ -4599,6 +4599,60 @@
             "low": 5.83,
             "open": 5.95,
             "volume": 3374195.0
+        },
+        {
+            "change": -10.924369747899163,
+            "close": 5.3,
+            "date": "2022-11-11T00:00:00",
+            "high": 5.56,
+            "low": 5.02,
+            "open": 5.56,
+            "volume": 5618342.0
+        },
+        {
+            "change": 0.7547169811320762,
+            "close": 5.34,
+            "date": "2022-11-14T00:00:00",
+            "high": 5.44,
+            "low": 5.16,
+            "open": 5.36,
+            "volume": 3039394.0
+        },
+        {
+            "change": -11.423220973782762,
+            "close": 4.73,
+            "date": "2022-11-16T00:00:00",
+            "high": 5.4,
+            "low": 4.66,
+            "open": 5.35,
+            "volume": 4322522.0
+        },
+        {
+            "change": 0.0,
+            "close": 4.73,
+            "date": "2022-11-17T00:00:00",
+            "high": 4.99,
+            "low": 4.43,
+            "open": 4.66,
+            "volume": 2167172.0
+        },
+        {
+            "change": 0.2114164904862534,
+            "close": 4.74,
+            "date": "2022-11-18T00:00:00",
+            "high": 5.05,
+            "low": 4.66,
+            "open": 4.81,
+            "volume": 1941538.0
+        },
+        {
+            "change": 6.540084388185646,
+            "close": 5.05,
+            "date": "2022-11-21T00:00:00",
+            "high": 5.16,
+            "low": 4.7,
+            "open": 4.74,
+            "volume": 2532584.0
         }
     ],
     "setor": "Tecnologia da Informa\u00e7\u00e3o > Programas e Servi\u00e7os > Programas e Servi\u00e7os",
@@ -4695,12 +4749,12 @@
             "liquidez_corrente": 0.89519,
             "liquidez_corrente_3": 0.967081,
             "liquidez_corrente_5": 0.0,
-            "risco_falencia": 0.3570698727314742
+            "risco_falencia": 0.42301139143536554
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,
             "cagr_peg_ratio_5": 0,
-            "p__l_med": -9.768654142857143,
+            "p__l_med": -9.564000071428572,
             "p__l_median": 0.0,
             "price": 0,
             "valuation": 0,

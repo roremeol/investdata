@@ -353,6 +353,11 @@
             "data_com": "2022-10-20T00:00:00",
             "data_pagamento": "2022-10-27T00:00:00",
             "provento": 1.1
+        },
+        {
+            "data_com": "2022-11-21T00:00:00",
+            "data_pagamento": "2022-11-28T00:00:00",
+            "provento": 1.1
         }
     ],
     "fii": [],
@@ -2764,6 +2769,60 @@
             "min": 93.27,
             "open": 93.7,
             "volume": 391733460000
+        },
+        {
+            "change": -1.663158,
+            "close": 93.42,
+            "date": "2022-11-11",
+            "max": 94.0,
+            "min": 93.25,
+            "open": 94.0,
+            "volume": 511602800000
+        },
+        {
+            "change": -1.652632,
+            "close": 93.43,
+            "date": "2022-11-14",
+            "max": 93.85,
+            "min": 93.3,
+            "open": 93.42,
+            "volume": 315468070000
+        },
+        {
+            "change": -1.789474,
+            "close": 93.3,
+            "date": "2022-11-16",
+            "max": 93.9,
+            "min": 93.3,
+            "open": 93.74,
+            "volume": 443182750000
+        },
+        {
+            "change": -1.936842,
+            "close": 93.16,
+            "date": "2022-11-17",
+            "max": 93.83,
+            "min": 92.38,
+            "open": 93.3,
+            "volume": 332358690000
+        },
+        {
+            "change": -1.673684,
+            "close": 93.41,
+            "date": "2022-11-18",
+            "max": 93.9,
+            "min": 92.89,
+            "open": 93.16,
+            "volume": 394017020000
+        },
+        {
+            "change": -2.031579,
+            "close": 93.07,
+            "date": "2022-11-21",
+            "max": 93.66,
+            "min": 91.99,
+            "open": 93.42,
+            "volume": 407912750000
         }
     ],
     "propriedades": [],
@@ -2788,25 +2847,25 @@
         "medias_segmento": {
             "dividends": {
                 "cagr_dy_3": -0.06,
-                "dy": 10.8
+                "dy": 10.82
             },
             "mercado": {
-                "custo_adm_med": 232835.76,
-                "liquidez_med": 735204290847.46
+                "custo_adm_med": 231269.56,
+                "liquidez_med": 639158542184.87
             },
             "operacao": {
-                "patrimonio_liquido": 555876695.52,
-                "pl_cx": 9.46,
+                "patrimonio_liquido": 551572807.17,
+                "pl_cx": 9.53,
                 "vacancia": 0.71
             },
             "valuation": {
-                "p_vpa_med": 0.84
+                "p_vpa_med": 0.56
             }
         },
         "mercado": {
             "custo_adm_med": 70478.26,
             "ifix": 0,
-            "liquidez_med": 255419320000
+            "liquidez_med": 276643340000
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -2820,9 +2879,9 @@
         },
         "valuation": {
             "p_vpa": 0.95,
-            "p_vpa_med": 1.0,
-            "price": 93.27,
-            "valuation": 129.85
+            "p_vpa_med": 0.99,
+            "price": 93.07,
+            "valuation": 125.47
         }
     },
     "ticker": "MORC11",

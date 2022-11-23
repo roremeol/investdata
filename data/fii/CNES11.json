@@ -414,6 +414,11 @@
             "data_com": "2022-10-21T00:00:00",
             "data_pagamento": "2022-10-28T00:00:00",
             "provento": 0.113331873
+        },
+        {
+            "data_com": "2022-11-22T00:00:00",
+            "data_pagamento": "2022-11-29T00:00:00",
+            "provento": 0.120315297
         }
     ],
     "fii": [],
@@ -13684,6 +13689,60 @@
             "min": 32.67,
             "open": 33.84,
             "volume": 2771990000
+        },
+        {
+            "change": -66.315789,
+            "close": 32.0,
+            "date": "2022-11-11",
+            "max": 32.01,
+            "min": 32.0,
+            "open": 32.01,
+            "volume": 1440070000
+        },
+        {
+            "change": -67.0,
+            "close": 31.35,
+            "date": "2022-11-14",
+            "max": 32.0,
+            "min": 31.33,
+            "open": 32.0,
+            "volume": 3523730000
+        },
+        {
+            "change": -67.010526,
+            "close": 31.34,
+            "date": "2022-11-16",
+            "max": 32.54,
+            "min": 31.2,
+            "open": 31.37,
+            "volume": 5986090000
+        },
+        {
+            "change": -67.715789,
+            "close": 30.67,
+            "date": "2022-11-17",
+            "max": 32.54,
+            "min": 30.66,
+            "open": 32.53,
+            "volume": 8472680000
+        },
+        {
+            "change": -67.842105,
+            "close": 30.55,
+            "date": "2022-11-18",
+            "max": 30.72,
+            "min": 30.51,
+            "open": 30.72,
+            "volume": 31967760000
+        },
+        {
+            "change": -67.210526,
+            "close": 31.15,
+            "date": "2022-11-21",
+            "max": 31.15,
+            "min": 30.57,
+            "open": 31.0,
+            "volume": 3098200000
         }
     ],
     "propriedades": [
@@ -13709,8 +13768,8 @@
             "cmgr_alugeis_6m": -0.0
         },
         "dividends": {
-            "cagr_dividens_1": -0.89,
-            "cagr_dividens_3": -0.52,
+            "cagr_dividens_1": -0.88,
+            "cagr_dividens_3": -0.51,
             "cagr_dy_1": -0.86,
             "cagr_dy_3": -0.48,
             "cagr_dy_5": -0.33,
@@ -13718,26 +13777,26 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.14,
-                "dy": 4.91
+                "cagr_dy_3": -0.13,
+                "dy": 4.82
             },
             "mercado": {
-                "custo_adm_med": 139745.11,
-                "liquidez_med": 330367024000.0
+                "custo_adm_med": 136702.4,
+                "liquidez_med": 309473262560.98
             },
             "operacao": {
-                "patrimonio_liquido": 358671419.0,
-                "pl_cx": 3.23,
-                "vacancia": 23.51
+                "patrimonio_liquido": 352522976.86,
+                "pl_cx": 3.38,
+                "vacancia": 22.95
             },
             "valuation": {
-                "p_vpa_med": 0.71
+                "p_vpa_med": 0.52
             }
         },
         "mercado": {
             "custo_adm_med": 31718.245000000003,
             "ifix": 0,
-            "liquidez_med": 28043395000.0
+            "liquidez_med": 27997220000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -13750,10 +13809,10 @@
             "vacancia_3m": 54.6
         },
         "valuation": {
-            "p_vpa": 0.38,
+            "p_vpa": 0.36,
             "p_vpa_med": 0.77,
-            "price": 32.99,
-            "valuation": 13.59
+            "price": 31.15,
+            "valuation": 13.83
         }
     },
     "ticker": "CNES11",

@@ -1109,7 +1109,7 @@
             "caixa": 240190.0,
             "capital_circulante_liquido": -0.036115,
             "capital_de_giro": -92953.0,
-            "cotacao": 21.24,
+            "cotacao": 20.74,
             "custos": -755174.0,
             "div_bru__pl": 0.688663,
             "div_liq__ebitda": 2.86526,
@@ -1123,9 +1123,9 @@
             "ebit": 49719.0,
             "ebit__ativos_totais": 0.019317,
             "ebitda": 198449.0,
-            "ev": 2513120512.0,
-            "ev__ebit": 50.546482,
-            "ev__ebitida": 12.663811,
+            "ev": 2453973760.0,
+            "ev__ebit": 49.356861,
+            "ev__ebitida": 12.365766,
             "expectativa_de_crescimento_anual": 0.0,
             "fcf": -195417.0,
             "fci": -127390.0,
@@ -1150,13 +1150,13 @@
             "necessidade_de_capital_de_giro": -20674.0,
             "nopat": 832855.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": -27.030348,
-            "p__capital_de_giro": -27.030348,
-            "p__ebit": 50.535042,
-            "p__ebitida": 12.660945,
-            "p__l": -53.618267,
-            "p__sr": 2.263858,
-            "p__vpa": 2.139349,
+            "p__ativo_circ_liq": -26.394039,
+            "p__capital_de_giro": -26.394039,
+            "p__ebit": 49.345425,
+            "p__ebitida": 12.362901,
+            "p__l": -52.356064,
+            "p__sr": 2.210566,
+            "p__vpa": 2.088988,
             "passivo": 2573833.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 550780.0,
@@ -1177,7 +1177,7 @@
             "roic": 0.262979,
             "saldo_de_tesouraria": -72279.0,
             "total_de_acoes": 118293408.0,
-            "valor_de_mercado__passivos_totais": 976.190735,
+            "valor_de_mercado__passivos_totais": 953.210693,
             "valor_intrinseco_de_graham": NaN,
             "vpa": 9.928254
         }
@@ -3786,6 +3786,15 @@
             "low": 14.74,
             "open": 15.01,
             "volume": 13436527.0
+        },
+        {
+            "change": 0.0,
+            "close": 14.8,
+            "date": "2017-12-29T00:00:00",
+            "high": 14.8,
+            "low": 14.8,
+            "open": 14.8,
+            "volume": 0.0
         },
         {
             "change": 0.6081081081081071,
@@ -14622,6 +14631,60 @@
             "low": 21.1,
             "open": 21.1,
             "volume": 3991219.0
+        },
+        {
+            "change": -1.9774011299434944,
+            "close": 20.82,
+            "date": "2022-11-11T00:00:00",
+            "high": 21.13,
+            "low": 20.58,
+            "open": 21.12,
+            "volume": 13365427.0
+        },
+        {
+            "change": 0.14409221902017838,
+            "close": 20.85,
+            "date": "2022-11-14T00:00:00",
+            "high": 21.08,
+            "low": 20.67,
+            "open": 21.05,
+            "volume": 5738791.0
+        },
+        {
+            "change": -0.8153477218225501,
+            "close": 20.68,
+            "date": "2022-11-16T00:00:00",
+            "high": 20.75,
+            "low": 20.42,
+            "open": 20.74,
+            "volume": 8871761.0
+        },
+        {
+            "change": -0.3868471953578254,
+            "close": 20.6,
+            "date": "2022-11-17T00:00:00",
+            "high": 20.65,
+            "low": 20.05,
+            "open": 20.62,
+            "volume": 11906314.0
+        },
+        {
+            "change": 0.0,
+            "close": 20.6,
+            "date": "2022-11-18T00:00:00",
+            "high": 20.95,
+            "low": 20.42,
+            "open": 20.7,
+            "volume": 6976554.0
+        },
+        {
+            "change": 0.43689320388349445,
+            "close": 20.69,
+            "date": "2022-11-21T00:00:00",
+            "high": 20.86,
+            "low": 20.39,
+            "open": 20.69,
+            "volume": 4281216.0
         }
     ],
     "setor": "Sa\u00fade > Serv.M\u00e9d.Hospit..An\u00e1lises e Diagn\u00f3sticos > Serv.M\u00e9d.Hospit..An\u00e1lises e Diagn\u00f3sticos",
@@ -14718,12 +14781,12 @@
             "liquidez_corrente": 0.831234,
             "liquidez_corrente_3": 1.194029,
             "liquidez_corrente_5": 1.03899,
-            "risco_falencia": 0.27490802513925583
+            "risco_falencia": 0.28416353563754954
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,
             "cagr_peg_ratio_5": 0,
-            "p__l_med": 69.54133892857143,
+            "p__l_med": 69.63149628571429,
             "p__l_median": 0.0,
             "price": 0,
             "valuation": 0,

@@ -1322,17 +1322,17 @@
             "valor_patrimonio_cotas": 87.371167
         },
         {
-            "ativo": 222957743.93,
+            "ativo": 223701192.21,
             "caixa": 5133415.29,
             "competencia": "10/2022",
             "cotas_emitidas": 2522968.0,
             "cotistas": 4335,
-            "despesa_administracao": 83830.4,
-            "dy": 0.0,
+            "despesa_administracao": 84008.85,
+            "dy": 0.7875,
             "numero_cotas": 2522968.0,
-            "patrimonio_liquido": 219451318.92,
-            "receita_aluguel": 2928009.45,
-            "valor_patrimonio_cotas": 86.981412
+            "patrimonio_liquido": 220495677.46,
+            "receita_aluguel": 3015077.03,
+            "valor_patrimonio_cotas": 87.395352
         }
     ],
     "indexador_reajuste_contrato": [
@@ -13692,6 +13692,60 @@
             "min": 77.51,
             "open": 84.78,
             "volume": 136524320000
+        },
+        {
+            "change": -1.29108,
+            "close": 84.1,
+            "date": "2022-11-11",
+            "max": 84.76,
+            "min": 82.7,
+            "open": 83.42,
+            "volume": 53370880000
+        },
+        {
+            "change": -1.056338,
+            "close": 84.3,
+            "date": "2022-11-14",
+            "max": 84.34,
+            "min": 84.09,
+            "open": 84.09,
+            "volume": 2525510000
+        },
+        {
+            "change": -2.370892,
+            "close": 83.18,
+            "date": "2022-11-16",
+            "max": 84.48,
+            "min": 82.91,
+            "open": 84.3,
+            "volume": 37881100000
+        },
+        {
+            "change": -2.511737,
+            "close": 83.06,
+            "date": "2022-11-17",
+            "max": 84.09,
+            "min": 83.01,
+            "open": 83.18,
+            "volume": 65754040000
+        },
+        {
+            "change": -3.755869,
+            "close": 82.0,
+            "date": "2022-11-18",
+            "max": 83.65,
+            "min": 82.0,
+            "open": 83.06,
+            "volume": 59910880000
+        },
+        {
+            "change": -2.852113,
+            "close": 82.77,
+            "date": "2022-11-21",
+            "max": 83.07,
+            "min": 81.78,
+            "open": 83.0,
+            "volume": 35342770000
         }
     ],
     "propriedades": [
@@ -13709,33 +13763,33 @@
     "segmento": "Shoppings",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.1,
-            "cagr_ativo_1": -0.01,
-            "cagr_patrimonio_liquido": -0.0,
-            "cagr_vpa_1": -0.0,
+            "cagr_alugeis_1": -0.07,
+            "cagr_ativo_1": -0.0,
+            "cagr_patrimonio_liquido": 0.0,
+            "cagr_vpa_1": 0.0,
             "cagr_vpa_3": -0.01,
             "cmgr_alugeis_6m": 0.02
         },
         "dividends": {
             "cagr_dividens_1": -0.53,
             "cagr_dividens_3": -0.22,
-            "cagr_dy_1": 0,
-            "cagr_dy_3": 0,
-            "cagr_dy_5": 0,
-            "dy": 5.65
+            "cagr_dy_1": -0.21,
+            "cagr_dy_3": -0.08,
+            "cagr_dy_5": -0.05,
+            "dy": 6.43
         },
         "medias_segmento": {
             "dividends": {
                 "cagr_dy_3": -0.17,
-                "dy": 5.24
+                "dy": 5.28
             },
             "mercado": {
                 "custo_adm_med": 237341.59,
-                "liquidez_med": 575574112380.95
+                "liquidez_med": 575620411666.67
             },
             "operacao": {
-                "patrimonio_liquido": 663251512.39,
-                "pl_cx": 2.77,
+                "patrimonio_liquido": 671082529.96,
+                "pl_cx": 3.24,
                 "vacancia": 7.06
             },
             "valuation": {
@@ -13745,14 +13799,14 @@
         "mercado": {
             "custo_adm_med": 61551.89,
             "ifix": 0,
-            "liquidez_med": 99357535000.0
+            "liquidez_med": 98848615000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 1,
             "imoveis": 1,
-            "patrimonio_liquido": 219451318.92,
-            "pl_cx": 2.34,
+            "patrimonio_liquido": 220495677.46,
+            "pl_cx": 2.33,
             "vacancia": 1.03,
             "vacancia_1": 1.57,
             "vacancia_3m": 3.19
@@ -13760,7 +13814,7 @@
         "valuation": {
             "p_vpa": 0.95,
             "p_vpa_med": 0.88,
-            "price": 82.71,
+            "price": 82.77,
             "valuation": 71.81
         }
     },

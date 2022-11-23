@@ -1123,7 +1123,7 @@
             "caixa": 120.0,
             "capital_circulante_liquido": -1.277497,
             "capital_de_giro": -373420.0,
-            "cotacao": 6.4,
+            "cotacao": 6.27,
             "custos": -256107.0,
             "div_bru__pl": -0.00151,
             "div_liq__ebitda": 0.004883,
@@ -1137,9 +1137,9 @@
             "ebit": 68281.0,
             "ebit__ativos_totais": 0.233594,
             "ebitda": 76391.0,
-            "ev": 45441016.0,
-            "ev__ebit": 0.6655,
-            "ev__ebitida": 0.594848,
+            "ev": 44518000.0,
+            "ev__ebit": 0.651982,
+            "ev__ebitida": 0.582765,
             "expectativa_de_crescimento_anual": 0.0,
             "fcf": 808.0,
             "fci": -7024.0,
@@ -1164,13 +1164,13 @@
             "necessidade_de_capital_de_giro": -373266.0,
             "nopat": 316006.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": -0.121688,
-            "p__capital_de_giro": -0.121688,
-            "p__ebit": 0.665495,
-            "p__ebitida": 0.594843,
-            "p__l": 0.976315,
-            "p__sr": 0.129722,
-            "p__vpa": -0.139221,
+            "p__ativo_circ_liq": -0.119216,
+            "p__capital_de_giro": -0.119216,
+            "p__ebit": 0.651977,
+            "p__ebitida": 0.58276,
+            "p__l": 0.956484,
+            "p__sr": 0.127087,
+            "p__vpa": -0.136393,
             "passivo": 292306.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 522021.0,
@@ -1191,7 +1191,7 @@
             "roic": 0.012211,
             "saldo_de_tesouraria": -154.0,
             "total_de_acoes": 7100100.5,
-            "valor_de_mercado__passivos_totais": 155.455734,
+            "valor_de_mercado__passivos_totais": 152.298035,
             "valor_intrinseco_de_graham": NaN,
             "vpa": -45.970192
         }
@@ -1202,6 +1202,51 @@
     "prices": [
         {
             "change": 0.0,
+            "close": 47.205257,
+            "date": "2009-12-29T00:00:00",
+            "high": 47.526379,
+            "low": 46.884132,
+            "open": 47.526379,
+            "volume": 1139.0
+        },
+        {
+            "change": -30.092531855085554,
+            "close": 33.0,
+            "date": "2010-12-29T00:00:00",
+            "high": 33.0,
+            "low": 32.0,
+            "open": 33.0,
+            "volume": 14720.0
+        },
+        {
+            "change": 0.0,
+            "close": 33.0,
+            "date": "2011-12-29T00:00:00",
+            "high": 33.0,
+            "low": 32.0,
+            "open": 33.0,
+            "volume": 663.0
+        },
+        {
+            "change": -63.63636363636363,
+            "close": 12.0,
+            "date": "2012-12-28T00:00:00",
+            "high": 12.0,
+            "low": 11.0,
+            "open": 12.0,
+            "volume": 1420.0
+        },
+        {
+            "change": -25.0,
+            "close": 9.0,
+            "date": "2013-12-27T00:00:00",
+            "high": 9.0,
+            "low": 8.0,
+            "open": 9.0,
+            "volume": 464.0
+        },
+        {
+            "change": -99.0,
             "close": 0.09,
             "date": "2014-01-02T00:00:00",
             "high": 0.09,
@@ -5548,7 +5593,16 @@
             "volume": 31042.0
         },
         {
-            "change": 1.0000000000000002,
+            "change": 396.0,
+            "close": 4.0,
+            "date": "2015-12-29T00:00:00",
+            "high": 4.0,
+            "low": 4.0,
+            "open": 4.0,
+            "volume": 0.0
+        },
+        {
+            "change": -98.75,
             "close": 0.05,
             "date": "2015-12-30T00:00:00",
             "high": 0.05,
@@ -9308,6 +9362,15 @@
             "low": 2.66,
             "open": 2.66,
             "volume": 30400.0
+        },
+        {
+            "change": 0.0,
+            "close": 2.85,
+            "date": "2017-12-29T00:00:00",
+            "high": 2.85,
+            "low": 2.85,
+            "open": 2.85,
+            "volume": 0.0
         },
         {
             "change": -5.263157894736839,
@@ -19487,6 +19550,51 @@
             "low": 6.4,
             "open": 6.53,
             "volume": 39252.0
+        },
+        {
+            "change": 2.6562499999999987,
+            "close": 6.57,
+            "date": "2022-11-11T00:00:00",
+            "high": 6.7,
+            "low": 6.21,
+            "open": 6.3,
+            "volume": 39157.0
+        },
+        {
+            "change": 1.6742770167427614,
+            "close": 6.68,
+            "date": "2022-11-14T00:00:00",
+            "high": 6.68,
+            "low": 6.32,
+            "open": 6.57,
+            "volume": 14889.0
+        },
+        {
+            "change": -2.5449101796407176,
+            "close": 6.51,
+            "date": "2022-11-17T00:00:00",
+            "high": 6.59,
+            "low": 6.0,
+            "open": 6.59,
+            "volume": 8943.0
+        },
+        {
+            "change": -5.069124423963135,
+            "close": 6.18,
+            "date": "2022-11-18T00:00:00",
+            "high": 6.72,
+            "low": 6.18,
+            "open": 6.58,
+            "volume": 37624.0
+        },
+        {
+            "change": 0.32362459546926314,
+            "close": 6.2,
+            "date": "2022-11-21T00:00:00",
+            "high": 6.35,
+            "low": 6.2,
+            "open": 6.2,
+            "volume": 19363.0
         }
     ],
     "setor": "Consumo n\u00e3o C\u00edclico > Alimentos Processados > Carnes e Derivados",
@@ -19583,12 +19691,12 @@
             "liquidez_corrente": 0.284665,
             "liquidez_corrente_3": 0.205931,
             "liquidez_corrente_5": 0.085029,
-            "risco_falencia": 0.36353448745849376
+            "risco_falencia": 0.3649969819031523
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,
             "cagr_peg_ratio_5": 0,
-            "p__l_med": -112.07861507142857,
+            "p__l_med": -112.08003157142858,
             "p__l_median": -1.4280145,
             "price": 0,
             "valuation": 0,

@@ -4323,6 +4323,33 @@
             "min": 140.0,
             "open": 140.0,
             "volume": 280000000
+        },
+        {
+            "change": 27.272727,
+            "close": 140.0,
+            "date": "2022-11-11",
+            "max": 140.0,
+            "min": 140.0,
+            "open": 140.0,
+            "volume": 140000000
+        },
+        {
+            "change": 12.281818,
+            "close": 123.51,
+            "date": "2022-11-16",
+            "max": 123.51,
+            "min": 122.05,
+            "open": 122.05,
+            "volume": 1602710000
+        },
+        {
+            "change": 10.909091,
+            "close": 122.0,
+            "date": "2022-11-21",
+            "max": 122.0,
+            "min": 122.0,
+            "open": 122.0,
+            "volume": 16500012000000
         }
     ],
     "propriedades": [
@@ -4468,25 +4495,25 @@
         "medias_segmento": {
             "dividends": {
                 "cagr_dy_3": -0.04,
-                "dy": 7.81
+                "dy": 7.79
             },
             "mercado": {
-                "custo_adm_med": 171682.31,
-                "liquidez_med": 860986384027.78
+                "custo_adm_med": 171695.71,
+                "liquidez_med": 746805345000.0
             },
             "operacao": {
-                "patrimonio_liquido": 443163947.54,
+                "patrimonio_liquido": 442824712.48,
                 "pl_cx": 7.43,
                 "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.8
+                "p_vpa_med": 0.55
             }
         },
         "mercado": {
             "custo_adm_med": 23747.254999999997,
             "ifix": 0,
-            "liquidez_med": 3455330000.0
+            "liquidez_med": 3388240000
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -4499,9 +4526,9 @@
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 1.24,
+            "p_vpa": 1.08,
             "p_vpa_med": 1.16,
-            "price": 140.0,
+            "price": 122.0,
             "valuation": 95.31
         }
     },

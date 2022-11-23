@@ -21082,6 +21082,60 @@
             "min": 10.2,
             "open": 10.25,
             "volume": 5801831200000
+        },
+        {
+            "change": -87.606733,
+            "close": 10.16,
+            "date": "2022-11-11",
+            "max": 10.19,
+            "min": 10.05,
+            "open": 10.19,
+            "volume": 6660360350000
+        },
+        {
+            "change": -87.594535,
+            "close": 10.17,
+            "date": "2022-11-14",
+            "max": 10.2,
+            "min": 10.14,
+            "open": 10.16,
+            "volume": 5554284930000
+        },
+        {
+            "change": -87.606733,
+            "close": 10.16,
+            "date": "2022-11-16",
+            "max": 10.22,
+            "min": 10.15,
+            "open": 10.17,
+            "volume": 7467471370000
+        },
+        {
+            "change": -87.765309,
+            "close": 10.03,
+            "date": "2022-11-17",
+            "max": 10.18,
+            "min": 10.0,
+            "open": 10.16,
+            "volume": 8866739480000
+        },
+        {
+            "change": -87.655526,
+            "close": 10.12,
+            "date": "2022-11-18",
+            "max": 10.14,
+            "min": 10.03,
+            "open": 10.03,
+            "volume": 5537997140000
+        },
+        {
+            "change": -87.704318,
+            "close": 10.08,
+            "date": "2022-11-21",
+            "max": 10.12,
+            "min": 10.06,
+            "open": 10.11,
+            "volume": 6362550960000
         }
     ],
     "propriedades": [],
@@ -21106,25 +21160,25 @@
         "medias_segmento": {
             "dividends": {
                 "cagr_dy_3": -0.04,
-                "dy": 7.81
+                "dy": 7.79
             },
             "mercado": {
-                "custo_adm_med": 171682.31,
-                "liquidez_med": 860986384027.78
+                "custo_adm_med": 171695.71,
+                "liquidez_med": 746805345000.0
             },
             "operacao": {
-                "patrimonio_liquido": 443163947.54,
+                "patrimonio_liquido": 442824712.48,
                 "pl_cx": 7.43,
                 "vacancia": 6.43
             },
             "valuation": {
-                "p_vpa_med": 0.8
+                "p_vpa_med": 0.55
             }
         },
         "mercado": {
             "custo_adm_med": 340527.69499999995,
             "ifix": 2.077,
-            "liquidez_med": 719309390000
+            "liquidez_med": 723039840000
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -21137,9 +21191,9 @@
             "vacancia_3m": 100.0
         },
         "valuation": {
-            "p_vpa": 1.0,
-            "p_vpa_med": 1.09,
-            "price": 10.2,
+            "p_vpa": 0.99,
+            "p_vpa_med": 1.08,
+            "price": 10.08,
             "valuation": 13.13
         }
     },

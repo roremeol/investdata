@@ -1165,7 +1165,7 @@
             "caixa": 18866490.0,
             "capital_circulante_liquido": 0.078487,
             "capital_de_giro": 10517504.0,
-            "cotacao": 11.43,
+            "cotacao": 9.48,
             "custos": -85699848.0,
             "div_bru__pl": 2.020955,
             "div_liq__ebitda": 2.319281,
@@ -1179,9 +1179,9 @@
             "ebit": 15701196.0,
             "ebit__ativos_totais": 0.11717,
             "ebitda": 17663632.0,
-            "ev": 7943325184.0,
-            "ev__ebit": 0.505906,
-            "ev__ebitida": 0.449699,
+            "ev": 6595153408.0,
+            "ev__ebit": 0.420041,
+            "ev__ebitida": 0.373375,
             "expectativa_de_crescimento_anual": 0.460997,
             "fcf": -323418.0,
             "fci": -7028363.0,
@@ -1206,13 +1206,13 @@
             "necessidade_de_capital_de_giro": 3440140.0,
             "nopat": 100288448.0,
             "operacoes_descontinuadas": -16408.0,
-            "p__ativo_circ_liq": 0.751353,
-            "p__capital_de_giro": 0.751353,
-            "p__ebit": 0.503297,
-            "p__ebitida": 0.44738,
-            "p__l": 0.974574,
-            "p__sr": 0.075689,
-            "p__vpa": 0.266913,
+            "p__ativo_circ_liq": 0.623169,
+            "p__capital_de_giro": 0.623169,
+            "p__ebit": 0.417432,
+            "p__ebitida": 0.371055,
+            "p__l": 0.808308,
+            "p__sr": 0.062776,
+            "p__vpa": 0.221377,
             "passivo": 134003832.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 37750752.0,
@@ -1220,7 +1220,7 @@
             "patrimonio_liquido": 29606508.0,
             "patrimonio_liquido__ativos": 0.220938,
             "payout": 0.0,
-            "peg_ratio": 2.114058,
+            "peg_ratio": 1.753392,
             "pl__ativo": 0.220938,
             "poder_de_ganho_basico": 0.131814,
             "prazo_medio_de_recebimento": 23.461168,
@@ -1233,7 +1233,7 @@
             "roic": 0.125138,
             "saldo_de_tesouraria": 7077364.0,
             "total_de_acoes": 691369920.0,
-            "valor_de_mercado__passivos_totais": 58.971138,
+            "valor_de_mercado__passivos_totais": 48.910442,
             "valor_intrinseco_de_graham": 106.302948,
             "vpa": 42.822964
         }
@@ -1244,6 +1244,51 @@
     "prices": [
         {
             "change": 0.0,
+            "close": 19.450001,
+            "date": "2009-12-29T00:00:00",
+            "high": 19.49,
+            "low": 19.01,
+            "open": 19.08,
+            "volume": 894200.0
+        },
+        {
+            "change": -22.365042551925836,
+            "close": 15.1,
+            "date": "2010-12-29T00:00:00",
+            "high": 15.12,
+            "low": 14.98,
+            "open": 14.99,
+            "volume": 1326600.0
+        },
+        {
+            "change": -43.443708609271525,
+            "close": 8.54,
+            "date": "2011-12-29T00:00:00",
+            "high": 8.54,
+            "low": 8.21,
+            "open": 8.36,
+            "volume": 3046500.0
+        },
+        {
+            "change": -0.7025761124121631,
+            "close": 8.48,
+            "date": "2012-12-28T00:00:00",
+            "high": 8.67,
+            "low": 8.41,
+            "open": 8.6,
+            "volume": 2921800.0
+        },
+        {
+            "change": -54.00943396226415,
+            "close": 3.9,
+            "date": "2013-12-27T00:00:00",
+            "high": 3.93,
+            "low": 3.85,
+            "open": 3.89,
+            "volume": 3419000.0
+        },
+        {
+            "change": -1.2820512820512775,
             "close": 3.85,
             "date": "2014-01-02T00:00:00",
             "high": 4.05,
@@ -10142,6 +10187,15 @@
             "low": 7.1,
             "open": 7.14,
             "volume": 10342234.0
+        },
+        {
+            "change": 0.0,
+            "close": 7.32,
+            "date": "2017-12-29T00:00:00",
+            "high": 7.32,
+            "low": 7.32,
+            "open": 7.32,
+            "volume": 0.0
         },
         {
             "change": -0.2732240437158533,
@@ -20978,6 +21032,60 @@
             "low": 11.32,
             "open": 11.36,
             "volume": 70433986.0
+        },
+        {
+            "change": 2.8871391076115493,
+            "close": 11.76,
+            "date": "2022-11-11T00:00:00",
+            "high": 11.89,
+            "low": 10.36,
+            "open": 10.6,
+            "volume": 212872667.0
+        },
+        {
+            "change": -7.397959183673462,
+            "close": 10.89,
+            "date": "2022-11-14T00:00:00",
+            "high": 11.72,
+            "low": 10.76,
+            "open": 11.72,
+            "volume": 183856555.0
+        },
+        {
+            "change": -6.795224977043161,
+            "close": 10.15,
+            "date": "2022-11-16T00:00:00",
+            "high": 10.98,
+            "low": 10.08,
+            "open": 10.89,
+            "volume": 169648672.0
+        },
+        {
+            "change": -0.19704433497536525,
+            "close": 10.13,
+            "date": "2022-11-17T00:00:00",
+            "high": 10.23,
+            "low": 9.87,
+            "open": 10.01,
+            "volume": 169441437.0
+        },
+        {
+            "change": -2.270483711747289,
+            "close": 9.9,
+            "date": "2022-11-18T00:00:00",
+            "high": 10.64,
+            "low": 9.88,
+            "open": 10.29,
+            "volume": 117671808.0
+        },
+        {
+            "change": -1.0101010101010064,
+            "close": 9.8,
+            "date": "2022-11-21T00:00:00",
+            "high": 10.09,
+            "low": 9.53,
+            "open": 10.09,
+            "volume": 148632698.0
         }
     ],
     "setor": "Consumo n\u00e3o C\u00edclico > Alimentos Processados > Carnes e Derivados",
@@ -21074,12 +21182,12 @@
             "liquidez_corrente": 1.278604,
             "liquidez_corrente_3": 1.328577,
             "liquidez_corrente_5": 1.360447,
-            "risco_falencia": 0.788473128978236
+            "risco_falencia": 0.7918095613821386
         },
         "valuation": {
-            "cagr_peg_ratio_3": 0.16,
-            "cagr_peg_ratio_5": -0.03,
-            "p__l_med": -0.11764135714285674,
+            "cagr_peg_ratio_3": 0.09,
+            "cagr_peg_ratio_5": -0.06,
+            "p__l_med": -0.1295174999999996,
             "p__l_median": -1.1319485,
             "price": 0,
             "valuation": 106.3029510746277,

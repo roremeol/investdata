@@ -39,11 +39,11 @@
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 0.0
+            "precentual": 69.42
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 69.42
+            "precentual": 0.0
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
@@ -5177,6 +5177,60 @@
             "min": 74.64,
             "open": 75.0,
             "volume": 594420220000
+        },
+        {
+            "change": -23.39512,
+            "close": 73.15,
+            "date": "2022-11-11",
+            "max": 74.49,
+            "min": 73.15,
+            "open": 74.49,
+            "volume": 2087815380000
+        },
+        {
+            "change": -22.504974,
+            "close": 74.0,
+            "date": "2022-11-14",
+            "max": 74.5,
+            "min": 72.84,
+            "open": 73.2,
+            "volume": 196803540000
+        },
+        {
+            "change": -23.552204,
+            "close": 73.0,
+            "date": "2022-11-16",
+            "max": 75.46,
+            "min": 73.0,
+            "open": 75.46,
+            "volume": 327590850000
+        },
+        {
+            "change": -23.552204,
+            "close": 73.0,
+            "date": "2022-11-17",
+            "max": 74.26,
+            "min": 71.1,
+            "open": 73.87,
+            "volume": 349583990000
+        },
+        {
+            "change": -24.599434,
+            "close": 72.0,
+            "date": "2022-11-18",
+            "max": 73.0,
+            "min": 71.9,
+            "open": 73.0,
+            "volume": 446323030000
+        },
+        {
+            "change": -24.840297,
+            "close": 71.77,
+            "date": "2022-11-21",
+            "max": 72.99,
+            "min": 71.6,
+            "open": 72.99,
+            "volume": 239315410000
         }
     ],
     "propriedades": [
@@ -5221,29 +5275,29 @@
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.14,
-                "dy": 4.91
+                "cagr_dy_3": -0.13,
+                "dy": 4.82
             },
             "mercado": {
-                "custo_adm_med": 139745.11,
-                "liquidez_med": 330367024000.0
+                "custo_adm_med": 136702.4,
+                "liquidez_med": 309473262560.98
             },
             "operacao": {
-                "patrimonio_liquido": 358671419.0,
-                "pl_cx": 3.23,
-                "vacancia": 23.51
+                "patrimonio_liquido": 352522976.86,
+                "pl_cx": 3.38,
+                "vacancia": 22.95
             },
             "valuation": {
-                "p_vpa_med": 0.71
+                "p_vpa_med": 0.52
             }
         },
         "mercado": {
             "custo_adm_med": 61002.555,
             "ifix": 0.319,
-            "liquidez_med": 400071050000
+            "liquidez_med": 399340240000
         },
         "operacao": {
-            "contratos_vencimento": 33,
+            "contratos_vencimento": 30,
             "estados": 2,
             "imoveis": 2,
             "patrimonio_liquido": 493650132.26,
@@ -5253,9 +5307,9 @@
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.74,
+            "p_vpa": 0.7,
             "p_vpa_med": 0.79,
-            "price": 75.3,
+            "price": 71.77,
             "valuation": 98.25
         }
     },

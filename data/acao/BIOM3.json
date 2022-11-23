@@ -1094,7 +1094,7 @@
             "caixa": 80945.0,
             "capital_circulante_liquido": 0.210395,
             "capital_de_giro": 80366.0,
-            "cotacao": 6.5,
+            "cotacao": 6.1,
             "custos": -85325.0,
             "div_bru__pl": 1.177107,
             "div_liq__ebitda": -1.18205,
@@ -1104,13 +1104,13 @@
             "divida_liquida__ebit": -1.137273,
             "divida_liquida__ebitida": -1.18205,
             "divida_liquida__patrimonio_liquido": 0.624514,
-            "dividend_yield": 0.000661,
+            "dividend_yield": 0.000705,
             "ebit": -80438.0,
             "ebit__ativos_totais": -0.210584,
             "ebitda": -77391.0,
-            "ev": 478025728.0,
-            "ev__ebit": -5.942785,
-            "ev__ebitida": -6.176761,
+            "ev": 448614400.0,
+            "ev__ebit": -5.577145,
+            "ev__ebitida": -5.796726,
             "expectativa_de_crescimento_anual": 0.0,
             "fcf": 66651.0,
             "fci": 58395.0,
@@ -1135,13 +1135,13 @@
             "necessidade_de_capital_de_giro": 47361.0,
             "nopat": 5544.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": 5.946972,
-            "p__capital_de_giro": 5.946972,
-            "p__ebit": -5.941648,
-            "p__ebitida": -6.17558,
-            "p__l": -5.176203,
-            "p__sr": 4.450744,
-            "p__vpa": 3.262751,
+            "p__ativo_circ_liq": 5.581004,
+            "p__capital_de_giro": 5.581004,
+            "p__ebit": -5.576008,
+            "p__ebitida": -5.795544,
+            "p__l": -4.857667,
+            "p__sr": 4.176853,
+            "p__vpa": 3.061966,
             "passivo": 381976.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 78148.0,
@@ -1162,7 +1162,7 @@
             "roic": 0.0,
             "saldo_de_tesouraria": 33005.0,
             "total_de_acoes": 73528352.0,
-            "valor_de_mercado__passivos_totais": 1251.215454,
+            "valor_de_mercado__passivos_totais": 1174.217651,
             "valor_intrinseco_de_graham": NaN,
             "vpa": 1.992184
         }
@@ -17082,6 +17082,69 @@
             "low": 6.32,
             "open": 6.5,
             "volume": 57961.0
+        },
+        {
+            "change": -0.615384615384616,
+            "close": 6.46,
+            "date": "2022-11-11T00:00:00",
+            "high": 6.77,
+            "low": 6.3,
+            "open": 6.45,
+            "volume": 175521.0
+        },
+        {
+            "change": 0.6191950464396291,
+            "close": 6.5,
+            "date": "2022-11-14T00:00:00",
+            "high": 6.5,
+            "low": 6.45,
+            "open": 6.45,
+            "volume": 9045.0
+        },
+        {
+            "change": 3.6923076923076956,
+            "close": 6.74,
+            "date": "2022-11-16T00:00:00",
+            "high": 6.77,
+            "low": 6.54,
+            "open": 6.77,
+            "volume": 12580.0
+        },
+        {
+            "change": 0.7418397626112733,
+            "close": 6.79,
+            "date": "2022-11-17T00:00:00",
+            "high": 7.0,
+            "low": 6.51,
+            "open": 6.75,
+            "volume": 51635.0
+        },
+        {
+            "change": -5.007363770250366,
+            "close": 6.45,
+            "date": "2022-11-18T00:00:00",
+            "high": 6.65,
+            "low": 6.45,
+            "open": 6.65,
+            "volume": 9202.0
+        },
+        {
+            "change": -1.8604651162790713,
+            "close": 6.33,
+            "date": "2022-11-21T00:00:00",
+            "high": 6.57,
+            "low": 6.26,
+            "open": 6.57,
+            "volume": 42737.0
+        },
+        {
+            "change": -3.6334913112164364,
+            "close": 6.1,
+            "date": "2022-11-22T00:00:00",
+            "high": 6.52,
+            "low": 6.06,
+            "open": 6.4,
+            "volume": 41800.0
         }
     ],
     "setor": "Sa\u00fade > Com\u00e9rcio e Distribui\u00e7\u00e3o > Medicamentos e Outros Produtos",
@@ -17101,7 +17164,7 @@
         "dividends": {
             "cagr_dy_1": 0,
             "cagr_dy_5": 0,
-            "dy": 0.000661,
+            "dy": 0.000705,
             "payout": 0.0
         },
         "general": {
@@ -17178,12 +17241,12 @@
             "liquidez_corrente": 2.028382,
             "liquidez_corrente_3": 3.031386,
             "liquidez_corrente_5": 2.66278,
-            "risco_falencia": 0.15318964486209133
+            "risco_falencia": 0.17424949864527886
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,
             "cagr_peg_ratio_5": 0,
-            "p__l_med": -8.86754792857143,
+            "p__l_med": -8.844795357142857,
             "p__l_median": -9.7579,
             "price": 0,
             "valuation": 0,

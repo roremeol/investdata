@@ -7453,6 +7453,60 @@
             "min": 109.7,
             "open": 109.9,
             "volume": 3257960350000
+        },
+        {
+            "change": -4.3125,
+            "close": 107.17,
+            "date": "2022-11-11",
+            "max": 109.15,
+            "min": 106.18,
+            "open": 108.32,
+            "volume": 3386216530000
+        },
+        {
+            "change": -6.223214,
+            "close": 105.03,
+            "date": "2022-11-14",
+            "max": 108.5,
+            "min": 105.0,
+            "open": 107.18,
+            "volume": 2667754920000
+        },
+        {
+            "change": -7.8125,
+            "close": 103.25,
+            "date": "2022-11-16",
+            "max": 106.64,
+            "min": 102.5,
+            "open": 105.05,
+            "volume": 2672186270000
+        },
+        {
+            "change": -10.892857,
+            "close": 99.8,
+            "date": "2022-11-17",
+            "max": 103.66,
+            "min": 99.55,
+            "open": 103.0,
+            "volume": 5100991870000
+        },
+        {
+            "change": -10.553571,
+            "close": 100.18,
+            "date": "2022-11-18",
+            "max": 101.6,
+            "min": 99.8,
+            "open": 101.0,
+            "volume": 3246320810000
+        },
+        {
+            "change": -10.821429,
+            "close": 99.88,
+            "date": "2022-11-21",
+            "max": 100.18,
+            "min": 99.82,
+            "open": 100.15,
+            "volume": 2692279550000
         }
     ],
     "propriedades": [
@@ -7592,7 +7646,7 @@
             },
             "mercado": {
                 "custo_adm_med": 345057.52,
-                "liquidez_med": 801298095625.0
+                "liquidez_med": 773311403125.0
             },
             "operacao": {
                 "patrimonio_liquido": 1006636839.66,
@@ -7600,13 +7654,13 @@
                 "vacancia": 5.76
             },
             "valuation": {
-                "p_vpa_med": 0.76
+                "p_vpa_med": 0.62
             }
         },
         "mercado": {
             "custo_adm_med": 93163.12,
             "ifix": 1.38,
-            "liquidez_med": 2325691680000
+            "liquidez_med": 2331931700000
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -7619,9 +7673,9 @@
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.92,
+            "p_vpa": 0.84,
             "p_vpa_med": 1.01,
-            "price": 110.0,
+            "price": 99.88,
             "valuation": 86.65
         }
     },
