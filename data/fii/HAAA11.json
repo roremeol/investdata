@@ -2988,6 +2988,42 @@
             "min": 88.65,
             "open": 88.65,
             "volume": 443250000
+        },
+        {
+            "change": -12.27,
+            "close": 87.73,
+            "date": "2022-11-11",
+            "max": 87.73,
+            "min": 85.0,
+            "open": 85.44,
+            "volume": 2724210000
+        },
+        {
+            "change": -15.98,
+            "close": 84.02,
+            "date": "2022-11-16",
+            "max": 84.03,
+            "min": 84.02,
+            "open": 84.03,
+            "volume": 252080000
+        },
+        {
+            "change": -12.25,
+            "close": 87.75,
+            "date": "2022-11-18",
+            "max": 87.75,
+            "min": 87.75,
+            "open": 87.75,
+            "volume": 87750000
+        },
+        {
+            "change": -15.98,
+            "close": 84.02,
+            "date": "2022-11-21",
+            "max": 84.06,
+            "min": 84.02,
+            "open": 84.06,
+            "volume": 588300000
         }
     ],
     "propriedades": [
@@ -3037,21 +3073,21 @@
             },
             "mercado": {
                 "custo_adm_med": 139745.11,
-                "liquidez_med": 330367024000.0
+                "liquidez_med": 319750645125.0
             },
             "operacao": {
-                "patrimonio_liquido": 358671419.0,
+                "patrimonio_liquido": 358673260.05,
                 "pl_cx": 3.23,
                 "vacancia": 23.51
             },
             "valuation": {
-                "p_vpa_med": 0.71
+                "p_vpa_med": 0.59
             }
         },
         "mercado": {
             "custo_adm_med": 76386.67499999999,
             "ifix": 0,
-            "liquidez_med": 706150000.0
+            "liquidez_med": 695040000.0
         },
         "operacao": {
             "contratos_vencimento": 36,
@@ -3064,9 +3100,9 @@
             "vacancia_3m": 16.93
         },
         "valuation": {
-            "p_vpa": 0.98,
+            "p_vpa": 0.93,
             "p_vpa_med": 1.0,
-            "price": 88.65,
+            "price": 84.02,
             "valuation": 71.99
         }
     },

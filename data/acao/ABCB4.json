@@ -1550,7 +1550,7 @@
             "caixa": 0.0,
             "capital_circulante_liquido": 0.0,
             "capital_de_giro": 0.0,
-            "cotacao": 19.700001,
+            "cotacao": 19.52,
             "custos": -3509025.0,
             "div_bru__pl": 0.0,
             "div_liq__ebitda": 0.0,
@@ -1560,11 +1560,11 @@
             "divida_liquida__ebit": 0.0,
             "divida_liquida__ebitida": 0.0,
             "divida_liquida__patrimonio_liquido": 0.0,
-            "dividend_yield": 0.06052,
+            "dividend_yield": 0.061078,
             "ebit": 0.0,
             "ebit__ativos_totais": 0.0,
             "ebitda": 0.0,
-            "ev": 4453975552.0,
+            "ev": 4413279232.0,
             "ev__ebit": 0.0,
             "ev__ebitida": 0.0,
             "expectativa_de_crescimento_anual": 0.0,
@@ -1596,8 +1596,8 @@
             "p__ebit": 0.0,
             "p__ebitida": 0.0,
             "p__l": 0.0,
-            "p__sr": 0.860905,
-            "p__vpa": 0.902782,
+            "p__sr": 0.853039,
+            "p__vpa": 0.894533,
             "passivo": 47616604.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 0.0,
@@ -1618,7 +1618,7 @@
             "roic": 0.0,
             "saldo_de_tesouraria": 0.0,
             "total_de_acoes": 226090128.0,
-            "valor_de_mercado__passivos_totais": 93.538284,
+            "valor_de_mercado__passivos_totais": 92.683617,
             "valor_intrinseco_de_graham": 0.0,
             "vpa": 21.821434
         }
@@ -21471,6 +21471,15 @@
             "low": 19.28,
             "open": 19.84,
             "volume": 14678273.0
+        },
+        {
+            "change": 0.8188382804503642,
+            "close": 19.700001,
+            "date": "2022-11-22T00:00:00",
+            "high": 19.940001,
+            "low": 19.299999,
+            "open": 19.59,
+            "volume": 927200.0
         }
     ],
     "setor": "Financeiro > Intermedi\u00e1rios Financeiros > Bancos",
@@ -21490,7 +21499,7 @@
         "dividends": {
             "cagr_dy_1": -0.94,
             "cagr_dy_5": -0.43,
-            "dy": 0.06052,
+            "dy": 0.061078,
             "payout": 0.0
         },
         "general": {
@@ -21567,7 +21576,7 @@
             "liquidez_corrente": 0.0,
             "liquidez_corrente_3": 0.0,
             "liquidez_corrente_5": 0.0,
-            "risco_falencia": 0.6623596927959426
+            "risco_falencia": 0.6627418609517018
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,

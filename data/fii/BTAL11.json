@@ -159,11 +159,16 @@
             "data_com": "2022-10-20T00:00:00",
             "data_pagamento": "2022-10-27T00:00:00",
             "provento": 0.83
+        },
+        {
+            "data_com": "2022-11-21T00:00:00",
+            "data_pagamento": "2022-11-28T00:00:00",
+            "provento": 0.83
         }
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.526,
+    "ifix_participacao": 0.525,
     "imr": [
         {
             "ativo": 599114180.61,
@@ -437,6 +442,19 @@
             "patrimonio_liquido": 635897361.69,
             "receita_aluguel": 3196877.06,
             "valor_patrimonio_cotas": 106.288722
+        },
+        {
+            "ativo": 647013595.41,
+            "caixa": 30131068.99,
+            "competencia": "10/2022",
+            "cotas_emitidas": 5982736.0,
+            "cotistas": 41022,
+            "despesa_administracao": 549707.09,
+            "dy": 0.851,
+            "numero_cotas": 5982736.0,
+            "patrimonio_liquido": 636235058.3,
+            "receita_aluguel": 3196877.06,
+            "valor_patrimonio_cotas": 106.345167
         }
     ],
     "indexador_reajuste_contrato": [
@@ -457,7 +475,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 6.140000000000001,
     "isin": "BRBTALCTF003",
     "lci": [],
     "mandato": "Renda",
@@ -4296,96 +4314,276 @@
             "min": 100.54,
             "open": 100.55,
             "volume": 1078249780000
+        },
+        {
+            "change": -1.371205,
+            "close": 100.7,
+            "date": "2022-10-20",
+            "max": 101.99,
+            "min": 100.3,
+            "open": 100.77,
+            "volume": 942469340000
+        },
+        {
+            "change": -1.890304,
+            "close": 100.17,
+            "date": "2022-10-21",
+            "max": 100.7,
+            "min": 100.0,
+            "open": 100.7,
+            "volume": 915475470000
+        },
+        {
+            "change": -2.94809,
+            "close": 99.09,
+            "date": "2022-10-24",
+            "max": 100.74,
+            "min": 99.05,
+            "open": 100.45,
+            "volume": 1200168760000
+        },
+        {
+            "change": -1.733595,
+            "close": 100.33,
+            "date": "2022-10-25",
+            "max": 100.99,
+            "min": 99.5,
+            "open": 99.8,
+            "volume": 1043769020000
+        },
+        {
+            "change": -3.428012,
+            "close": 98.6,
+            "date": "2022-10-26",
+            "max": 100.46,
+            "min": 98.6,
+            "open": 100.33,
+            "volume": 1293787350000
+        },
+        {
+            "change": -2.938296,
+            "close": 99.1,
+            "date": "2022-10-27",
+            "max": 99.85,
+            "min": 98.6,
+            "open": 98.61,
+            "volume": 640674840000
+        },
+        {
+            "change": -2.938296,
+            "close": 99.1,
+            "date": "2022-10-28",
+            "max": 99.86,
+            "min": 99.0,
+            "open": 99.55,
+            "volume": 633265290000
+        },
+        {
+            "change": -3.359452,
+            "close": 98.67,
+            "date": "2022-10-31",
+            "max": 99.09,
+            "min": 98.5,
+            "open": 99.08,
+            "volume": 825006110000
+        },
+        {
+            "change": -4.015671,
+            "close": 98.0,
+            "date": "2022-11-01",
+            "max": 99.44,
+            "min": 97.74,
+            "open": 98.67,
+            "volume": 1095919730000
+        },
+        {
+            "change": -3.947111,
+            "close": 98.07,
+            "date": "2022-11-03",
+            "max": 98.94,
+            "min": 98.07,
+            "open": 98.42,
+            "volume": 733441460000
+        },
+        {
+            "change": -4.045054,
+            "close": 97.97,
+            "date": "2022-11-04",
+            "max": 99.08,
+            "min": 97.41,
+            "open": 98.48,
+            "volume": 1479405180000
+        },
+        {
+            "change": -4.299706,
+            "close": 97.71,
+            "date": "2022-11-07",
+            "max": 98.29,
+            "min": 97.5,
+            "open": 97.91,
+            "volume": 797397650000
+        },
+        {
+            "change": -4.701273,
+            "close": 97.3,
+            "date": "2022-11-08",
+            "max": 97.98,
+            "min": 97.1,
+            "open": 97.71,
+            "volume": 886773120000
+        },
+        {
+            "change": -4.505387,
+            "close": 97.5,
+            "date": "2022-11-09",
+            "max": 97.7,
+            "min": 97.05,
+            "open": 97.56,
+            "volume": 1035907160000
+        },
+        {
+            "change": -5.014691,
+            "close": 96.98,
+            "date": "2022-11-11",
+            "max": 97.68,
+            "min": 96.67,
+            "open": 97.05,
+            "volume": 828725630000
+        },
+        {
+            "change": -3.623898,
+            "close": 98.4,
+            "date": "2022-11-14",
+            "max": 98.85,
+            "min": 96.98,
+            "open": 96.98,
+            "volume": 1185865070000
+        },
+        {
+            "change": -4.995103,
+            "close": 97.0,
+            "date": "2022-11-16",
+            "max": 99.02,
+            "min": 97.0,
+            "open": 98.4,
+            "volume": 1465781170000
+        },
+        {
+            "change": -6.072478,
+            "close": 95.9,
+            "date": "2022-11-17",
+            "max": 97.49,
+            "min": 95.31,
+            "open": 97.0,
+            "volume": 1270886630000
+        },
+        {
+            "change": -6.013712,
+            "close": 95.96,
+            "date": "2022-11-18",
+            "max": 96.73,
+            "min": 95.6,
+            "open": 95.9,
+            "volume": 1133642230000
+        },
+        {
+            "change": -8.716944,
+            "close": 93.2,
+            "date": "2022-11-21",
+            "max": 96.6,
+            "min": 93.2,
+            "open": 95.8,
+            "volume": 1558656690000
         }
     ],
     "propriedades": [
         {
             "area": 4897.48,
-            "cidade": "Imovel Ibema Br 277, Km 533, Centro De Recebimento De Gr\u00e3o I.riedi, Colonia Murillo, IbemaPR, Brasil, 85478000 \n                \u00c1rea (m2):\n                4.897,48 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Imovel Ibema Br 277, Km 533, Centro De Recebimento De Gr\u00e3o I.riedi, Colonia Murillo, Ibema/PR, Brasil, 85478-000 \n                \u00c1rea (m2):\n                4.897,48 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "cidade": "IRIEDI Br 277, Km 533, Centro De Recebimento De Gr\u00e3o I.riedi, Colonia Murillo, IbemaPR, Brasil, 85478",
+            "endereco": "Imovel Ibema - IRIEDI Br 277, Km 533, Centro De Recebimento De Gr\u00e3o I.riedi, Colonia Murillo, Ibema/PR, Brasil, 85478-000 \n                \u00c1rea (m2):\n                4.897,48 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "estado": "PR",
             "inadimplencia": 0.0,
-            "nome": "Imovel Ibema Br 277, Km 533, Centro De Recebimento De Gr\u00e3o I.riedi, Colonia Murillo, Ibema/PR, Brasil, 85478-000 \n                \u00c1rea (m2):\n                4.897,48 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Imovel Ibema - IRIEDI Br 277, Km 533, Centro De Recebimento De Gr\u00e3o I.riedi, Colonia Murillo, Ibema/PR, Brasil, 85478-000 \n                \u00c1rea (m2):\n                4.897,48 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 12861.92,
-            "cidade": "Imovel Toledo Rodovia Br467, Br 163, Km 256.5, Jardim Europa, ToledoPR, Brasil, 85907060 \n                \u00c1rea (m2):\n                12.861,92 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "cidade": "IRIEDI Rodovia Br467, Br 163, Km 256.5, Jardim Europa, ToledoPR, Brasil, 85907",
             "endereco": "Rodovia Br467, Br 163, Km 256",
             "estado": "PR",
             "inadimplencia": 0.0,
-            "nome": "Imovel Toledo",
+            "nome": "Imovel Toledo - IRIEDI Br467, Br 163, Km 256.5, Jardim Europa, Toledo/PR, Brasil, 85907-060 \n                \u00c1rea (m2):\n                12.861,92 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 4436.44,
-            "cidade": "TERMINAL PORTUARIO DO ESPIRITO SANTO SA Rua Rio Verde, 101, Sem Complemento, Paul, Vila VelhaES, Brasil, 29115210 \n                \u00c1rea (m2):\n                4.436,44 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Rua Rio Verde, 101, Sem Complemento, Paul, Vila Velha/ES, Brasil, 29115",
-            "estado": "AL",
+            "cidade": "Terminal Intermondal Portu\u00e1rio do Esp\u00edrito Santo Rua Rio Verde, 101, Paul, Vila VelhaES, Brasil, 29115210 \n                \u00c1rea (m2):\n                4.436,44 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Rua Rio Verde, 101, Paul, Vila Velha/ES, Brasil, 29115",
+            "estado": "ES",
             "inadimplencia": 0.0,
-            "nome": "TERMINAL PORTUARIO DO ESPIRITO SANTO SA",
+            "nome": "Terminal Intermondal Portu\u00e1rio do Esp\u00edrito Santo",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 153876.39,
-            "cidade": "IturamaMG Rua Frutal 689, 689, Sem Complemento, Centro, IturamaMG, Brasil, 38280",
-            "endereco": "Rua Frutal 689, 689, Sem Complemento, Centro, Iturama/MG, Brasil, 38280",
+            "cidade": "Coruripe Rua Frutal 689, Centro, IturamaMG, Brasil, 38280",
+            "endereco": "Rua Frutal 689, Centro, Iturama/MG, Brasil, 38280",
             "estado": "MG",
             "inadimplencia": 0.0,
-            "nome": "Terminal Intermodal de Transbordo - IturamaMG Frutal 689, 689, Sem Complemento, Centro, Iturama/MG, Brasil, 38280-971 \n                \u00c1rea (m2):\n                153.876,39 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Terminal Intermodal de Transbordo - Coruripe Frutal 689, Centro, Iturama/MG, Brasil, 38280-971 \n                \u00c1rea (m2):\n                153.876,39 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 7126.93,
-            "cidade": "MaripaPR Rodovia Pr 182, Km 34Maripapr, Km 34, Sem Complemento, Perola Independente , MaripaPR, Brasil, 85958",
-            "endereco": "Rodovia Pr 182, Km 34",
+            "cidade": "IRIEDI Rodovia Pr 182, Km 34, Perola Independente , MaripaPR, Brasil, 85958",
+            "endereco": "Rodovia Pr 182, Km 34, Perola Independente , Maripa/PR, Brasil, 85958",
             "estado": "PR",
             "inadimplencia": 0.0,
-            "nome": "Perola - Maripa - PR Pr 182, Km 34 \u2013 Maripa/pr, Km 34, Sem Complemento, Perola Independente , Maripa/PR, Brasil, 85958-000 \n                \u00c1rea (m2):\n                7.126,93 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Im\u00f3vel P\u00e9rola - IRIEDI Pr 182, Km 34, Perola Independente , Maripa/PR, Brasil, 85958-000 \n                \u00c1rea (m2):\n                7.126,93 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 6996.44,
-            "cidade": "PR Rodovia Pr 364, Km 579, Sem Complemento, , PalotinaPR, Brasil, 85950",
-            "endereco": "Rodovia Pr 364, Km 579, Sem Complemento, , Palotina/PR, Brasil, 85950",
+            "cidade": "IRIEDI Rodovia Pr 364, Km 579 , PalotinaPR, Brasil, 85950",
+            "endereco": "Rodovia Pr 364, Km 579 , Palotina/PR, Brasil, 85950",
             "estado": "PR",
             "inadimplencia": 0.0,
-            "nome": "Salete Palotina - PR Pr 364, Km 579, Sem Complemento, , Palotina/PR, Brasil, 85950-000 \n                \u00c1rea (m2):\n                6.996,44 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Im\u00f3vel Salete - IRIEDI Pr 364, Km 579 , Palotina/PR, Brasil, 85950-000 \n                \u00c1rea (m2):\n                6.996,44 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 9380.09,
-            "cidade": "Estrada da PedreiraPR Estrada Da Pedreira, 151, Sem Complemento, 14 De Novembro, CascavelPR, Brasil, 85804",
-            "endereco": "Estrada da Pedreira",
+            "cidade": "IRIEDI Estrada Da Pedreira, 151, 14 De Novembro, CascavelPR, Brasil, 85804",
+            "endereco": "Estrada Da Pedreira, 151, 14 De Novembro, Cascavel/PR, Brasil, 85804",
             "estado": "PR",
             "inadimplencia": 0.0,
-            "nome": "Cascavel - da Pedreira - PR Da Pedreira, 151, Sem Complemento, 14 De Novembro, Cascavel/PR, Brasil, 85804-180 \n                \u00c1rea (m2):\n                9.380,09 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Im\u00f3vel Cascav\u00e9l - IRIEDI Da Pedreira, 151, 14 De Novembro, Cascavel/PR, Brasil, 85804-180 \n                \u00c1rea (m2):\n                9.380,09 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 19977.1,
-            "cidade": "COMFRIO Avenida Presidente Tancredo De Almeida Neves, 1171, Sem Complemento, Karfan, ItumbiaraGO, Brasil, 75516",
-            "endereco": "Avenida Presidente Tancredo De Almeida Neves, 1171, Sem Complemento, Karfan, Itumbiara/GO, Brasil, 75516",
+            "cidade": "Comfrio Avenida Presidente Tancredo De Almeida Neves, 1171, Karfan, ItumbiaraGO, Brasil, 75516",
+            "endereco": "Avenida Presidente Tancredo De Almeida Neves, 1171, Karfan, Itumbiara/GO, Brasil, 75516",
             "estado": "GO",
             "inadimplencia": 0.0,
-            "nome": "Itumbiara - COMFRIOenida Presidente Tancredo De Almeida Neves, 1171, Sem Complemento, Karfan, Itumbiara/GO, Brasil, 75516-475 \n                \u00c1rea (m2):\n                19.977,10 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Im\u00f3vel Itumbiara - Comfrioenida Presidente Tancredo De Almeida Neves, 1171, Karfan, Itumbiara/GO, Brasil, 75516-475 \n                \u00c1rea (m2):\n                19.977,10 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 25000.0,
-            "cidade": "nova UbirataMT Rodovia Br 242, Km 75, Sn, Sem Complemento, Zona Rural, Nova UbirataMT, Brasil, 78888",
-            "endereco": "Rodovia Br 242, Km 75, S/n, Sem Complemento, Zona Rural, Nova Ubirata/MT, Brasil, 78888",
+            "cidade": "FS BIO Rodovia Br 242, Km 75, Sn, Zona Rural, Nova UbirataMT, Brasil, 78888",
+            "endereco": "Rodovia Br 242, Km 75, S/n, Zona Rural, Nova Ubirata/MT, Brasil, 78888",
             "estado": "MT",
             "inadimplencia": 0.0,
-            "nome": "Armazem Graneleiro - nova Ubirata - MT Br 242, Km 75, S/n, Sem Complemento, Zona Rural, Nova Ubirata/MT, Brasil, 78888-000 \n                \u00c1rea (m2):\n                25.000,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": "Armazem Graneleiro - FS BIO Br 242, Km 75, S/n, Zona Rural, Nova Ubirata/MT, Brasil, 78888-000 \n                \u00c1rea (m2):\n                25.000,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         }
@@ -4394,7 +4592,7 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 4.95,
-            "cagr_ativo_1": -0.03,
+            "cagr_ativo_1": -0.02,
             "cagr_patrimonio_liquido": 0.03,
             "cagr_vpa_1": 0.03,
             "cagr_vpa_3": 0.02,
@@ -4403,49 +4601,49 @@
         "dividends": {
             "cagr_dividens_1": -0.17,
             "cagr_dividens_3": -0.06,
-            "cagr_dy_1": -0.24,
+            "cagr_dy_1": -0.15,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 8.56
+            "dy": 8.77
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.04,
-                "dy": 7.96
+                "cagr_dy_3": -0.02,
+                "dy": 8.12
             },
             "mercado": {
-                "custo_adm_med": 130816.61,
-                "liquidez_med": 448585663333.33
+                "custo_adm_med": 128619.15,
+                "liquidez_med": 436392411571.43
             },
             "operacao": {
-                "patrimonio_liquido": 317634116.94,
-                "pl_cx": 6.52,
-                "vacancia": 1.86
+                "patrimonio_liquido": 324733945.3,
+                "pl_cx": 6.69,
+                "vacancia": 2.41
             },
             "valuation": {
-                "p_vpa_med": 0.91
+                "p_vpa_med": 0.74
             }
         },
         "mercado": {
-            "custo_adm_med": 530540.76,
-            "ifix": 0.526,
-            "liquidez_med": 835384435000.0
+            "custo_adm_med": 530929.2050000001,
+            "ifix": 0.525,
+            "liquidez_med": 839648165000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 5,
             "imoveis": 9,
-            "patrimonio_liquido": 635897361.69,
-            "pl_cx": 4.7,
+            "patrimonio_liquido": 636235058.3,
+            "pl_cx": 4.74,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.95,
+            "p_vpa": 0.88,
             "p_vpa_med": 0.95,
-            "price": 100.75,
-            "valuation": 112.33
+            "price": 93.2,
+            "valuation": 107.99
         }
     },
     "ticker": "BTAL11",
@@ -4472,6 +4670,10 @@
         },
         {
             "competencia": "2/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "3/2022",
             "total": 0.0
         }
     ]

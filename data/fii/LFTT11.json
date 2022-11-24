@@ -5316,6 +5316,51 @@
             "min": 81.24,
             "open": 87.15,
             "volume": 146699150000
+        },
+        {
+            "change": -17.59,
+            "close": 82.41,
+            "date": "2022-11-14",
+            "max": 87.8,
+            "min": 82.4,
+            "open": 87.8,
+            "volume": 500757140000
+        },
+        {
+            "change": -17.21,
+            "close": 82.79,
+            "date": "2022-11-16",
+            "max": 88.05,
+            "min": 82.02,
+            "open": 82.41,
+            "volume": 466487580000
+        },
+        {
+            "change": -13.0,
+            "close": 87.0,
+            "date": "2022-11-17",
+            "max": 87.85,
+            "min": 82.2,
+            "open": 87.0,
+            "volume": 22131900000
+        },
+        {
+            "change": -17.5,
+            "close": 82.5,
+            "date": "2022-11-18",
+            "max": 87.0,
+            "min": 82.2,
+            "open": 87.0,
+            "volume": 90884140000
+        },
+        {
+            "change": -16.5,
+            "close": 83.5,
+            "date": "2022-11-21",
+            "max": 83.99,
+            "min": 82.5,
+            "open": 82.5,
+            "volume": 127065480000
         }
     ],
     "propriedades": [
@@ -5365,7 +5410,7 @@
             },
             "mercado": {
                 "custo_adm_med": 75176.92,
-                "liquidez_med": 19963997500.0
+                "liquidez_med": 15239830357.14
             },
             "operacao": {
                 "patrimonio_liquido": 114868295.47,
@@ -5373,13 +5418,13 @@
                 "vacancia": 2.91
             },
             "valuation": {
-                "p_vpa_med": 0.83
+                "p_vpa_med": 0.71
             }
         },
         "mercado": {
             "custo_adm_med": 49161.244999999995,
             "ifix": 0,
-            "liquidez_med": 46297950000.0
+            "liquidez_med": 48439780000
         },
         "operacao": {
             "contratos_vencimento": 30,
@@ -5392,9 +5437,9 @@
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 1.83,
+            "p_vpa": 1.76,
             "p_vpa_med": 1.72,
-            "price": 87.0,
+            "price": 83.5,
             "valuation": 240.88
         }
     },
