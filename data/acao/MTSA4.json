@@ -1711,7 +1711,7 @@
             "caixa": 94753904.0,
             "capital_circulante_liquido": 0.46278,
             "capital_de_giro": 253163072.0,
-            "cotacao": 46.189999,
+            "cotacao": 45.799999,
             "custos": -519769920.0,
             "div_bru__pl": 0.227601,
             "div_liq__ebitda": -0.135894,
@@ -1721,13 +1721,13 @@
             "divida_liquida__ebit": -0.150688,
             "divida_liquida__ebitida": -0.135894,
             "divida_liquida__patrimonio_liquido": -0.04292,
-            "dividend_yield": 42.723305,
+            "dividend_yield": 43.087105,
             "ebit": 99764352.0,
             "ebit__ativos_totais": 0.182368,
             "ebitda": 110625216.0,
-            "ev": 407067648.0,
-            "ev__ebit": 0.00408,
-            "ev__ebitida": 0.00368,
+            "ev": 403503680.0,
+            "ev__ebit": 0.004045,
+            "ev__ebitida": 0.003647,
             "expectativa_de_crescimento_anual": 0.151127,
             "fcf": 1582782.0,
             "fci": -23767626.0,
@@ -1752,13 +1752,13 @@
             "necessidade_de_capital_de_giro": 248477328.0,
             "nopat": 589991488.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": 0.001667,
-            "p__capital_de_giro": 0.001667,
-            "p__ebit": 0.004231,
-            "p__ebitida": 0.003816,
-            "p__l": 6.1737,
-            "p__sr": 0.000582,
-            "p__vpa": 1.205092,
+            "p__ativo_circ_liq": 0.001653,
+            "p__capital_de_giro": 0.001653,
+            "p__ebit": 0.004195,
+            "p__ebitida": 0.003783,
+            "p__l": 6.121573,
+            "p__sr": 0.000577,
+            "p__vpa": 1.194917,
             "passivo": 547048320.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 187679168.0,
@@ -1766,7 +1766,7 @@
             "patrimonio_liquido": 350264320.0,
             "patrimonio_liquido__ativos": 0.64028,
             "payout": 0.263761,
-            "peg_ratio": 40.851021,
+            "peg_ratio": 40.5061,
             "pl__ativo": 0.64028,
             "poder_de_ganho_basico": 0.202222,
             "prazo_medio_de_recebimento": 86.608833,
@@ -1779,7 +1779,7 @@
             "roic": 0.0,
             "saldo_de_tesouraria": 4685744.0,
             "total_de_acoes": 9138361.0,
-            "valor_de_mercado__passivos_totais": 0.771597,
+            "valor_de_mercado__passivos_totais": 0.765082,
             "valor_intrinseco_de_graham": 80.326019,
             "vpa": 38.32901
         }
@@ -19823,6 +19823,24 @@
             "low": 44.310001,
             "open": 44.310001,
             "volume": 200.0
+        },
+        {
+            "change": -0.6666688172043005,
+            "close": 46.189999,
+            "date": "2022-11-23T00:00:00",
+            "high": 46.189999,
+            "low": 46.189999,
+            "open": 46.189999,
+            "volume": 100.0
+        },
+        {
+            "change": -0.8443386197085663,
+            "close": 45.799999,
+            "date": "2022-11-24T00:00:00",
+            "high": 45.799999,
+            "low": 44.209999,
+            "open": 44.209999,
+            "volume": 4900.0
         }
     ],
     "setor": "",
@@ -19840,9 +19858,9 @@
             "cagr_vpa_5": -0.73
         },
         "dividends": {
-            "cagr_dy_1": 0.1,
+            "cagr_dy_1": 0.11,
             "cagr_dy_5": 0.02,
-            "dy": 42.723305,
+            "dy": 43.087105,
             "payout": 0.263761
         },
         "general": {
@@ -19919,12 +19937,12 @@
             "liquidez_corrente": 2.348914,
             "liquidez_corrente_3": 4.089039,
             "liquidez_corrente_5": 4.822839,
-            "risco_falencia": 0.9146831173753246
+            "risco_falencia": 0.9146841342038259
         },
         "valuation": {
-            "cagr_peg_ratio_3": 2.44,
+            "cagr_peg_ratio_3": 2.43,
             "cagr_peg_ratio_5": 1.1,
-            "p__l_med": 0.9743654285714286,
+            "p__l_med": 0.9706420714285714,
             "p__l_median": 0.0087425,
             "price": 0,
             "valuation": 80.32602015617728,

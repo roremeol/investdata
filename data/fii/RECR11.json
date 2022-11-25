@@ -2485,7 +2485,7 @@
             "valor_patrimonio_cotas": 95.363292
         },
         {
-            "ativo": 2534895957.92,
+            "ativo": 2534896802.67,
             "caixa": 72621681.07,
             "competencia": "10/2022",
             "cotas_emitidas": 26441650.0,
@@ -2493,13 +2493,13 @@
             "despesa_administracao": 12603.65,
             "dy": 0.4638,
             "numero_cotas": 26441650.0,
-            "patrimonio_liquido": 2520729187.28,
+            "patrimonio_liquido": 2520730032.03,
             "receita_aluguel": 0.0,
-            "valor_patrimonio_cotas": 95.331766
+            "valor_patrimonio_cotas": 95.331798
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 6.140000000000001,
+    "ipca_prize": 6.205,
     "isin": "BRRECRCTF004",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -7518,15 +7518,15 @@
             },
             "mercado": {
                 "custo_adm_med": 231269.56,
-                "liquidez_med": 656752832647.06
+                "liquidez_med": 668757134327.73
             },
             "operacao": {
-                "patrimonio_liquido": 551572807.17,
+                "patrimonio_liquido": 551572814.27,
                 "pl_cx": 9.53,
                 "vacancia": 0.71
             },
             "valuation": {
-                "p_vpa_med": 0.61
+                "p_vpa_med": 0.73
             }
         },
         "mercado": {
@@ -7538,7 +7538,7 @@
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 2520729187.28,
+            "patrimonio_liquido": 2520730032.03,
             "pl_cx": 2.88,
             "vacancia": 0.0,
             "vacancia_1": 0,
@@ -7548,7 +7548,7 @@
             "p_vpa": 0.9,
             "p_vpa_med": 1.05,
             "price": 86.02,
-            "valuation": 145.25
+            "valuation": 144.23
         }
     },
     "ticker": "RECR11",

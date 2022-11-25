@@ -563,7 +563,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 6.140000000000001,
+    "ipca_prize": 6.205,
     "isin": "BRRRCICTF005",
     "lci": [],
     "mandato": "Renda",
@@ -4933,6 +4933,60 @@
             "min": 85.18,
             "open": 85.49,
             "volume": 64407270000
+        },
+        {
+            "change": -14.111675,
+            "close": 84.6,
+            "date": "2022-11-11",
+            "max": 85.12,
+            "min": 84.27,
+            "open": 84.28,
+            "volume": 136937310000
+        },
+        {
+            "change": -13.898477,
+            "close": 84.81,
+            "date": "2022-11-14",
+            "max": 85.58,
+            "min": 84.21,
+            "open": 84.5,
+            "volume": 65016250000
+        },
+        {
+            "change": -14.720812,
+            "close": 84.0,
+            "date": "2022-11-16",
+            "max": 85.49,
+            "min": 83.93,
+            "open": 85.01,
+            "volume": 188417530000
+        },
+        {
+            "change": -14.639594,
+            "close": 84.08,
+            "date": "2022-11-17",
+            "max": 84.08,
+            "min": 83.5,
+            "open": 84.01,
+            "volume": 110011570000
+        },
+        {
+            "change": -14.35533,
+            "close": 84.36,
+            "date": "2022-11-18",
+            "max": 84.39,
+            "min": 83.8,
+            "open": 83.81,
+            "volume": 30127100000
+        },
+        {
+            "change": -14.558376,
+            "close": 84.16,
+            "date": "2022-11-21",
+            "max": 84.48,
+            "min": 83.56,
+            "open": 83.81,
+            "volume": 148234870000
         }
     ],
     "propriedades": [],
@@ -4957,25 +5011,25 @@
         "medias_segmento": {
             "dividends": {
                 "cagr_dy_3": -0.06,
-                "dy": 10.8
+                "dy": 10.82
             },
             "mercado": {
-                "custo_adm_med": 232835.76,
-                "liquidez_med": 735204290847.46
+                "custo_adm_med": 231269.56,
+                "liquidez_med": 668757134327.73
             },
             "operacao": {
-                "patrimonio_liquido": 555876695.52,
-                "pl_cx": 9.46,
+                "patrimonio_liquido": 551572814.27,
+                "pl_cx": 9.53,
                 "vacancia": 0.71
             },
             "valuation": {
-                "p_vpa_med": 0.84
+                "p_vpa_med": 0.73
             }
         },
         "mercado": {
             "custo_adm_med": 33986.39,
             "ifix": 0,
-            "liquidez_med": 88797450000
+            "liquidez_med": 88829040000
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -4988,10 +5042,10 @@
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.89,
+            "p_vpa": 0.88,
             "p_vpa_med": 0.88,
-            "price": 85.39,
-            "valuation": 153.28
+            "price": 84.16,
+            "valuation": 152.2
         }
     },
     "ticker": "RRCI11",

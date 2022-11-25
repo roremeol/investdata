@@ -329,7 +329,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 6.140000000000001,
+    "ipca_prize": 6.205,
     "isin": "BRVCRRCTF008",
     "lci": [],
     "mandato": "Renda",
@@ -3412,6 +3412,60 @@
             "min": 76.5,
             "open": 76.95,
             "volume": 68893200000
+        },
+        {
+            "change": -26.0,
+            "close": 74.0,
+            "date": "2022-11-11",
+            "max": 75.0,
+            "min": 73.8,
+            "open": 73.8,
+            "volume": 62618340000
+        },
+        {
+            "change": -23.34,
+            "close": 76.66,
+            "date": "2022-11-14",
+            "max": 76.76,
+            "min": 75.0,
+            "open": 75.25,
+            "volume": 83298560000
+        },
+        {
+            "change": -23.52,
+            "close": 76.48,
+            "date": "2022-11-16",
+            "max": 76.8,
+            "min": 76.0,
+            "open": 76.78,
+            "volume": 39859800000
+        },
+        {
+            "change": -25.2,
+            "close": 74.8,
+            "date": "2022-11-17",
+            "max": 76.48,
+            "min": 74.04,
+            "open": 76.48,
+            "volume": 120901130000
+        },
+        {
+            "change": -25.5,
+            "close": 74.5,
+            "date": "2022-11-18",
+            "max": 75.98,
+            "min": 74.5,
+            "open": 74.99,
+            "volume": 57735380000
+        },
+        {
+            "change": -26.36,
+            "close": 73.64,
+            "date": "2022-11-21",
+            "max": 74.95,
+            "min": 73.51,
+            "open": 74.95,
+            "volume": 187354710000
         }
     ],
     "propriedades": [],
@@ -3440,7 +3494,7 @@
             },
             "mercado": {
                 "custo_adm_med": 75176.92,
-                "liquidez_med": 19963997500.0
+                "liquidez_med": 15847615357.14
             },
             "operacao": {
                 "patrimonio_liquido": 114868295.47,
@@ -3448,13 +3502,13 @@
                 "vacancia": 2.91
             },
             "valuation": {
-                "p_vpa_med": 0.83
+                "p_vpa_med": 0.64
             }
         },
         "mercado": {
             "custo_adm_med": 148837.81,
             "ifix": 0,
-            "liquidez_med": 55545630000.0
+            "liquidez_med": 56948770000.0
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -3467,10 +3521,10 @@
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.64,
+            "p_vpa": 0.61,
             "p_vpa_med": 0.64,
-            "price": 76.5,
-            "valuation": 87.96
+            "price": 73.64,
+            "valuation": 87.34
         }
     },
     "ticker": "VCRR11",

@@ -464,7 +464,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 6.140000000000001,
+    "ipca_prize": 6.205,
     "isin": "BRPLOGCTF001",
     "lci": [],
     "mandato": "Renda",
@@ -4195,6 +4195,60 @@
             "min": 78.14,
             "open": 79.29,
             "volume": 46613940000
+        },
+        {
+            "change": -15.730706,
+            "close": 76.98,
+            "date": "2022-11-11",
+            "max": 78.25,
+            "min": 75.57,
+            "open": 77.59,
+            "volume": 111403350000
+        },
+        {
+            "change": -16.157635,
+            "close": 76.59,
+            "date": "2022-11-14",
+            "max": 77.25,
+            "min": 75.5,
+            "open": 77.24,
+            "volume": 49706360000
+        },
+        {
+            "change": -16.278051,
+            "close": 76.48,
+            "date": "2022-11-16",
+            "max": 77.24,
+            "min": 75.65,
+            "open": 77.24,
+            "volume": 83751430000
+        },
+        {
+            "change": -17.799672,
+            "close": 75.09,
+            "date": "2022-11-17",
+            "max": 76.5,
+            "min": 75.0,
+            "open": 76.5,
+            "volume": 252345610000
+        },
+        {
+            "change": -16.803503,
+            "close": 76.0,
+            "date": "2022-11-18",
+            "max": 77.26,
+            "min": 75.12,
+            "open": 75.12,
+            "volume": 49182940000
+        },
+        {
+            "change": -17.8763,
+            "close": 75.02,
+            "date": "2022-11-21",
+            "max": 77.49,
+            "min": 75.01,
+            "open": 76.5,
+            "volume": 153273210000
         }
     ],
     "propriedades": [
@@ -4234,7 +4288,7 @@
             },
             "mercado": {
                 "custo_adm_med": 345057.52,
-                "liquidez_med": 801298095625.0
+                "liquidez_med": 779421600208.33
             },
             "operacao": {
                 "patrimonio_liquido": 1006636839.66,
@@ -4242,13 +4296,13 @@
                 "vacancia": 5.76
             },
             "valuation": {
-                "p_vpa_med": 0.76
+                "p_vpa_med": 0.71
             }
         },
         "mercado": {
             "custo_adm_med": 8875.220000000001,
             "ifix": 0,
-            "liquidez_med": 67546710000.0
+            "liquidez_med": 68016390000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
@@ -4261,10 +4315,10 @@
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.78,
+            "p_vpa": 0.75,
             "p_vpa_med": 0.78,
-            "price": 78.4,
-            "valuation": 99.23
+            "price": 75.02,
+            "valuation": 98.53
         }
     },
     "ticker": "PLOG11",

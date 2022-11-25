@@ -329,7 +329,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 6.140000000000001,
+    "ipca_prize": 6.205,
     "isin": "BRMCHFCTF003",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -3358,6 +3358,60 @@
             "min": 9.13,
             "open": 9.21,
             "volume": 804903250000
+        },
+        {
+            "change": -15.87156,
+            "close": 9.17,
+            "date": "2022-11-11",
+            "max": 9.2,
+            "min": 9.11,
+            "open": 9.15,
+            "volume": 762206260000
+        },
+        {
+            "change": -17.155963,
+            "close": 9.03,
+            "date": "2022-11-14",
+            "max": 9.09,
+            "min": 9.0,
+            "open": 9.06,
+            "volume": 1005510950000
+        },
+        {
+            "change": -17.889908,
+            "close": 8.95,
+            "date": "2022-11-16",
+            "max": 9.08,
+            "min": 8.9,
+            "open": 9.02,
+            "volume": 1401783560000
+        },
+        {
+            "change": -18.256881,
+            "close": 8.91,
+            "date": "2022-11-17",
+            "max": 9.0,
+            "min": 8.9,
+            "open": 8.98,
+            "volume": 1013360920000
+        },
+        {
+            "change": -18.165138,
+            "close": 8.92,
+            "date": "2022-11-18",
+            "max": 9.01,
+            "min": 8.9,
+            "open": 8.92,
+            "volume": 715921000000
+        },
+        {
+            "change": -17.431193,
+            "close": 9.0,
+            "date": "2022-11-21",
+            "max": 9.09,
+            "min": 8.92,
+            "open": 8.94,
+            "volume": 1145928960000
         }
     ],
     "propriedades": [],
@@ -3382,25 +3436,25 @@
         "medias_segmento": {
             "dividends": {
                 "cagr_dy_3": -0.06,
-                "dy": 10.8
+                "dy": 10.82
             },
             "mercado": {
-                "custo_adm_med": 232835.76,
-                "liquidez_med": 735204290847.46
+                "custo_adm_med": 231269.56,
+                "liquidez_med": 668757134327.73
             },
             "operacao": {
-                "patrimonio_liquido": 555876695.52,
-                "pl_cx": 9.46,
+                "patrimonio_liquido": 551572814.27,
+                "pl_cx": 9.53,
                 "vacancia": 0.71
             },
             "valuation": {
-                "p_vpa_med": 0.84
+                "p_vpa_med": 0.73
             }
         },
         "mercado": {
             "custo_adm_med": 59138.884999999995,
             "ifix": 0.262,
-            "liquidez_med": 713312530000.0
+            "liquidez_med": 721835545000.0
         },
         "operacao": {
             "contratos_vencimento": 0,
@@ -3413,10 +3467,10 @@
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.97,
+            "p_vpa": 0.95,
             "p_vpa_med": 1.03,
-            "price": 9.21,
-            "valuation": 13.95
+            "price": 9.0,
+            "valuation": 13.85
         }
     },
     "ticker": "MCHF11",
