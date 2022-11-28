@@ -674,7 +674,7 @@
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 6.140000000000001,
+    "ipca_prize": 6.205,
     "isin": "BRPEMACTF003",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -3370,6 +3370,60 @@
             "min": 59.0,
             "open": 59.0,
             "volume": 4071090000
+        },
+        {
+            "change": -43.95,
+            "close": 56.05,
+            "date": "2022-11-11",
+            "max": 56.05,
+            "min": 56.05,
+            "open": 56.05,
+            "volume": 952850000
+        },
+        {
+            "change": -43.97,
+            "close": 56.03,
+            "date": "2022-11-14",
+            "max": 56.04,
+            "min": 53.0,
+            "open": 56.04,
+            "volume": 8225280000
+        },
+        {
+            "change": -43.0,
+            "close": 57.0,
+            "date": "2022-11-16",
+            "max": 57.0,
+            "min": 57.0,
+            "open": 57.0,
+            "volume": 342000000
+        },
+        {
+            "change": -47.5,
+            "close": 52.5,
+            "date": "2022-11-17",
+            "max": 52.5,
+            "min": 50.0,
+            "open": 50.0,
+            "volume": 3440000000
+        },
+        {
+            "change": -47.01,
+            "close": 52.99,
+            "date": "2022-11-18",
+            "max": 53.0,
+            "min": 52.89,
+            "open": 53.0,
+            "volume": 2646550000
+        },
+        {
+            "change": -47.12,
+            "close": 52.88,
+            "date": "2022-11-21",
+            "max": 52.9,
+            "min": 52.0,
+            "open": 52.9,
+            "volume": 8327410000
         }
     ],
     "propriedades": [],
@@ -3394,19 +3448,19 @@
         "medias_segmento": {
             "dividends": {
                 "cagr_dy_3": -0.06,
-                "dy": 10.8
+                "dy": 10.82
             },
             "mercado": {
-                "custo_adm_med": 232835.76,
-                "liquidez_med": 735204290847.46
+                "custo_adm_med": 231269.56,
+                "liquidez_med": 664971791638.66
             },
             "operacao": {
-                "patrimonio_liquido": 555876695.52,
-                "pl_cx": 9.46,
+                "patrimonio_liquido": 551572814.27,
+                "pl_cx": 9.53,
                 "vacancia": 0.71
             },
             "valuation": {
-                "p_vpa_med": 0.84
+                "p_vpa_med": 0.73
             }
         },
         "mercado": {
@@ -3425,10 +3479,10 @@
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.77,
+            "p_vpa": 0.69,
             "p_vpa_med": 0.7,
-            "price": 59.0,
-            "valuation": 165.2
+            "price": 52.88,
+            "valuation": 164.03
         }
     },
     "ticker": "PEMA11",

@@ -214,6 +214,11 @@
             "data_com": "2022-10-31T00:00:00",
             "data_pagamento": "2022-11-08T00:00:00",
             "provento": 0.75
+        },
+        {
+            "data_com": "2022-11-25T00:00:00",
+            "data_pagamento": "2022-12-02T00:00:00",
+            "provento": 0.2666
         }
     ],
     "fii": [],
@@ -668,7 +673,7 @@
         }
     ],
     "ipca_prize": 6.205,
-    "isin": "BREVBICTF007",
+    "isin": "BREVBIR07M14",
     "lci": [],
     "mandato": "Renda",
     "nome": "VBI CONSUMO ESSENCIAL FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
@@ -3886,8 +3891,8 @@
             "cmgr_alugeis_6m": 0.0
         },
         "dividends": {
-            "cagr_dividens_1": -0.25,
-            "cagr_dividens_3": -0.41,
+            "cagr_dividens_1": -0.73,
+            "cagr_dividens_3": -0.59,
             "cagr_dy_1": 0,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
@@ -3900,7 +3905,7 @@
             },
             "mercado": {
                 "custo_adm_med": 169549.11,
-                "liquidez_med": 783865267191.78
+                "liquidez_med": 764473821095.89
             },
             "operacao": {
                 "patrimonio_liquido": 438249390.19,
@@ -3908,7 +3913,7 @@
                 "vacancia": 6.35
             },
             "valuation": {
-                "p_vpa_med": 0.57
+                "p_vpa_med": 0.56
             }
         },
         "mercado": {
@@ -3930,7 +3935,7 @@
             "p_vpa": 0.96,
             "p_vpa_med": 0.98,
             "price": 97.39,
-            "valuation": 97.77
+            "valuation": 92.52
         }
     },
     "ticker": "EVBI11",
