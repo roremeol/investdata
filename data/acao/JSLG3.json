@@ -1221,7 +1221,7 @@
             "caixa": 670661.0,
             "capital_circulante_liquido": 0.142837,
             "capital_de_giro": 1063749.0,
-            "cotacao": 6.02,
+            "cotacao": 0.0,
             "custos": -4747298.0,
             "div_bru__pl": 3.074132,
             "div_liq__ebitda": 3.588703,
@@ -1231,13 +1231,13 @@
             "divida_liquida__ebit": 5.10539,
             "divida_liquida__ebitida": 3.588703,
             "divida_liquida__patrimonio_liquido": 2.591064,
-            "dividend_yield": 0.04276,
+            "dividend_yield": 0.0,
             "ebit": 704603.0,
             "ebit__ativos_totais": 0.094612,
             "ebitda": 1002388.0,
-            "ev": 1727857920.0,
-            "ev__ebit": 2.452243,
-            "ev__ebitida": 1.723742,
+            "ev": 3597273.0,
+            "ev__ebit": 0.005105,
+            "ev__ebitida": 0.003589,
             "expectativa_de_crescimento_anual": 0.059434,
             "fcf": 630567.0,
             "fci": -475391.0,
@@ -1262,13 +1262,13 @@
             "necessidade_de_capital_de_giro": 580769.0,
             "nopat": 5421116.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": 1.620928,
-            "p__capital_de_giro": 1.620928,
-            "p__ebit": 2.447138,
-            "p__ebitida": 1.720153,
-            "p__l": 11.159758,
-            "p__sr": 0.303155,
-            "p__vpa": 1.24196,
+            "p__ativo_circ_liq": 0.0,
+            "p__capital_de_giro": 0.0,
+            "p__ebit": 0.0,
+            "p__ebitida": 0.0,
+            "p__l": 0.0,
+            "p__sr": 0.0,
+            "p__vpa": 0.0,
             "passivo": 7447310.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 1228090.0,
@@ -1276,7 +1276,7 @@
             "patrimonio_liquido": 1388338.0,
             "patrimonio_liquido__ativos": 0.186421,
             "payout": 0.477195,
-            "peg_ratio": 187.765884,
+            "peg_ratio": 0.0,
             "pl__ativo": 0.186421,
             "poder_de_ganho_basico": 0.134597,
             "prazo_medio_de_recebimento": 79.33905,
@@ -1289,7 +1289,7 @@
             "roic": 0.0,
             "saldo_de_tesouraria": 482980.0,
             "total_de_acoes": 286422048.0,
-            "valor_de_mercado__passivos_totais": 231.528,
+            "valor_de_mercado__passivos_totais": 0.0,
             "valor_intrinseco_de_graham": 7.670197,
             "vpa": 4.847176
         }
@@ -20791,6 +20791,24 @@
             "low": 5.72,
             "open": 5.72,
             "volume": 379100.0
+        },
+        {
+            "change": -1.7944535073409513,
+            "close": 6.02,
+            "date": "2022-11-25T00:00:00",
+            "high": 6.14,
+            "low": 5.91,
+            "open": 6.14,
+            "volume": 355100.0
+        },
+        {
+            "change": 0.49833887043189784,
+            "close": 6.05,
+            "date": "2022-11-29T00:00:00",
+            "high": 6.12,
+            "low": 5.91,
+            "open": 5.93,
+            "volume": 2063755.0
         }
     ],
     "setor": "Bens Industriais > Transporte > Transporte Rodovi\u00e1rio",
@@ -20808,9 +20826,9 @@
             "cagr_vpa_5": -0.05
         },
         "dividends": {
-            "cagr_dy_1": -0.96,
-            "cagr_dy_5": -0.47,
-            "dy": 0.04276,
+            "cagr_dy_1": 0,
+            "cagr_dy_5": 0,
+            "dy": 0.0,
             "payout": 0.477195
         },
         "general": {
@@ -20887,13 +20905,13 @@
             "liquidez_corrente": 1.866182,
             "liquidez_corrente_3": 2.009675,
             "liquidez_corrente_5": 1.782024,
-            "risco_falencia": 0.7398010551998769
+            "risco_falencia": 0.8187632518681853
         },
         "valuation": {
-            "cagr_peg_ratio_3": -0.23,
-            "cagr_peg_ratio_5": 0.31,
-            "p__l_med": 8.933398714285714,
-            "p__l_median": 3.7298875,
+            "cagr_peg_ratio_3": 0,
+            "cagr_peg_ratio_5": 0,
+            "p__l_med": 8.136273142857142,
+            "p__l_median": 0.0,
             "price": 0,
             "valuation": 7.670195294741849,
             "valuation_med": 8.920373701902188

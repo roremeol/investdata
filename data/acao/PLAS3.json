@@ -1102,7 +1102,7 @@
             "caixa": 11728.0,
             "capital_circulante_liquido": -0.454328,
             "capital_de_giro": -319529.0,
-            "cotacao": 9.81,
+            "cotacao": 0.0,
             "custos": -635329.0,
             "div_bru__pl": -0.743182,
             "div_liq__ebitda": 4.854283,
@@ -1116,9 +1116,9 @@
             "ebit": -19921.0,
             "ebit__ativos_totais": -0.028325,
             "ebitda": 50907.0,
-            "ev": 122159104.0,
-            "ev__ebit": -6.132177,
-            "ev__ebitida": 2.399652,
+            "ev": 247117.0,
+            "ev__ebit": -0.012405,
+            "ev__ebitida": 0.004854,
             "expectativa_de_crescimento_anual": 0.0,
             "fcf": -16395.0,
             "fci": -94740.0,
@@ -1143,13 +1143,13 @@
             "necessidade_de_capital_de_giro": -224440.0,
             "nopat": 614922.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": -0.381537,
-            "p__capital_de_giro": -0.381537,
-            "p__ebit": -6.119772,
-            "p__ebitida": 2.394798,
-            "p__l": -0.99468,
-            "p__sr": 0.170612,
-            "p__vpa": -0.350027,
+            "p__ativo_circ_liq": -0.0,
+            "p__capital_de_giro": -0.0,
+            "p__ebit": -0.0,
+            "p__ebitida": 0.0,
+            "p__l": -0.0,
+            "p__sr": 0.0,
+            "p__vpa": -0.0,
             "passivo": 703301.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 532013.0,
@@ -1170,7 +1170,7 @@
             "roic": 0.0,
             "saldo_de_tesouraria": -95089.0,
             "total_de_acoes": 12427317.0,
-            "valor_de_mercado__passivos_totais": 173.342545,
+            "valor_de_mercado__passivos_totais": 0.0,
             "valor_intrinseco_de_graham": 78.861984,
             "vpa": -28.026403
         }
@@ -17279,6 +17279,24 @@
             "low": 9.45,
             "open": 9.45,
             "volume": 600.0
+        },
+        {
+            "change": 0.0,
+            "close": 9.81,
+            "date": "2022-11-25T00:00:00",
+            "high": 9.81,
+            "low": 9.81,
+            "open": 9.81,
+            "volume": 0.0
+        },
+        {
+            "change": 20.38735983690112,
+            "close": 11.81,
+            "date": "2022-11-29T00:00:00",
+            "high": 11.81,
+            "low": 9.6,
+            "open": 9.6,
+            "volume": 49297.0
         }
     ],
     "setor": "Consumo C\u00edclico > Autom\u00f3veis e Motocicletas > Autom\u00f3veis e Motocicletas",
@@ -17375,13 +17393,13 @@
             "liquidez_corrente": 0.399396,
             "liquidez_corrente_3": 0.614073,
             "liquidez_corrente_5": 0.071749,
-            "risco_falencia": 0.5149954796391981
+            "risco_falencia": 0.6002927387867117
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,
             "cagr_peg_ratio_5": 0,
-            "p__l_med": 314.3274987857143,
-            "p__l_median": -0.502805,
+            "p__l_med": 314.3985473571429,
+            "p__l_median": -0.281179,
             "price": 0,
             "valuation": 0,
             "valuation_med": 0

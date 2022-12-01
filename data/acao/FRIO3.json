@@ -1137,7 +1137,7 @@
             "caixa": 210087.0,
             "capital_circulante_liquido": -0.220756,
             "capital_de_giro": -403758.0,
-            "cotacao": 31.0,
+            "cotacao": 0.0,
             "custos": -1704033.0,
             "div_bru__pl": -7.469133,
             "div_liq__ebitda": 4.124037,
@@ -1151,9 +1151,9 @@
             "ebit": 187044.0,
             "ebit__ativos_totais": 0.102267,
             "ebitda": 266026.0,
-            "ev": 128396760.0,
-            "ev__ebit": 0.686452,
-            "ev__ebitida": 0.482647,
+            "ev": 1097101.0,
+            "ev__ebit": 0.005865,
+            "ev__ebitida": 0.004124,
             "expectativa_de_crescimento_anual": 0.0,
             "fcf": 162965.0,
             "fci": -116897.0,
@@ -1178,13 +1178,13 @@
             "necessidade_de_capital_de_giro": 413119.0,
             "nopat": 1845984.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": -0.315287,
-            "p__capital_de_giro": -0.315287,
-            "p__ebit": 0.680587,
-            "p__ebitida": 0.478523,
-            "p__l": -2.02484,
-            "p__sr": 0.061169,
-            "p__vpa": -0.727377,
+            "p__ativo_circ_liq": -0.0,
+            "p__capital_de_giro": -0.0,
+            "p__ebit": 0.0,
+            "p__ebitida": 0.0,
+            "p__l": -0.0,
+            "p__sr": 0.0,
+            "p__vpa": -0.0,
             "passivo": 1828979.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 1669692.0,
@@ -1205,7 +1205,7 @@
             "roic": 0.0,
             "saldo_de_tesouraria": -816877.0,
             "total_de_acoes": 4106440.75,
-            "valor_de_mercado__passivos_totais": 69.601494,
+            "valor_de_mercado__passivos_totais": 0.0,
             "valor_intrinseco_de_graham": 121.165192,
             "vpa": -42.618904
         }
@@ -11392,6 +11392,24 @@
             "low": 31.0,
             "open": 31.0,
             "volume": 0.0
+        },
+        {
+            "change": 0.0,
+            "close": 31.0,
+            "date": "2022-11-25T00:00:00",
+            "high": 31.0,
+            "low": 31.0,
+            "open": 31.0,
+            "volume": 0.0
+        },
+        {
+            "change": 0.0,
+            "close": 31.0,
+            "date": "2022-11-29T00:00:00",
+            "high": 31.0,
+            "low": 31.0,
+            "open": 31.0,
+            "volume": 0.0
         }
     ],
     "setor": "Bens Industriais > M\u00e1quinas e Equipamentos > M\u00e1q. e Equip. Industriais",
@@ -11488,13 +11506,13 @@
             "liquidez_corrente": 0.758184,
             "liquidez_corrente_3": 1.201235,
             "liquidez_corrente_5": 1.093748,
-            "risco_falencia": 0.7284132771565479
+            "risco_falencia": 0.7550611319139827
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,
             "cagr_peg_ratio_5": 0,
-            "p__l_med": 72.15213042857143,
-            "p__l_median": -0.491142,
+            "p__l_med": 72.29676185714285,
+            "p__l_median": -0.1360575,
             "price": 0,
             "valuation": 0,
             "valuation_med": 0

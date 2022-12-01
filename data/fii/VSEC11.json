@@ -3776,9 +3776,9 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": -0.01,
-            "cagr_patrimonio_liquido": -0.0,
-            "cagr_vpa_1": -0.0,
+            "cagr_ativo_1": 0.01,
+            "cagr_patrimonio_liquido": 0.02,
+            "cagr_vpa_1": 0.02,
             "cagr_vpa_3": -0.68,
             "cmgr_alugeis_6m": 0
         },
@@ -3788,12 +3788,12 @@
             "cagr_dy_1": -0.61,
             "cagr_dy_3": -0.27,
             "cagr_dy_5": 0,
-            "dy": 4.18
+            "dy": 4.14
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06,
-                "dy": 10.82
+                "cagr_dy_3": -0.05,
+                "dy": 9.9
             },
             "mercado": {
                 "custo_adm_med": 231269.56,

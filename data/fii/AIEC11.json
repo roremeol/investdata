@@ -5260,8 +5260,8 @@
         "crescimento": {
             "cagr_alugeis_1": 0.61,
             "cagr_ativo_1": -0.04,
-            "cagr_patrimonio_liquido": 0.01,
-            "cagr_vpa_1": 0.01,
+            "cagr_patrimonio_liquido": 0.0,
+            "cagr_vpa_1": 0.0,
             "cagr_vpa_3": 0.02,
             "cmgr_alugeis_6m": 0.07
         },
@@ -5271,12 +5271,12 @@
             "cagr_dy_1": -0.28,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 8.13
+            "dy": 7.52
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.14,
-                "dy": 4.91
+                "cagr_dy_3": -0.12,
+                "dy": 3.81
             },
             "mercado": {
                 "custo_adm_med": 139745.11,

@@ -1144,7 +1144,7 @@
             "caixa": 70593.0,
             "capital_circulante_liquido": 0.494677,
             "capital_de_giro": 309466.0,
-            "cotacao": 2.1,
+            "cotacao": 0.0,
             "custos": -166331.0,
             "div_bru__pl": 0.378551,
             "div_liq__ebitda": 1.100006,
@@ -1154,13 +1154,13 @@
             "divida_liquida__ebit": 0.990201,
             "divida_liquida__ebitida": 1.100006,
             "divida_liquida__patrimonio_liquido": 0.168929,
-            "dividend_yield": -0.035702,
+            "dividend_yield": 0.0,
             "ebit": 57452.0,
             "ebit__ativos_totais": 0.091836,
             "ebitda": 51717.0,
-            "ev": 156519328.0,
-            "ev__ebit": 2.724349,
-            "ev__ebitida": 3.026458,
+            "ev": 56889.0,
+            "ev__ebit": 0.00099,
+            "ev__ebitida": 0.0011,
             "expectativa_de_crescimento_anual": 0.10265,
             "fcf": -28824.0,
             "fci": -1109.0,
@@ -1185,13 +1185,13 @@
             "necessidade_de_capital_de_giro": 256570.0,
             "nopat": 219764.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": 0.505588,
-            "p__capital_de_giro": 0.505588,
-            "p__ebit": 2.723359,
-            "p__ebitida": 3.025358,
-            "p__l": 4.578807,
-            "p__sr": 0.444642,
-            "p__vpa": 0.464607,
+            "p__ativo_circ_liq": 0.0,
+            "p__capital_de_giro": 0.0,
+            "p__ebit": 0.0,
+            "p__ebitida": 0.0,
+            "p__l": 0.0,
+            "p__sr": 0.0,
+            "p__vpa": 0.0,
             "passivo": 625592.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 94567.0,
@@ -1199,7 +1199,7 @@
             "patrimonio_liquido": 336763.0,
             "patrimonio_liquido__ativos": 0.538311,
             "payout": 0.0,
-            "peg_ratio": 44.606018,
+            "peg_ratio": 0.0,
             "pl__ativo": 0.538311,
             "poder_de_ganho_basico": 0.082669,
             "prazo_medio_de_recebimento": 150.322952,
@@ -1212,7 +1212,7 @@
             "roic": 0.0,
             "saldo_de_tesouraria": 52896.0,
             "total_de_acoes": 74505920.0,
-            "valor_de_mercado__passivos_totais": 250.102997,
+            "valor_de_mercado__passivos_totais": 0.0,
             "valor_intrinseco_de_graham": 6.829541,
             "vpa": 4.519949
         }
@@ -21056,6 +21056,24 @@
             "low": 2.02,
             "open": 2.05,
             "volume": 181000.0
+        },
+        {
+            "change": 2.4390243902439157,
+            "close": 2.1,
+            "date": "2022-11-25T00:00:00",
+            "high": 2.17,
+            "low": 2.06,
+            "open": 2.07,
+            "volume": 466600.0
+        },
+        {
+            "change": 1.4285714285714193,
+            "close": 2.13,
+            "date": "2022-11-29T00:00:00",
+            "high": 2.17,
+            "low": 2.09,
+            "open": 2.1,
+            "volume": 722106.0
         }
     ],
     "setor": "Consumo C\u00edclico > Tecidos. Vestu\u00e1rio e Cal\u00e7ados > Acess\u00f3rios",
@@ -21075,7 +21093,7 @@
         "dividends": {
             "cagr_dy_1": 0,
             "cagr_dy_5": 0,
-            "dy": -0.035702,
+            "dy": 0.0,
             "payout": 0.0
         },
         "general": {
@@ -21152,13 +21170,13 @@
             "liquidez_corrente": 4.272452,
             "liquidez_corrente_3": 5.186782,
             "liquidez_corrente_5": 2.865402,
-            "risco_falencia": 0.7736636419115029
+            "risco_falencia": 0.8493255479767864
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,
-            "cagr_peg_ratio_5": -0.37,
-            "p__l_med": -11.702678642857142,
-            "p__l_median": 5.448551,
+            "cagr_peg_ratio_5": 0,
+            "p__l_med": -12.029736285714286,
+            "p__l_median": 3.1591475,
             "price": 0,
             "valuation": 6.829542679882563,
             "valuation_med": 6.324469004143055

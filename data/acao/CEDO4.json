@@ -1991,7 +1991,7 @@
             "caixa": 15811.0,
             "capital_circulante_liquido": -0.112471,
             "capital_de_giro": -98919.0,
-            "cotacao": 3.98,
+            "cotacao": 0.0,
             "custos": -984404.0,
             "div_bru__pl": 2.108721,
             "div_liq__ebitda": 4.385231,
@@ -2005,9 +2005,9 @@
             "ebit": 26977.0,
             "ebit__ativos_totais": 0.030673,
             "ebitda": 50536.0,
-            "ev": 40018532.0,
-            "ev__ebit": 1.483432,
-            "ev__ebitida": 0.791882,
+            "ev": 221612.0,
+            "ev__ebit": 0.008215,
+            "ev__ebitida": 0.004385,
             "expectativa_de_crescimento_anual": 0.0,
             "fcf": 63078.0,
             "fci": -9243.0,
@@ -2032,13 +2032,13 @@
             "necessidade_de_capital_de_giro": 18470.0,
             "nopat": 1011226.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": -0.402318,
-            "p__capital_de_giro": -0.402318,
-            "p__ebit": 1.475217,
-            "p__ebitida": 0.787496,
-            "p__l": -0.983053,
-            "p__sr": 0.035318,
-            "p__vpa": 0.353464,
+            "p__ativo_circ_liq": -0.0,
+            "p__capital_de_giro": -0.0,
+            "p__ebit": 0.0,
+            "p__ebitida": 0.0,
+            "p__l": -0.0,
+            "p__sr": 0.0,
+            "p__vpa": 0.0,
             "passivo": 879507.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 570975.0,
@@ -2059,7 +2059,7 @@
             "roic": 13.665216,
             "saldo_de_tesouraria": -117389.0,
             "total_de_acoes": 9999226.0,
-            "valor_de_mercado__passivos_totais": 45.249123,
+            "valor_de_mercado__passivos_totais": 0.0,
             "valor_intrinseco_de_graham": NaN,
             "vpa": 11.259972
         }
@@ -12336,6 +12336,24 @@
             "low": 3.98,
             "open": 3.98,
             "volume": 0.0
+        },
+        {
+            "change": 0.0,
+            "close": 3.98,
+            "date": "2022-11-25T00:00:00",
+            "high": 3.98,
+            "low": 3.98,
+            "open": 3.98,
+            "volume": 0.0
+        },
+        {
+            "change": -0.7537688442211006,
+            "close": 3.95,
+            "date": "2022-11-29T00:00:00",
+            "high": 3.95,
+            "low": 3.95,
+            "open": 3.95,
+            "volume": 0.0
         }
     ],
     "setor": "Consumo C\u00edclico > Tecidos. Vestu\u00e1rio e Cal\u00e7ados > Fios e Tecidos",
@@ -12432,13 +12450,13 @@
             "liquidez_corrente": 0.826754,
             "liquidez_corrente_3": 0.960056,
             "liquidez_corrente_5": 1.03979,
-            "risco_falencia": 0.7390374764573203
+            "risco_falencia": 0.7561100930762138
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,
             "cagr_peg_ratio_5": 0,
-            "p__l_med": -1.3631979285714284,
-            "p__l_median": -0.0999155,
+            "p__l_med": -1.292979857142857,
+            "p__l_median": 0.0,
             "price": 0,
             "valuation": 0,
             "valuation_med": 0
