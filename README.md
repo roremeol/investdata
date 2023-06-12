@@ -36,6 +36,10 @@ yarn dev
 
 E abra a página [http://localhost:3000](http://localhost:3000) no browser para ver o resultado.
 
+## Demo
+
+[Este é o link para a versão de demonstração do resultado](https://investdata.vercel.app/)
+
 ## Atenção
 
 Como a pasta `data` pode não estar atualizada com as informações dos últimos meses ou anos, pode acontecer de os gráficos e resultados estarem desatualizados e ou errados, no último caso por falha em alguma das etapas do processamento dos dados.
