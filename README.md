@@ -8,13 +8,13 @@ Este projeto foi arquitetado em 4 etapas:
 
 1.  Busca e adequação dos dados:
 
-    - Projeto [dude333/rapina](https://github.com/dude333/rapina) utilizando a linguagem (GO)[https://go.dev], Obrigado [dude333](https://github.com/dude333) pelo excelente trabalho e por me ajudar a aprender (GO)[https://go.dev] - download e processamento de dados financeiros de empresas brasileiras diretamente da [CVM](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/)
-    - Projeto fiiparse utilizando a linguagem (Python)[https://www.python.org], quando sobrar um tempo vou disponibilizar o código.
-    - Projeto stockparse utilizando a linguagem (Python)[https://www.python.org], quando sobrar um tempo vou disponibilizar o código.
+    - Projeto [dude333/rapina](https://github.com/dude333/rapina) utilizando a linguagem [GO](https://go.dev) Obrigado [dude333](https://github.com/dude333) pelo excelente trabalho e por me ajudar a aprender [GO](https://go.dev) - download e processamento de dados financeiros de empresas brasileiras diretamente da [CVM](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/)
+    - Projeto fiiparse utilizando a linguagem [Python](https://www.python.org), quando sobrar um tempo vou disponibilizar o código.
+    - Projeto stockparse utilizando a linguagem [Python](https://www.python.org), quando sobrar um tempo vou disponibilizar o código.
 
 2. Visualização dos dados:
 
-    - Projeto (roremeol/investdata)[https://github.com/roremeol/investdata] utilizado a linguagem (Javascript), Escrito utilizado [Next.js](https://nextjs.org/) e [React](https://react.dev)
+    - Projeto [roremeol/investdata](https://github.com/roremeol/investdata) utilizado a linguagem (Javascript), Escrito utilizado [Next.js](https://nextjs.org/) e [React](https://react.dev)
 
 3. Automatização
 
@@ -22,7 +22,7 @@ Este projeto foi arquitetado em 4 etapas:
 
 4. Hospedagem
 
-    - Utilizei o (Vercel)[https://vercel.com/dashboard]
+    - Utilizei o [Vercel](https://vercel.com/dashboard)
 
 ## Começando
 
