@@ -4,7 +4,9 @@ Site de busca, análise e visualização de ativos (Ações, Fiis e ETFs) negoci
 
 ## Tecnologias
 
-1. Este projeto foi arquitetado em duas etapas busca e adequação dos dados:
+Este projeto foi arquitetado em 4 etapas:
+
+1.  Busca e adequação dos dados:
 
     - Projeto [dude333/rapina](https://github.com/dude333/rapina) utilizando a linguagem (GO)[https://go.dev], Obrigado [dude333](https://github.com/dude333) pelo excelente trabalho e por me ajudar a aprender (GO)[https://go.dev] - download e processamento de dados financeiros de empresas brasileiras diretamente da [CVM](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/)
     - Projeto fiiparse utilizando a linguagem (Python)[https://www.python.org], quando sobrar um tempo vou disponibilizar o código.
