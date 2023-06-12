@@ -5,7 +5,7 @@ import grafStyle from '../styles/graf.module.scss'
 
 export default function Snowflake({ config={} }) {
   const { dataset=[], indicator=[{ text: 'Dividendos', max: 100 }], pontuacao='0.00%', valuation='R$ 0,00', upside='0.00%' } = config;
-
+  
   const options = {
     color: ['hsl(0deg, 0%, 21%)'],
     legend: {},
@@ -72,7 +72,7 @@ export default function Snowflake({ config={} }) {
 
         </div>
 
-        <div className="columns is-multiline">
+        {/* <div className="columns is-multiline">
 
           <div className="column is-12">
             <div className='level-item' style={{height: '100%'}}>
@@ -98,7 +98,7 @@ export default function Snowflake({ config={} }) {
                     </tr>
                   </thead>
                   <tbody>
-                    {data.map(({title='',value='',op='',objective=0,color=''},idx) => {
+                    {dataset.map(({title='',value='',op='',objective=0,color=''},idx) => {
                       return (
                         <tr key={idx} >
                           <td style={{color}}>{title}</td>
@@ -115,7 +115,7 @@ export default function Snowflake({ config={} }) {
             </div>
           </div>
 
-        </div> 
+        </div>  */}
       </>
   );
 }
