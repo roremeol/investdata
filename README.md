@@ -1,8 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Sobre
 
-## Getting Started
+Site de busca, análise e visualização de ativos (Ações, Fiis e ETFs) negociados na bolsa de valores [B3](https://www.b3.com.br/pt_br/).
 
-First, run the development server:
+## Tecnologias
+
+1. Este projeto foi arquitetado em duas etapas busca e adequação dos dados:
+
+    - Projeto [dude333/rapina](https://github.com/dude333/rapina) utilizando a linguagem (GO)[https://go.dev], Obrigado [dude333](https://github.com/dude333) pelo excelente trabalho e por me ajudar a aprender (GO)[https://go.dev] - download e processamento de dados financeiros de empresas brasileiras diretamente da [CVM](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/)
+    - Projeto fiiparse utilizando a linguagem (Python)[https://www.python.org], quando sobrar um tempo vou disponibilizar o código.
+    - Projeto stockparse utilizando a linguagem (Python)[https://www.python.org], quando sobrar um tempo vou disponibilizar o código.
+
+2. Visualização dos dados:
+
+    - Projeto (roremeol/investdata)[https://github.com/roremeol/investdata] utilizado a linguagem (Javascript), Escrito utilizado [Next.js](https://nextjs.org/) e [React](https://react.dev)
+
+3. Automatização
+
+    - Shell scripts para automatização do processo de atualização das informações/dados do sistema
+
+4. Hospedagem
+
+    - Utilizei o (Vercel)[https://vercel.com/dashboard]
+
+## Começando
+
+Para rodar este código localmente basta executar:
 
 ```bash
 npm run dev
@@ -10,25 +32,8 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+E abra a página [http://localhost:3000](http://localhost:3000) no browser para ver o resultado.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Atenção
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Como a pasta `data` pode não estar atualizada com as informações dos últimos meses ou anos, pode acontecer de os gráficos e resultados estarem desatualizados e ou errados, no último caso por falha em alguma das etapas do processamento dos dados.
