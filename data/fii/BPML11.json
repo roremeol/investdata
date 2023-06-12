@@ -3,59 +3,59 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 0.6539
+            "precentual": 0.7588
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
-            "precentual": 1.2173
+            "precentual": 1.0958
         },
         {
             "prazo": "De 6 meses e 1 dia a 9 meses",
-            "precentual": 1.8866
+            "precentual": 1.957
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 1.8999
+            "precentual": 2.1439
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 2.8654
+            "precentual": 2.6989
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 5.3758
+            "precentual": 4.8388
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 4.1307
+            "precentual": 3.8711
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 2.4566
+            "precentual": 2.4562
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 11.3934
+            "precentual": 11.7095
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 9.5285
+            "precentual": 9.6205
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 9.6613
+            "precentual": 9.5928
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 2.8453
+            "precentual": 2.6879
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 45.4727
+            "precentual": 46.0202
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 0.6126
+            "precentual": 0.5486
         }
     ],
     "cri": [],
@@ -159,6 +159,26 @@
             "data_com": "2022-10-18T00:00:00",
             "data_pagamento": "2022-10-25T00:00:00",
             "provento": 0.3
+        },
+        {
+            "data_com": "2022-11-18T00:00:00",
+            "data_pagamento": "2022-11-25T00:00:00",
+            "provento": 0.3
+        },
+        {
+            "data_com": "2022-12-16T00:00:00",
+            "data_pagamento": "2022-12-23T00:00:00",
+            "provento": 0.3
+        },
+        {
+            "data_com": "2023-01-18T00:00:00",
+            "data_pagamento": "2023-01-25T00:00:00",
+            "provento": 0.270464544
+        },
+        {
+            "data_com": "2023-02-15T00:00:00",
+            "data_pagamento": "2023-02-24T00:00:00",
+            "provento": 0.270464543
         }
     ],
     "fii": [],
@@ -645,12 +665,103 @@
             "patrimonio_liquido": 532814253.64,
             "receita_aluguel": 8960041.62,
             "valor_patrimonio_cotas": 123.764106
+        },
+        {
+            "ativo": 979096537.44,
+            "caixa": 13013497.82,
+            "competencia": "10/2022",
+            "cotas_emitidas": 4305079.0,
+            "cotistas": 1600,
+            "despesa_administracao": 52682.18,
+            "dy": -0.0491,
+            "numero_cotas": 4305079.0,
+            "patrimonio_liquido": 532143249.74,
+            "receita_aluguel": 8474429.02,
+            "valor_patrimonio_cotas": 123.608243
+        },
+        {
+            "ativo": 976378518.93,
+            "caixa": 8671524.79,
+            "competencia": "11/2022",
+            "cotas_emitidas": 4305079.0,
+            "cotistas": 1586,
+            "despesa_administracao": 52268.35,
+            "dy": -0.0913,
+            "numero_cotas": 4305079.0,
+            "patrimonio_liquido": 533350517.67,
+            "receita_aluguel": 8607824.15,
+            "valor_patrimonio_cotas": 123.888671
+        },
+        {
+            "ativo": 977271362.47,
+            "caixa": 5662279.12,
+            "competencia": "12/2022",
+            "cotas_emitidas": 4305079.0,
+            "cotistas": 1595,
+            "despesa_administracao": 52633.19,
+            "dy": -0.0923,
+            "numero_cotas": 4305079.0,
+            "patrimonio_liquido": 537073355.75,
+            "receita_aluguel": 12041387.82,
+            "valor_patrimonio_cotas": 124.753426
+        },
+        {
+            "ativo": 977756927.52,
+            "caixa": 4472939.22,
+            "competencia": "01/2023",
+            "cotas_emitidas": 4305079.0,
+            "cotistas": 1587,
+            "despesa_administracao": 52901.18,
+            "dy": 0.9517,
+            "numero_cotas": 4305079.0,
+            "patrimonio_liquido": 534355401.39,
+            "receita_aluguel": 9204997.84,
+            "valor_patrimonio_cotas": 124.12209
+        },
+        {
+            "ativo": 975457054.2,
+            "caixa": 5478208.81,
+            "competencia": "02/2023",
+            "cotas_emitidas": 4305079.0,
+            "cotistas": 1593,
+            "despesa_administracao": 52358.39,
+            "dy": 0.0438,
+            "numero_cotas": 4305079.0,
+            "patrimonio_liquido": 534269306.84,
+            "receita_aluguel": 8804667.5,
+            "valor_patrimonio_cotas": 124.102091
+        },
+        {
+            "ativo": 977794934.54,
+            "caixa": 9160398.96,
+            "competencia": "03/2023",
+            "cotas_emitidas": 4305079.0,
+            "cotistas": 1574,
+            "despesa_administracao": 52475.52,
+            "dy": 0.6482,
+            "numero_cotas": 4305079.0,
+            "patrimonio_liquido": 530055773.93,
+            "receita_aluguel": 8862738.5,
+            "valor_patrimonio_cotas": 123.123356
+        },
+        {
+            "ativo": 979442040.5,
+            "caixa": 8748598.49,
+            "competencia": "04/2023",
+            "cotas_emitidas": 4305079.0,
+            "cotistas": 1544,
+            "despesa_administracao": 52207.96,
+            "dy": 0.4329,
+            "numero_cotas": 4305079.0,
+            "patrimonio_liquido": 527353123.3,
+            "receita_aluguel": 9166342.52,
+            "valor_patrimonio_cotas": 122.495574
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 19.2524
+            "precentual": 17.5381
         },
         {
             "indexador": "INPC",
@@ -658,7 +769,7 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 3.8508
+            "precentual": 4.5125
         },
         {
             "indexador": "INCC",
@@ -666,10 +777,10 @@
         },
         {
             "indexador": "IGP-DI",
-            "precentual": 76.8968
+            "precentual": 77.9494
         }
     ],
-    "ipca_prize": 5.76,
+    "ipca_prize": 5.58,
     "isin": "BRBPMLCTF006",
     "lci": [],
     "mandato": "Renda",
@@ -930,11 +1041,38 @@
         {
             "change": 6.116071,
             "close": 118.85,
+            "date": "2019-12-26",
+            "max": 118.85,
+            "min": 118.85,
+            "open": 118.85,
+            "volume": 1307350000
+        },
+        {
+            "change": 6.116071,
+            "close": 118.85,
             "date": "2019-12-27",
             "max": 118.85,
             "min": 118.84,
             "open": 118.85,
             "volume": 22105750000
+        },
+        {
+            "change": 6.116071,
+            "close": 118.85,
+            "date": "2019-12-30",
+            "max": 118.85,
+            "min": 118.85,
+            "open": 118.85,
+            "volume": 14737400000
+        },
+        {
+            "change": 5.803571,
+            "close": 118.5,
+            "date": "2020-01-02",
+            "max": 118.85,
+            "min": 114.55,
+            "open": 118.85,
+            "volume": 95456060000
         },
         {
             "change": 5.803571,
@@ -7154,106 +7292,295 @@
             "min": 68.0,
             "open": 69.69,
             "volume": 6600450000
+        },
+        {
+            "change": -37.598214,
+            "close": 69.89,
+            "date": "2022-10-20",
+            "max": 69.89,
+            "min": 68.29,
+            "open": 68.3,
+            "volume": 1588390000
+        },
+        {
+            "change": -37.723214,
+            "close": 69.75,
+            "date": "2022-10-21",
+            "max": 69.89,
+            "min": 69.04,
+            "open": 69.88,
+            "volume": 836970000
+        },
+        {
+            "change": -39.375,
+            "close": 67.9,
+            "date": "2022-10-24",
+            "max": 69.99,
+            "min": 65.39,
+            "open": 69.75,
+            "volume": 10235110000
+        },
+        {
+            "change": -38.723214,
+            "close": 68.63,
+            "date": "2022-10-25",
+            "max": 68.63,
+            "min": 68.0,
+            "open": 68.03,
+            "volume": 2393360000
+        },
+        {
+            "change": -37.5625,
+            "close": 69.93,
+            "date": "2022-10-26",
+            "max": 69.99,
+            "min": 69.51,
+            "open": 69.99,
+            "volume": 4894520000
+        },
+        {
+            "change": -38.508929,
+            "close": 68.87,
+            "date": "2022-10-27",
+            "max": 68.87,
+            "min": 66.0,
+            "open": 68.5,
+            "volume": 14095210000
+        },
+        {
+            "change": -38.553571,
+            "close": 68.82,
+            "date": "2022-10-28",
+            "max": 68.88,
+            "min": 67.41,
+            "open": 68.88,
+            "volume": 5241680000
+        },
+        {
+            "change": -38.375,
+            "close": 69.02,
+            "date": "2022-10-31",
+            "max": 69.03,
+            "min": 66.11,
+            "open": 69.03,
+            "volume": 14708530000
+        },
+        {
+            "change": -39.303571,
+            "close": 67.98,
+            "date": "2022-11-01",
+            "max": 69.02,
+            "min": 67.98,
+            "open": 69.02,
+            "volume": 1907840000
+        },
+        {
+            "change": -39.544643,
+            "close": 67.71,
+            "date": "2022-11-03",
+            "max": 69.69,
+            "min": 67.71,
+            "open": 67.71,
+            "volume": 11556790000
+        },
+        {
+            "change": -40.160714,
+            "close": 67.02,
+            "date": "2022-11-04",
+            "max": 68.54,
+            "min": 67.02,
+            "open": 67.73,
+            "volume": 2779440000
+        },
+        {
+            "change": -39.196429,
+            "close": 68.1,
+            "date": "2022-11-07",
+            "max": 68.49,
+            "min": 66.51,
+            "open": 68.49,
+            "volume": 27286250000
+        },
+        {
+            "change": -38.401786,
+            "close": 68.99,
+            "date": "2022-11-08",
+            "max": 68.99,
+            "min": 68.09,
+            "open": 68.09,
+            "volume": 7846880000
+        },
+        {
+            "change": -40.205357,
+            "close": 66.97,
+            "date": "2022-11-09",
+            "max": 69.0,
+            "min": 66.97,
+            "open": 68.99,
+            "volume": 14151840000
+        },
+        {
+            "change": -40.616071,
+            "close": 66.51,
+            "date": "2022-11-11",
+            "max": 67.25,
+            "min": 66.51,
+            "open": 67.25,
+            "volume": 736810000
+        },
+        {
+            "change": -40.357143,
+            "close": 66.8,
+            "date": "2022-11-14",
+            "max": 67.72,
+            "min": 66.51,
+            "open": 67.69,
+            "volume": 11050090000
+        },
+        {
+            "change": -40.625,
+            "close": 66.5,
+            "date": "2022-11-16",
+            "max": 66.8,
+            "min": 66.5,
+            "open": 66.8,
+            "volume": 2865560000
+        },
+        {
+            "change": -40.375,
+            "close": 66.78,
+            "date": "2022-11-17",
+            "max": 66.78,
+            "min": 66.5,
+            "open": 66.5,
+            "volume": 35311780000
+        },
+        {
+            "change": -40.375,
+            "close": 66.78,
+            "date": "2022-11-18",
+            "max": 66.78,
+            "min": 66.77,
+            "open": 66.77,
+            "volume": 600980000
+        },
+        {
+            "change": -40.633929,
+            "close": 66.49,
+            "date": "2022-11-21",
+            "max": 67.71,
+            "min": 66.49,
+            "open": 66.49,
+            "volume": 1542290000
+        },
+        {
+            "change": -40.392857,
+            "close": 66.76,
+            "date": "2022-11-29",
+            "max": 67.56,
+            "min": 66.76,
+            "open": 66.76,
+            "volume": 1472160000
         }
     ],
     "propriedades": [
         {
-            "area": 33.99,
-            "cidade": "Londrina Norte Shopping Rua Am\u00e9rica Deolindo Garla, 224, Shopping, Lodrina, PR, 86079225 \n                \u00c1rea (m2):\n                33,99 \n                N\u00ba de unidades ou lojas:\n                140 Direito de Propriedade",
+            "area": 32.99,
+            "cidade": "Londrina Norte Shopping Rua Am\u00e9rica Deolindo Garla, 224, Shopping, Lodrina, PR, 86079225 \n                \u00c1rea (m2):\n                32,99 \n                N\u00ba de unidades ou lojas:\n                140 Direito de Propriedade",
             "endereco": "Rua Am\u00e9rica Deolindo Garla, 224, Shopping, Lodrina, PR, 86079",
             "estado": "PR",
-            "inadimplencia": 0.9,
+            "inadimplencia": -15.9,
             "nome": "Londrina Norte Shopping",
             "unidades": 140,
-            "vacancia": 8.4
+            "vacancia": 8.2
+        },
+        {
+            "area": 36.58,
+            "cidade": "Capim Dourado Shopping  Q. 107, Norte Avenida, NS 5, sn, Shopping, Palmas, TO, 77001098 \n                \u00c1rea (m2):\n                36,58 \n                N\u00ba de unidades ou lojas:\n                147 Direito de Propriedade",
+            "endereco": "Avenida, NS 5, s/n, Shopping, Palmas, TO, 77001",
+            "estado": "TO",
+            "inadimplencia": 1.0,
+            "nome": "Capim Dourado Shopping  Q. 107, Norteenida, NS 5, s/n, Shopping, Palmas, TO, 77001-098 \n                \u00c1rea (m2):\n                36,58 \n                N\u00ba de unidades ou lojas:\n                147 Direito de Propriedade",
+            "unidades": 147,
+            "vacancia": 8.2
         },
         {
             "area": 29.7,
             "cidade": "Cabral, ContagemMG, 32110",
             "endereco": "Av. Severino Ballesteros, 850",
             "estado": "MG",
-            "inadimplencia": 8.4,
+            "inadimplencia": 19.6,
             "nome": "Shopping Contagem",
             "unidades": 203,
-            "vacancia": 7.8
+            "vacancia": 10.8
         },
         {
             "area": 14.17,
             "cidade": "Ilha Plaza Shopping Av. Maestro Paulo e Silva, 400, Shopping, Rio de Janeiro, RJ, 21920445 \n                \u00c1rea (m2):\n                14,17 \n                N\u00ba de unidades ou lojas:\n                142 Direito de Propriedade",
             "endereco": "Av. Maestro Paulo e Silva, 400, Shopping, Rio de Janeiro, RJ, 21920",
             "estado": "RJ",
-            "inadimplencia": 6.8,
+            "inadimplencia": 0.5,
             "nome": "Ilha Plaza Shopping",
             "unidades": 142,
-            "vacancia": 4.8
-        },
-        {
-            "area": 36.58,
-            "cidade": "Shopping Capim Dourado Q. 107, Norte Avenida, NS 5, sn, Shopping, Palmas, TO, 77001098 \n                \u00c1rea (m2):\n                36,58 \n                N\u00ba de unidades ou lojas:\n                147 Direito de Propriedade",
-            "endereco": "Avenida, NS 5, s/n, Shopping, Palmas, TO, 77001",
-            "estado": "TO",
-            "inadimplencia": 7.1,
-            "nome": "Shopping Capim Dourado Q. 107, Norteenida, NS 5, s/n, Shopping, Palmas, TO, 77001-098 \n                \u00c1rea (m2):\n                36,58 \n                N\u00ba de unidades ou lojas:\n                147 Direito de Propriedade",
-            "unidades": 147,
-            "vacancia": 2.5
+            "vacancia": 3.5
         }
     ],
     "segmento": "Shoppings",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 1.24,
-            "cagr_ativo_1": -0.03,
-            "cagr_patrimonio_liquido": -0.07,
-            "cagr_vpa_1": -0.07,
-            "cagr_vpa_3": 0.07,
-            "cmgr_alugeis_6m": 0.01
+            "cagr_alugeis_1": 0.04,
+            "cagr_ativo_1": 0.0,
+            "cagr_patrimonio_liquido": -0.03,
+            "cagr_vpa_1": -0.03,
+            "cagr_vpa_3": -0.03,
+            "cmgr_alugeis_6m": -0.0
         },
         "dividends": {
-            "cagr_dividens_1": -0.7,
-            "cagr_dividens_3": -0.33,
-            "cagr_dy_1": -0.37,
-            "cagr_dy_3": -0.14,
-            "cagr_dy_5": -0.09,
-            "dy": 2.93
+            "cagr_dividens_1": -0.73,
+            "cagr_dividens_3": -0.35,
+            "cagr_dy_1": -0.57,
+            "cagr_dy_3": 0,
+            "cagr_dy_5": -0.15,
+            "dy": 3.57
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.16,
-                "dy": 5.16
+                "cagr_dy_3": -0.03,
+                "dy": 5.2
             },
             "mercado": {
-                "custo_adm_med": 236677.22,
-                "liquidez_med": 574772111428.57
+                "custo_adm_med": 255438.1,
+                "liquidez_med": 575898554761.9
             },
             "operacao": {
-                "patrimonio_liquido": 661924718.57,
-                "pl_cx": 2.02,
-                "vacancia": 7.89
+                "patrimonio_liquido": 655343192.4,
+                "pl_cx": 2.07,
+                "vacancia": 7.21
             },
             "valuation": {
-                "p_vpa_med": 0.78
+                "p_vpa_med": 0.77
             }
         },
         "mercado": {
-            "custo_adm_med": 54366.62,
+            "custo_adm_med": 53029.305,
             "ifix": 0,
-            "liquidez_med": 9244550000.0
+            "liquidez_med": 9118895000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 4,
             "imoveis": 4,
-            "patrimonio_liquido": 532814253.64,
-            "pl_cx": 2.77,
-            "vacancia": 5.91,
-            "vacancia_1": 4.81,
-            "vacancia_3m": 6.69
+            "patrimonio_liquido": 527353123.3,
+            "pl_cx": 1.66,
+            "vacancia": 8.29,
+            "vacancia_1": 6.19,
+            "vacancia_3m": 5.07
         },
         "valuation": {
-            "p_vpa": 0.56,
+            "p_vpa": 0.54,
             "p_vpa_med": 0.66,
-            "price": 69.7,
-            "valuation": 42.45
+            "price": 66.76,
+            "valuation": 40.79
         }
     },
     "ticker": "BPML11",
@@ -7305,6 +7632,18 @@
         {
             "competencia": "2/2022",
             "total": 5.91
+        },
+        {
+            "competencia": "3/2022",
+            "total": 5.97
+        },
+        {
+            "competencia": "4/2022",
+            "total": 5.07
+        },
+        {
+            "competencia": "1/2023",
+            "total": 8.29
         }
     ]
 }

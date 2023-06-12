@@ -3,7 +3,7 @@
     "contratos": [
         {
             "prazo": "At\u00e9 3 meses",
-            "precentual": 0.0
+            "precentual": 12.8482
         },
         {
             "prazo": "De 3 meses e 1 dia a 6 meses",
@@ -27,7 +27,7 @@
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 0.0
+            "precentual": 23.6512
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
@@ -51,7 +51,7 @@
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 100.0
+            "precentual": 63.5006
         },
         {
             "prazo": "Prazo indeterminado",
@@ -144,11 +144,41 @@
             "data_com": "2022-11-23T00:00:00",
             "data_pagamento": "2022-11-30T00:00:00",
             "provento": 0.85
+        },
+        {
+            "data_com": "2022-12-22T00:00:00",
+            "data_pagamento": "2022-12-29T00:00:00",
+            "provento": 0.85
+        },
+        {
+            "data_com": "2023-01-24T00:00:00",
+            "data_pagamento": "2023-01-31T00:00:00",
+            "provento": 0.875
+        },
+        {
+            "data_com": "2023-02-17T00:00:00",
+            "data_pagamento": "2023-02-28T00:00:00",
+            "provento": 0.95
+        },
+        {
+            "data_com": "2023-03-24T00:00:00",
+            "data_pagamento": "2023-03-31T00:00:00",
+            "provento": 0.95
+        },
+        {
+            "data_com": "2023-04-20T00:00:00",
+            "data_pagamento": "2023-04-28T00:00:00",
+            "provento": 0.85
+        },
+        {
+            "data_com": "2023-05-24T00:00:00",
+            "data_pagamento": "2023-05-31T00:00:00",
+            "provento": 0.8
         }
     ],
     "fii": [],
     "gestao": "Ativa",
-    "ifix_participacao": 0.264,
+    "ifix_participacao": 0.237,
     "imr": [
         {
             "ativo": 336368273.91,
@@ -370,6 +400,84 @@
             "patrimonio_liquido": 346772101.97,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 103.066138
+        },
+        {
+            "ativo": 379215839.4,
+            "caixa": 19429378.26,
+            "competencia": "11/2022",
+            "cotas_emitidas": 3364559.0,
+            "cotistas": 20575,
+            "despesa_administracao": 294249.32,
+            "dy": 0.5528,
+            "numero_cotas": 3364559.0,
+            "patrimonio_liquido": 348636630.43,
+            "receita_aluguel": 1056051.58,
+            "valor_patrimonio_cotas": 103.620305
+        },
+        {
+            "ativo": 512822548.88,
+            "caixa": 34996076.42,
+            "competencia": "12/2022",
+            "cotas_emitidas": 3364559.0,
+            "cotistas": 20627,
+            "despesa_administracao": 289325.46,
+            "dy": 0.8482,
+            "numero_cotas": 3364559.0,
+            "patrimonio_liquido": 466653964.28,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 138.696918
+        },
+        {
+            "ativo": 510470046.39,
+            "caixa": 32383527.54,
+            "competencia": "01/2023",
+            "cotas_emitidas": 3364559.0,
+            "cotistas": 20770,
+            "despesa_administracao": 287917.64,
+            "dy": 0.6678,
+            "numero_cotas": 3364559.0,
+            "patrimonio_liquido": 466641228.3,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 138.693133
+        },
+        {
+            "ativo": 508896441.84,
+            "caixa": 30832565.92,
+            "competencia": "02/2023",
+            "cotas_emitidas": 3364559.0,
+            "cotistas": 20724,
+            "despesa_administracao": 287911.05,
+            "dy": 0.6534,
+            "numero_cotas": 3364559.0,
+            "patrimonio_liquido": 466630551.38,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 138.689959
+        },
+        {
+            "ativo": 561264593.61,
+            "caixa": 28649352.1,
+            "competencia": "03/2023",
+            "cotas_emitidas": 3364559.0,
+            "cotistas": 20743,
+            "despesa_administracao": 324536.49,
+            "dy": 1.3402,
+            "numero_cotas": 3364559.0,
+            "patrimonio_liquido": 395776212.2,
+            "receita_aluguel": 740506.58,
+            "valor_patrimonio_cotas": 117.630932
+        },
+        {
+            "ativo": 559067104.03,
+            "caixa": 25655449.99,
+            "competencia": "04/2023",
+            "cotas_emitidas": 3364559.0,
+            "cotistas": 20675,
+            "despesa_administracao": 316480.66,
+            "dy": 0.5153,
+            "numero_cotas": 3364559.0,
+            "patrimonio_liquido": 396592303.25,
+            "receita_aluguel": 1547904.08,
+            "valor_patrimonio_cotas": 117.873488
         }
     ],
     "indexador_reajuste_contrato": [
@@ -390,7 +498,7 @@
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 6.140000000000001,
+    "ipca_prize": 5.58,
     "isin": "BRBTRACTF000",
     "lci": [],
     "mandato": "Renda",
@@ -3347,66 +3455,75 @@
             "min": 84.51,
             "open": 85.91,
             "volume": 532117450000
+        },
+        {
+            "change": -15.906788,
+            "close": 83.0,
+            "date": "2022-11-29",
+            "max": 85.1,
+            "min": 82.97,
+            "open": 83.51,
+            "volume": 271979490000
         }
     ],
     "propriedades": [
         {
             "area": 149900.0,
-            "cidade": "Rui Prado Rodovia Br 364, Km 888, Sem Complemento, , Campo Novo Do ParecisMT, Brasil, 78360",
+            "cidade": "Rui Prado Rodovia Br 364, Km 888, Campo Novo Do ParecisMT, Brasil, 78360",
             "endereco": "Fazenda Cachoeirinha",
             "estado": "MT",
             "inadimplencia": 0.0,
-            "nome": " Cachoeirinha - Rui Prado Br 364, Km 888, Sem Complemento, , Campo Novo Do Parecis/MT, Brasil, 78360-000 \n                \u00c1rea (m2):\n                149.900,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": " Cachoeirinha - Rui Prado Br 364, Km 888, Campo Novo Do Parecis/MT, Brasil, 78360-000 \n                \u00c1rea (m2):\n                149.900,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 17120000.0,
-            "cidade": "Hendges Area Rural, Sn, Sem Complemento, Na, Sao DesiderioBA, Brasil, 47820",
+            "cidade": "Hendges Area Rural, Sn, Sao DesiderioBA, Brasil, 47820",
             "endereco": "Fazenda Sorriso",
             "estado": "BA",
             "inadimplencia": 0.0,
-            "nome": " Sorriso - Hendges Area Rural, Sn, Sem Complemento, N/a, Sao Desiderio/BA, Brasil, 47820-000 \n                \u00c1rea (m2):\n                17.120.000,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
-            "area": 4000000.0,
-            "cidade": "Bergamasco Zona Rural, Sn, Sem Complemento, Zona Rural, Nova MutumMT, Brasil, 78450",
-            "endereco": "Fazenda Colibri",
-            "estado": "MT",
-            "inadimplencia": 0.0,
-            "nome": " Colibri - Bergamasco Zona Rural, S/n, Sem Complemento, Zona Rural, Nova Mutum/MT, Brasil, 78450-000 \n                \u00c1rea (m2):\n                4.000.000,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
-            "area": 17150000.0,
-            "cidade": "Bergamasco Zona Rural, Sn, Sem Complemento, Zona Rural, TapurahMT, Brasil, 78573",
-            "endereco": "Fazenda Tres Irmaos",
-            "estado": "MT",
-            "inadimplencia": 0.0,
-            "nome": " Tres Irmaos - Bergamasco Zona Rural, S/n, Sem Complemento, Zona Rural, Tapurah/MT, Brasil, 78573-000 \n                \u00c1rea (m2):\n                17.150.000,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "unidades": 1,
-            "vacancia": 0.0
-        },
-        {
-            "area": 16730.0,
-            "cidade": "Fazenda JR Zona Rural, Sn, Sem Complemento, Zona Rural, Campo VerdeMT, Brasil, 78840000 \n                \u00c1rea (m2):\n                16.730,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Fazenda JR Zona Rural, S/n, Sem Complemento, Zona Rural, Campo Verde/MT, Brasil, 78840",
-            "estado": "MT",
-            "inadimplencia": 0.0,
-            "nome": " JR Zona Rural, S/n, Sem Complemento, Zona Rural, Campo Verde/MT, Brasil, 78840-000 \n                \u00c1rea (m2):\n                16.730,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "nome": " Sorriso - Hendges Area Rural, Sn, Sao Desiderio/BA, Brasil, 47820-000 \n                \u00c1rea (m2):\n                17.120.000,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         },
         {
             "area": 31480000.0,
-            "cidade": "Fazenda Milton Cella  Area Rural, Sn, Sem Complemento, Na, Nova MaringaMT, Brasil, 78445000 \n                \u00c1rea (m2):\n                31.480.000,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
-            "endereco": "Fazenda Milton Cella  Area Rural, Sn, Sem Complemento, N/a, Nova Maringa/MT, Brasil, 78445",
+            "cidade": "Milton Cella Area Rural, Sn, Nova MaringaMT, Brasil, 78445",
+            "endereco": "Fazenda Vianmancel",
             "estado": "MT",
-            "inadimplencia": 100.0,
-            "nome": " Milton Cella  Area Rural, Sn, Sem Complemento, N/a, Nova Maringa/MT, Brasil, 78445-000 \n                \u00c1rea (m2):\n                31.480.000,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "inadimplencia": 0.0,
+            "nome": "",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 4000000.0,
+            "cidade": "Bergamasco  Zona Rural, Nova MutumMT, Brasil, 78450",
+            "endereco": "Fazenda Colibri",
+            "estado": "MT",
+            "inadimplencia": 0.0,
+            "nome": " Colibri - Bergamasco  Zona Rural, Nova Mutum/MT, Brasil, 78450-000 \n                \u00c1rea (m2):\n                4.000.000,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 17150000.0,
+            "cidade": "Bergamasco Zona Rural, TapurahMT, Brasil, 78573",
+            "endereco": "Fazenda Tres Irmaos",
+            "estado": "MT",
+            "inadimplencia": 0.0,
+            "nome": " Tres Irmaos - Bergamasco Zona Rural, Tapurah/MT, Brasil, 78573-000 \n                \u00c1rea (m2):\n                17.150.000,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 16730.0,
+            "cidade": "Fazenda JR Zona Rural, Campo VerdeMT, Brasil, 78840000 \n                \u00c1rea (m2):\n                16.730,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
+            "endereco": "Fazenda JR Zona Rural, Campo Verde/MT, Brasil, 78840",
+            "estado": "MT",
+            "inadimplencia": 0.0,
+            "nome": " JR Zona Rural, Campo Verde/MT, Brasil, 78840-000 \n                \u00c1rea (m2):\n                16.730,00 \n                N\u00ba de unidades ou lojas:\n                1 Direito de propriedade",
             "unidades": 1,
             "vacancia": 0.0
         }
@@ -3414,59 +3531,59 @@
     "segmento": "Outros",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0,
-            "cagr_ativo_1": -0.15,
-            "cagr_patrimonio_liquido": -0.0,
-            "cagr_vpa_1": -0.0,
-            "cagr_vpa_3": 0.01,
+            "cagr_alugeis_1": -0.09,
+            "cagr_ativo_1": 0.45,
+            "cagr_patrimonio_liquido": 0.14,
+            "cagr_vpa_1": 0.14,
+            "cagr_vpa_3": 0.06,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
-            "cagr_dividens_1": -0.15,
-            "cagr_dividens_3": -0.05,
-            "cagr_dy_1": -0.04,
-            "cagr_dy_3": -0.02,
-            "cagr_dy_5": -0.01,
-            "dy": 8.98
+            "cagr_dividens_1": -0.2,
+            "cagr_dividens_3": -0.07,
+            "cagr_dy_1": -0.48,
+            "cagr_dy_3": -0.2,
+            "cagr_dy_5": -0.12,
+            "dy": 7.49
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.02,
-                "dy": 8.12
+                "cagr_dy_3": -0.05,
+                "dy": 8.07
             },
             "mercado": {
-                "custo_adm_med": 128619.15,
-                "liquidez_med": 436392411571.43
+                "custo_adm_med": 128305.99,
+                "liquidez_med": 415460321315.79
             },
             "operacao": {
-                "patrimonio_liquido": 324733945.3,
-                "pl_cx": 6.69,
-                "vacancia": 2.41
+                "patrimonio_liquido": 319582035.3,
+                "pl_cx": 4.01,
+                "vacancia": 3.67
             },
             "valuation": {
-                "p_vpa_med": 0.74
+                "p_vpa_med": 0.88
             }
         },
         "mercado": {
-            "custo_adm_med": 341755.88,
-            "ifix": 0.264,
-            "liquidez_med": 636177790000.0
+            "custo_adm_med": 326884.2,
+            "ifix": 0.237,
+            "liquidez_med": 634335410000
         },
         "operacao": {
             "contratos_vencimento": 37,
             "estados": 2,
             "imoveis": 6,
-            "patrimonio_liquido": 346772101.97,
-            "pl_cx": 5.63,
+            "patrimonio_liquido": 396592303.25,
+            "pl_cx": 6.47,
             "vacancia": 0.0,
             "vacancia_1": 0,
             "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.82,
+            "p_vpa": 0.7,
             "p_vpa_med": 0.89,
-            "price": 84.51,
-            "valuation": 109.42
+            "price": 83.0,
+            "valuation": 113.34
         }
     },
     "ticker": "BTRA11",
@@ -3489,6 +3606,14 @@
         },
         {
             "competencia": "3/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "4/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "1/2023",
             "total": 0.0
         }
     ]

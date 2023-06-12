@@ -3,69 +3,39 @@
     "contratos": [],
     "cri": [
         {
-            "nome": "CASA DE PEDRA SECURITIZADORA DE CREDITO S.A",
-            "quantidade": 3910.0,
-            "valor": 2029658.22
-        },
-        {
-            "nome": "BARI SECURITIZADORA S.A.",
-            "quantidade": 32.0,
-            "valor": 30496.53
-        },
-        {
-            "nome": "BARI SECURITIZADORA S.A.",
-            "quantidade": 3382.0,
-            "valor": 2770980.23
-        },
-        {
-            "nome": "FORTE SECURITIZADORA S.A.",
-            "quantidade": 1500.0,
-            "valor": 1171235.19
-        },
-        {
             "nome": "LEADS CIA. SECURITIZADORA",
-            "quantidade": 372.0,
-            "valor": 4194798.92
+            "quantidade": 2000.0,
+            "valor": 17096925.39
         },
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZACAO",
-            "quantidade": 254.0,
-            "valor": 2821139.73
-        },
-        {
-            "nome": "VIRGO COMPANHIA DE SECURITIZACAO",
-            "quantidade": 2200.0,
-            "valor": 2003481.18
-        },
-        {
-            "nome": "VIRGO COMPANHIA DE SECURITIZACAO",
-            "quantidade": 235.0,
-            "valor": 214728.86
-        },
-        {
-            "nome": "VIRGO COMPANHIA DE SECURITIZACAO",
-            "quantidade": 1000.0,
-            "valor": 1000020.6
+            "quantidade": 88.0,
+            "valor": 960473.17
         },
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZACAO",
             "quantidade": 500.0,
-            "valor": 501462.15
+            "valor": 506091.89
         },
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZACAO",
-            "quantidade": 1123.0,
-            "valor": 1224250.92
+            "quantidade": 1000.0,
+            "valor": 1001526.03
         },
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZACAO",
-            "quantidade": 6000.0,
-            "valor": 6196793.27
+            "quantidade": 8631.0,
+            "valor": 9598853.57
         },
         {
             "nome": "VIRGO COMPANHIA DE SECURITIZACAO",
-            "quantidade": 6266.0,
-            "valor": 6268838.21
+            "quantidade": 7625.0,
+            "valor": 7818192.02
+        },
+        {
+            "nome": "CANAL COMPANHIA DE SECURITIZACAO",
+            "quantidade": 8000.0,
+            "valor": 8057140.44
         }
     ],
     "dividends": [
@@ -223,6 +193,41 @@
             "data_com": "2022-11-01T00:00:00",
             "data_pagamento": "2022-11-18T00:00:00",
             "provento": 1.21
+        },
+        {
+            "data_com": "2022-12-01T00:00:00",
+            "data_pagamento": "2022-12-16T00:00:00",
+            "provento": 1.1
+        },
+        {
+            "data_com": "2023-01-02T00:00:00",
+            "data_pagamento": "2023-01-17T00:00:00",
+            "provento": 1.1
+        },
+        {
+            "data_com": "2023-02-02T00:00:00",
+            "data_pagamento": "2023-02-10T00:00:00",
+            "provento": 0.652489274235786
+        },
+        {
+            "data_com": "2023-03-02T00:00:00",
+            "data_pagamento": "2023-03-10T00:00:00",
+            "provento": 0.854232315967135
+        },
+        {
+            "data_com": "2023-04-04T00:00:00",
+            "data_pagamento": "2023-04-13T00:00:00",
+            "provento": 1.03
+        },
+        {
+            "data_com": "2023-05-03T00:00:00",
+            "data_pagamento": "2023-05-11T00:00:00",
+            "provento": 1.04
+        },
+        {
+            "data_com": "2023-06-02T00:00:00",
+            "data_pagamento": "2023-06-13T00:00:00",
+            "provento": 0.91
         }
     ],
     "fii": [],
@@ -527,10 +532,88 @@
             "patrimonio_liquido": 33581846.82,
             "receita_aluguel": 0.0,
             "valor_patrimonio_cotas": 116.444348
+        },
+        {
+            "ativo": 51778866.56,
+            "caixa": 11511116.02,
+            "competencia": "11/2022",
+            "cotas_emitidas": 453531.9623,
+            "cotistas": 384,
+            "despesa_administracao": 16496.34,
+            "dy": 1.0391,
+            "numero_cotas": 453531.9623,
+            "patrimonio_liquido": 51712665.92,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 114.022098
+        },
+        {
+            "ativo": 53162560.22,
+            "caixa": 12606207.8,
+            "competencia": "12/2022",
+            "cotas_emitidas": 462706.9623,
+            "cotistas": 392,
+            "despesa_administracao": 17835.23,
+            "dy": 0.9647,
+            "numero_cotas": 462706.9623,
+            "patrimonio_liquido": 53081054.91,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 114.718514
+        },
+        {
+            "ativo": 53771693.71,
+            "caixa": 11351377.74,
+            "competencia": "01/2023",
+            "cotas_emitidas": 462706.96,
+            "cotistas": 405,
+            "despesa_administracao": 18473.38,
+            "dy": 0.0,
+            "numero_cotas": 462706.96,
+            "patrimonio_liquido": 53391265.1,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 115.388939
+        },
+        {
+            "ativo": 54348080.94,
+            "caixa": 2792532.0,
+            "competencia": "02/2023",
+            "cotas_emitidas": 462706.96,
+            "cotistas": 408,
+            "despesa_administracao": 47382.01,
+            "dy": 0.0,
+            "numero_cotas": 462706.96,
+            "patrimonio_liquido": 54274929.53,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 117.29871
+        },
+        {
+            "ativo": 54944725.49,
+            "caixa": 3135676.0,
+            "competencia": "03/2023",
+            "cotas_emitidas": 462706.96,
+            "cotistas": 395,
+            "despesa_administracao": 61717.64,
+            "dy": 0.0,
+            "numero_cotas": 462706.96,
+            "patrimonio_liquido": 54860122.59,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 118.563426
+        },
+        {
+            "ativo": 55095438.43,
+            "caixa": 3111917.0,
+            "competencia": "04/2023",
+            "cotas_emitidas": 462706.96,
+            "cotistas": 395,
+            "despesa_administracao": 48586.1,
+            "dy": 0.0,
+            "numero_cotas": 462706.96,
+            "patrimonio_liquido": 55023897.43,
+            "receita_aluguel": 0.0,
+            "valor_patrimonio_cotas": 118.917376
         }
     ],
     "indexador_reajuste_contrato": [],
-    "ipca_prize": 6.205,
+    "ipca_prize": 5.58,
     "isin": "BRHGICCTF009",
     "lci": [],
     "mandato": "T\u00edtulos",
@@ -3928,6 +4011,15 @@
             "min": 106.97,
             "open": 106.98,
             "volume": 641870000
+        },
+        {
+            "change": -0.616114,
+            "close": 104.85,
+            "date": "2022-11-29",
+            "max": 106.19,
+            "min": 103.77,
+            "open": 106.18,
+            "volume": 122599950000
         }
     ],
     "propriedades": [],
@@ -3935,58 +4027,58 @@
     "snowflake": {
         "crescimento": {
             "cagr_alugeis_1": 0,
-            "cagr_ativo_1": 0.2,
-            "cagr_patrimonio_liquido": 0.22,
-            "cagr_vpa_1": 0.22,
-            "cagr_vpa_3": 0.71,
+            "cagr_ativo_1": 0.59,
+            "cagr_patrimonio_liquido": 0.61,
+            "cagr_vpa_1": 0.61,
+            "cagr_vpa_3": 1.01,
             "cmgr_alugeis_6m": 0
         },
         "dividends": {
-            "cagr_dividens_1": 0.07,
-            "cagr_dividens_3": 0.07,
-            "cagr_dy_1": -0.12,
-            "cagr_dy_3": -0.74,
-            "cagr_dy_5": -0.55,
-            "dy": 9.54
+            "cagr_dividens_1": -0.09,
+            "cagr_dividens_3": -0.03,
+            "cagr_dy_1": 0,
+            "cagr_dy_3": 0,
+            "cagr_dy_5": 0,
+            "dy": 4.72
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.06,
-                "dy": 10.82
+                "cagr_dy_3": -0.02,
+                "dy": 9.54
             },
             "mercado": {
-                "custo_adm_med": 231269.56,
-                "liquidez_med": 668757134327.73
+                "custo_adm_med": 236323.01,
+                "liquidez_med": 711256785620.16
             },
             "operacao": {
-                "patrimonio_liquido": 551572814.27,
-                "pl_cx": 9.53,
-                "vacancia": 0.71
+                "patrimonio_liquido": 526854489.16,
+                "pl_cx": 7.11,
+                "vacancia": 0.65
             },
             "valuation": {
-                "p_vpa_med": 0.73
+                "p_vpa_med": 0.94
             }
         },
         "mercado": {
-            "custo_adm_med": 15003.09,
+            "custo_adm_med": 16496.34,
             "ifix": 0,
-            "liquidez_med": 20610660000
+            "liquidez_med": 20633385000.0
         },
         "operacao": {
             "contratos_vencimento": 0,
             "estados": 0,
             "imoveis": 0,
-            "patrimonio_liquido": 33581846.82,
-            "pl_cx": 18.16,
+            "patrimonio_liquido": 55023897.43,
+            "pl_cx": 5.66,
             "vacancia": 0,
             "vacancia_1": 0,
             "vacancia_3m": 0
         },
         "valuation": {
-            "p_vpa": 0.92,
-            "p_vpa_med": 1.01,
-            "price": 106.97,
-            "valuation": 139.82
+            "p_vpa": 0.88,
+            "p_vpa_med": 0.98,
+            "price": 104.85,
+            "valuation": 142.5
         }
     },
     "ticker": "HGIC11",

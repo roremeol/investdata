@@ -15,31 +15,31 @@
         },
         {
             "prazo": "De 9 meses e 1 dia a 12 meses",
-            "precentual": 2.37
+            "precentual": 0.0
         },
         {
             "prazo": "De 12 meses e 1 dia a 15 meses",
-            "precentual": 0.0
+            "precentual": 5.66
         },
         {
             "prazo": "De 15 meses e 1 dia a 18 meses",
-            "precentual": 0.0
+            "precentual": 1.54
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 6.31
+            "precentual": 0.82
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 1.7
+            "precentual": 2.12
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 0.84
+            "precentual": 0.0
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 2.4
+            "precentual": 0.0
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
@@ -51,7 +51,7 @@
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 86.38
+            "precentual": 89.86
         },
         {
             "prazo": "Prazo indeterminado",
@@ -174,17 +174,52 @@
             "data_com": "2022-10-31T00:00:00",
             "data_pagamento": "2022-11-16T00:00:00",
             "provento": 0.7
+        },
+        {
+            "data_com": "2022-11-30T00:00:00",
+            "data_pagamento": "2022-12-14T00:00:00",
+            "provento": 0.7
+        },
+        {
+            "data_com": "2022-12-29T00:00:00",
+            "data_pagamento": "2023-01-13T00:00:00",
+            "provento": 0.7
+        },
+        {
+            "data_com": "2023-01-31T00:00:00",
+            "data_pagamento": "2023-02-14T00:00:00",
+            "provento": 0.7
+        },
+        {
+            "data_com": "2023-02-28T00:00:00",
+            "data_pagamento": "2023-03-14T00:00:00",
+            "provento": 0.72
+        },
+        {
+            "data_com": "2023-03-31T00:00:00",
+            "data_pagamento": "2023-04-17T00:00:00",
+            "provento": 0.72
+        },
+        {
+            "data_com": "2023-04-28T00:00:00",
+            "data_pagamento": "2023-05-15T00:00:00",
+            "provento": 0.73
+        },
+        {
+            "data_com": "2023-05-31T00:00:00",
+            "data_pagamento": "2023-06-15T00:00:00",
+            "provento": 0.73
         }
     ],
     "fii": [
         {
             "nome": "FII KINEA RI - KNCR11",
             "quantidade": 248908.0,
-            "valor": 25488179.2
+            "valor": 24383027.68
         }
     ],
     "gestao": "Ativa",
-    "ifix_participacao": 1.045,
+    "ifix_participacao": 1.065,
     "imr": [
         {
             "ativo": 455084411.06,
@@ -640,12 +675,90 @@
             "patrimonio_liquido": 1332738182.25,
             "receita_aluguel": 8636756.27,
             "valor_patrimonio_cotas": 105.271021
+        },
+        {
+            "ativo": 1503704639.54,
+            "caixa": 63104947.06,
+            "competencia": "11/2022",
+            "cotas_emitidas": 12660067.0,
+            "cotistas": 23871,
+            "despesa_administracao": 789934.13,
+            "dy": 0.665,
+            "numero_cotas": 12660067.0,
+            "patrimonio_liquido": 1332098024.31,
+            "receita_aluguel": 9599142.7,
+            "valor_patrimonio_cotas": 105.220456
+        },
+        {
+            "ativo": 1544130025.68,
+            "caixa": 53100098.16,
+            "competencia": "12/2022",
+            "cotas_emitidas": 12660067.0,
+            "cotistas": 24106,
+            "despesa_administracao": 833032.64,
+            "dy": 0.6653,
+            "numero_cotas": 12660067.0,
+            "patrimonio_liquido": 1328600695.85,
+            "receita_aluguel": 9586512.69,
+            "valor_patrimonio_cotas": 104.944207
+        },
+        {
+            "ativo": 1538953573.28,
+            "caixa": 66488585.24,
+            "competencia": "01/2023",
+            "cotas_emitidas": 12660067.0,
+            "cotistas": 24279,
+            "despesa_administracao": 823203.63,
+            "dy": 0.667,
+            "numero_cotas": 12660067.0,
+            "patrimonio_liquido": 1327747793.11,
+            "receita_aluguel": 9620639.35,
+            "valor_patrimonio_cotas": 104.876838
+        },
+        {
+            "ativo": 1538043936.13,
+            "caixa": 65582505.08,
+            "competencia": "02/2023",
+            "cotas_emitidas": 12660067.0,
+            "cotistas": 24605,
+            "despesa_administracao": 623313.66,
+            "dy": 0.6865,
+            "numero_cotas": 12660067.0,
+            "patrimonio_liquido": 1326199277.09,
+            "receita_aluguel": 9661900.85,
+            "valor_patrimonio_cotas": 104.754523
+        },
+        {
+            "ativo": 1534588591.88,
+            "caixa": 61848848.97,
+            "competencia": "03/2023",
+            "cotas_emitidas": 12660067.0,
+            "cotistas": 25101,
+            "despesa_administracao": 765689.73,
+            "dy": 0.6873,
+            "numero_cotas": 12660067.0,
+            "patrimonio_liquido": 1322434765.5,
+            "receita_aluguel": 9936101.0,
+            "valor_patrimonio_cotas": 104.45717
+        },
+        {
+            "ativo": 1531225348.71,
+            "caixa": 58900844.06,
+            "competencia": "04/2023",
+            "cotas_emitidas": 12660067.0,
+            "cotistas": 26417,
+            "despesa_administracao": 610021.26,
+            "dy": 0.6989,
+            "numero_cotas": 12660067.0,
+            "patrimonio_liquido": 1320392331.23,
+            "receita_aluguel": 9856010.14,
+            "valor_patrimonio_cotas": 104.295841
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 12.47
+            "precentual": 10.81
         },
         {
             "indexador": "INPC",
@@ -653,18 +766,14 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 87.53
+            "precentual": 89.19
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
-        },
-        {
-            "indexador": "AAA",
-            "precentual": 0.0
         }
     ],
-    "ipca_prize": 6.140000000000001,
+    "ipca_prize": 5.58,
     "isin": "BRHSLGCTF009",
     "lci": [],
     "mandato": "Renda",
@@ -4926,9 +5035,28 @@
             "min": 87.51,
             "open": 89.0,
             "volume": 625343160000
+        },
+        {
+            "change": -18.248848,
+            "close": 88.7,
+            "date": "2022-11-29",
+            "max": 88.71,
+            "min": 85.94,
+            "open": 87.0,
+            "volume": 765114660000
         }
     ],
     "propriedades": [
+        {
+            "area": 139600.0,
+            "cidade": "Galp\u00e3o Log\u00edstico Aruj\u00e1SP Avenida Comendador Masatoshi Shinmyo, n\u00ba 300, no munic\u00edpio de Aruj\u00e1, estado de S\u00e3o Paulo \n                \u00c1rea (m2):\n                139.600,00 \n                N\u00ba de unidades ou lojas:\n                1 P\u00e9 Direito: 11 m\nCapacidade de Piso: 5 tonm\u00b2",
+            "endereco": "Avenida Comendador Masatoshi Shinmyo, n\u00ba 300, no munic\u00edpio de Aruj\u00e1, estado de S\u00e3o Paulo \n                \u00c1rea",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Galp\u00e3o Log\u00edstico Aruj\u00e1 - SPenida Comendador Masatoshi Shinmyo, n\u00ba 300, no munic\u00edpio de Aruj\u00e1, estado de S\u00e3o Paulo \n                \u00c1rea (m2):\n                139.600,00 \n                N\u00ba de unidades ou lojas:\n                1 P\u00e9 Direito: 11 m\nCapacidade de Piso: 5 ton/m\u00b2",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
         {
             "area": 92000.0,
             "cidade": "Galp\u00e3o Log\u00edstico ContagemMG Rodovia Municipal Vereador Joaquim Costa, n\u00ba 2000, no munic\u00edpio de Contagem, Estado de Minas Gerais \n                \u00c1rea (m2):\n                92.000,00 \n                N\u00ba de unidades ou lojas:\n                1 P\u00e9 Direito: 12 m\nCapacidade de Piso: 6 tonm\u00b2",
@@ -4936,6 +5064,26 @@
             "estado": "MG",
             "inadimplencia": 0.0,
             "nome": "Galp\u00e3o Log\u00edstico Contagem - MG Municipal Vereador Joaquim Costa, n\u00ba 2000, no munic\u00edpio de Contagem, Estado de Minas Gerais \n                \u00c1rea (m2):\n                92.000,00 \n                N\u00ba de unidades ou lojas:\n                1 P\u00e9 Direito: 12 m\nCapacidade de Piso: 6 ton/m\u00b2",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 84800.0,
+            "cidade": "Galp\u00e3o Log\u00edstico ItapeviSP Rodovia Coronel PM Nelson Tranchesi, n\u00fameros 740 e 990, no munic\u00edpio de Itapevi, Estado de S\u00e3o Paulo \n                \u00c1rea (m2):\n                84.800,00 \n                N\u00ba de unidades ou lojas:\n                32 P\u00e9 Direito: 12 m\nCapacidade de Piso: 6 tonm\u00b2",
+            "endereco": "Rodovia Coronel PM Nelson Tranchesi, n\u00fameros 740 e 990, no munic\u00edpio de Itapevi, Estado de S\u00e3o Paulo \n                \u00c1rea",
+            "estado": "SP",
+            "inadimplencia": 0.0,
+            "nome": "Galp\u00e3o Log\u00edstico Itapevi - SP Coronel PM Nelson Tranchesi, n\u00fameros 740 e 990, no munic\u00edpio de Itapevi, Estado de S\u00e3o Paulo \n                \u00c1rea (m2):\n                84.800,00 \n                N\u00ba de unidades ou lojas:\n                32 P\u00e9 Direito: 12 m\nCapacidade de Piso: 6 ton/m\u00b2",
+            "unidades": 32,
+            "vacancia": 0.0
+        },
+        {
+            "area": 66200.0,
+            "cidade": "Novo Israel, Manaus",
+            "endereco": "Avenida Torquato Tapaj\u00f3s, 5709",
+            "estado": "AM",
+            "inadimplencia": 0.0,
+            "nome": "GALP\u00c2O MANAUS",
             "unidades": 1,
             "vacancia": 0.0
         },
@@ -4948,84 +5096,64 @@
             "nome": "Galp\u00e3o Log\u00edstico S\u00e3o Jos\u00e9 dos Pinhais - PR Rod. BR 116 (Contorno Leste), n\u00ba 7000, no munic\u00edpio de S\u00e3o Jos\u00e9 dos Pinhais, Estado do Paran\u00e1, \n                \u00c1rea (m2):\n                74.200,00 \n                N\u00ba de unidades ou lojas:\n                1 P\u00e9 Direito: 12 m\nCapacidade de Piso: 5 ton/m\u00b2",
             "unidades": 1,
             "vacancia": 0.0
-        },
-        {
-            "area": 84800.0,
-            "cidade": "Galp\u00e3o Log\u00edstico ItapeviSP Rodovia Coronel PM Nelson Tranchesi, n\u00fameros 740 e 990, no munic\u00edpio de Itapevi, Estado de S\u00e3o Paulo \n                \u00c1rea (m2):\n                84.800,00 \n                N\u00ba de unidades ou lojas:\n                32 P\u00e9 Direito: 12 m\nCapacidade de Piso: 6 tonm\u00b2",
-            "endereco": "Rodovia Coronel PM Nelson Tranchesi, n\u00fameros 740 e 990, no munic\u00edpio de Itapevi, Estado de S\u00e3o Paulo \n                \u00c1rea",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Galp\u00e3o Log\u00edstico Itapevi - SP Coronel PM Nelson Tranchesi, n\u00fameros 740 e 990, no munic\u00edpio de Itapevi, Estado de S\u00e3o Paulo \n                \u00c1rea (m2):\n                84.800,00 \n                N\u00ba de unidades ou lojas:\n                32 P\u00e9 Direito: 12 m\nCapacidade de Piso: 6 ton/m\u00b2",
-            "unidades": 32,
-            "vacancia": 2.2389
-        },
-        {
-            "area": 139600.0,
-            "cidade": "Galp\u00e3o Log\u00edstico Aruj\u00e1SP Avenida Comendador Masatoshi Shinmyo, n\u00ba 300, no munic\u00edpio de Aruj\u00e1, estado de S\u00e3o Paulo \n                \u00c1rea (m2):\n                139.600,00 \n                N\u00ba de unidades ou lojas:\n                1 P\u00e9 Direito: 11 m\nCapacidade de Piso: 5 tonm\u00b2",
-            "endereco": "Avenida Comendador Masatoshi Shinmyo, n\u00ba 300, no munic\u00edpio de Aruj\u00e1, estado de S\u00e3o Paulo \n                \u00c1rea",
-            "estado": "SP",
-            "inadimplencia": 0.0,
-            "nome": "Galp\u00e3o Log\u00edstico Aruj\u00e1 - SPenida Comendador Masatoshi Shinmyo, n\u00ba 300, no munic\u00edpio de Aruj\u00e1, estado de S\u00e3o Paulo \n                \u00c1rea (m2):\n                139.600,00 \n                N\u00ba de unidades ou lojas:\n                1 P\u00e9 Direito: 11 m\nCapacidade de Piso: 5 ton/m\u00b2",
-            "unidades": 1,
-            "vacancia": 0.0
         }
     ],
     "segmento": "Log\u00edstica",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": 0.1,
-            "cagr_ativo_1": -0.05,
-            "cagr_patrimonio_liquido": -0.05,
-            "cagr_vpa_1": -0.05,
-            "cagr_vpa_3": 0.74,
-            "cmgr_alugeis_6m": 0.01
+            "cagr_alugeis_1": 0.16,
+            "cagr_ativo_1": 0.14,
+            "cagr_patrimonio_liquido": -0.01,
+            "cagr_vpa_1": -0.01,
+            "cagr_vpa_3": 0.25,
+            "cmgr_alugeis_6m": 0.0
         },
         "dividends": {
-            "cagr_dividens_1": -0.3,
-            "cagr_dividens_3": -0.11,
-            "cagr_dy_1": -0.34,
+            "cagr_dividens_1": -0.27,
+            "cagr_dividens_3": -0.1,
+            "cagr_dy_1": -0.3,
             "cagr_dy_3": 0,
             "cagr_dy_5": 0,
-            "dy": 6.58
+            "dy": 6.7
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.07,
-                "dy": 5.85
+                "cagr_dy_3": -0.11,
+                "dy": 4.92
             },
             "mercado": {
-                "custo_adm_med": 345057.52,
-                "liquidez_med": 804178034375.0
+                "custo_adm_med": 318446.16,
+                "liquidez_med": 722185951296.3
             },
             "operacao": {
-                "patrimonio_liquido": 1006636839.66,
-                "pl_cx": 4.06,
-                "vacancia": 5.76
+                "patrimonio_liquido": 926059602.74,
+                "pl_cx": 7.51,
+                "vacancia": 1.76
             },
             "valuation": {
-                "p_vpa_med": 0.72
+                "p_vpa_med": 0.76
             }
         },
         "mercado": {
-            "custo_adm_med": 522149.35,
-            "ifix": 1.045,
-            "liquidez_med": 662170810000
+            "custo_adm_med": 526890.15,
+            "ifix": 1.065,
+            "liquidez_med": 662701625000.0
         },
         "operacao": {
             "contratos_vencimento": 37,
-            "estados": 3,
-            "imoveis": 4,
-            "patrimonio_liquido": 1332738182.25,
-            "pl_cx": 3.14,
-            "vacancia": 0.49,
+            "estados": 4,
+            "imoveis": 5,
+            "patrimonio_liquido": 1320392331.23,
+            "pl_cx": 4.46,
+            "vacancia": 0.0,
             "vacancia_1": 0.0,
-            "vacancia_3m": 0.49
+            "vacancia_3m": 0.38
         },
         "valuation": {
-            "p_vpa": 0.84,
-            "p_vpa_med": 0.84,
-            "price": 88.33,
-            "valuation": 84.79
+            "p_vpa": 0.85,
+            "p_vpa_med": 0.88,
+            "price": 88.7,
+            "valuation": 98.14
         }
     },
     "ticker": "HSLG11",
@@ -5077,6 +5205,14 @@
         {
             "competencia": "03/2022",
             "total": 0.49
+        },
+        {
+            "competencia": "04/2022",
+            "total": 0.38
+        },
+        {
+            "competencia": "01/2023",
+            "total": 0.0
         }
     ]
 }

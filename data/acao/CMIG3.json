@@ -2537,7 +2537,7 @@
             "caixa": 3641501.0,
             "capital_circulante_liquido": 0.05183,
             "capital_de_giro": 2758441.0,
-            "cotacao": 0.0,
+            "cotacao": 17.9,
             "custos": -29367564.0,
             "div_bru__pl": 0.549128,
             "div_liq__ebitda": 1.251506,
@@ -2547,13 +2547,13 @@
             "divida_liquida__ebit": 1.606883,
             "divida_liquida__ebitida": 1.251506,
             "divida_liquida__patrimonio_liquido": 0.370346,
-            "dividend_yield": 0.0,
+            "dividend_yield": 0.049908,
             "ebit": 4694394.0,
             "ebit__ativos_totais": 0.088205,
             "ebitda": 6027411.0,
-            "ev": 7543344.0,
-            "ev__ebit": 0.001607,
-            "ev__ebitida": 0.001252,
+            "ev": 39410872320.0,
+            "ev__ebit": 8.395306,
+            "ev__ebitida": 6.538607,
             "expectativa_de_crescimento_anual": 0.046336,
             "fcf": -6758146.0,
             "fci": 1826792.0,
@@ -2578,13 +2578,13 @@
             "necessidade_de_capital_de_giro": 1637477.0,
             "nopat": 34279980.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": 0.0,
-            "p__capital_de_giro": 0.0,
-            "p__ebit": 0.0,
-            "p__ebitida": 0.0,
-            "p__l": 0.0,
-            "p__sr": 0.0,
-            "p__vpa": 0.0,
+            "p__ativo_circ_liq": 14.284636,
+            "p__capital_de_giro": 14.284636,
+            "p__ebit": 8.393699,
+            "p__ebitida": 6.537355,
+            "p__l": 13.63755,
+            "p__sr": 1.118072,
+            "p__vpa": 1.934534,
             "passivo": 53221384.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 11192265.0,
@@ -2592,7 +2592,7 @@
             "patrimonio_liquido": 20368384.0,
             "patrimonio_liquido__ativos": 0.382711,
             "payout": 0.680622,
-            "peg_ratio": 0.0,
+            "peg_ratio": 294.317657,
             "pl__ativo": 0.382711,
             "poder_de_ganho_basico": 0.113252,
             "prazo_medio_de_recebimento": 47.619743,
@@ -2605,7 +2605,7 @@
             "roic": 0.006342,
             "saldo_de_tesouraria": 1120964.0,
             "total_de_acoes": 2201303296.0,
-            "valor_de_mercado__passivos_totais": 0.0,
+            "valor_de_mercado__passivos_totais": 740.366455,
             "valor_intrinseco_de_graham": 16.530575,
             "vpa": 9.252875
         }
@@ -22503,6 +22503,15 @@
             "low": 17.28,
             "open": 17.6,
             "volume": 4611574.0
+        },
+        {
+            "change": 0.448933782267106,
+            "close": 17.9,
+            "date": "2022-12-02T00:00:00",
+            "high": 18.1,
+            "low": 17.51,
+            "open": 17.73,
+            "volume": 335900.0
         }
     ],
     "setor": "Utilidade P\u00fablica > Energia El\u00e9trica > Energia El\u00e9trica",
@@ -22520,9 +22529,9 @@
             "cagr_vpa_5": -0.03
         },
         "dividends": {
-            "cagr_dy_1": 0,
-            "cagr_dy_5": 0,
-            "dy": 0.0,
+            "cagr_dy_1": -0.95,
+            "cagr_dy_5": -0.45,
+            "dy": 0.049908,
             "payout": 0.680622
         },
         "general": {
@@ -22599,13 +22608,13 @@
             "liquidez_corrente": 1.24646,
             "liquidez_corrente_3": 1.595032,
             "liquidez_corrente_5": 1.188192,
-            "risco_falencia": 0.8005824184591644
+            "risco_falencia": 0.47731696790719347
         },
         "valuation": {
-            "cagr_peg_ratio_3": 0,
-            "cagr_peg_ratio_5": 0,
-            "p__l_med": 6.7304365,
-            "p__l_median": 4.5597650000000005,
+            "cagr_peg_ratio_3": 0.35,
+            "cagr_peg_ratio_5": 0.06,
+            "p__l_med": 7.704547214285714,
+            "p__l_median": 5.502469,
             "price": 0,
             "valuation": 16.53057139688462,
             "valuation_med": 20.293029530620622

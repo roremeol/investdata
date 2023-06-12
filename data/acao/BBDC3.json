@@ -6583,7 +6583,7 @@
             "caixa": 0.0,
             "capital_circulante_liquido": 0.0,
             "capital_de_giro": 0.0,
-            "cotacao": 0.0,
+            "cotacao": 13.37,
             "custos": -115022680.0,
             "div_bru__pl": 0.0,
             "div_liq__ebitda": 0.0,
@@ -6593,13 +6593,13 @@
             "divida_liquida__ebit": 0.0,
             "divida_liquida__ebitida": 0.0,
             "divida_liquida__patrimonio_liquido": 0.0,
-            "dividend_yield": 0.0,
+            "dividend_yield": 0.081208,
             "ebit": 0.0,
             "ebit__ativos_totais": 0.0,
             "ebitda": 7146901.0,
-            "ev": 0.0,
+            "ev": 142503870464.0,
             "ev__ebit": 0.0,
-            "ev__ebitida": 0.0,
+            "ev__ebitida": 19.939255,
             "expectativa_de_crescimento_anual": 0.0,
             "fcf": 2428945.0,
             "fci": -12560439.0,
@@ -6627,10 +6627,10 @@
             "p__ativo_circ_liq": 0.0,
             "p__capital_de_giro": 0.0,
             "p__ebit": 0.0,
-            "p__ebitida": 0.0,
+            "p__ebitida": 19.939255,
             "p__l": 0.0,
-            "p__sr": 0.0,
-            "p__vpa": 0.0,
+            "p__sr": 0.634527,
+            "p__vpa": 0.908452,
             "passivo": 1735945216.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 0.0,
@@ -6651,7 +6651,7 @@
             "roic": 0.019539,
             "saldo_de_tesouraria": 0.0,
             "total_de_acoes": 10658480128.0,
-            "valor_de_mercado__passivos_totais": 0.0,
+            "valor_de_mercado__passivos_totais": 82.090073,
             "valor_intrinseco_de_graham": 0.0,
             "vpa": 14.717348
         }
@@ -26549,6 +26549,15 @@
             "low": 13.05,
             "open": 13.16,
             "volume": 97338398.0
+        },
+        {
+            "change": 0.22488755622188428,
+            "close": 13.37,
+            "date": "2022-12-02T00:00:00",
+            "high": 13.74,
+            "low": 13.27,
+            "open": 13.48,
+            "volume": 9090000.0
         }
     ],
     "setor": "Financeiro > Intermedi\u00e1rios Financeiros > Bancos",
@@ -26566,9 +26575,9 @@
             "cagr_vpa_5": -0.01
         },
         "dividends": {
-            "cagr_dy_1": 0,
-            "cagr_dy_5": 0,
-            "dy": 0.0,
+            "cagr_dy_1": -0.92,
+            "cagr_dy_5": -0.39,
+            "dy": 0.081208,
             "payout": 0.0
         },
         "general": {
@@ -26645,7 +26654,7 @@
             "liquidez_corrente": 0.0,
             "liquidez_corrente_3": 0.0,
             "liquidez_corrente_5": 0.0,
-            "risco_falencia": 0.7066867632961623
+            "risco_falencia": 0.6715417091352588
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,

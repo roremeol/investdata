@@ -27,35 +27,35 @@
         },
         {
             "prazo": "De 18 meses e 1 dia a 21 meses",
-            "precentual": 0.0
+            "precentual": 1.1693
         },
         {
             "prazo": "De 21 meses e 1 dia a 24 meses",
-            "precentual": 0.0
+            "precentual": 2.6661
         },
         {
             "prazo": "De 24 meses e 1 dia a 27 meses",
-            "precentual": 2.4491
+            "precentual": 3.097
         },
         {
             "prazo": "De 27 meses e 1 dia a 30 meses",
-            "precentual": 2.7207
+            "precentual": 10.274
         },
         {
             "prazo": "De 30 meses e 1 dia a 33 meses",
-            "precentual": 3.1916
+            "precentual": 10.6638
         },
         {
             "prazo": "De 33 meses e 1 dia a 36 meses",
-            "precentual": 10.5148
+            "precentual": 9.0297
         },
         {
             "prazo": "Acima de 36 meses",
-            "precentual": 81.1239
+            "precentual": 63.0657
         },
         {
             "prazo": "Prazo indeterminado",
-            "precentual": 0.0
+            "precentual": 0.0344
         }
     ],
     "cri": [],
@@ -224,6 +224,41 @@
             "data_com": "2022-11-07T00:00:00",
             "data_pagamento": "2022-11-16T00:00:00",
             "provento": 0.9
+        },
+        {
+            "data_com": "2022-12-06T00:00:00",
+            "data_pagamento": "2022-12-14T00:00:00",
+            "provento": 0.8
+        },
+        {
+            "data_com": "2023-01-05T00:00:00",
+            "data_pagamento": "2023-01-13T00:00:00",
+            "provento": 0.92
+        },
+        {
+            "data_com": "2023-02-06T00:00:00",
+            "data_pagamento": "2023-02-14T00:00:00",
+            "provento": 0.9
+        },
+        {
+            "data_com": "2023-03-06T00:00:00",
+            "data_pagamento": "2023-03-14T00:00:00",
+            "provento": 0.74
+        },
+        {
+            "data_com": "2023-04-06T00:00:00",
+            "data_pagamento": "2023-04-17T00:00:00",
+            "provento": 0.83
+        },
+        {
+            "data_com": "2023-05-05T00:00:00",
+            "data_pagamento": "2023-05-15T00:00:00",
+            "provento": 0.82
+        },
+        {
+            "data_com": "2023-06-06T00:00:00",
+            "data_pagamento": "2023-06-15T00:00:00",
+            "provento": 0.83
         }
     ],
     "fii": [],
@@ -671,12 +706,90 @@
             "patrimonio_liquido": 112503382.16,
             "receita_aluguel": 1122183.25,
             "valor_patrimonio_cotas": 101.028558
+        },
+        {
+            "ativo": 184238583.07,
+            "caixa": 5046440.47,
+            "competencia": "11/2022",
+            "cotas_emitidas": 1210297.0,
+            "cotistas": 850,
+            "despesa_administracao": 22458.23,
+            "dy": 0.8606,
+            "numero_cotas": 1210297.0,
+            "patrimonio_liquido": 122722547.54,
+            "receita_aluguel": 1290804.16,
+            "valor_patrimonio_cotas": 101.398704
+        },
+        {
+            "ativo": 184636674.15,
+            "caixa": 5562429.1,
+            "competencia": "12/2022",
+            "cotas_emitidas": 1215179.0,
+            "cotistas": 895,
+            "despesa_administracao": 24545.3,
+            "dy": 0.911,
+            "numero_cotas": 1215179.0,
+            "patrimonio_liquido": 120320106.85,
+            "receita_aluguel": 1103761.22,
+            "valor_patrimonio_cotas": 99.014307
+        },
+        {
+            "ativo": 184088220.12,
+            "caixa": 4853471.62,
+            "competencia": "01/2023",
+            "cotas_emitidas": 1215179.0,
+            "cotistas": 919,
+            "despesa_administracao": 24180.11,
+            "dy": 0.909,
+            "numero_cotas": 1215179.0,
+            "patrimonio_liquido": 120299039.28,
+            "receita_aluguel": 1257678.61,
+            "valor_patrimonio_cotas": 98.99697
+        },
+        {
+            "ativo": 184138601.79,
+            "caixa": 3997864.33,
+            "competencia": "02/2023",
+            "cotas_emitidas": 1215179.0,
+            "cotistas": 926,
+            "despesa_administracao": 24216.36,
+            "dy": 0.7475,
+            "numero_cotas": 1215179.0,
+            "patrimonio_liquido": 120479427.65,
+            "receita_aluguel": 1725318.9,
+            "valor_patrimonio_cotas": 99.145416
+        },
+        {
+            "ativo": 184099474.2,
+            "caixa": 3431159.32,
+            "competencia": "03/2023",
+            "cotas_emitidas": 1215179.0,
+            "cotistas": 1187,
+            "despesa_administracao": 24118.47,
+            "dy": 0.8372,
+            "numero_cotas": 1215179.0,
+            "patrimonio_liquido": 120592346.72,
+            "receita_aluguel": 1624412.71,
+            "valor_patrimonio_cotas": 99.23834
+        },
+        {
+            "ativo": 190129924.06,
+            "caixa": 2882065.4,
+            "competencia": "04/2023",
+            "cotas_emitidas": 1268696.0,
+            "cotistas": 1270,
+            "despesa_administracao": 24063.79,
+            "dy": 0.8627,
+            "numero_cotas": 1268696.0,
+            "patrimonio_liquido": 125988414.06,
+            "receita_aluguel": 1795572.14,
+            "valor_patrimonio_cotas": 99.30544
         }
     ],
     "indexador_reajuste_contrato": [
         {
             "indexador": "IGP-M",
-            "precentual": 86.7176
+            "precentual": 68.4542
         },
         {
             "indexador": "INPC",
@@ -684,14 +797,14 @@
         },
         {
             "indexador": "IPCA",
-            "precentual": 13.2824
+            "precentual": 30.3421
         },
         {
             "indexador": "INCC",
             "precentual": 0.0
         }
     ],
-    "ipca_prize": 6.205,
+    "ipca_prize": 5.58,
     "isin": "BRFATNCTF000",
     "lci": [],
     "mandato": "Renda",
@@ -4926,6 +5039,15 @@
             "min": 93.58,
             "open": 93.58,
             "volume": 37893240000
+        },
+        {
+            "change": -6.514172,
+            "close": 94.0,
+            "date": "2022-11-29",
+            "max": 94.02,
+            "min": 93.61,
+            "open": 94.02,
+            "volume": 29311600000
         }
     ],
     "propriedades": [
@@ -4937,7 +5059,7 @@
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Atrium I",
             "unidades": 1,
-            "vacancia": 0.0
+            "vacancia": 88.8889
         },
         {
             "area": 260.2,
@@ -4987,11 +5109,11 @@
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Atrium I",
             "unidades": 1,
-            "vacancia": 66.6667
+            "vacancia": 0.0
         },
         {
-            "area": 288.88,
-            "cidade": "Edif\u00edcio Business Center Rua Gomes de Carvalho, 1306 \n                \u00c1rea (m2):\n                288,88 \n                N\u00ba de unidades ou lojas:\n                1 cj. 151",
+            "area": 470.0,
+            "cidade": "Edif\u00edcio Business Center Rua Gomes de Carvalho, 1306 \n                \u00c1rea (m2):\n                470,00 \n                N\u00ba de unidades ou lojas:\n                1 cj. 151",
             "endereco": "Rua Gomes de Carvalho, 1306 \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
@@ -5000,8 +5122,8 @@
             "vacancia": 0.0
         },
         {
-            "area": 347.71,
-            "cidade": "Edif\u00edcio Conselheiro Paranagu\u00e1 Avenida Brigadeiro Faria Lima, 1234 \n                \u00c1rea (m2):\n                347,71 \n                N\u00ba de unidades ou lojas:\n                4 cjs. 192, 193, 194 e 195",
+            "area": 392.72,
+            "cidade": "Edif\u00edcio Conselheiro Paranagu\u00e1 Avenida Brigadeiro Faria Lima, 1234 \n                \u00c1rea (m2):\n                392,72 \n                N\u00ba de unidades ou lojas:\n                4 cjs. 192, 193, 194 e 195",
             "endereco": "Avenida Brigadeiro Faria Lima, 1234 \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
@@ -5010,8 +5132,8 @@
             "vacancia": 0.0
         },
         {
-            "area": 273.66,
-            "cidade": "Edif\u00edcio Setin Tower Rua Fid\u00eancio Ramos, 100 \n                \u00c1rea (m2):\n                273,66 \n                N\u00ba de unidades ou lojas:\n                1 Escrit\u00f3rio 5",
+            "area": 287.98,
+            "cidade": "Edif\u00edcio Setin Tower Rua Fid\u00eancio Ramos, 100 \n                \u00c1rea (m2):\n                287,98 \n                N\u00ba de unidades ou lojas:\n                1 Escrit\u00f3rio 5",
             "endereco": "Rua Fid\u00eancio Ramos, 100 \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
@@ -5020,8 +5142,8 @@
             "vacancia": 0.0
         },
         {
-            "area": 263.33,
-            "cidade": "Edif\u00edcio Setin Tower Rua Fid\u00eancio Ramos, 100 \n                \u00c1rea (m2):\n                263,33 \n                N\u00ba de unidades ou lojas:\n                1 Escrit\u00f3rio 8",
+            "area": 277.65,
+            "cidade": "Edif\u00edcio Setin Tower Rua Fid\u00eancio Ramos, 100 \n                \u00c1rea (m2):\n                277,65 \n                N\u00ba de unidades ou lojas:\n                1 Escrit\u00f3rio 8",
             "endereco": "Rua Fid\u00eancio Ramos, 100 \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
@@ -5050,8 +5172,8 @@
             "vacancia": 0.0
         },
         {
-            "area": 228.56,
-            "cidade": "Edif\u00edcio Harvard Rua Iai\u00e1, 150 \n                \u00c1rea (m2):\n                228,56 \n                N\u00ba de unidades ou lojas:\n                1 cj. 131",
+            "area": 241.54,
+            "cidade": "Edif\u00edcio Harvard Rua Iai\u00e1, 150 \n                \u00c1rea (m2):\n                241,54 \n                N\u00ba de unidades ou lojas:\n                1 cj. 131",
             "endereco": "Rua Iai\u00e1, 150 \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
@@ -5070,28 +5192,28 @@
             "vacancia": 0.0
         },
         {
-            "area": 178.0,
-            "cidade": "Edif\u00edcio Thera Avenida Engenheiro Lu\u00eds Carlos Berrini, 105 \n                \u00c1rea (m2):\n                178,00 \n                N\u00ba de unidades ou lojas:\n                4 cjs. 1210, 1211, 1212 e 1213",
+            "area": 184.0,
+            "cidade": "Edif\u00edcio Thera Avenida Engenheiro Lu\u00eds Carlos Berrini, 105 \n                \u00c1rea (m2):\n                184,00 \n                N\u00ba de unidades ou lojas:\n                4 cjs. 1210, 1211, 1212 e 1213",
             "endereco": "Avenida Engenheiro Lu\u00eds Carlos Berrini, 105 \n                \u00c1rea",
             "estado": "Outros",
-            "inadimplencia": 0.0,
+            "inadimplencia": 1.4291,
             "nome": "Edif\u00edcio Thera",
             "unidades": 4,
             "vacancia": 0.0
         },
         {
-            "area": 135.5,
-            "cidade": "Edif\u00edcio Thera Avenida Engenheiro Lu\u00eds Carlos Berrini, 105 \n                \u00c1rea (m2):\n                135,50 \n                N\u00ba de unidades ou lojas:\n                3 cjs. 1207, 1208 e 1209",
+            "area": 149.0,
+            "cidade": "Edif\u00edcio Thera Avenida Engenheiro Lu\u00eds Carlos Berrini, 105 \n                \u00c1rea (m2):\n                149,00 \n                N\u00ba de unidades ou lojas:\n                3 cjs. 1207, 1208 e 1209",
             "endereco": "Avenida Engenheiro Lu\u00eds Carlos Berrini, 105 \n                \u00c1rea",
             "estado": "Outros",
-            "inadimplencia": 0.0,
+            "inadimplencia": 1.0763,
             "nome": "Edif\u00edcio Thera",
             "unidades": 3,
             "vacancia": 0.0
         },
         {
-            "area": 152.19,
-            "cidade": "Edif\u00edcio GC Square Corporate Rua Gomes de Carvalho, 1108 \n                \u00c1rea (m2):\n                152,19 \n                N\u00ba de unidades ou lojas:\n                1 cj. 84",
+            "area": 213.0,
+            "cidade": "Edif\u00edcio GC Square Corporate Rua Gomes de Carvalho, 1108 \n                \u00c1rea (m2):\n                213,00 \n                N\u00ba de unidades ou lojas:\n                1 cj. 84",
             "endereco": "Rua Gomes de Carvalho, 1108 \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
@@ -5110,8 +5232,8 @@
             "vacancia": 0.0
         },
         {
-            "area": 289.07,
-            "cidade": "Edif\u00edcio Conselheiro Paranagu\u00e1 Avenida Brigadeiro Faria Lima, 1234 \n                \u00c1rea (m2):\n                289,07 \n                N\u00ba de unidades ou lojas:\n                5 cjs. 52, 53, 54, 55 e 56",
+            "area": 281.92,
+            "cidade": "Edif\u00edcio Conselheiro Paranagu\u00e1 Avenida Brigadeiro Faria Lima, 1234 \n                \u00c1rea (m2):\n                281,92 \n                N\u00ba de unidades ou lojas:\n                5 cjs. 52, 53, 54, 55 e 56",
             "endereco": "Avenida Brigadeiro Faria Lima, 1234 \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
@@ -5150,8 +5272,8 @@
             "vacancia": 0.0
         },
         {
-            "area": 374.74,
-            "cidade": "Edif\u00edcio Atrium II Rua Helena. 235 \n                \u00c1rea (m2):\n                374,74 \n                N\u00ba de unidades ou lojas:\n                1 cj. 61",
+            "area": 411.07,
+            "cidade": "Edif\u00edcio Atrium II Rua Helena. 235 \n                \u00c1rea (m2):\n                411,07 \n                N\u00ba de unidades ou lojas:\n                1 cj. 61",
             "endereco": "Rua Helena",
             "estado": "Outros",
             "inadimplencia": 0.0,
@@ -5200,14 +5322,14 @@
             "vacancia": 0.0
         },
         {
-            "area": 474.02,
-            "cidade": "Edif\u00edcio Maximum Avenida Doutor Cardoso de Melo, 1608 \n                \u00c1rea (m2):\n                474,02 \n                N\u00ba de unidades ou lojas:\n                1 cj. 31",
+            "area": 493.68,
+            "cidade": "Edif\u00edcio Maximum Avenida Doutor Cardoso de Melo, 1608 \n                \u00c1rea (m2):\n                493,68 \n                N\u00ba de unidades ou lojas:\n                1 cj. 31",
             "endereco": "Avenida Doutor Cardoso de Melo, 1608 \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Maximum",
             "unidades": 1,
-            "vacancia": 27.7778
+            "vacancia": 0.0
         },
         {
             "area": 214.1,
@@ -5220,8 +5342,8 @@
             "vacancia": 0.0
         },
         {
-            "area": 139.82,
-            "cidade": "Edif\u00edcio GC Square Corporate Rua Gomes de Carvalho, 1108 \n                \u00c1rea (m2):\n                139,82 \n                N\u00ba de unidades ou lojas:\n                1 cj. 82",
+            "area": 204.0,
+            "cidade": "Edif\u00edcio GC Square Corporate Rua Gomes de Carvalho, 1108 \n                \u00c1rea (m2):\n                204,00 \n                N\u00ba de unidades ou lojas:\n                1 cj. 82",
             "endereco": "Rua Gomes de Carvalho, 1108 \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
@@ -5240,8 +5362,8 @@
             "vacancia": 0.0
         },
         {
-            "area": 229.88,
-            "cidade": "Edif\u00edcio Conselheiro Paranagu\u00e1 Avenida Brigadeiro Faria Lima, 1234 \n                \u00c1rea (m2):\n                229,88 \n                N\u00ba de unidades ou lojas:\n                4 cjs.41, 42, 43 e 44",
+            "area": 274.86,
+            "cidade": "Edif\u00edcio Conselheiro Paranagu\u00e1 Avenida Brigadeiro Faria Lima, 1234 \n                \u00c1rea (m2):\n                274,86 \n                N\u00ba de unidades ou lojas:\n                4 cjs.41, 42, 43 e 44",
             "endereco": "Avenida Brigadeiro Faria Lima, 1234 \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
@@ -5250,8 +5372,8 @@
             "vacancia": 0.0
         },
         {
-            "area": 76.68,
-            "cidade": "Edif\u00edcio Conselheiro Paranagu\u00e1 Avenida Brigadeiro Faria Lima, 1234 \n                \u00c1rea (m2):\n                76,68 \n                N\u00ba de unidades ou lojas:\n                2 cjs.45 e 46",
+            "area": 166.9,
+            "cidade": "Edif\u00edcio Conselheiro Paranagu\u00e1 Avenida Brigadeiro Faria Lima, 1234 \n                \u00c1rea (m2):\n                166,90 \n                N\u00ba de unidades ou lojas:\n                2 cjs.45 e 46",
             "endereco": "Avenida Brigadeiro Faria Lima, 1234 \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
@@ -5291,22 +5413,22 @@
         },
         {
             "area": 334.81,
-            "cidade": "Edif\u00edcio Paulista Av. Paulista, 2022 \n                \u00c1rea (m2):\n                334,81 \n                N\u00ba de unidades ou lojas:\n                2 cj 91 ao 94",
-            "endereco": "Av. Paulista, 2022 \n                \u00c1rea",
-            "estado": "Outros",
-            "inadimplencia": 0.0,
-            "nome": "Edif\u00edcio Paulista",
-            "unidades": 2,
-            "vacancia": 0.0
-        },
-        {
-            "area": 227.9,
-            "cidade": "Edif\u00edcio Paulista Av. Paulista, 2022 \n                \u00c1rea (m2):\n                227,90 \n                N\u00ba de unidades ou lojas:\n                4 cjs.95 ao 96",
+            "cidade": "Edif\u00edcio Paulista Av. Paulista, 2022 \n                \u00c1rea (m2):\n                334,81 \n                N\u00ba de unidades ou lojas:\n                4 cj 91 ao 94",
             "endereco": "Av. Paulista, 2022 \n                \u00c1rea",
             "estado": "Outros",
             "inadimplencia": 0.0,
             "nome": "Edif\u00edcio Paulista",
             "unidades": 4,
+            "vacancia": 0.0
+        },
+        {
+            "area": 227.9,
+            "cidade": "Edif\u00edcio Paulista Av. Paulista, 2022 \n                \u00c1rea (m2):\n                227,90 \n                N\u00ba de unidades ou lojas:\n                2 cjs.95 ao 96",
+            "endereco": "Av. Paulista, 2022 \n                \u00c1rea",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Paulista",
+            "unidades": 2,
             "vacancia": 0.0
         },
         {
@@ -5338,64 +5460,114 @@
             "nome": "Edif\u00edcio Lafayette",
             "unidades": 2,
             "vacancia": 0.0
+        },
+        {
+            "area": 203.3,
+            "cidade": "Edif\u00edcio Columbus AL. Campinas, 457 \n                \u00c1rea (m2):\n                203,30 \n                N\u00ba de unidades ou lojas:\n                2 cjs. 2A e 2B",
+            "endereco": "Edif\u00edcio Columbus AL. Campinas, 457 \n                \u00c1rea (m2):\n                203,30 \n                N\u00ba de unidades ou lojas:\n                2 cjs. 2A e 2B",
+            "estado": "AL",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Columbus AL. Campinas, 457 \n                \u00c1rea (m2):\n                203,30 \n                N\u00ba de unidades ou lojas:\n                2 cjs. 2A e 2B",
+            "unidades": 2,
+            "vacancia": 0.0
+        },
+        {
+            "area": 535.51,
+            "cidade": "Edif\u00edcio Na\u00e7\u00f5es Unidas III Av. das Na\u00e7\u00f5es Unidas, 11857 \n                \u00c1rea (m2):\n                535,51 \n                N\u00ba de unidades ou lojas:\n                2 cjs. 151 e 152",
+            "endereco": "Av. das Na\u00e7\u00f5es Unidas, 11857 \n                \u00c1rea",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Na\u00e7\u00f5es Unidas III",
+            "unidades": 2,
+            "vacancia": 0.0
+        },
+        {
+            "area": 384.81,
+            "cidade": "Edif\u00edcio Francisco Lopes Rua Dr. Cardoso de Melo, 1855  \n                \u00c1rea (m2):\n                384,81 \n                N\u00ba de unidades ou lojas:\n                1 Cj. 52",
+            "endereco": "Rua Dr",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Francisco Lopes",
+            "unidades": 1,
+            "vacancia": 0.0
+        },
+        {
+            "area": 110.65,
+            "cidade": "Vagas de Garagem Ed. Av. Paulista cj. 91 ao 96 Av. Paulista, 2022 \n                \u00c1rea (m2):\n                110,65 \n                N\u00ba de unidades ou lojas:\n                4 vagas de garagem cjs. 91 ao 96",
+            "endereco": "Av. Paulista cj",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Vagas de Garagem Ed. Paulista cj. 91 ao 96 Paulista, 2022 \n                \u00c1rea (m2):\n                110,65 \n                N\u00ba de unidades ou lojas:\n                4 vagas de garagem cjs. 91 ao 96",
+            "unidades": 4,
+            "vacancia": 0.0
+        },
+        {
+            "area": 151.2,
+            "cidade": "Edif\u00edcio Lafayette Rua Tabapu\u00e3, 500 \n                \u00c1rea (m2):\n                151,20 \n                N\u00ba de unidades ou lojas:\n                2 cjs. 113 e 114",
+            "endereco": "Rua Tabapu\u00e3, 500 \n                \u00c1rea",
+            "estado": "Outros",
+            "inadimplencia": 0.0,
+            "nome": "Edif\u00edcio Lafayette",
+            "unidades": 2,
+            "vacancia": 0.0
         }
     ],
     "segmento": "H\u00edbrido",
     "snowflake": {
         "crescimento": {
-            "cagr_alugeis_1": -0.92,
-            "cagr_ativo_1": 0.4,
-            "cagr_patrimonio_liquido": 0.37,
-            "cagr_vpa_1": 0.37,
-            "cagr_vpa_3": 0.51,
-            "cmgr_alugeis_6m": 0.05
+            "cagr_alugeis_1": 1.14,
+            "cagr_ativo_1": 0.37,
+            "cagr_patrimonio_liquido": 0.25,
+            "cagr_vpa_1": 0.25,
+            "cagr_vpa_3": 0.41,
+            "cmgr_alugeis_6m": 0.06
         },
         "dividends": {
-            "cagr_dividens_1": -0.1,
-            "cagr_dividens_3": -0.03,
-            "cagr_dy_1": -0.11,
-            "cagr_dy_3": 0,
+            "cagr_dividens_1": -0.17,
+            "cagr_dividens_3": -0.06,
+            "cagr_dy_1": -0.14,
+            "cagr_dy_3": -0.05,
             "cagr_dy_5": 0,
-            "dy": 9.29
+            "dy": 8.71
         },
         "medias_segmento": {
             "dividends": {
-                "cagr_dy_3": -0.04,
-                "dy": 7.7
+                "cagr_dy_3": -0.05,
+                "dy": 6.62
             },
             "mercado": {
-                "custo_adm_med": 169549.11,
-                "liquidez_med": 783865267191.78
+                "custo_adm_med": 178513.28,
+                "liquidez_med": 755747463012.05
             },
             "operacao": {
-                "patrimonio_liquido": 438249390.19,
-                "pl_cx": 7.45,
-                "vacancia": 6.35
+                "patrimonio_liquido": 423841239.96,
+                "pl_cx": 6.46,
+                "vacancia": 7.5
             },
             "valuation": {
-                "p_vpa_med": 0.57
+                "p_vpa_med": 0.75
             }
         },
         "mercado": {
-            "custo_adm_med": 24720.835,
+            "custo_adm_med": 24589.32,
             "ifix": 0,
-            "liquidez_med": 9168675000.0
+            "liquidez_med": 9275000000
         },
         "operacao": {
             "contratos_vencimento": 37,
-            "estados": 1,
-            "imoveis": 41,
-            "patrimonio_liquido": 112503382.16,
-            "pl_cx": 6.28,
-            "vacancia": 3.12,
-            "vacancia_1": 0,
-            "vacancia_3m": 0.33
+            "estados": 2,
+            "imoveis": 46,
+            "patrimonio_liquido": 125988414.06,
+            "pl_cx": 2.29,
+            "vacancia": 1.97,
+            "vacancia_1": 0.0,
+            "vacancia_3m": 0.0
         },
         "valuation": {
-            "p_vpa": 0.93,
+            "p_vpa": 0.95,
             "p_vpa_med": 1.0,
-            "price": 94.3,
-            "valuation": 106.25
+            "price": 94.0,
+            "valuation": 118.76
         }
     },
     "ticker": "FATN11",
@@ -5443,6 +5615,14 @@
         {
             "competencia": "03/2022",
             "total": 3.12
+        },
+        {
+            "competencia": "04/2022",
+            "total": 0.0
+        },
+        {
+            "competencia": "01/2023",
+            "total": 1.97
         }
     ]
 }

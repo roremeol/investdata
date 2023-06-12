@@ -1094,7 +1094,7 @@
             "caixa": 21188.0,
             "capital_circulante_liquido": -0.626201,
             "capital_de_giro": -196612.0,
-            "cotacao": 0.0,
+            "cotacao": 0.5,
             "custos": -56379.0,
             "div_bru__pl": -1.251172,
             "div_liq__ebitda": -2.755992,
@@ -1108,9 +1108,9 @@
             "ebit": -80572.0,
             "ebit__ativos_totais": -0.256618,
             "ebitda": -79276.0,
-            "ev": 218484.0,
-            "ev__ebit": -0.002712,
-            "ev__ebitida": -0.002756,
+            "ev": 82423216.0,
+            "ev__ebit": -1.022976,
+            "ev__ebitida": -1.039699,
             "expectativa_de_crescimento_anual": 0.0,
             "fcf": 106055.0,
             "fci": -1163.0,
@@ -1135,13 +1135,13 @@
             "necessidade_de_capital_de_giro": -5980.0,
             "nopat": 1782.0,
             "operacoes_descontinuadas": 0.0,
-            "p__ativo_circ_liq": -0.0,
-            "p__capital_de_giro": -0.0,
-            "p__ebit": -0.0,
-            "p__ebitida": -0.0,
-            "p__l": -0.0,
-            "p__sr": 0.0,
-            "p__vpa": -0.0,
+            "p__ativo_circ_liq": -0.418106,
+            "p__capital_de_giro": -0.418106,
+            "p__ebit": -1.020264,
+            "p__ebitida": -1.036944,
+            "p__l": -1.634939,
+            "p__sr": 1.252186,
+            "p__vpa": -0.429138,
             "passivo": 313976.0,
             "passivo__ativo": 1.0,
             "passivo_circulante": 350410.0,
@@ -1162,7 +1162,7 @@
             "roic": 0.000276,
             "saldo_de_tesouraria": -190632.0,
             "total_de_acoes": 164409472.0,
-            "valor_de_mercado__passivos_totais": 0.0,
+            "valor_de_mercado__passivos_totais": 261.818542,
             "valor_intrinseco_de_graham": 2.831471,
             "vpa": -1.165128
         }
@@ -10260,6 +10260,24 @@
             "low": 0.49,
             "open": 0.51,
             "volume": 2336716.0
+        },
+        {
+            "change": -1.0000000000000009,
+            "close": 0.5,
+            "date": "2022-12-01T00:00:00",
+            "high": 0.0,
+            "low": 0.0,
+            "open": 0.0,
+            "volume": 0.0
+        },
+        {
+            "change": 0.0,
+            "close": 0.5,
+            "date": "2022-12-02T00:00:00",
+            "high": 0.51,
+            "low": 0.48,
+            "open": 0.49,
+            "volume": 4606800.0
         }
     ],
     "setor": "Consumo C\u00edclico > Constru\u00e7\u00e3o Civil > Incorpora\u00e7\u00f5es",
@@ -10356,13 +10374,13 @@
             "liquidez_corrente": 0.438909,
             "liquidez_corrente_3": 0.323356,
             "liquidez_corrente_5": 1.034121,
-            "risco_falencia": 0.34166832232904276
+            "risco_falencia": 0.23514111868231513
         },
         "valuation": {
             "cagr_peg_ratio_3": 0,
             "cagr_peg_ratio_5": 0,
-            "p__l_med": 461.043306,
-            "p__l_median": -0.541286,
+            "p__l_med": 460.92652464285715,
+            "p__l_median": -0.67473,
             "price": 0,
             "valuation": 0,
             "valuation_med": 0
