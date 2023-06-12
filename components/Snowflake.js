@@ -115,7 +115,7 @@ export default function Snowflake({ config={} }) {
             </div>
           </div>
 
-        </div>
+        </div> 
       </>
   );
 }
